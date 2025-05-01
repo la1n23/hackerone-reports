@@ -8,6 +8,9 @@ The run order of scripts:
 1) `filler.py`
 1) `rater.py`
 
+Or just run:
+`make`
+
 Tops 100.
 
 - [Top 100 recent reports](tops_100/TOP100RECENT.md)
