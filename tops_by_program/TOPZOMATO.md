@@ -43,10 +43,10 @@ Top reports from Zomato program at HackerOne:
 41. [IDOR to cancel any table booking and leak sensitive information such as email,mobile number,uuid](https://hackerone.com/reports/265258) to Zomato - 33 upvotes, $250
 42. [SSRF in https://www.zomato.com████ allows reading local files and website source code](https://hackerone.com/reports/271224) to Zomato - 32 upvotes, $0
 43. [Self-Stored XSS - Chained with login/logout CSRF](https://hackerone.com/reports/632017) to Zomato - 31 upvotes, $300
-44. [Unauthorised Access to Anyone's User Account](https://hackerone.com/reports/202921) to Zomato - 31 upvotes, $0
-45. [[www.zomato.com] IDOR - Leaking all Personal Details of all Zomato Users through an endpoint](https://hackerone.com/reports/269937) to Zomato - 31 upvotes, $0
-46. [Admin Access to a domain used for development and admin access to internal dashboards on that domain](https://hackerone.com/reports/271407) to Zomato - 31 upvotes, $0
-47. [Attacker shall recieve order updates on whatsapp for users who have activated whatsapp notification](https://hackerone.com/reports/1523584) to Zomato - 30 upvotes, $300
+44. [Attacker shall recieve order updates on whatsapp for users who have activated whatsapp notification](https://hackerone.com/reports/1523584) to Zomato - 31 upvotes, $300
+45. [Unauthorised Access to Anyone's User Account](https://hackerone.com/reports/202921) to Zomato - 31 upvotes, $0
+46. [[www.zomato.com] IDOR - Leaking all Personal Details of all Zomato Users through an endpoint](https://hackerone.com/reports/269937) to Zomato - 31 upvotes, $0
+47. [Admin Access to a domain used for development and admin access to internal dashboards on that domain](https://hackerone.com/reports/271407) to Zomato - 31 upvotes, $0
 48. [CORS Misconfiguration on www.zomato.com](https://hackerone.com/reports/168574) to Zomato - 29 upvotes, $0
 49. [[█████████] Hardcoded credentials in Android App](https://hackerone.com/reports/246995) to Zomato - 28 upvotes, $500
 50. [Possible to enumerate Addresses of users using AddressId and guessing the delivery_subzone](https://hackerone.com/reports/514897) to Zomato - 26 upvotes, $1500

@@ -5,7 +5,7 @@ Top reports from Slack program at HackerOne:
 3. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) to Slack - 446 upvotes, $0
 4. [URL link spoofing](https://hackerone.com/reports/481472) to Slack - 356 upvotes, $250
 5. [AWS bucket leading to iOS test build code and configuration exposure](https://hackerone.com/reports/404822) to Slack - 318 upvotes, $1500
-6. [TURN server allows TCP and UDP proxying to internal network, localhost and meta-data services](https://hackerone.com/reports/333419) to Slack - 314 upvotes, $3500
+6. [TURN server allows TCP and UDP proxying to internal network, localhost and meta-data services](https://hackerone.com/reports/333419) to Slack - 315 upvotes, $3500
 7. [Slack DTLS uses a private key that is in the public domain, which may lead to SRTP stream hijack](https://hackerone.com/reports/531032) to Slack - 167 upvotes, $2000
 8. [XSS in gist integration](https://hackerone.com/reports/11073) to Slack - 154 upvotes, $500
 9. [Unauthenticated LFI revealing log information](https://hackerone.com/reports/272578) to Slack - 119 upvotes, $0
@@ -16,7 +16,7 @@ Top reports from Slack program at HackerOne:
 14. [Ability to join an arbitrary workspace by utilizing a proxy to manipulate invite links](https://hackerone.com/reports/1716016) to Slack - 100 upvotes, $0
 15. [Lack of URL normalization renders Blocked-Previews feature ineffectual](https://hackerone.com/reports/1102764) to Slack - 98 upvotes, $1000
 16. [SSRF via Office file thumbnails](https://hackerone.com/reports/671935) to Slack - 97 upvotes, $4000
-17. [Tricking the "Create snippet" feature into displaying the wrong filetype can lead to RCE on Slack users](https://hackerone.com/reports/833080) to Slack - 96 upvotes, $1500
+17. [Tricking the "Create snippet" feature into displaying the wrong filetype can lead to RCE on Slack users](https://hackerone.com/reports/833080) to Slack - 97 upvotes, $1500
 18. [Real Time Error Logs Through Debug Information](https://hackerone.com/reports/503283) to Slack - 96 upvotes, $0
 19. [User-assisted RCE in Slack for macOS (from official site) due to improper quarantine meta-attribute handling for downloaded files](https://hackerone.com/reports/470637) to Slack - 95 upvotes, $0
 20. [Header modification results in disclosure of Slack infra metadata to unauthorized parties](https://hackerone.com/reports/727330) to Slack - 91 upvotes, $0
@@ -50,7 +50,7 @@ Top reports from Slack program at HackerOne:
 48. [Email html Injection](https://hackerone.com/reports/1461194) to Slack - 26 upvotes, $250
 49. [Subdomain takeover on podcasts.slack-core.com](https://hackerone.com/reports/195350) to Slack - 26 upvotes, $100
 50. [Source code leakage through GIT web access at host '52.91.137.42'](https://hackerone.com/reports/148068) to Slack - 26 upvotes, $0
-51. [Race Condition in account survey](https://hackerone.com/reports/165570) to Slack - 25 upvotes, $0
+51. [Race Condition in account survey](https://hackerone.com/reports/165570) to Slack - 26 upvotes, $0
 52. [Rate-limit bypass](https://hackerone.com/reports/165727) to Slack - 24 upvotes, $500
 53. [[Screenhero] Subdomain takeover](https://hackerone.com/reports/142096) to Slack - 23 upvotes, $0
 54. [HTTP parameter pollution from outdated Greenhouse.io JS dependency](https://hackerone.com/reports/335339) to Slack - 23 upvotes, $0

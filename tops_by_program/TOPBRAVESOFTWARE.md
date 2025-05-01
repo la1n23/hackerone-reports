@@ -3,7 +3,7 @@ Top reports from Brave Software program at HackerOne:
 1. [Brave Browser Tor Window leaks user's real IP to the external DNS server](https://hackerone.com/reports/1077022) to Brave Software - 277 upvotes, $0
 2. [Open redirect due to scanning QR code via brave browser](https://hackerone.com/reports/1946534) to Brave Software - 138 upvotes, $0
 3. [Stored XSS in localhost:* via integrated torrent downloader](https://hackerone.com/reports/681617) to Brave Software - 123 upvotes, $0
-4. [Null Pointer Dereference by Crafted Response from AI Model](https://hackerone.com/reports/2958097) to Brave Software - 108 upvotes, $100
+4. [Null Pointer Dereference by Crafted Response from AI Model](https://hackerone.com/reports/2958097) to Brave Software - 111 upvotes, $100
 5. [ Incorrect security UI of files' download source on brave MacOS](https://hackerone.com/reports/2888770) to Brave Software - 83 upvotes, $0
 6. [Cookie steal through content Uri](https://hackerone.com/reports/876192) to Brave Software - 77 upvotes, $500
 7. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 74 upvotes, $0
@@ -17,9 +17,9 @@ Top reports from Brave Software program at HackerOne:
 15. [Information disclosure-Referer leak](https://hackerone.com/reports/1337624) to Brave Software - 42 upvotes, $500
 16. [[Android] HTML Injection in BatterySaveArticleRenderer WebView](https://hackerone.com/reports/176065) to Brave Software - 42 upvotes, $150
 17. [Browser is not following proper flow for redirection cause open redirect ](https://hackerone.com/reports/1579374) to Brave Software - 41 upvotes, $500
-18. [UAF on JSEthereumProvider](https://hackerone.com/reports/1977252) to Brave Software - 38 upvotes, $3000
-19. [Onion-Location header allows to open arbitrary URLs including chrome:](https://hackerone.com/reports/1089995) to Brave Software - 38 upvotes, $400
-20. [Brave Android: Incorrect URL Eliding in Brave Shields Pop Up](https://hackerone.com/reports/2501378) to Brave Software - 38 upvotes, $100
+18. [Brave Android: Incorrect URL Eliding in Brave Shields Pop Up](https://hackerone.com/reports/2501378) to Brave Software - 39 upvotes, $100
+19. [UAF on JSEthereumProvider](https://hackerone.com/reports/1977252) to Brave Software - 38 upvotes, $3000
+20. [Onion-Location header allows to open arbitrary URLs including chrome:](https://hackerone.com/reports/1089995) to Brave Software - 38 upvotes, $400
 21. [download file type warning on Windows does not appear if "ask where to save file before downloading" setting is enabled](https://hackerone.com/reports/1848062) to Brave Software - 31 upvotes, $500
 22. [HTML injection in title of reader view](https://hackerone.com/reports/991713) to Brave Software - 30 upvotes, $300
 23. [[iOS/Android] Address Bar Spoofing Vulnerability ](https://hackerone.com/reports/175958) to Brave Software - 30 upvotes, $200

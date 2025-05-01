@@ -14,7 +14,10 @@ import csv
 import argparse
 from datetime import datetime
 from selenium.webdriver import Chrome, ChromeOptions
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
+from selenium import webdriver
 
 hacktivity_url = 'https://hackerone.com/hacktivity/overview?queryString=disclosed%3Atrue&sortField=disclosed_at&sortDirection=DESC&pageIndex=0'
 page_loading_timeout = 10
@@ -25,7 +28,8 @@ def create_argument_parser():
         '--browser-binary',
         type=str,
         help='Path to browser binary (Chrome or Chromium)',
-        default='/Applications/Google Chrome.app/Contents/MacOS/Google Chrome')
+        default='/usr/bin/chromium-browser')
+        #default='/Applications/Google Chrome.app/Contents/MacOS/Google Chrome')
     argparser.add_argument(
         '--input-data-file',
         type=str,
@@ -60,7 +64,8 @@ def extract_reports(raw_reports):
             'link': link,
             'upvotes': 0,
             'bounty': 0.,
-            'vuln_type': ''
+            'vuln_type': '',
+            'submitted_at': ''
         }
         reports.append(report)
 
@@ -72,7 +77,8 @@ def fetch(commandline_args):
     options.binary_location = commandline_args.browser_binary
     options.add_argument('no-sandbox')
     options.add_argument('headless')
-    driver = Chrome(options=options)
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=options)
 
     reports = []
     with open(commandline_args.input_data_file, 'r', newline='', encoding='utf-8') as file:

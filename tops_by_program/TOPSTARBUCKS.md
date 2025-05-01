@@ -57,9 +57,9 @@ Top reports from Starbucks program at HackerOne:
 55. [Thailand - Insecure Direct Object Reference permits an unauthorized user to transfer funds from a victim using only the victims Starbucks card](https://hackerone.com/reports/766437) to Starbucks - 33 upvotes, $0
 56. [CRLF injection on www.starbucks.com](https://hackerone.com/reports/858650) to Starbucks - 32 upvotes, $0
 57. [athome.starbucks.com - URL parameter tampering of review forms permitted possible content injection](https://hackerone.com/reports/367589) to Starbucks - 31 upvotes, $0
-58. [Account take over of 'light' starbuckscardb2b users](https://hackerone.com/reports/767829) to Starbucks - 30 upvotes, $0
-59. [Singapore - XXE at https://www.starbucks.com.sg/RestApi/soap11](https://hackerone.com/reports/762251) to Starbucks - 30 upvotes, $0
-60. [SSRF at ideas.starbucks.com](https://hackerone.com/reports/500468) to Starbucks - 29 upvotes, $0
+58. [SSRF at ideas.starbucks.com](https://hackerone.com/reports/500468) to Starbucks - 30 upvotes, $0
+59. [Account take over of 'light' starbuckscardb2b users](https://hackerone.com/reports/767829) to Starbucks - 30 upvotes, $0
+60. [Singapore - XXE at https://www.starbucks.com.sg/RestApi/soap11](https://hackerone.com/reports/762251) to Starbucks - 30 upvotes, $0
 61. [SAP Server - default credentials enabled](https://hackerone.com/reports/195163) to Starbucks - 28 upvotes, $0
 62. [Possible SOP bypass in www.starbucks.com due to insecure crossdomain.xml](https://hackerone.com/reports/244504) to Starbucks - 28 upvotes, $0
 63. [Full Api Access and Run All Functions via Starbucks App](https://hackerone.com/reports/232650) to Starbucks - 27 upvotes, $0

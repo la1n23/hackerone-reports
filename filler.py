@@ -12,6 +12,7 @@ import csv
 import requests
 import time
 import argparse
+import sys
 
 def create_argument_parser():
     argparser = argparse.ArgumentParser()
@@ -41,34 +42,34 @@ def fill(commandline_args):
     with open(commandline_args.input_data_file, 'r', newline='', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for row in reader:
-            if row['title'] == '' or commandline_args.update_all:
+            if not('submitted_at' in row) or not row['submitted_at'] or row['title'] == '' or commandline_args.update_all:
                 new_reports.append(dict(row))
             else:
                 fetched_reports.append(dict(row))
     count_of_reports = len(new_reports)
-    for i in range(count_of_reports):
-        time.sleep(0.5)
-        print('Fetching report ' + str(i + 1) + ' out of ' + str(count_of_reports))
-        report_url = 'https://' + new_reports[i]['link'] + '.json'
-        try:
-            json_info = requests.get(report_url).json()
-            new_reports[i]['title'] = json_info['title']
-            new_reports[i]['program'] = json_info['team']['profile']['name']
-            new_reports[i]['upvotes'] = int(json_info['vote_count'])
-            new_reports[i]['bounty'] = float(json_info['bounty_amount'] if 'bounty_amount' in json_info else "0") if json_info['has_bounty?'] else 0.0
-            new_reports[i]['vuln_type'] = json_info['weakness']['name'] if 'weakness' in json_info else ''
-        except Exception as err:
-            print('error at report ' + str(i + 1), err)
-            continue
-
-        print(new_reports[i])
-
+    print('New Reports', count_of_reports)
     with open(commandline_args.output_data_file, 'w', newline='', encoding='utf-8') as file:
-        reports = new_reports + fetched_reports
-        keys = reports[0].keys()
+        keys = ['link', 'submitted_at', 'title', 'program', 'upvotes', 'bounty', 'vuln_type']
         writer = csv.DictWriter(file, fieldnames=keys)
         writer.writeheader()
-        writer.writerows(reports)
+        for i in range(count_of_reports):
+            time.sleep(0.5)
+            print('Fetching report ' + str(i + 1) + ' out of ' + str(count_of_reports))
+            report_url = 'https://' + new_reports[i]['link'] + '.json'
+            try:
+                json_info = requests.get(report_url).json()
+                new_reports[i]['submitted_at'] = json_info['submitted_at']
+                new_reports[i]['title'] = json_info['title']
+                new_reports[i]['program'] = json_info['team']['profile']['name']
+                new_reports[i]['upvotes'] = int(json_info['vote_count'])
+                new_reports[i]['bounty'] = float(json_info['bounty_amount'] if 'bounty_amount' in json_info else "0") if json_info['has_bounty?'] else 0.0
+                new_reports[i]['vuln_type'] = json_info['weakness']['name'] if 'weakness' in json_info else ''
+            except Exception as err:
+                print('error at report ' + str(i + 1), err)
+                continue
+            writer.writerows([new_reports[i]])
+            print(new_reports[i])
+        writer.writerows(fetched_reports)
 
 
 if __name__ == '__main__':

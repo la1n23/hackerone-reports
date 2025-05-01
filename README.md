@@ -10,6 +10,7 @@ The run order of scripts:
 
 Tops 100.
 
+- [Top 100 recent reports](tops_100/TOP100RECENT.md)
 - [Top 100 upvoted reports](tops_100/TOP100UPVOTED.md)
 - [Top 100 paid reports](tops_100/TOP100PAID.md)
 

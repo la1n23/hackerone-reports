@@ -9,6 +9,7 @@ in the same directory with this script (current data.csv is good).
 """
 
 import csv
+from datetime import datetime
 
 index = []
 
@@ -29,6 +30,23 @@ def check_title(title, keywords):
                 return True
     return False
 
+def parse_date(row):
+    return datetime.strptime(row['submitted_at'], '%Y-%m-%dT%H:%M:%S.%fZ')
+
+def format_time(row):
+    return datetime.strptime(row['submitted_at'], '%Y-%m-%dT%H:%M:%S.%fZ').strftime('%d-%m-%Y')
+
+def top_100_recent(reports):
+    sorted_reports = list(reversed(sorted(reports, key=lambda k: parse_date(k))))
+    with open('tops_100/TOP100RECENT.md', 'w', encoding='utf-8') as file:
+        file.write('Top 100 recent reports from HackerOne:\n\n')
+        for i in range(0, 100):
+            report = sorted_reports[i]
+            d =  format_time(report)
+            file.write(
+                '{0}. {1} [{2}](https://{3}) to {4} - {5} upvotes, ${6}\n'.format(i + 1, d, report['title'], report['link'],
+                                                                                  report['program'],
+                                                                                  report['upvotes'], int(report['bounty'])))
 
 def top_100_upvoted(reports):
     upvotes_sorted_reports = list(reversed(sorted(reports, key=lambda k: k['upvotes'])))
@@ -70,7 +88,7 @@ def top_by_bug_type(reports, bug_type, bug_name, keywords):
 def top_by_program(reports, program):
     filtered_reports = [report for report in reports if report['program'] == program]
     bug_sorted_reports = list(reversed(sorted(filtered_reports, key=lambda k: (k['upvotes'], k['bounty']))))
-    with open('tops_by_program/TOP{0}.md'.format(program.upper().replace('.', '').replace('-', '').replace(' ', '')),
+    with open('tops_by_program/TOP{0}.md'.format(program.upper().replace('.', '').replace('-', '').replace(' ', '').replace('/', '-')),
               'w', encoding='utf-8') as file:
         file.write('Top reports from {0} program at HackerOne:\n\n'.format(program))
         for i in range(0, len(bug_sorted_reports)):
@@ -88,12 +106,13 @@ def main():
             row_dict = dict(row)
             row_dict['bounty'] = float(row_dict['bounty'].replace('"', '').replace('$', '').replace(',', ''))
             row_dict['upvotes'] = int(row_dict['upvotes'])
-            row_dict['title'] = row_dict['title'].replace('<', '\<').replace('>', '\>')
+            row_dict['title'] = row_dict['title'].replace('<', '\\<').replace('>', '\\>')
             if len(row_dict['title']) > max_title_length:
                 max_title_length = len(row_dict['title'])
             reports.append(row_dict)
     print('Max title length:', max_title_length)
 
+    top_100_recent(reports)
     top_100_upvoted(reports)
     top_100_paid(reports)
 
