@@ -1,4 +1,4 @@
-Top 100 recent reports from HackerOne year:
+Top 100 recent reports from HackerOne all:
 
 1. 01-05-2025 [Session Replay Attack Allows Authentication Bypass via Captured Login Responses Allowing Bypass of 429 Too many attempts for Multiple Failed Logins](https://hackerone.com/reports/3120790) to WakaTime - 3 upvotes, $0
 2. 29-04-2025 [Double Free Vulnerability in `libcurl` Cookie Management (`cookie.c`)](https://hackerone.com/reports/3117697) to curl - 9 upvotes, $0
