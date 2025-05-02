@@ -6,12 +6,16 @@ You can use this script as an example to create your custom lists of reports.
 
 To use it without modifications you should put non-empty data.csv file
 in the same directory with this script (current data.csv is good).
+
+You can specify period of time using --period argument to limit the reports to aggregate.
 """
 
+import argparse
 import csv
-from datetime import datetime
+from datetime import datetime, timedelta
 
 index = []
+PERIOD = 'all'
 
 
 def clean_title(title):
@@ -30,16 +34,26 @@ def check_title(title, keywords):
                 return True
     return False
 
-def parse_date(row):
+def parse_date(row) -> datetime:
     return datetime.strptime(row['submitted_at'], '%Y-%m-%dT%H:%M:%S.%fZ')
 
-def format_time(row):
+def format_time(row) -> str:
     return datetime.strptime(row['submitted_at'], '%Y-%m-%dT%H:%M:%S.%fZ').strftime('%d-%m-%Y')
+
+def slice_period(reports):
+    if PERIOD == 'all':
+        return reports
+    elif PERIOD == 'year':
+        return [report for report in reports if parse_date(report) > datetime.now() - timedelta(days=365)]
+    elif PERIOD == 'half-year':
+        return [report for report in reports if parse_date(report) > datetime.now() - timedelta(days=182)]
+    elif PERIOD == 'month':
+        return [report for report in reports if parse_date(report) > datetime.now() - timedelta(days=30)]
 
 def top_100_recent(reports):
     sorted_reports = list(reversed(sorted(reports, key=lambda k: parse_date(k))))
     with open('tops_100/TOP100RECENT.md', 'w', encoding='utf-8') as file:
-        file.write('Top 100 recent reports from HackerOne:\n\n')
+        file.write('Top 100 recent reports from HackerOne {0}:\n\n'.format(PERIOD))
         for i in range(0, 100):
             report = sorted_reports[i]
             d =  format_time(report)
@@ -49,9 +63,10 @@ def top_100_recent(reports):
                                                                                   report['upvotes'], int(report['bounty'])))
 
 def top_100_upvoted(reports):
+    reports = slice_period(reports)
     upvotes_sorted_reports = list(reversed(sorted(reports, key=lambda k: k['upvotes'])))
     with open('tops_100/TOP100UPVOTED.md', 'w', encoding='utf-8') as file:
-        file.write('Top 100 upvoted reports from HackerOne:\n\n')
+        file.write('Top 100 upvoted reports from HackerOne for period {0}:\n\n'.format(PERIOD))
         for i in range(0, 100):
             report = upvotes_sorted_reports[i]
             file.write(
@@ -61,9 +76,10 @@ def top_100_upvoted(reports):
 
 
 def top_100_paid(reports):
+    reports = slice_period(reports)
     bounty_sorted_reports = list(reversed(sorted(reports, key=lambda k: (k['bounty'], k['upvotes']))))
     with open('tops_100/TOP100PAID.md', 'w', encoding='utf-8') as file:
-        file.write('Top 100 paid reports from HackerOne:\n\n')
+        file.write('Top 100 paid reports from HackerOne for period {0}:\n\n'.format(PERIOD))
         for i in range(0, 100):
             report = bounty_sorted_reports[i]
             file.write(
@@ -74,11 +90,12 @@ def top_100_paid(reports):
 
 def top_by_bug_type(reports, bug_type, bug_name, keywords):
     filtered_reports = [report for report in reports if check_title(clean_title(report['title']), keywords)]
+    filtered_reports = slice_period(filtered_reports)
     for filtered_report in filtered_reports:
         index.append(filtered_report['link'])
     bug_sorted_reports = list(reversed(sorted(filtered_reports, key=lambda k: (k['upvotes'], k['bounty']))))
     with open('tops_by_bug_type/TOP{0}.md'.format(bug_type), 'w', encoding='utf-8') as file:
-        file.write('Top {0} reports from HackerOne:\n\n'.format(bug_name))
+        file.write('Top {0} reports from HackerOne for period {1}:\n\n'.format(bug_name, PERIOD))
         for i in range(0, len(bug_sorted_reports)):
             report = bug_sorted_reports[i]
             file.write('{0}. [{1}](https://{2}) to {3} - {4} upvotes, ${5}\n'
@@ -87,10 +104,11 @@ def top_by_bug_type(reports, bug_type, bug_name, keywords):
 
 def top_by_program(reports, program):
     filtered_reports = [report for report in reports if report['program'] == program]
+    filtered_reports = slice_period(filtered_reports)
     bug_sorted_reports = list(reversed(sorted(filtered_reports, key=lambda k: (k['upvotes'], k['bounty']))))
     with open('tops_by_program/TOP{0}.md'.format(program.upper().replace('.', '').replace('-', '').replace(' ', '').replace('/', '-')),
               'w', encoding='utf-8') as file:
-        file.write('Top reports from {0} program at HackerOne:\n\n'.format(program))
+        file.write('Top reports from {0} program at HackerOne for period {1}:\n\n'.format(program, PERIOD))
         for i in range(0, len(bug_sorted_reports)):
             report = bug_sorted_reports[i]
             file.write('{0}. [{1}](https://{2}) to {3} - {4} upvotes, ${5}\n'
@@ -172,4 +190,15 @@ def main():
 
 
 if __name__ == '__main__':
+    argparser = argparse.ArgumentParser()
+    argparser.add_argument(
+        '--period',
+        help='Choose period of time (all, year, half-year, month)',
+        type=str,
+        default='all'
+    )
+    args = argparser.parse_args()
+    global period
+    PERIOD = args.period
+
     main()
