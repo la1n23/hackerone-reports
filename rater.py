@@ -69,8 +69,9 @@ def top_100_upvoted(reports):
         file.write('Top 100 upvoted reports from HackerOne for period {0}:\n\n'.format(PERIOD))
         for i in range(0, 100):
             report = upvotes_sorted_reports[i]
+            d =  format_time(report)
             file.write(
-                '{0}. [{1}](https://{2}) to {3} - {4} upvotes, ${5}\n'.format(i + 1, report['title'], report['link'],
+                '{0}. {1} [{2}](https://{3}) to {4} - {5} upvotes, ${6}\n'.format(i + 1, d, report['title'], report['link'],
                                                                               report['program'],
                                                                               report['upvotes'], int(report['bounty'])))
 
@@ -82,8 +83,9 @@ def top_100_paid(reports):
         file.write('Top 100 paid reports from HackerOne for period {0}:\n\n'.format(PERIOD))
         for i in range(0, 100):
             report = bounty_sorted_reports[i]
+            d =  format_time(report)
             file.write(
-                '{0}. [{1}](https://{2}) to {3} - ${4}, {5} upvotes\n'.format(i + 1, report['title'], report['link'],
+                '{0}. {1} [{2}](https://{3}) to {4} - ${5}, {6} upvotes\n'.format(i + 1, d, report['title'], report['link'],
                                                                               report['program'],
                                                                               int(report['bounty']), report['upvotes']))
 
@@ -98,8 +100,9 @@ def top_by_bug_type(reports, bug_type, bug_name, keywords):
         file.write('Top {0} reports from HackerOne for period {1}:\n\n'.format(bug_name, PERIOD))
         for i in range(0, len(bug_sorted_reports)):
             report = bug_sorted_reports[i]
-            file.write('{0}. [{1}](https://{2}) to {3} - {4} upvotes, ${5}\n'
-                       .format(i + 1, report['title'], report['link'], report['program'], report['upvotes'], int(report['bounty'])))
+            d =  format_time(report)
+            file.write('{0}. {1} [{2}](https://{3}) to {4} - {5} upvotes, ${6}\n'
+                       .format(i + 1, d, report['title'], report['link'], report['program'], report['upvotes'], int(report['bounty'])))
 
 
 def top_by_program(reports, program):
@@ -111,8 +114,9 @@ def top_by_program(reports, program):
         file.write('Top reports from {0} program at HackerOne for period {1}:\n\n'.format(program, PERIOD))
         for i in range(0, len(bug_sorted_reports)):
             report = bug_sorted_reports[i]
-            file.write('{0}. [{1}](https://{2}) to {3} - {4} upvotes, ${5}\n'
-                       .format(i + 1, report['title'], report['link'], report['program'], report['upvotes'], int(report['bounty'])))
+            d =  format_time(report)
+            file.write('{0}. {1} [{2}](https://{3}) to {4} - {5} upvotes, ${5}\n'
+                       .format(i + 1, d, report['title'], report['link'], report['program'], report['upvotes'], int(report['bounty'])))
 
 
 def main():
