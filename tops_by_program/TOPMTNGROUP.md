@@ -9,8 +9,8 @@ Top reports from MTN Group program at HackerOne for period year:
 7. 31-07-2024 [OTP code Leaked in API Response ](https://hackerone.com/reports/2633888) to MTN Group - 67 upvotes, $67
 8. 24-10-2024 [Admin Dashboard Access Leads to Updating Merchant Info](https://hackerone.com/reports/2801787) to MTN Group - 63 upvotes, $63
 9. 08-10-2024 [Information disclosure due to debug mode enabled at Laravel instance https://mpos.mtn.co.sz/ ](https://hackerone.com/reports/2765259) to MTN Group - 55 upvotes, $55
-10. 06-10-2024 [CVE-2017-9822 DotNetNuke Cookie Deserialization Remote Code Execution (RCE) on lonidoor.mtn.ci](https://hackerone.com/reports/2762119) to MTN Group - 45 upvotes, $45
-11. 12-10-2024 [Cisco IOS XE instance at ████ vulnerable to CVE-██████](https://hackerone.com/reports/2778350) to MTN Group - 45 upvotes, $45
+10. 12-10-2024 [Cisco IOS XE instance at ████ vulnerable to CVE-██████](https://hackerone.com/reports/2778350) to MTN Group - 45 upvotes, $45
+11. 06-10-2024 [CVE-2017-9822 DotNetNuke Cookie Deserialization Remote Code Execution (RCE) on lonidoor.mtn.ci](https://hackerone.com/reports/2762119) to MTN Group - 45 upvotes, $45
 12. 07-10-2024 [Unauthenticated phpinfo()files could lead to ability file read at █████████ ](https://hackerone.com/reports/2764952) to MTN Group - 38 upvotes, $38
 13. 25-08-2024 [Social media account takeover ](https://hackerone.com/reports/2682974) to MTN Group - 36 upvotes, $36
 14. 18-07-2024 [Unauthenticated phpinfo()files could lead to ability file read at h2f54.n1.ips.mtn.co.ug [/dashboard/]](https://hackerone.com/reports/2610478) to MTN Group - 29 upvotes, $29

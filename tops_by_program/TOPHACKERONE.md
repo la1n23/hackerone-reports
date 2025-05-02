@@ -8,8 +8,8 @@ Top reports from HackerOne program at HackerOne for period year:
 6. 20-05-2024 [Program Member Could Duplicate Report To A Non Related Program Original Report ](https://hackerone.com/reports/2513082) to HackerOne - 94 upvotes, $94
 7. 22-05-2024 [Access Control Vulnerability Enabling Unauthorized Access to Limited Disclosure Reports](https://hackerone.com/reports/2516250) to HackerOne - 84 upvotes, $84
 8. 05-05-2024 [Able to Create  Testimonials for myself using Sandbox](https://hackerone.com/reports/2490953) to HackerOne - 77 upvotes, $77
-9. 29-05-2024 [[Spot Check] - Ability to disclose metadata about Spot Checks (Number of Hackers + Hackers Criteria) via "SpotCheckSingleQuery"](https://hackerone.com/reports/2524939) to HackerOne - 75 upvotes, $75
-10. 17-06-2024 [Domain highlighting on External link warning is not working on Chrome & Microsoft Edge browsers on Mobile](https://hackerone.com/reports/2553026) to HackerOne - 75 upvotes, $75
+9. 17-06-2024 [Domain highlighting on External link warning is not working on Chrome & Microsoft Edge browsers on Mobile](https://hackerone.com/reports/2553026) to HackerOne - 75 upvotes, $75
+10. 29-05-2024 [[Spot Check] - Ability to disclose metadata about Spot Checks (Number of Hackers + Hackers Criteria) via "SpotCheckSingleQuery"](https://hackerone.com/reports/2524939) to HackerOne - 75 upvotes, $75
 11. 28-06-2024 [Private data related to program exposed via /reports/\<id\>.json endpoint to external user participant](https://hackerone.com/reports/2580982) to HackerOne - 66 upvotes, $66
 12. 03-08-2024 [Access to limited confidential information of private program as a Ex-reporter, Report Participant(external user) & Ex-staff member](https://hackerone.com/reports/2632876) to HackerOne - 62 upvotes, $62
 13. 14-06-2024 [Private draft report exposure in a program a user is added as a viewer to](https://hackerone.com/reports/2552205) to HackerOne - 59 upvotes, $59
@@ -20,8 +20,8 @@ Top reports from HackerOne program at HackerOne for period year:
 18. 22-06-2024 [Reports submitted by a non 2fa setupped user account can be transferred to a 2fa require submission program ](https://hackerone.com/reports/2569993) to HackerOne - 29 upvotes, $29
 19. 24-06-2024 [Business Logic error leads to bypass 2FA requirement ](https://hackerone.com/reports/2571981) to HackerOne - 24 upvotes, $24
 20. 07-05-2024 [Reset the 2FA of the user which can lead to Account Takeover](https://hackerone.com/reports/2492631) to HackerOne - 22 upvotes, $22
-21. 01-06-2024 [Improper Authentication - 2FA OTP Reusable](https://hackerone.com/reports/2529780) to HackerOne - 21 upvotes, $21
-22. 31-05-2024 [2FA requirement bypass when claiming bounty ](https://hackerone.com/reports/2528919) to HackerOne - 21 upvotes, $21
+21. 31-05-2024 [2FA requirement bypass when claiming bounty ](https://hackerone.com/reports/2528919) to HackerOne - 21 upvotes, $21
+22. 01-06-2024 [Improper Authentication - 2FA OTP Reusable](https://hackerone.com/reports/2529780) to HackerOne - 21 upvotes, $21
 23. 10-06-2024 [Bypassing Two-Factor Authentication via Account Deactivation and Password Reset](https://hackerone.com/reports/2543342) to HackerOne - 19 upvotes, $19
 24. 07-07-2024 [TOTP Authenticator implementation Accepts Expired Codes](https://hackerone.com/reports/2588810) to HackerOne - 14 upvotes, $14
 25. 26-06-2024 [Hackers can Invite Collaborators Without 2FA on Programs Requiring 2FA](https://hackerone.com/reports/2575079) to HackerOne - 8 upvotes, $8

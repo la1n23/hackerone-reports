@@ -2,8 +2,8 @@ Top reports from Internet Bug Bounty program at HackerOne for period year:
 
 1. 07-11-2024 [Apache Airflow: Sensitive Information Exposure in DAG Run Logs](https://hackerone.com/reports/2828271) to Internet Bug Bounty - 109 upvotes, $109
 2. 03-07-2024 [moderate: Apache HTTP Server: mod_rewrite proxy handler substitution (CVE-2024-39573) CWE-20 Improper Input Validation](https://hackerone.com/reports/2585374) to Internet Bug Bounty - 85 upvotes, $85
-3. 21-10-2024 [CVE-2024-41990: Potential denial-of-service in django.utils.html.urlize()](https://hackerone.com/reports/2795558) to Internet Bug Bounty - 79 upvotes, $79
-4. 03-01-2025 [Deadlock in x86 HVM standard VGA handling](https://hackerone.com/reports/2921724) to Internet Bug Bounty - 79 upvotes, $79
+3. 03-01-2025 [Deadlock in x86 HVM standard VGA handling](https://hackerone.com/reports/2921724) to Internet Bug Bounty - 79 upvotes, $79
+4. 21-10-2024 [CVE-2024-41990: Potential denial-of-service in django.utils.html.urlize()](https://hackerone.com/reports/2795558) to Internet Bug Bounty - 79 upvotes, $79
 5. 07-11-2024 [Secrets not masked in UI when sensitive variables are set via Airflow cli](https://hackerone.com/reports/2828263) to Internet Bug Bounty - 76 upvotes, $76
 6. 22-08-2024 [CVE-2024-41937: Apache Airflow: Stored XSS Vulnerability on provider link](https://hackerone.com/reports/2677187) to Internet Bug Bounty - 70 upvotes, $70
 7. 04-07-2024 [CVE-2024-34750 Apache Tomcat DoS vulnerability in HTTP/2 connector](https://hackerone.com/reports/2586226) to Internet Bug Bounty - 60 upvotes, $60
@@ -42,13 +42,13 @@ Top reports from Internet Bug Bounty program at HackerOne for period year:
 40. 11-01-2025 [ActionView sanitize helper bypass with noscript](https://hackerone.com/reports/2931691) to Internet Bug Bounty - 21 upvotes, $21
 41. 19-07-2024 [important: Apache HTTP Server: SSRF with mod_rewrite in server/vhost context on Windows (CVE-2024-40898)](https://hackerone.com/reports/2612028) to Internet Bug Bounty - 19 upvotes, $19
 42. 03-07-2024 [moderate: Apache HTTP Server: HTTP response splitting (CVE-2023-38709)](https://hackerone.com/reports/2585373) to Internet Bug Bounty - 19 upvotes, $19
-43. 11-01-2025 [ ActionView sanitize helper bypass with style and math](https://hackerone.com/reports/2931636) to Internet Bug Bounty - 19 upvotes, $19
-44. 11-01-2025 [ActionView sanitize helper bypass with style](https://hackerone.com/reports/2931639) to Internet Bug Bounty - 19 upvotes, $19
+43. 11-01-2025 [ActionView sanitize helper bypass with style](https://hackerone.com/reports/2931639) to Internet Bug Bounty - 19 upvotes, $19
+44. 11-01-2025 [ ActionView sanitize helper bypass with style and math](https://hackerone.com/reports/2931636) to Internet Bug Bounty - 19 upvotes, $19
 45. 07-08-2024 [[CVE-2024-35176] DoS vulnerability in REXML](https://hackerone.com/reports/2645836) to Internet Bug Bounty - 18 upvotes, $18
-46. 05-02-2025 [CVE-2025-0725: Heap overflow in curl with Content-Encoding gzip and old libz versions](https://hackerone.com/reports/2974850) to Internet Bug Bounty - 17 upvotes, $17
-47. 26-04-2025 [Denial of Service by memory exhaustion in net/imap](https://hackerone.com/reports/3108869) to Internet Bug Bounty - 17 upvotes, $17
-48. 12-07-2024 [CVE-2024-3416: MTU of 4096 or greater without fragmentation may cause NGINX worker processes to leak previously freed memory](https://hackerone.com/reports/2599391) to Internet Bug Bounty - 16 upvotes, $16
-49. 04-07-2024 [moderate: Apache HTTP Server proxy encoding problem (CVE-2024-38473)](https://hackerone.com/reports/2585384) to Internet Bug Bounty - 16 upvotes, $16
+46. 26-04-2025 [Denial of Service by memory exhaustion in net/imap](https://hackerone.com/reports/3108869) to Internet Bug Bounty - 17 upvotes, $17
+47. 05-02-2025 [CVE-2025-0725: Heap overflow in curl with Content-Encoding gzip and old libz versions](https://hackerone.com/reports/2974850) to Internet Bug Bounty - 17 upvotes, $17
+48. 04-07-2024 [moderate: Apache HTTP Server proxy encoding problem (CVE-2024-38473)](https://hackerone.com/reports/2585384) to Internet Bug Bounty - 16 upvotes, $16
+49. 12-07-2024 [CVE-2024-3416: MTU of 4096 or greater without fragmentation may cause NGINX worker processes to leak previously freed memory](https://hackerone.com/reports/2599391) to Internet Bug Bounty - 16 upvotes, $16
 50. 04-12-2024 [CVE-2024-45230 - Potential denial-of-service in django.utils.html.urlize() (Another pattern)](https://hackerone.com/reports/2881639) to Internet Bug Bounty - 14 upvotes, $14
 51. 09-07-2024 [CVE-2024-38875: Denial-Of-Service through uncontrolled resource consumption caused by poor time complexity of strip_punctuation .](https://hackerone.com/reports/2591681) to Internet Bug Bounty - 14 upvotes, $14
 52. 26-02-2025 [[CVE-2025-27219] Denial of Service in CGI::Cookie.parse](https://hackerone.com/reports/3013913) to Internet Bug Bounty - 13 upvotes, $13

@@ -17,8 +17,8 @@ Top XSS reports from HackerOne for period year:
 15. 20-08-2024 [XSS found for https://█████████](https://hackerone.com/reports/2670521) to U.S. Dept Of Defense - 51 upvotes, $0
 16. 22-07-2024 [XSS on ███████](https://hackerone.com/reports/2615670) to U.S. Dept Of Defense - 48 upvotes, $0
 17. 14-12-2024 [POST based Cross-Site Scripting on IBM research endpoint](https://hackerone.com/reports/2899380) to IBM - 42 upvotes, $0
-18. 06-07-2024 [Cross Site Scripting](https://hackerone.com/reports/2587844) to U.S. Dept Of Defense - 40 upvotes, $0
-19. 09-12-2024 [XSS vulnerability found in javascript code of https://███.mil](https://hackerone.com/reports/2888784) to U.S. Dept Of Defense - 40 upvotes, $0
+18. 09-12-2024 [XSS vulnerability found in javascript code of https://███.mil](https://hackerone.com/reports/2888784) to U.S. Dept Of Defense - 40 upvotes, $0
+19. 06-07-2024 [Cross Site Scripting](https://hackerone.com/reports/2587844) to U.S. Dept Of Defense - 40 upvotes, $0
 20. 20-11-2024 [XSS found in https://www.████████.mil](https://hackerone.com/reports/2853410) to U.S. Dept Of Defense - 36 upvotes, $0
 21. 26-05-2024 [Possible XSS Vulnerability in Action Controller](https://hackerone.com/reports/2520694) to Internet Bug Bounty - 31 upvotes, $1068
 22. 04-01-2025 [WAF bypass and java script incomplete handling of Unicode characters might leads to dom-xss](https://hackerone.com/reports/2921905) to Doppler - 28 upvotes, $0

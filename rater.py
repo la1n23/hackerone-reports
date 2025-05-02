@@ -44,11 +44,11 @@ def slice_period(reports):
     if PERIOD == 'all':
         return reports
     elif PERIOD == 'year':
-        return [report for report in reports if parse_date(report) > datetime.now() - timedelta(days=365)]
+        return list(reversed([report for report in reports if parse_date(report) > datetime.now() - timedelta(days=365)]))
     elif PERIOD == 'half-year':
-        return [report for report in reports if parse_date(report) > datetime.now() - timedelta(days=182)]
+        return list(reversed([report for report in reports if parse_date(report) > datetime.now() - timedelta(days=182)]))
     elif PERIOD == 'month':
-        return [report for report in reports if parse_date(report) > datetime.now() - timedelta(days=30)]
+        return list(reversed([report for report in reports if parse_date(report) > datetime.now() - timedelta(days=30)]))
 
 def top_100_recent(reports):
     sorted_reports = list(reversed(sorted(reports, key=lambda k: parse_date(k))))

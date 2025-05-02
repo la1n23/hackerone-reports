@@ -23,13 +23,13 @@ Top 100 paid reports from HackerOne for period year:
 21. 09-06-2024 [[CVE-2024-32464] ActionText ContentAttachment’s can Contain Unsanitized HTML](https://hackerone.com/reports/2542806) to Internet Bug Bounty - $2600, 30 upvotes
 22. 30-05-2024 [CVE-2024-35200 in nginx](https://hackerone.com/reports/2526041) to Internet Bug Bounty - $2600, 21 upvotes
 23. 03-07-2024 [moderate: Apache HTTP Server: HTTP response splitting (CVE-2023-38709)](https://hackerone.com/reports/2585373) to Internet Bug Bounty - $2600, 19 upvotes
-24. 12-07-2024 [CVE-2024-3416: MTU of 4096 or greater without fragmentation may cause NGINX worker processes to leak previously freed memory](https://hackerone.com/reports/2599391) to Internet Bug Bounty - $2600, 16 upvotes
-25. 04-07-2024 [moderate: Apache HTTP Server proxy encoding problem (CVE-2024-38473)](https://hackerone.com/reports/2585384) to Internet Bug Bounty - $2600, 16 upvotes
+24. 04-07-2024 [moderate: Apache HTTP Server proxy encoding problem (CVE-2024-38473)](https://hackerone.com/reports/2585384) to Internet Bug Bounty - $2600, 16 upvotes
+25. 12-07-2024 [CVE-2024-3416: MTU of 4096 or greater without fragmentation may cause NGINX worker processes to leak previously freed memory](https://hackerone.com/reports/2599391) to Internet Bug Bounty - $2600, 16 upvotes
 26. 23-10-2024 [Hackerone supports accounts organitation takeover](https://hackerone.com/reports/2798380) to HackerOne - $2500, 142 upvotes
 27. 05-05-2024 [Able to Create  Testimonials for myself using Sandbox](https://hackerone.com/reports/2490953) to HackerOne - $2500, 77 upvotes
 28. 14-06-2024 [Private draft report exposure in a program a user is added as a viewer to](https://hackerone.com/reports/2552205) to HackerOne - $2500, 59 upvotes
-29. 21-10-2024 [CVE-2024-41990: Potential denial-of-service in django.utils.html.urlize()](https://hackerone.com/reports/2795558) to Internet Bug Bounty - $2162, 79 upvotes
-30. 03-01-2025 [Deadlock in x86 HVM standard VGA handling](https://hackerone.com/reports/2921724) to Internet Bug Bounty - $2162, 79 upvotes
+29. 03-01-2025 [Deadlock in x86 HVM standard VGA handling](https://hackerone.com/reports/2921724) to Internet Bug Bounty - $2162, 79 upvotes
+30. 21-10-2024 [CVE-2024-41990: Potential denial-of-service in django.utils.html.urlize()](https://hackerone.com/reports/2795558) to Internet Bug Bounty - $2162, 79 upvotes
 31. 04-12-2024 [CVE-2024-45230 - Potential denial-of-service in django.utils.html.urlize() (Another pattern)](https://hackerone.com/reports/2881639) to Internet Bug Bounty - $2162, 14 upvotes
 32. 07-08-2024 [CVE-2024-41989: Denial-Of-Service vulnerability in the floatformat template filter when input string contains a big exponent in scientific notation](https://hackerone.com/reports/2644244) to Internet Bug Bounty - $2142, 49 upvotes
 33. 14-08-2024 [CVE-2024-7347: Buffer overread in the ngx_http_mp4_module](https://hackerone.com/reports/2658447) to Internet Bug Bounty - $2142, 43 upvotes
@@ -73,30 +73,30 @@ Top 100 paid reports from HackerOne for period year:
 71. 01-07-2024 [DOM XSS in tiktok.com/login via the redirect_url parameter](https://hackerone.com/reports/2583874) to TikTok - $0, 127 upvotes
 72. 20-01-2025 [Applicant security exam Attachments/Documents accessible through an IDOR/BAC on the custom Apex controller on https://█████.mil ](https://hackerone.com/reports/2950536) to U.S. Dept Of Defense - $0, 124 upvotes
 73. 26-01-2025 [SQLi | in URL paths](https://hackerone.com/reports/2958619) to MTN Group - $0, 122 upvotes
-74. 08-06-2024 [FULL ACCOUNT TAKEOVER](https://hackerone.com/reports/2542372) to MTN Group - $0, 118 upvotes
-75. 12-07-2024 [Bypassing HackerOne 2FA due to race condition](https://hackerone.com/reports/2598548) to HackerOne - $0, 118 upvotes
+74. 12-07-2024 [Bypassing HackerOne 2FA due to race condition](https://hackerone.com/reports/2598548) to HackerOne - $0, 118 upvotes
+75. 08-06-2024 [FULL ACCOUNT TAKEOVER](https://hackerone.com/reports/2542372) to MTN Group - $0, 118 upvotes
 76. 01-08-2024 [Yet Another OTP code Leaked in the API Response](https://hackerone.com/reports/2635315) to MTN Group - $0, 114 upvotes
-77. 08-05-2024 [Sale cancellations from other sellers without restrictions](https://hackerone.com/reports/2495989) to MercadoLibre - $0, 113 upvotes
-78. 03-02-2025 [Stored Cross-Site Scripting found in custom integration app on https://admin.b360.autodesk.com.](https://hackerone.com/reports/2971572) to Autodesk - $0, 113 upvotes
-79. 25-01-2025 [Open redirect](https://hackerone.com/reports/2957962) to XVIDEOS - $0, 111 upvotes
-80. 12-02-2025 [Cloudflare WAF Bypass - Origin IP Exposure](https://hackerone.com/reports/2991326) to Hemi VDP - $0, 111 upvotes
+77. 03-02-2025 [Stored Cross-Site Scripting found in custom integration app on https://admin.b360.autodesk.com.](https://hackerone.com/reports/2971572) to Autodesk - $0, 113 upvotes
+78. 08-05-2024 [Sale cancellations from other sellers without restrictions](https://hackerone.com/reports/2495989) to MercadoLibre - $0, 113 upvotes
+79. 12-02-2025 [Cloudflare WAF Bypass - Origin IP Exposure](https://hackerone.com/reports/2991326) to Hemi VDP - $0, 111 upvotes
+80. 25-01-2025 [Open redirect](https://hackerone.com/reports/2957962) to XVIDEOS - $0, 111 upvotes
 81. 29-05-2024 [IDOR to view order information of users and personal information](https://hackerone.com/reports/2524562) to WakaTime - $0, 110 upvotes
-82. 07-11-2024 [Apache Airflow: Sensitive Information Exposure in DAG Run Logs](https://hackerone.com/reports/2828271) to Internet Bug Bounty - $0, 109 upvotes
-83. 12-02-2025 [Linkedin Broken Link Hijacking on https://hemi.xyz/about](https://hackerone.com/reports/2990368) to Hemi VDP - $0, 109 upvotes
+82. 12-02-2025 [Linkedin Broken Link Hijacking on https://hemi.xyz/about](https://hackerone.com/reports/2990368) to Hemi VDP - $0, 109 upvotes
+83. 07-11-2024 [Apache Airflow: Sensitive Information Exposure in DAG Run Logs](https://hackerone.com/reports/2828271) to Internet Bug Bounty - $0, 109 upvotes
 84. 18-01-2025 [Sensitive Information Disclosure via Back Button Post Logout on https://apps.nextcloud.com/account/](https://hackerone.com/reports/2946927) to Nextcloud - $0, 105 upvotes
-85. 27-12-2024 [Lack of Rate Limiting on Account Creation Endpoint  ](https://hackerone.com/reports/2915502) to XVIDEOS - $0, 102 upvotes
-86. 01-07-2024 [No rate limiting on form[register]](https://hackerone.com/reports/2583500) to Informatica - $0, 102 upvotes
+85. 01-07-2024 [No rate limiting on form[register]](https://hackerone.com/reports/2583500) to Informatica - $0, 102 upvotes
+86. 27-12-2024 [Lack of Rate Limiting on Account Creation Endpoint  ](https://hackerone.com/reports/2915502) to XVIDEOS - $0, 102 upvotes
 87. 10-12-2024 [Object Level access control leads to reading user's full requests, sessions, and error messages](https://hackerone.com/reports/2891449) to Yelp - $0, 101 upvotes
-88. 22-05-2024 [[Meetup][World ID][OIDC] Insufficient Filtering of "state" Parameter in Response Mode form_post leads to XSS and ATO](https://hackerone.com/reports/2515808) to Tools for Humanity - $0, 97 upvotes
+88. 31-07-2024 [SQL injection in URL path leads to Database Access](https://hackerone.com/reports/2633959) to MTN Group - $0, 97 upvotes
 89. 11-05-2024 [Access body and title of Internal Repo Issues in Projects](https://hackerone.com/reports/2501036) to GitHub - $0, 97 upvotes
-90. 31-07-2024 [SQL injection in URL path leads to Database Access](https://hackerone.com/reports/2633959) to MTN Group - $0, 97 upvotes
+90. 22-05-2024 [[Meetup][World ID][OIDC] Insufficient Filtering of "state" Parameter in Response Mode form_post leads to XSS and ATO](https://hackerone.com/reports/2515808) to Tools for Humanity - $0, 97 upvotes
 91. 29-09-2024 [Lack of rate limiting in https://███/PKI/PassReset.aspx leads to PII disclosure and potential account takeover](https://hackerone.com/reports/2748003) to U.S. Dept Of Defense - $0, 96 upvotes
-92. 20-05-2024 [Program Member Could Duplicate Report To A Non Related Program Original Report ](https://hackerone.com/reports/2513082) to HackerOne - $0, 94 upvotes
-93. 03-06-2024 [Can see phone numbers of others by providing mail address](https://hackerone.com/reports/2534458) to LinkedIn - $0, 94 upvotes
+92. 03-06-2024 [Can see phone numbers of others by providing mail address](https://hackerone.com/reports/2534458) to LinkedIn - $0, 94 upvotes
+93. 20-05-2024 [Program Member Could Duplicate Report To A Non Related Program Original Report ](https://hackerone.com/reports/2513082) to HackerOne - $0, 94 upvotes
 94. 05-07-2024 [Reflected HTML Injection via contact (faq) search parameter on ██████████](https://hackerone.com/reports/2587101) to Mars - $0, 93 upvotes
 95. 21-11-2024 [low-level p2p ping + tcp flooding leads to a remote crash in monerod](https://hackerone.com/reports/2858802) to Monero - $0, 90 upvotes
 96. 07-01-2025 [Public google drive link Exposes Military Orders Containing PII (Name, SSN etc..) and Operational Details](https://hackerone.com/reports/2926447) to U.S. Dept Of Defense - $0, 89 upvotes
 97. 03-10-2024 [█████████ when adding branches to your account](https://hackerone.com/reports/2756402) to Mars - $0, 88 upvotes
 98. 13-03-2025 [Twitter broken link hijacking in thewild.com](https://hackerone.com/reports/3035275) to Autodesk - $0, 86 upvotes
-99. 22-05-2024 [Access Control Vulnerability Enabling Unauthorized Access to Limited Disclosure Reports](https://hackerone.com/reports/2516250) to HackerOne - $0, 84 upvotes
-100. 25-09-2024 [SQL Injection](https://hackerone.com/reports/2737595) to U.S. Dept Of Defense - $0, 84 upvotes
+99. 25-09-2024 [SQL Injection](https://hackerone.com/reports/2737595) to U.S. Dept Of Defense - $0, 84 upvotes
+100. 22-05-2024 [Access Control Vulnerability Enabling Unauthorized Access to Limited Disclosure Reports](https://hackerone.com/reports/2516250) to HackerOne - $0, 84 upvotes
