@@ -1,4 +1,10 @@
 link,submitted_at,title,program,upvotes,bounty,vuln_type
+hackerone.com/reports/3112106,2025-04-25T08:45:06.524Z,BAC – Bypass chatbot restrictions via unauthorized mention injection,Dust,3,0.0,
+hackerone.com/reports/3125832,2025-05-04T04:56:30.904Z,HTTP/3 Stream Dependency Cycle Exploit,curl,19,0.0,Improper Input Validation
+hackerone.com/reports/3097900,2025-04-16T21:57:11.366Z,`/names.nsf` and all `/names*` files route to public API on rubygems.org,RubyGems,20,0.0,Improper Access Control - Generic
+hackerone.com/reports/2265413,2023-11-27T19:28:25.262Z,Open Redirect on https://api.fastly.com/,Fastly VDP,35,0.0,Open Redirect
+hackerone.com/reports/3088290,2025-04-11T05:57:22.743Z,Middleware Authentication Bypass on IBM Portal,IBM,38,0.0,Command Injection - Generic
+hackerone.com/reports/3115705,2025-04-28T11:26:38.120Z,Stored XSS in File Upload Leads to Privilege Escalation and Full Workspace Takeover,Dust,45,0.0,Cross-site Scripting (XSS) - Stored
 hackerone.com/reports/3120790,2025-05-01T00:05:53.247Z,Session Replay Attack Allows Authentication Bypass via Captured Login Responses Allowing Bypass of 429 Too many attempts for Multiple Failed Logins,WakaTime,3,0.0,Improper Authentication - Generic
 hackerone.com/reports/3114554,2025-04-27T13:35:59.591Z,Privilege Persistence via Cloned Agent,Dust,37,0.0,Improper Access Control - Generic
 hackerone.com/reports/3117697,2025-04-29T10:50:02.737Z,Double Free Vulnerability in `libcurl` Cookie Management (`cookie.c`),curl,9,0.0,Double Free
