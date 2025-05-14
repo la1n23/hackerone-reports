@@ -105,69 +105,70 @@ Top Account Takeover reports from HackerOne for period all:
 103. 18-09-2020 [weak password poilicy in signup password leak to account takeover](https://hackerone.com/reports/985367) to Stripo Inc - 22 upvotes, $0
 104. 09-06-2023 [Git Reference Ambiguity in GitHub - Commit Smuggling, Account Takeover, and Remote Code Execution](https://hackerone.com/reports/2017600) to GitHub - 22 upvotes, $0
 105. 07-05-2024 [Reset the 2FA of the user which can lead to Account Takeover](https://hackerone.com/reports/2492631) to HackerOne - 22 upvotes, $0
-106. 22-02-2021 [Password Reset link hijacking via Host Header Poisoning leads to account takeover](https://hackerone.com/reports/1108874) to U.S. Dept Of Defense - 19 upvotes, $0
-107. 07-01-2021 [[hta3] Chain of ESI Injection & Reflected XSS leading to Account Takeover on [███]](https://hackerone.com/reports/1073780) to U.S. Dept Of Defense - 18 upvotes, $750
-108. 27-02-2017 [Cross Domain leakage of sensitive information - Leading to Account Takeover at Instagram Brand](https://hackerone.com/reports/209352) to Automattic - 18 upvotes, $0
-109. 24-03-2017 [[REMOTE] Full Account Takeover At https://██████████████/CAS/](https://hackerone.com/reports/215859) to U.S. Dept Of Defense - 18 upvotes, $0
-110. 24-06-2020 [ Account Takeover on unverified emails in File Sync & Share ](https://hackerone.com/reports/906790) to Acronis - 18 upvotes, $0
-111. 09-03-2016 [Account Takeover](https://hackerone.com/reports/121827) to Bumble - 17 upvotes, $0
-112. 25-06-2016 [Insecure password change mechanism may lead to full account takeover](https://hackerone.com/reports/147203) to FantasyTote - 17 upvotes, $0
-113. 23-11-2017 [No Password Verification on  Changing Email Address Cause Account takeover   ](https://hackerone.com/reports/292673) to Coursera - 17 upvotes, $0
-114. 15-12-2019 [CORS Misconfiguration on nordvpn.com leading to Private Information Disclosure,Account takeover](https://hackerone.com/reports/758785) to Nord Security - 17 upvotes, $0
-115. 29-03-2022 [Github Account Takeover which is used as gradle vcs in "github.com/palantir/gradle-launch-config-plugin"](https://hackerone.com/reports/1525578) to Palantir Public - 17 upvotes, $0
-116. 22-09-2020 [CSRF to account takeover in https://███████.mil/](https://hackerone.com/reports/987751) to U.S. Dept Of Defense - 16 upvotes, $0
-117. 05-06-2020 [self-xss with ClickJacking can leads to account takeover in Firefox](https://hackerone.com/reports/892289) to Imgur - 16 upvotes, $0
-118. 23-04-2023 [' Full Account Takeover ' at █████](https://hackerone.com/reports/1959540) to Mars - 16 upvotes, $0
-119. 31-08-2019 [Unauth IDOR to mass account takeover without user interaction on the ███████ (https://███████.edu/)](https://hackerone.com/reports/685338) to U.S. Dept Of Defense - 16 upvotes, $0
-120. 29-05-2021 [Oauth Misconfiguration Lead To Account Takeover](https://hackerone.com/reports/1212374) to Reddit - 15 upvotes, $0
-121. 04-07-2022 [CSRF to ATO at https://█████/user/account [HtUS]](https://hackerone.com/reports/1624421) to U.S. Dept Of Defense - 13 upvotes, $500
-122. 25-09-2017 [Bruteforcing password reset tokens, could lead to account takeover](https://hackerone.com/reports/271533) to Instacart - 13 upvotes, $50
-123. 10-10-2020 [IDOR + Account Takeover  [UNAUTHENTICATED]](https://hackerone.com/reports/1004750) to U.S. Dept Of Defense - 13 upvotes, $0
-124. 16-12-2020 [Full account takeover in ███████ due lack of rate limiting in forgot password](https://hackerone.com/reports/1059758) to U.S. Dept Of Defense - 13 upvotes, $0
-125. 23-12-2021 [Github Account Takeover from Docs page of `kubernetes-csi.github.io`](https://hackerone.com/reports/1434967) to Kubernetes - 13 upvotes, $0
-126. 06-07-2022 [Account takeover on ███████ [HtUS]](https://hackerone.com/reports/1627961) to U.S. Dept Of Defense - 13 upvotes, $0
-127. 10-04-2014 [Full account takeover using CSRF and password reset](https://hackerone.com/reports/6910) to IRCCloud - 12 upvotes, $0
-128. 17-02-2022 [Account takeover leading to PII chained with stored XSS](https://hackerone.com/reports/1483201) to U.S. General Services Administration - 12 upvotes, $0
-129. 31-08-2022 [IDOR when editing email leads to Mass Full ATOs (Account Takeovers) without user interaction on https://██████/](https://hackerone.com/reports/1687415) to U.S. Dept Of Defense - 12 upvotes, $0
-130. 06-01-2023 [Session mismatch leading to potential account takeover (local access required)](https://hackerone.com/reports/1825227) to Cloudflare Public Bug Bounty - 12 upvotes, $0
-131. 25-07-2018 [[flintcms] Account takeover due to blind MongoDB injection in password reset](https://hackerone.com/reports/386807) to Node.js third-party modules - 11 upvotes, $0
-132. 20-09-2018 [Leaking Username and Password in the URLs via Virustotal, can leads to account takeover](https://hackerone.com/reports/411920) to Chaturbate - 11 upvotes, $0
-133. 21-04-2021 [Missing rate limit in current password change settings leads to Account takeover](https://hackerone.com/reports/1170522) to Reddit - 11 upvotes, $0
-134. 09-03-2015 [CSRF in login form would led to account takeover](https://hackerone.com/reports/50703) to Ubiquiti Inc. - 10 upvotes, $0
-135. 18-07-2016 [CSRF Full Account Takeover](https://hackerone.com/reports/152052) to Concrete CMS - 10 upvotes, $0
-136. 23-01-2020 [[h1-415 2020] Chain of vulnerabilities leading to account takeover and unauthorized access of sensitive internal resources](https://hackerone.com/reports/781281) to h1-ctf - 10 upvotes, $0
-137. 29-01-2020 [registering with the same email address multiple times leads to account takeover ](https://hackerone.com/reports/785833) to Reddit - 10 upvotes, $0
-138. 20-01-2022 [Improper Implementation of SDK Allows Universal XSS in Webview Leading to Account Takeover](https://hackerone.com/reports/1455987) to EXNESS - 10 upvotes, $0
-139. 25-06-2014 [Account takeover](https://hackerone.com/reports/17512) to HackerOne - 9 upvotes, $0
-140. 02-05-2017 [Account Takeover using Third party Auth CSRF](https://hackerone.com/reports/225653) to Weblate - 9 upvotes, $0
-141. 22-12-2022 [oauth misconfigration lead to account takeover](https://hackerone.com/reports/1815463) to Reddit - 9 upvotes, $0
-142. 03-08-2014 [Broken authentication and invalidated email address leads to account takeover](https://hackerone.com/reports/22203) to X / xAI - 8 upvotes, $0
-143. 30-09-2016 [Password Reset emails missing TLS leads account takeover](https://hackerone.com/reports/173251) to RubyGems - 8 upvotes, $0
-144. 23-01-2018 [CSRF token fixation and potential account takeover](https://hackerone.com/reports/308394) to Khan Academy - 8 upvotes, $0
-145. 02-06-2018 [Liberapay Non Verified Account Takeover with signup feature](https://hackerone.com/reports/361194) to Liberapay - 8 upvotes, $0
-146. 09-06-2020 [[H1-2006 2020] From multiple vulnerabilities to complete ATO on any customer account and staff admin](https://hackerone.com/reports/894863) to h1-ctf - 8 upvotes, $0
-147. 11-04-2020 [Stored XSS via 64(?) vulnerable fields in ███ leads to credential theft/account takeover](https://hackerone.com/reports/847176) to U.S. Dept Of Defense - 8 upvotes, $0
-148. 14-04-2021 [No Rate limit on change password leads to account takeover](https://hackerone.com/reports/1165285) to Reddit - 8 upvotes, $0
-149. 25-05-2022 [Regex account takeover](https://hackerone.com/reports/1581059) to Rocket.Chat - 8 upvotes, $0
-150. 29-07-2018 [Account takeover vulnerability by editor role privileged users/attackers via clickjacking](https://hackerone.com/reports/388254) to WordPress - 7 upvotes, $0
-151. 15-09-2018 [Account takeover due to CSRF in "Account details" option on █████████](https://hackerone.com/reports/410099) to U.S. Dept Of Defense - 7 upvotes, $0
-152. 31-05-2020 [[H1-2006 2020]  Multiple vulnerabilities leading account takeover](https://hackerone.com/reports/887700) to h1-ctf - 7 upvotes, $0
-153. 10-02-2020 [Password Reset Link not expiring after changing the email Leads To Account Takeover](https://hackerone.com/reports/792737) to Nord Security - 7 upvotes, $0
-154. 25-10-2020 [CSRF to account takeover in https://█████/](https://hackerone.com/reports/1018270) to U.S. Dept Of Defense - 7 upvotes, $0
-155. 30-01-2021 [Non-changing "_idnonce" value leads to CSRF on accounts at https://intensedebate.com for account takeover](https://hackerone.com/reports/1090982) to Automattic - 7 upvotes, $0
-156. 25-04-2017 [[hosted.weblate.org]Account Takeover](https://hackerone.com/reports/223637) to Weblate - 6 upvotes, $0
-157. 05-07-2022 [Account Takeover and Information update due to cross site request forgery via POST █████████/registration/my-account.cfm](https://hackerone.com/reports/1626356) to U.S. Dept Of Defense - 6 upvotes, $0
-158. 19-02-2017 [No Security check at changing password and at adding mobile number which leads to account takeover and spam](https://hackerone.com/reports/207552) to Khan Academy - 5 upvotes, $0
-159. 24-04-2017 [Weak e-mail change functionality could lead to account takeover](https://hackerone.com/reports/223461) to Weblate - 5 upvotes, $0
-160. 25-12-2019 [Account Takeover with old password and login QR](https://hackerone.com/reports/764558) to BCM Messenger - 5 upvotes, $0
-161. 18-12-2020 [Unauthorized access to PII leads to MASS account Takeover](https://hackerone.com/reports/1061736) to U.S. Dept Of Defense - 5 upvotes, $0
-162. 10-04-2014 [Session Token is not Verified while changing Account Setting's which Result In account Takeover](https://hackerone.com/reports/6907) to IRCCloud - 4 upvotes, $0
-163. 10-06-2020 [[h1-2006 2020]  Chained vulnerabilities lead to account takeover](https://hackerone.com/reports/895650) to h1-ctf - 4 upvotes, $0
-164. 03-06-2020 [[H1-2006 2020]  Multiple vulnerabilities lead to CEO account takeover and paid bounties](https://hackerone.com/reports/890196) to h1-ctf - 4 upvotes, $0
-165. 19-02-2020 [CSRF - Modify User Settings with one click - Account TakeOver](https://hackerone.com/reports/799895) to U.S. Dept Of Defense - 4 upvotes, $0
-166. 07-06-2014 [Session Token is not Verified while changing Account Setting's which Result In account Takeover](https://hackerone.com/reports/15476) to FanFootage - 3 upvotes, $0
-167. 25-01-2015 [Full account takeover via Add a New Email to account without email verified and without password confirmation.](https://hackerone.com/reports/45084) to Vimeo - 3 upvotes, $0
-168. 01-10-2017 [Adding Used Primary Email Address to attacker account and Account takeover](https://hackerone.com/reports/273647) to Gratipay - 3 upvotes, $0
-169. 21-10-2017 [Limited Account Takeover via Backup codes ](https://hackerone.com/reports/281449) to Inflection - 3 upvotes, $0
-170. 24-10-2017 [No Confirmation or Notification During Email Change which can leads to account takeover](https://hackerone.com/reports/282572) to Infogram - 3 upvotes, $0
-171. 10-06-2020 [[h1-2006 CTF] Multiple vulnerabilities leading to account takeover and two-factor authentication bypass allows to send pending bounty payments](https://hackerone.com/reports/895722) to h1-ctf - 3 upvotes, $0
+106. 07-04-2025 [Unauthorized Account Access via Leaked Credentials in URL Format (Account Takeover )](https://hackerone.com/reports/3080597) to Khan Academy - 21 upvotes, $0
+107. 22-02-2021 [Password Reset link hijacking via Host Header Poisoning leads to account takeover](https://hackerone.com/reports/1108874) to U.S. Dept Of Defense - 19 upvotes, $0
+108. 07-01-2021 [[hta3] Chain of ESI Injection & Reflected XSS leading to Account Takeover on [███]](https://hackerone.com/reports/1073780) to U.S. Dept Of Defense - 18 upvotes, $750
+109. 27-02-2017 [Cross Domain leakage of sensitive information - Leading to Account Takeover at Instagram Brand](https://hackerone.com/reports/209352) to Automattic - 18 upvotes, $0
+110. 24-03-2017 [[REMOTE] Full Account Takeover At https://██████████████/CAS/](https://hackerone.com/reports/215859) to U.S. Dept Of Defense - 18 upvotes, $0
+111. 24-06-2020 [ Account Takeover on unverified emails in File Sync & Share ](https://hackerone.com/reports/906790) to Acronis - 18 upvotes, $0
+112. 09-03-2016 [Account Takeover](https://hackerone.com/reports/121827) to Bumble - 17 upvotes, $0
+113. 25-06-2016 [Insecure password change mechanism may lead to full account takeover](https://hackerone.com/reports/147203) to FantasyTote - 17 upvotes, $0
+114. 23-11-2017 [No Password Verification on  Changing Email Address Cause Account takeover   ](https://hackerone.com/reports/292673) to Coursera - 17 upvotes, $0
+115. 15-12-2019 [CORS Misconfiguration on nordvpn.com leading to Private Information Disclosure,Account takeover](https://hackerone.com/reports/758785) to Nord Security - 17 upvotes, $0
+116. 29-03-2022 [Github Account Takeover which is used as gradle vcs in "github.com/palantir/gradle-launch-config-plugin"](https://hackerone.com/reports/1525578) to Palantir Public - 17 upvotes, $0
+117. 22-09-2020 [CSRF to account takeover in https://███████.mil/](https://hackerone.com/reports/987751) to U.S. Dept Of Defense - 16 upvotes, $0
+118. 05-06-2020 [self-xss with ClickJacking can leads to account takeover in Firefox](https://hackerone.com/reports/892289) to Imgur - 16 upvotes, $0
+119. 23-04-2023 [' Full Account Takeover ' at █████](https://hackerone.com/reports/1959540) to Mars - 16 upvotes, $0
+120. 31-08-2019 [Unauth IDOR to mass account takeover without user interaction on the ███████ (https://███████.edu/)](https://hackerone.com/reports/685338) to U.S. Dept Of Defense - 16 upvotes, $0
+121. 29-05-2021 [Oauth Misconfiguration Lead To Account Takeover](https://hackerone.com/reports/1212374) to Reddit - 15 upvotes, $0
+122. 04-07-2022 [CSRF to ATO at https://█████/user/account [HtUS]](https://hackerone.com/reports/1624421) to U.S. Dept Of Defense - 13 upvotes, $500
+123. 25-09-2017 [Bruteforcing password reset tokens, could lead to account takeover](https://hackerone.com/reports/271533) to Instacart - 13 upvotes, $50
+124. 10-10-2020 [IDOR + Account Takeover  [UNAUTHENTICATED]](https://hackerone.com/reports/1004750) to U.S. Dept Of Defense - 13 upvotes, $0
+125. 16-12-2020 [Full account takeover in ███████ due lack of rate limiting in forgot password](https://hackerone.com/reports/1059758) to U.S. Dept Of Defense - 13 upvotes, $0
+126. 23-12-2021 [Github Account Takeover from Docs page of `kubernetes-csi.github.io`](https://hackerone.com/reports/1434967) to Kubernetes - 13 upvotes, $0
+127. 06-07-2022 [Account takeover on ███████ [HtUS]](https://hackerone.com/reports/1627961) to U.S. Dept Of Defense - 13 upvotes, $0
+128. 10-04-2014 [Full account takeover using CSRF and password reset](https://hackerone.com/reports/6910) to IRCCloud - 12 upvotes, $0
+129. 17-02-2022 [Account takeover leading to PII chained with stored XSS](https://hackerone.com/reports/1483201) to U.S. General Services Administration - 12 upvotes, $0
+130. 31-08-2022 [IDOR when editing email leads to Mass Full ATOs (Account Takeovers) without user interaction on https://██████/](https://hackerone.com/reports/1687415) to U.S. Dept Of Defense - 12 upvotes, $0
+131. 06-01-2023 [Session mismatch leading to potential account takeover (local access required)](https://hackerone.com/reports/1825227) to Cloudflare Public Bug Bounty - 12 upvotes, $0
+132. 25-07-2018 [[flintcms] Account takeover due to blind MongoDB injection in password reset](https://hackerone.com/reports/386807) to Node.js third-party modules - 11 upvotes, $0
+133. 20-09-2018 [Leaking Username and Password in the URLs via Virustotal, can leads to account takeover](https://hackerone.com/reports/411920) to Chaturbate - 11 upvotes, $0
+134. 21-04-2021 [Missing rate limit in current password change settings leads to Account takeover](https://hackerone.com/reports/1170522) to Reddit - 11 upvotes, $0
+135. 09-03-2015 [CSRF in login form would led to account takeover](https://hackerone.com/reports/50703) to Ubiquiti Inc. - 10 upvotes, $0
+136. 18-07-2016 [CSRF Full Account Takeover](https://hackerone.com/reports/152052) to Concrete CMS - 10 upvotes, $0
+137. 23-01-2020 [[h1-415 2020] Chain of vulnerabilities leading to account takeover and unauthorized access of sensitive internal resources](https://hackerone.com/reports/781281) to h1-ctf - 10 upvotes, $0
+138. 29-01-2020 [registering with the same email address multiple times leads to account takeover ](https://hackerone.com/reports/785833) to Reddit - 10 upvotes, $0
+139. 20-01-2022 [Improper Implementation of SDK Allows Universal XSS in Webview Leading to Account Takeover](https://hackerone.com/reports/1455987) to EXNESS - 10 upvotes, $0
+140. 25-06-2014 [Account takeover](https://hackerone.com/reports/17512) to HackerOne - 9 upvotes, $0
+141. 02-05-2017 [Account Takeover using Third party Auth CSRF](https://hackerone.com/reports/225653) to Weblate - 9 upvotes, $0
+142. 22-12-2022 [oauth misconfigration lead to account takeover](https://hackerone.com/reports/1815463) to Reddit - 9 upvotes, $0
+143. 03-08-2014 [Broken authentication and invalidated email address leads to account takeover](https://hackerone.com/reports/22203) to X / xAI - 8 upvotes, $0
+144. 30-09-2016 [Password Reset emails missing TLS leads account takeover](https://hackerone.com/reports/173251) to RubyGems - 8 upvotes, $0
+145. 23-01-2018 [CSRF token fixation and potential account takeover](https://hackerone.com/reports/308394) to Khan Academy - 8 upvotes, $0
+146. 02-06-2018 [Liberapay Non Verified Account Takeover with signup feature](https://hackerone.com/reports/361194) to Liberapay - 8 upvotes, $0
+147. 09-06-2020 [[H1-2006 2020] From multiple vulnerabilities to complete ATO on any customer account and staff admin](https://hackerone.com/reports/894863) to h1-ctf - 8 upvotes, $0
+148. 11-04-2020 [Stored XSS via 64(?) vulnerable fields in ███ leads to credential theft/account takeover](https://hackerone.com/reports/847176) to U.S. Dept Of Defense - 8 upvotes, $0
+149. 14-04-2021 [No Rate limit on change password leads to account takeover](https://hackerone.com/reports/1165285) to Reddit - 8 upvotes, $0
+150. 25-05-2022 [Regex account takeover](https://hackerone.com/reports/1581059) to Rocket.Chat - 8 upvotes, $0
+151. 29-07-2018 [Account takeover vulnerability by editor role privileged users/attackers via clickjacking](https://hackerone.com/reports/388254) to WordPress - 7 upvotes, $0
+152. 15-09-2018 [Account takeover due to CSRF in "Account details" option on █████████](https://hackerone.com/reports/410099) to U.S. Dept Of Defense - 7 upvotes, $0
+153. 31-05-2020 [[H1-2006 2020]  Multiple vulnerabilities leading account takeover](https://hackerone.com/reports/887700) to h1-ctf - 7 upvotes, $0
+154. 10-02-2020 [Password Reset Link not expiring after changing the email Leads To Account Takeover](https://hackerone.com/reports/792737) to Nord Security - 7 upvotes, $0
+155. 25-10-2020 [CSRF to account takeover in https://█████/](https://hackerone.com/reports/1018270) to U.S. Dept Of Defense - 7 upvotes, $0
+156. 30-01-2021 [Non-changing "_idnonce" value leads to CSRF on accounts at https://intensedebate.com for account takeover](https://hackerone.com/reports/1090982) to Automattic - 7 upvotes, $0
+157. 25-04-2017 [[hosted.weblate.org]Account Takeover](https://hackerone.com/reports/223637) to Weblate - 6 upvotes, $0
+158. 05-07-2022 [Account Takeover and Information update due to cross site request forgery via POST █████████/registration/my-account.cfm](https://hackerone.com/reports/1626356) to U.S. Dept Of Defense - 6 upvotes, $0
+159. 19-02-2017 [No Security check at changing password and at adding mobile number which leads to account takeover and spam](https://hackerone.com/reports/207552) to Khan Academy - 5 upvotes, $0
+160. 24-04-2017 [Weak e-mail change functionality could lead to account takeover](https://hackerone.com/reports/223461) to Weblate - 5 upvotes, $0
+161. 25-12-2019 [Account Takeover with old password and login QR](https://hackerone.com/reports/764558) to BCM Messenger - 5 upvotes, $0
+162. 18-12-2020 [Unauthorized access to PII leads to MASS account Takeover](https://hackerone.com/reports/1061736) to U.S. Dept Of Defense - 5 upvotes, $0
+163. 10-04-2014 [Session Token is not Verified while changing Account Setting's which Result In account Takeover](https://hackerone.com/reports/6907) to IRCCloud - 4 upvotes, $0
+164. 10-06-2020 [[h1-2006 2020]  Chained vulnerabilities lead to account takeover](https://hackerone.com/reports/895650) to h1-ctf - 4 upvotes, $0
+165. 03-06-2020 [[H1-2006 2020]  Multiple vulnerabilities lead to CEO account takeover and paid bounties](https://hackerone.com/reports/890196) to h1-ctf - 4 upvotes, $0
+166. 19-02-2020 [CSRF - Modify User Settings with one click - Account TakeOver](https://hackerone.com/reports/799895) to U.S. Dept Of Defense - 4 upvotes, $0
+167. 07-06-2014 [Session Token is not Verified while changing Account Setting's which Result In account Takeover](https://hackerone.com/reports/15476) to FanFootage - 3 upvotes, $0
+168. 25-01-2015 [Full account takeover via Add a New Email to account without email verified and without password confirmation.](https://hackerone.com/reports/45084) to Vimeo - 3 upvotes, $0
+169. 01-10-2017 [Adding Used Primary Email Address to attacker account and Account takeover](https://hackerone.com/reports/273647) to Gratipay - 3 upvotes, $0
+170. 21-10-2017 [Limited Account Takeover via Backup codes ](https://hackerone.com/reports/281449) to Inflection - 3 upvotes, $0
+171. 24-10-2017 [No Confirmation or Notification During Email Change which can leads to account takeover](https://hackerone.com/reports/282572) to Infogram - 3 upvotes, $0
+172. 10-06-2020 [[h1-2006 CTF] Multiple vulnerabilities leading to account takeover and two-factor authentication bypass allows to send pending bounty payments](https://hackerone.com/reports/895722) to h1-ctf - 3 upvotes, $0

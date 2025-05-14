@@ -51,112 +51,114 @@ Top reports from curl program at HackerOne for period all:
 49. 22-04-2021 [CVE-2021-22897: schannel cipher selection surprise](https://hackerone.com/reports/1172857) to curl - 12 upvotes, $12
 50. 08-03-2023 [CVE-2023-27537: HSTS double-free](https://hackerone.com/reports/1897203) to curl - 12 upvotes, $12
 51. 05-03-2024 [CVE-2024-2398: HTTP/2 push headers memory-leak](https://hackerone.com/reports/2402845) to curl - 12 upvotes, $12
-52. 31-07-2020 [CVE-2020-8231: Connect-only connections can use the wrong connection](https://hackerone.com/reports/948876) to curl - 11 upvotes, $11
-53. 29-08-2019 [CVE-2019-5482: Heap buffer overflow in TFTP when using small blksize](https://hackerone.com/reports/684603) to curl - 11 upvotes, $11
-54. 10-03-2024 [CVE-2024-2379: QUIC certificate check bypass with wolfSSL](https://hackerone.com/reports/2410774) to curl - 11 upvotes, $11
-55. 13-06-2024 [Unicode-to-ASCII conversion on Windows can lead to argument injection and more](https://hackerone.com/reports/2550951) to curl - 11 upvotes, $11
-56. 09-09-2021 [CVE-2021-22946: Protocol downgrade required TLS bypassed](https://hackerone.com/reports/1334111) to curl - 10 upvotes, $10
-57. 27-01-2025 [curl allows SSH connection even if host is not in known_hosts](https://hackerone.com/reports/2961050) to curl - 10 upvotes, $10
-58. 31-10-2019 [SMB access smuggling via FILE URL on Windows](https://hackerone.com/reports/726117) to curl - 9 upvotes, $9
-59. 28-04-2022 [CVE-2022-27778: curl removes wrong file on error](https://hackerone.com/reports/1553598) to curl - 9 upvotes, $9
-60. 28-04-2022 [CVE-2022-27780: percent-encoded path separator in URL host](https://hackerone.com/reports/1553841) to curl - 9 upvotes, $9
-61. 02-06-2022 [CVE-2022-32208: FTP-KRB bad message verification](https://hackerone.com/reports/1590071) to curl - 9 upvotes, $9
-62. 29-04-2025 [Double Free Vulnerability in `libcurl` Cookie Management (`cookie.c`)](https://hackerone.com/reports/3117697) to curl - 9 upvotes, $9
-63. 19-05-2023 [Cache purge requests are not authenticated](https://hackerone.com/reports/1994585) to curl - 8 upvotes, $8
-64. 29-04-2025 [Use of a Broken or Risky Cryptographic Algorithm (CWE-327) in libcurl](https://hackerone.com/reports/3116935) to curl - 8 upvotes, $8
-65. 17-03-2021 [CVE-2021-22890: TLS 1.3 session ticket proxy host mixup](https://hackerone.com/reports/1129529) to curl - 7 upvotes, $7
-66. 09-09-2021 [CVE-2021-22947: STARTTLS protocol injection via MITM](https://hackerone.com/reports/1334763) to curl - 7 upvotes, $7
-67. 18-04-2022 [CVE-2022-27774: Credential leak on redirect](https://hackerone.com/reports/1543773) to curl - 7 upvotes, $7
-68. 29-10-2022 [CVE-2022-43551: Another HSTS bypass via IDN](https://hackerone.com/reports/1755083) to curl - 7 upvotes, $7
-69. 21-12-2022 [CVE-2023-23915: HSTS amnesia with --parallel](https://hackerone.com/reports/1814333) to curl - 7 upvotes, $7
-70. 14-06-2024 [Incorrect Encoding Conversion in hostname  results in indeterminate SSRF vulnerabilities](https://hackerone.com/reports/2552179) to curl - 7 upvotes, $7
-71. 27-04-2021 [CVE-2021-22898: TELNET stack contents disclosure](https://hackerone.com/reports/1176461) to curl - 6 upvotes, $6
-72. 22-04-2019 [Github wikis are editable by anyone #Githubwikistakeover](https://hackerone.com/reports/545052) to curl - 6 upvotes, $6
-73. 03-09-2019 [CVE-2019-5481: krb5: double-free in read_data() after realloc() fail](https://hackerone.com/reports/686823) to curl - 6 upvotes, $6
-74. 23-04-2022 [--libcurl code injection via trigraphs](https://hackerone.com/reports/1548535) to curl - 6 upvotes, $6
-75. 30-03-2022 [CVE-2022-22576: OAUTH2 bearer bypass in connection re-use](https://hackerone.com/reports/1526328) to curl - 6 upvotes, $6
-76. 03-05-2022 [CVE-2022-30115: HSTS bypass via trailing dot](https://hackerone.com/reports/1557449) to curl - 6 upvotes, $6
-77. 04-10-2022 [CVE-2022-42915: HTTP proxy double-free](https://hackerone.com/reports/1722065) to curl - 6 upvotes, $6
-78. 22-12-2022 [curl file writing susceptible to symlink attacks](https://hackerone.com/reports/1814824) to curl - 6 upvotes, $6
-79. 21-12-2022 [CVE-2023-23914: curl HSTS ignored on multiple requests](https://hackerone.com/reports/1813864) to curl - 6 upvotes, $6
-80. 14-06-2024 [Denial of Service in curl Request - HTTP headers eat all memory](https://hackerone.com/reports/2552192) to curl - 6 upvotes, $6
-81. 01-10-2019 [SSRF via maliciously crafted URL due to host confusion](https://hackerone.com/reports/704621) to curl - 5 upvotes, $5
-82. 12-02-2021 [CVE-2021-22876: Automatic referer leaks credentials](https://hackerone.com/reports/1101882) to curl - 5 upvotes, $5
-83. 09-01-2022 [ Remote memory disclosure vulnerability in libcurl on 64 Bit Windows](https://hackerone.com/reports/1444539) to curl - 5 upvotes, $5
-84. 21-04-2022 [CVE-2022-27775: Bad local IPv6 connection reuse](https://hackerone.com/reports/1546268) to curl - 5 upvotes, $5
-85. 28-04-2022 [CVE-2022-27779: cookie for trailing dot TLD](https://hackerone.com/reports/1553301) to curl - 5 upvotes, $5
-86. 01-05-2022 [CVE-2022-27782: TLS and SSH connection too eager reuse](https://hackerone.com/reports/1555796) to curl - 5 upvotes, $5
-87. 13-05-2022 [Credential leak on redirect](https://hackerone.com/reports/1568175) to curl - 5 upvotes, $5
-88. 30-04-2022 [CVE-2022-27781: CERTINFO never-ending busy-loop](https://hackerone.com/reports/1555441) to curl - 5 upvotes, $5
-89. 03-10-2022 [CVE-2022-35260: .netrc parser out-of-bounds access](https://hackerone.com/reports/1721098) to curl - 5 upvotes, $5
-90. 02-04-2023 [CVE-2023-28320: siglongjmp race condition](https://hackerone.com/reports/1929597) to curl - 5 upvotes, $5
-91. 11-06-2021 [CVE-2021-22924: Bad connection reuse due to flawed path name checks](https://hackerone.com/reports/1223565) to curl - 4 upvotes, $4
-92. 30-05-2021 [CVE-2021-22922: Wrong content via metalink not discarded](https://hackerone.com/reports/1213175) to curl - 4 upvotes, $4
-93. 28-05-2019 [Signed integer overflow in tool_progress_cb()](https://hackerone.com/reports/591770) to curl - 4 upvotes, $4
-94. 11-07-2019 [Active Mixed Content over HTTPS](https://hackerone.com/reports/640532) to curl - 4 upvotes, $4
-95. 15-05-2020 [Invalid write (or double free) triggers curl command line tool crash](https://hackerone.com/reports/875775) to curl - 4 upvotes, $4
-96. 27-07-2019 [Integer overflows in tool_operate.c at line 1541](https://hackerone.com/reports/661847) to curl - 4 upvotes, $4
-97. 12-05-2022 [Memory leak in CURLOPT_XOAUTH2_BEARER](https://hackerone.com/reports/1567257) to curl - 4 upvotes, $4
-98. 12-05-2022 [error parse uri path in curl](https://hackerone.com/reports/1566462) to curl - 4 upvotes, $4
-99. 17-05-2022 [CVE-2022-32207: Unpreserved file permissions](https://hackerone.com/reports/1573634) to curl - 4 upvotes, $4
-100. 15-05-2022 [CVE-2022-32206: HTTP compression denial of service](https://hackerone.com/reports/1570651) to curl - 4 upvotes, $4
-101. 13-05-2022 [CVE-2022-32205: Set-Cookie denial of service](https://hackerone.com/reports/1569946) to curl - 4 upvotes, $4
-102. 05-03-2023 [CVE-2023-27535: FTP too eager connection reuse](https://hackerone.com/reports/1892780) to curl - 4 upvotes, $4
-103. 07-03-2023 [CVE-2023-27536: GSS delegation too eager connection re-use](https://hackerone.com/reports/1895135) to curl - 4 upvotes, $4
-104. 09-03-2023 [CVE-2023-27538: SSH connection too eager reuse still](https://hackerone.com/reports/1898475) to curl - 4 upvotes, $4
-105. 15-06-2021 [CVE-2021-22926: CURLOPT_SSLCERT mixup with Secure Transport](https://hackerone.com/reports/1234760) to curl - 3 upvotes, $3
-106. 30-05-2021 [CVE-2021-22923: Metalink download sends credentials](https://hackerone.com/reports/1213181) to curl - 3 upvotes, $3
-107. 18-07-2020 [curl overwrites local file with -J option if file non-readable, but file writable.](https://hackerone.com/reports/926638) to curl - 3 upvotes, $3
-108. 03-12-2020 [Abusing URL Parsers by long schema name](https://hackerone.com/reports/1049624) to curl - 3 upvotes, $3
-109. 02-06-2020 [Poll loop/hang on incomplete HTTP header](https://hackerone.com/reports/889160) to curl - 3 upvotes, $3
-110. 05-06-2019 [Integer overflow in the source code tool_cb_prg.c](https://hackerone.com/reports/600359) to curl - 3 upvotes, $3
-111. 11-06-2021 [CVE-2021-22925: TELNET stack contents disclosure again](https://hackerone.com/reports/1223882) to curl - 3 upvotes, $3
-112. 24-03-2022 [Denial of Service vulnerability in curl when parsing MQTT server response](https://hackerone.com/reports/1521610) to curl - 3 upvotes, $3
-113. 24-04-2022 [CURLOPT_SSH_HOST_PUBLIC_KEY_MD5 bypass if string not 32 chars](https://hackerone.com/reports/1549461) to curl - 3 upvotes, $3
-114. 13-05-2022 [Credential leak when use two url](https://hackerone.com/reports/1569926) to curl - 3 upvotes, $3
-115. 18-09-2022 [CVE-2022-32221: POST following PUT confusion](https://hackerone.com/reports/1704017) to curl - 3 upvotes, $3
-116. 07-01-2023 [ libssh backend CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256 validation bypass](https://hackerone.com/reports/1825377) to curl - 3 upvotes, $3
-117. 03-03-2023 [CVE-2023-27533: Telnet option IAC injection](https://hackerone.com/reports/1891474) to curl - 3 upvotes, $3
-118. 05-03-2023 [CVE-2023-27534: SFTP path ~ resolving discrepancy](https://hackerone.com/reports/1892351) to curl - 3 upvotes, $3
-119. 19-04-2023 [CVE-2023-28322: more POST-after-PUT confusion](https://hackerone.com/reports/1954658) to curl - 3 upvotes, $3
-120. 27-11-2020 [CVE-2020-8285: FTP wildcard stack overflow](https://hackerone.com/reports/1045844) to curl - 2 upvotes, $2
-121. 29-12-2019 [Heap Buffer Overflow (READ of size 1) in ourWriteOut](https://hackerone.com/reports/765664) to curl - 2 upvotes, $2
-122. 08-07-2019 [Libcurl ocasionally sends HTTPS traffic to port 443 rather than specified port 8080](https://hackerone.com/reports/637800) to curl - 2 upvotes, $2
-123. 24-06-2019 [Integer overlow in "header_append" function](https://hackerone.com/reports/627245) to curl - 2 upvotes, $2
-124. 14-10-2019 [curl on Windows can be forced to execute code via OpenSSL environment variables](https://hackerone.com/reports/714215) to curl - 2 upvotes, $2
-125. 25-01-2021 [Proxy-Authorization header carried to a new host on a redirect](https://hackerone.com/reports/1086259) to curl - 2 upvotes, $2
-126. 03-02-2022 [Binary output bypass](https://hackerone.com/reports/1468962) to curl - 2 upvotes, $2
-127. 24-04-2022 [CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256 comparison disaster](https://hackerone.com/reports/1549435) to curl - 2 upvotes, $2
-128. 08-05-2022 [Certificate authentication re-use on redirect](https://hackerone.com/reports/1563061) to curl - 2 upvotes, $2
-129. 05-05-2022 [Cookie injection from non-secure context](https://hackerone.com/reports/1560324) to curl - 2 upvotes, $2
-130. 02-06-2022 [Heap overflow via HTTP/2 PUSH_PROMISE](https://hackerone.com/reports/1589847) to curl - 2 upvotes, $2
-131. 11-10-2022 [CVE-2022-42916: HSTS bypass via IDN](https://hackerone.com/reports/1730660) to curl - 2 upvotes, $2
-132. 17-04-2023 [CVE-2023-28321: IDN wildcard match](https://hackerone.com/reports/1950627) to curl - 2 upvotes, $2
-133. 11-07-2019 [Insecure Frame (External)](https://hackerone.com/reports/640530) to curl - 1 upvotes, $1
-134. 26-10-2020 [Parallel upload hangs curl if upload file not found](https://hackerone.com/reports/1019372) to curl - 1 upvotes, $1
-135. 28-03-2019 [libcurl: SMTP end-of-response out-of-bounds read - CVE-2019-3823](https://hackerone.com/reports/518097) to curl - 1 upvotes, $1
-136. 28-10-2019 [Race condition with CURL_LOCK_DATA_CONNECT can cause connections to be used at the same time](https://hackerone.com/reports/724134) to curl - 1 upvotes, $1
-137. 14-01-2020 [Division by zero if terminal width is 2](https://hackerone.com/reports/774883) to curl - 1 upvotes, $1
-138. 08-01-2020 [Unexpected access to process open files via file:///proc/self/fd/n](https://hackerone.com/reports/770190) to curl - 1 upvotes, $1
-139. 03-10-2019 [use after free in cookie.c](https://hackerone.com/reports/707006) to curl - 1 upvotes, $1
-140. 18-09-2019 [Potential invocation of qsort on uninitialized memory during cookie save](https://hackerone.com/reports/696822) to curl - 1 upvotes, $1
-141. 14-09-2019 [Resource leak when using a normal site as DOH server](https://hackerone.com/reports/694988) to curl - 1 upvotes, $1
-142. 13-09-2019 [Buffer write overflow when forming dns over http request](https://hackerone.com/reports/694449) to curl - 1 upvotes, $1
-143. 29-07-2019 [Integer overflow  at line 1603 in the src/operator.c file](https://hackerone.com/reports/662412) to curl - 1 upvotes, $1
-144. 04-07-2019 [huge COLUMNS causes progress-bar to buffer overflow](https://hackerone.com/reports/636013) to curl - 1 upvotes, $1
-145. 01-03-2021 [Inadequate Cryptographic Key Size and Insecure Cryptographic Mode.  File Name :- curl_ntlm_core.c](https://hackerone.com/reports/1113663) to curl - 1 upvotes, $1
-146. 28-01-2022 [Occasional use-after-free in multi_done() libcurl-7.81.0](https://hackerone.com/reports/1463013) to curl - 1 upvotes, $1
-147. 18-02-2022 [Use of Unsafe function || Strcpy](https://hackerone.com/reports/1485379) to curl - 1 upvotes, $1
-148. 17-04-2022 [curl proceeds with unsafe connections when -K file can't be read](https://hackerone.com/reports/1542881) to curl - 1 upvotes, $1
-149. 02-06-2022 [KRB-FTP: Security level downgrade](https://hackerone.com/reports/1590102) to curl - 1 upvotes, $1
-150. 16-05-2022 [curl "globbing" can lead to denial of service attacks](https://hackerone.com/reports/1572120) to curl - 1 upvotes, $1
-151. 13-01-2020 [Port and service scanning on localhost due to improper URL validation.](https://hackerone.com/reports/773313) to curl - 0 upvotes, $0
-152. 27-10-2020 [Data race conditions reported by helgrind when performing parallel DNS queries in libcurl](https://hackerone.com/reports/1019457) to curl - 0 upvotes, $0
-153. 14-10-2019 [Only OpenSSL handles a CRL when passed in via CApath ](https://hackerone.com/reports/713975) to curl - 0 upvotes, $0
-154. 16-10-2019 [curl successfully matches IP address literal in URL against IP address literal in certificate Common Name](https://hackerone.com/reports/715413) to curl - 0 upvotes, $0
-155. 12-05-2020 [Curl_auth_create_plain_message integer overflow leads to heap buffer overflow](https://hackerone.com/reports/872089) to curl - 0 upvotes, $0
-156. 08-03-2020 [curl still vulnerable to SMB access smuggling via FILE URL on Windows](https://hackerone.com/reports/812969) to curl - 0 upvotes, $0
-157. 04-09-2019 [Incorrect IPv6 literal parsing leads to validated connection to unexpected https server.](https://hackerone.com/reports/688048) to curl - 0 upvotes, $0
-158. 04-09-2019 [Double-free of `trailers_buf' on `Curl_http_compile_trailers()` failure](https://hackerone.com/reports/687734) to curl - 0 upvotes, $0
-159. 30-04-2022 [match](https://hackerone.com/reports/1555440) to curl - 0 upvotes, $0
-160. 10-05-2022 [Integer overflows in unescape_word()](https://hackerone.com/reports/1564922) to curl - 0 upvotes, $0
+52. 09-05-2025 [Memory Leak](https://hackerone.com/reports/3137657) to curl - 12 upvotes, $12
+53. 31-07-2020 [CVE-2020-8231: Connect-only connections can use the wrong connection](https://hackerone.com/reports/948876) to curl - 11 upvotes, $11
+54. 29-08-2019 [CVE-2019-5482: Heap buffer overflow in TFTP when using small blksize](https://hackerone.com/reports/684603) to curl - 11 upvotes, $11
+55. 10-03-2024 [CVE-2024-2379: QUIC certificate check bypass with wolfSSL](https://hackerone.com/reports/2410774) to curl - 11 upvotes, $11
+56. 13-06-2024 [Unicode-to-ASCII conversion on Windows can lead to argument injection and more](https://hackerone.com/reports/2550951) to curl - 11 upvotes, $11
+57. 09-09-2021 [CVE-2021-22946: Protocol downgrade required TLS bypassed](https://hackerone.com/reports/1334111) to curl - 10 upvotes, $10
+58. 27-01-2025 [curl allows SSH connection even if host is not in known_hosts](https://hackerone.com/reports/2961050) to curl - 10 upvotes, $10
+59. 07-05-2025 [CRLF Injection in `--proxy-header` allows extra HTTP headers (CWE-93)](https://hackerone.com/reports/3133379) to curl - 10 upvotes, $10
+60. 31-10-2019 [SMB access smuggling via FILE URL on Windows](https://hackerone.com/reports/726117) to curl - 9 upvotes, $9
+61. 28-04-2022 [CVE-2022-27778: curl removes wrong file on error](https://hackerone.com/reports/1553598) to curl - 9 upvotes, $9
+62. 28-04-2022 [CVE-2022-27780: percent-encoded path separator in URL host](https://hackerone.com/reports/1553841) to curl - 9 upvotes, $9
+63. 02-06-2022 [CVE-2022-32208: FTP-KRB bad message verification](https://hackerone.com/reports/1590071) to curl - 9 upvotes, $9
+64. 29-04-2025 [Double Free Vulnerability in `libcurl` Cookie Management (`cookie.c`)](https://hackerone.com/reports/3117697) to curl - 9 upvotes, $9
+65. 19-05-2023 [Cache purge requests are not authenticated](https://hackerone.com/reports/1994585) to curl - 8 upvotes, $8
+66. 29-04-2025 [Use of a Broken or Risky Cryptographic Algorithm (CWE-327) in libcurl](https://hackerone.com/reports/3116935) to curl - 8 upvotes, $8
+67. 17-03-2021 [CVE-2021-22890: TLS 1.3 session ticket proxy host mixup](https://hackerone.com/reports/1129529) to curl - 7 upvotes, $7
+68. 09-09-2021 [CVE-2021-22947: STARTTLS protocol injection via MITM](https://hackerone.com/reports/1334763) to curl - 7 upvotes, $7
+69. 18-04-2022 [CVE-2022-27774: Credential leak on redirect](https://hackerone.com/reports/1543773) to curl - 7 upvotes, $7
+70. 29-10-2022 [CVE-2022-43551: Another HSTS bypass via IDN](https://hackerone.com/reports/1755083) to curl - 7 upvotes, $7
+71. 21-12-2022 [CVE-2023-23915: HSTS amnesia with --parallel](https://hackerone.com/reports/1814333) to curl - 7 upvotes, $7
+72. 14-06-2024 [Incorrect Encoding Conversion in hostname  results in indeterminate SSRF vulnerabilities](https://hackerone.com/reports/2552179) to curl - 7 upvotes, $7
+73. 27-04-2021 [CVE-2021-22898: TELNET stack contents disclosure](https://hackerone.com/reports/1176461) to curl - 6 upvotes, $6
+74. 22-04-2019 [Github wikis are editable by anyone #Githubwikistakeover](https://hackerone.com/reports/545052) to curl - 6 upvotes, $6
+75. 03-09-2019 [CVE-2019-5481: krb5: double-free in read_data() after realloc() fail](https://hackerone.com/reports/686823) to curl - 6 upvotes, $6
+76. 23-04-2022 [--libcurl code injection via trigraphs](https://hackerone.com/reports/1548535) to curl - 6 upvotes, $6
+77. 30-03-2022 [CVE-2022-22576: OAUTH2 bearer bypass in connection re-use](https://hackerone.com/reports/1526328) to curl - 6 upvotes, $6
+78. 03-05-2022 [CVE-2022-30115: HSTS bypass via trailing dot](https://hackerone.com/reports/1557449) to curl - 6 upvotes, $6
+79. 04-10-2022 [CVE-2022-42915: HTTP proxy double-free](https://hackerone.com/reports/1722065) to curl - 6 upvotes, $6
+80. 22-12-2022 [curl file writing susceptible to symlink attacks](https://hackerone.com/reports/1814824) to curl - 6 upvotes, $6
+81. 21-12-2022 [CVE-2023-23914: curl HSTS ignored on multiple requests](https://hackerone.com/reports/1813864) to curl - 6 upvotes, $6
+82. 14-06-2024 [Denial of Service in curl Request - HTTP headers eat all memory](https://hackerone.com/reports/2552192) to curl - 6 upvotes, $6
+83. 01-10-2019 [SSRF via maliciously crafted URL due to host confusion](https://hackerone.com/reports/704621) to curl - 5 upvotes, $5
+84. 12-02-2021 [CVE-2021-22876: Automatic referer leaks credentials](https://hackerone.com/reports/1101882) to curl - 5 upvotes, $5
+85. 09-01-2022 [ Remote memory disclosure vulnerability in libcurl on 64 Bit Windows](https://hackerone.com/reports/1444539) to curl - 5 upvotes, $5
+86. 21-04-2022 [CVE-2022-27775: Bad local IPv6 connection reuse](https://hackerone.com/reports/1546268) to curl - 5 upvotes, $5
+87. 28-04-2022 [CVE-2022-27779: cookie for trailing dot TLD](https://hackerone.com/reports/1553301) to curl - 5 upvotes, $5
+88. 01-05-2022 [CVE-2022-27782: TLS and SSH connection too eager reuse](https://hackerone.com/reports/1555796) to curl - 5 upvotes, $5
+89. 13-05-2022 [Credential leak on redirect](https://hackerone.com/reports/1568175) to curl - 5 upvotes, $5
+90. 30-04-2022 [CVE-2022-27781: CERTINFO never-ending busy-loop](https://hackerone.com/reports/1555441) to curl - 5 upvotes, $5
+91. 03-10-2022 [CVE-2022-35260: .netrc parser out-of-bounds access](https://hackerone.com/reports/1721098) to curl - 5 upvotes, $5
+92. 02-04-2023 [CVE-2023-28320: siglongjmp race condition](https://hackerone.com/reports/1929597) to curl - 5 upvotes, $5
+93. 11-06-2021 [CVE-2021-22924: Bad connection reuse due to flawed path name checks](https://hackerone.com/reports/1223565) to curl - 4 upvotes, $4
+94. 30-05-2021 [CVE-2021-22922: Wrong content via metalink not discarded](https://hackerone.com/reports/1213175) to curl - 4 upvotes, $4
+95. 28-05-2019 [Signed integer overflow in tool_progress_cb()](https://hackerone.com/reports/591770) to curl - 4 upvotes, $4
+96. 11-07-2019 [Active Mixed Content over HTTPS](https://hackerone.com/reports/640532) to curl - 4 upvotes, $4
+97. 15-05-2020 [Invalid write (or double free) triggers curl command line tool crash](https://hackerone.com/reports/875775) to curl - 4 upvotes, $4
+98. 27-07-2019 [Integer overflows in tool_operate.c at line 1541](https://hackerone.com/reports/661847) to curl - 4 upvotes, $4
+99. 12-05-2022 [Memory leak in CURLOPT_XOAUTH2_BEARER](https://hackerone.com/reports/1567257) to curl - 4 upvotes, $4
+100. 12-05-2022 [error parse uri path in curl](https://hackerone.com/reports/1566462) to curl - 4 upvotes, $4
+101. 17-05-2022 [CVE-2022-32207: Unpreserved file permissions](https://hackerone.com/reports/1573634) to curl - 4 upvotes, $4
+102. 15-05-2022 [CVE-2022-32206: HTTP compression denial of service](https://hackerone.com/reports/1570651) to curl - 4 upvotes, $4
+103. 13-05-2022 [CVE-2022-32205: Set-Cookie denial of service](https://hackerone.com/reports/1569946) to curl - 4 upvotes, $4
+104. 05-03-2023 [CVE-2023-27535: FTP too eager connection reuse](https://hackerone.com/reports/1892780) to curl - 4 upvotes, $4
+105. 07-03-2023 [CVE-2023-27536: GSS delegation too eager connection re-use](https://hackerone.com/reports/1895135) to curl - 4 upvotes, $4
+106. 09-03-2023 [CVE-2023-27538: SSH connection too eager reuse still](https://hackerone.com/reports/1898475) to curl - 4 upvotes, $4
+107. 15-06-2021 [CVE-2021-22926: CURLOPT_SSLCERT mixup with Secure Transport](https://hackerone.com/reports/1234760) to curl - 3 upvotes, $3
+108. 30-05-2021 [CVE-2021-22923: Metalink download sends credentials](https://hackerone.com/reports/1213181) to curl - 3 upvotes, $3
+109. 18-07-2020 [curl overwrites local file with -J option if file non-readable, but file writable.](https://hackerone.com/reports/926638) to curl - 3 upvotes, $3
+110. 03-12-2020 [Abusing URL Parsers by long schema name](https://hackerone.com/reports/1049624) to curl - 3 upvotes, $3
+111. 02-06-2020 [Poll loop/hang on incomplete HTTP header](https://hackerone.com/reports/889160) to curl - 3 upvotes, $3
+112. 05-06-2019 [Integer overflow in the source code tool_cb_prg.c](https://hackerone.com/reports/600359) to curl - 3 upvotes, $3
+113. 11-06-2021 [CVE-2021-22925: TELNET stack contents disclosure again](https://hackerone.com/reports/1223882) to curl - 3 upvotes, $3
+114. 24-03-2022 [Denial of Service vulnerability in curl when parsing MQTT server response](https://hackerone.com/reports/1521610) to curl - 3 upvotes, $3
+115. 24-04-2022 [CURLOPT_SSH_HOST_PUBLIC_KEY_MD5 bypass if string not 32 chars](https://hackerone.com/reports/1549461) to curl - 3 upvotes, $3
+116. 13-05-2022 [Credential leak when use two url](https://hackerone.com/reports/1569926) to curl - 3 upvotes, $3
+117. 18-09-2022 [CVE-2022-32221: POST following PUT confusion](https://hackerone.com/reports/1704017) to curl - 3 upvotes, $3
+118. 07-01-2023 [ libssh backend CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256 validation bypass](https://hackerone.com/reports/1825377) to curl - 3 upvotes, $3
+119. 03-03-2023 [CVE-2023-27533: Telnet option IAC injection](https://hackerone.com/reports/1891474) to curl - 3 upvotes, $3
+120. 05-03-2023 [CVE-2023-27534: SFTP path ~ resolving discrepancy](https://hackerone.com/reports/1892351) to curl - 3 upvotes, $3
+121. 19-04-2023 [CVE-2023-28322: more POST-after-PUT confusion](https://hackerone.com/reports/1954658) to curl - 3 upvotes, $3
+122. 27-11-2020 [CVE-2020-8285: FTP wildcard stack overflow](https://hackerone.com/reports/1045844) to curl - 2 upvotes, $2
+123. 29-12-2019 [Heap Buffer Overflow (READ of size 1) in ourWriteOut](https://hackerone.com/reports/765664) to curl - 2 upvotes, $2
+124. 08-07-2019 [Libcurl ocasionally sends HTTPS traffic to port 443 rather than specified port 8080](https://hackerone.com/reports/637800) to curl - 2 upvotes, $2
+125. 24-06-2019 [Integer overlow in "header_append" function](https://hackerone.com/reports/627245) to curl - 2 upvotes, $2
+126. 14-10-2019 [curl on Windows can be forced to execute code via OpenSSL environment variables](https://hackerone.com/reports/714215) to curl - 2 upvotes, $2
+127. 25-01-2021 [Proxy-Authorization header carried to a new host on a redirect](https://hackerone.com/reports/1086259) to curl - 2 upvotes, $2
+128. 03-02-2022 [Binary output bypass](https://hackerone.com/reports/1468962) to curl - 2 upvotes, $2
+129. 24-04-2022 [CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256 comparison disaster](https://hackerone.com/reports/1549435) to curl - 2 upvotes, $2
+130. 08-05-2022 [Certificate authentication re-use on redirect](https://hackerone.com/reports/1563061) to curl - 2 upvotes, $2
+131. 05-05-2022 [Cookie injection from non-secure context](https://hackerone.com/reports/1560324) to curl - 2 upvotes, $2
+132. 02-06-2022 [Heap overflow via HTTP/2 PUSH_PROMISE](https://hackerone.com/reports/1589847) to curl - 2 upvotes, $2
+133. 11-10-2022 [CVE-2022-42916: HSTS bypass via IDN](https://hackerone.com/reports/1730660) to curl - 2 upvotes, $2
+134. 17-04-2023 [CVE-2023-28321: IDN wildcard match](https://hackerone.com/reports/1950627) to curl - 2 upvotes, $2
+135. 11-07-2019 [Insecure Frame (External)](https://hackerone.com/reports/640530) to curl - 1 upvotes, $1
+136. 26-10-2020 [Parallel upload hangs curl if upload file not found](https://hackerone.com/reports/1019372) to curl - 1 upvotes, $1
+137. 28-03-2019 [libcurl: SMTP end-of-response out-of-bounds read - CVE-2019-3823](https://hackerone.com/reports/518097) to curl - 1 upvotes, $1
+138. 28-10-2019 [Race condition with CURL_LOCK_DATA_CONNECT can cause connections to be used at the same time](https://hackerone.com/reports/724134) to curl - 1 upvotes, $1
+139. 14-01-2020 [Division by zero if terminal width is 2](https://hackerone.com/reports/774883) to curl - 1 upvotes, $1
+140. 08-01-2020 [Unexpected access to process open files via file:///proc/self/fd/n](https://hackerone.com/reports/770190) to curl - 1 upvotes, $1
+141. 03-10-2019 [use after free in cookie.c](https://hackerone.com/reports/707006) to curl - 1 upvotes, $1
+142. 18-09-2019 [Potential invocation of qsort on uninitialized memory during cookie save](https://hackerone.com/reports/696822) to curl - 1 upvotes, $1
+143. 14-09-2019 [Resource leak when using a normal site as DOH server](https://hackerone.com/reports/694988) to curl - 1 upvotes, $1
+144. 13-09-2019 [Buffer write overflow when forming dns over http request](https://hackerone.com/reports/694449) to curl - 1 upvotes, $1
+145. 29-07-2019 [Integer overflow  at line 1603 in the src/operator.c file](https://hackerone.com/reports/662412) to curl - 1 upvotes, $1
+146. 04-07-2019 [huge COLUMNS causes progress-bar to buffer overflow](https://hackerone.com/reports/636013) to curl - 1 upvotes, $1
+147. 01-03-2021 [Inadequate Cryptographic Key Size and Insecure Cryptographic Mode.  File Name :- curl_ntlm_core.c](https://hackerone.com/reports/1113663) to curl - 1 upvotes, $1
+148. 28-01-2022 [Occasional use-after-free in multi_done() libcurl-7.81.0](https://hackerone.com/reports/1463013) to curl - 1 upvotes, $1
+149. 18-02-2022 [Use of Unsafe function || Strcpy](https://hackerone.com/reports/1485379) to curl - 1 upvotes, $1
+150. 17-04-2022 [curl proceeds with unsafe connections when -K file can't be read](https://hackerone.com/reports/1542881) to curl - 1 upvotes, $1
+151. 02-06-2022 [KRB-FTP: Security level downgrade](https://hackerone.com/reports/1590102) to curl - 1 upvotes, $1
+152. 16-05-2022 [curl "globbing" can lead to denial of service attacks](https://hackerone.com/reports/1572120) to curl - 1 upvotes, $1
+153. 13-01-2020 [Port and service scanning on localhost due to improper URL validation.](https://hackerone.com/reports/773313) to curl - 0 upvotes, $0
+154. 27-10-2020 [Data race conditions reported by helgrind when performing parallel DNS queries in libcurl](https://hackerone.com/reports/1019457) to curl - 0 upvotes, $0
+155. 14-10-2019 [Only OpenSSL handles a CRL when passed in via CApath ](https://hackerone.com/reports/713975) to curl - 0 upvotes, $0
+156. 16-10-2019 [curl successfully matches IP address literal in URL against IP address literal in certificate Common Name](https://hackerone.com/reports/715413) to curl - 0 upvotes, $0
+157. 12-05-2020 [Curl_auth_create_plain_message integer overflow leads to heap buffer overflow](https://hackerone.com/reports/872089) to curl - 0 upvotes, $0
+158. 08-03-2020 [curl still vulnerable to SMB access smuggling via FILE URL on Windows](https://hackerone.com/reports/812969) to curl - 0 upvotes, $0
+159. 04-09-2019 [Incorrect IPv6 literal parsing leads to validated connection to unexpected https server.](https://hackerone.com/reports/688048) to curl - 0 upvotes, $0
+160. 04-09-2019 [Double-free of `trailers_buf' on `Curl_http_compile_trailers()` failure](https://hackerone.com/reports/687734) to curl - 0 upvotes, $0
+161. 30-04-2022 [match](https://hackerone.com/reports/1555440) to curl - 0 upvotes, $0
+162. 10-05-2022 [Integer overflows in unescape_word()](https://hackerone.com/reports/1564922) to curl - 0 upvotes, $0

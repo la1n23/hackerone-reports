@@ -413,161 +413,162 @@ Top reports from HackerOne program at HackerOne for period all:
 411. 01-03-2017 [javascript: and mailto: links are allowed in JIRA integration settings](https://hackerone.com/reports/209917) to HackerOne - 12 upvotes, $12
 412. 10-12-2018 [GitHub users outside of HackerOne organization can create and update Wiki pages of certain public HackerOne repositories](https://hackerone.com/reports/459634) to HackerOne - 12 upvotes, $12
 413. 24-02-2016 [CSV Injection at the CSV export feature](https://hackerone.com/reports/118582) to HackerOne - 12 upvotes, $12
-414. 06-12-2015 [CSRF possible when SOP Bypass/UXSS is available ](https://hackerone.com/reports/103787) to HackerOne - 11 upvotes, $11
-415. 30-09-2014 [homograph attack. IDNs displayed in unicode in bug reports and on external link warning page](https://hackerone.com/reports/29491) to HackerOne - 11 upvotes, $11
-416. 28-09-2014 [No email verification on username change](https://hackerone.com/reports/29331) to HackerOne - 11 upvotes, $11
-417. 30-11-2013 [Flawed account creation process allows registration of usernames corresponding to existing file names](https://hackerone.com/reports/477) to HackerOne - 11 upvotes, $11
-418. 18-04-2014 [Password Reset Bug](https://hackerone.com/reports/8082) to HackerOne - 11 upvotes, $11
-419. 27-04-2014 [All Active user sessions should be deleted when user change his password!](https://hackerone.com/reports/9950) to HackerOne - 11 upvotes, $11
-420. 07-11-2013 [RTL override symbol not stripped from file names](https://hackerone.com/reports/298) to HackerOne - 11 upvotes, $11
-421. 08-11-2013 [Privilege escalation..., or not?!](https://hackerone.com/reports/345) to HackerOne - 11 upvotes, $11
-422. 26-06-2015 [CSV Injection with the CVS export feature](https://hackerone.com/reports/72785) to HackerOne - 11 upvotes, $11
-423. 11-11-2018 [Verbose PHP error messages exposed on a blog article](https://hackerone.com/reports/439174) to HackerOne - 11 upvotes, $11
-424. 19-11-2015 [Pre-generation of 2FA secret/backup codes seems like an unnecessary risk](https://hackerone.com/reports/100509) to HackerOne - 10 upvotes, $10
-425. 23-06-2014 [Category- Broken Authentication and Session Management (leads to account compromise if some conditions are met)](https://hackerone.com/reports/17383) to HackerOne - 10 upvotes, $10
-426. 29-02-2016 [Race Conditions Exist When Accepting Invitations](https://hackerone.com/reports/119354) to HackerOne - 10 upvotes, $10
-427. 06-02-2014 [LinkedIN URL should be HTTPS](https://hackerone.com/reports/1093) to HackerOne - 10 upvotes, $10
-428. 20-01-2018 [While adding a payment method - Notification email not sent to newly added email ID as well as there is no verification for new email id (Paypal)](https://hackerone.com/reports/307424) to HackerOne - 10 upvotes, $10
-429. 11-02-2015 [CSP Bypass: Click handler for links with data-method="post" can cause authenticity_token to be sent off domain](https://hackerone.com/reports/47472) to HackerOne - 9 upvotes, $9
-430. 01-04-2016 [New hacktivity view discloses report IDs of non-public reports](https://hackerone.com/reports/127620) to HackerOne - 9 upvotes, $9
-431. 17-01-2014 [A password reset page does not properly validate the authenticity token at the server side.](https://hackerone.com/reports/742) to HackerOne - 9 upvotes, $9
-432. 25-06-2014 [Account takeover](https://hackerone.com/reports/17512) to HackerOne - 9 upvotes, $9
-433. 26-09-2014 ["early preview" programs disclosure](https://hackerone.com/reports/29185) to HackerOne - 9 upvotes, $9
-434. 18-04-2016 [Reputation Manipulation (Theoretical)](https://hackerone.com/reports/132057) to HackerOne - 9 upvotes, $9
-435. 31-03-2015 [Reflected Filename Download](https://hackerone.com/reports/54034) to HackerOne - 9 upvotes, $9
-436. 17-12-2014 [Reflected File Download](https://hackerone.com/reports/39658) to HackerOne - 9 upvotes, $9
-437. 05-07-2016 [Reward Money Leakage](https://hackerone.com/reports/149435) to HackerOne - 9 upvotes, $9
-438. 08-08-2016 [Disclosure of external users invited to a specific report](https://hackerone.com/reports/157699) to HackerOne - 9 upvotes, $9
-439. 22-10-2016 [Information disclosure via policy update notifications after removal from program](https://hackerone.com/reports/177484) to HackerOne - 9 upvotes, $9
-440. 28-10-2017 [GraphQL sessions aren't immediately invalidated when user password is changed](https://hackerone.com/reports/283847) to HackerOne - 9 upvotes, $9
-441. 08-01-2018 [Missing Password Confirmation at a Critical Function (Payout Method)](https://hackerone.com/reports/303299) to HackerOne - 9 upvotes, $9
-442. 22-03-2016 [External programs revealing info](https://hackerone.com/reports/124929) to HackerOne - 8 upvotes, $8
-443. 09-08-2014 [Redirect while opening links in new tabs](https://hackerone.com/reports/23386) to HackerOne - 8 upvotes, $8
-444. 14-11-2015 [Limited CSRF bypass.](https://hackerone.com/reports/99708) to HackerOne - 8 upvotes, $8
-445. 01-03-2014 [Weird Bug - Ability to see partial of other user's notification](https://hackerone.com/reports/2584) to HackerOne - 8 upvotes, $8
-446. 13-03-2014 [Adding an user email address to the list before confirming.](https://hackerone.com/reports/3923) to HackerOne - 8 upvotes, $8
-447. 10-07-2014 [Session Hijacking attack (Different Scenario)](https://hackerone.com/reports/19640) to HackerOne - 8 upvotes, $8
-448. 03-07-2014 [Email changing](https://hackerone.com/reports/18846) to HackerOne - 8 upvotes, $8
-449. 14-10-2014 [Ability to see common response titles of other teams (limited)](https://hackerone.com/reports/31383) to HackerOne - 8 upvotes, $8
-450. 20-02-2015 [Restrict any user from logging into his account.](https://hackerone.com/reports/48416) to HackerOne - 8 upvotes, $8
-451. 24-04-2014 [Anti-MIME-Sniffing header X-Content-Type-Options header has not been set.](https://hackerone.com/reports/9479) to HackerOne - 8 upvotes, $8
-452. 17-03-2014 [javascript: and mailto: links are allowed on users' profiles](https://hackerone.com/reports/4184) to HackerOne - 8 upvotes, $8
-453. 01-02-2014 [Autocomplete enabled in Paypal preferences](https://hackerone.com/reports/842) to HackerOne - 8 upvotes, $8
-454. 07-11-2013 [Report title autocompletion](https://hackerone.com/reports/263) to HackerOne - 8 upvotes, $8
-455. 17-01-2016 [CSV Injection via the CSV export feature](https://hackerone.com/reports/111192) to HackerOne - 8 upvotes, $8
-456. 12-02-2016 [Private program activity timeline information disclosure](https://hackerone.com/reports/116029) to HackerOne - 8 upvotes, $8
-457. 26-10-2017 [Private Program all members disclosed ](https://hackerone.com/reports/283309) to HackerOne - 8 upvotes, $8
-458. 13-03-2018 [Leakage badges on disabled user](https://hackerone.com/reports/325594) to HackerOne - 8 upvotes, $8
-459. 02-08-2015 [Information leakage - Private reports cached by Google ](https://hackerone.com/reports/80118) to HackerOne - 8 upvotes, $8
-460. 11-05-2018 [Information disclosure](https://hackerone.com/reports/350432) to HackerOne - 8 upvotes, $8
-461. 26-06-2024 [Hackers can Invite Collaborators Without 2FA on Programs Requiring 2FA](https://hackerone.com/reports/2575079) to HackerOne - 8 upvotes, $8
-462. 04-02-2015 [Insecure Direct Object Reference vulnerability](https://hackerone.com/reports/46397) to HackerOne - 7 upvotes, $7
-463. 15-07-2015 [Accessing title of the report of which you are marked as duplicate](https://hackerone.com/reports/75556) to HackerOne - 7 upvotes, $7
-464. 19-12-2015 [Team Member███ associated with a Custom Group Created with 'Program Managment' only permissions can Comments on Bug Reports ](https://hackerone.com/reports/106084) to HackerOne - 7 upvotes, $7
-465. 19-08-2014 [Change Any username and profile link in hackerone](https://hackerone.com/reports/25281) to HackerOne - 7 upvotes, $7
-466. 18-03-2015 ["learn more here", reward email - domain expired.](https://hackerone.com/reports/52532) to HackerOne - 7 upvotes, $7
-467. 16-11-2014 [Logic Issue with Reputation: Boost Reputation Points](https://hackerone.com/reports/36211) to HackerOne - 7 upvotes, $7
-468. 03-02-2015 [In markdown, parsing things like @danlec and #46072 after links is unsafe](https://hackerone.com/reports/46312) to HackerOne - 7 upvotes, $7
-469. 02-11-2015 [Send AJAX request to external domain](https://hackerone.com/reports/97191) to HackerOne - 7 upvotes, $7
-470. 20-03-2016 [External links should use rel="noopener" or use the redirect service](https://hackerone.com/reports/124620) to HackerOne - 7 upvotes, $7
-471. 17-02-2016 [Increase number of bugs by sending duplicate of your own valid report](https://hackerone.com/reports/116951) to HackerOne - 7 upvotes, $7
-472. 10-12-2017 [Open redirect deceive in hackerone.com via another open redirect link.](https://hackerone.com/reports/296706) to HackerOne - 7 upvotes, $7
-473. 06-07-2018 [Ajouter le même utilisateur que celui déjà inscrit dans les équipes](https://hackerone.com/reports/378209) to HackerOne - 7 upvotes, $7
-474. 27-01-2016 [Multiple issues with Markdown and URL parsing](https://hackerone.com/reports/113070) to HackerOne - 6 upvotes, $6
-475. 14-03-2014 [Securing sensitive pages from SearchBots](https://hackerone.com/reports/3986) to HackerOne - 6 upvotes, $6
-476. 07-04-2014 [creating titleless and non-closable bugs ](https://hackerone.com/reports/6350) to HackerOne - 6 upvotes, $6
-477. 28-04-2014 [Flooding mailbox of user](https://hackerone.com/reports/10109) to HackerOne - 6 upvotes, $6
-478. 22-02-2014 [harvesting attack on user registration](https://hackerone.com/reports/2193) to HackerOne - 6 upvotes, $6
-479. 03-05-2015 [Making any Report Failed to load](https://hackerone.com/reports/59369) to HackerOne - 6 upvotes, $6
-480. 16-04-2015 [SPF whitelist of mandrill leads to email forgery](https://hackerone.com/reports/56742) to HackerOne - 6 upvotes, $6
-481. 05-05-2015 [Reopen Disable Accounts/ Hidden Access After Disable](https://hackerone.com/reports/59659) to HackerOne - 6 upvotes, $6
-482. 06-02-2015 [Markdown code block sequence makes report unreadable](https://hackerone.com/reports/46952) to HackerOne - 6 upvotes, $6
-483. 05-06-2015 [Invitation is not properly cancelled while inviting to bug reports.](https://hackerone.com/reports/66151) to HackerOne - 6 upvotes, $6
-484. 10-05-2015 [Logical Issue (Boosting Reputation points)](https://hackerone.com/reports/60429) to HackerOne - 6 upvotes, $6
-485. 05-11-2015 [Cross-domain AJAX request](https://hackerone.com/reports/97948) to HackerOne - 6 upvotes, $6
-486. 14-11-2015 [profile cover can also load external URL's ](https://hackerone.com/reports/99687) to HackerOne - 6 upvotes, $6
-487. 29-12-2015 [Team Member(s) associated with a  Group have Read-only permission (Post internal comments) can post comment to all the participants ](https://hackerone.com/reports/107336) to HackerOne - 6 upvotes, $6
-488. 12-02-2016 [Private Program Disclosure in /:handle/reports/draft.json endpoint](https://hackerone.com/reports/116032) to HackerOne - 6 upvotes, $6
-489. 25-02-2016 [Denial of Service any Report](https://hackerone.com/reports/118663) to HackerOne - 6 upvotes, $6
-490. 03-04-2016 [Deleted name still present via mouseover functionality for user accounts](https://hackerone.com/reports/127914) to HackerOne - 6 upvotes, $6
-491. 21-03-2016 [Websites opened from reports can change url of report page](https://hackerone.com/reports/124889) to HackerOne - 6 upvotes, $6
-492. 14-03-2014 [Accepting Invalid characters on email address](https://hackerone.com/reports/3991) to HackerOne - 6 upvotes, $6
-493. 07-01-2016 [Signals get affected once reports closed as self ](https://hackerone.com/reports/108928) to HackerOne - 6 upvotes, $6
-494. 01-04-2016 [New hacktivity view discloses report IDs of non-public reports](https://hackerone.com/reports/127235) to HackerOne - 6 upvotes, $6
-495. 02-04-2016 [DOS Report  FILE html inside \<code\> in markdown](https://hackerone.com/reports/127827) to HackerOne - 6 upvotes, $6
-496. 05-01-2018 [Partial disclosure of undisclosed programs through \<meta\> tags](https://hackerone.com/reports/302620) to HackerOne - 6 upvotes, $6
-497. 21-09-2014 [Redirect FILTER bypass in report/comment](https://hackerone.com/reports/28865) to HackerOne - 5 upvotes, $5
-498. 20-02-2015 [Team member invitations to sandboxed teams are not invalidated consistently (v2)](https://hackerone.com/reports/48422) to HackerOne - 5 upvotes, $5
-499. 05-12-2014 [Issue with password change](https://hackerone.com/reports/38343) to HackerOne - 5 upvotes, $5
-500. 22-05-2014 [Improper filtering of classes used in codeblocks in Markdown](https://hackerone.com/reports/12815) to HackerOne - 5 upvotes, $5
-501. 15-07-2014 [No option to logout concurrent sessions](https://hackerone.com/reports/20122) to HackerOne - 5 upvotes, $5
-502. 23-01-2015 [Improper way of validating a program](https://hackerone.com/reports/44888) to HackerOne - 5 upvotes, $5
-503. 28-02-2015 [Auto Approval of Invitation to join Team as a Team member](https://hackerone.com/reports/49566) to HackerOne - 5 upvotes, $5
-504. 11-01-2015 [HTTPS is not enforced for objects stored by HackerOne on Amazon S3](https://hackerone.com/reports/43280) to HackerOne - 5 upvotes, $5
-505. 22-04-2015 [Missing spf flags for hackerone.com](https://hackerone.com/reports/57736) to HackerOne - 5 upvotes, $5
-506. 27-10-2014 [Enumeration/Guess of Private (Invited) Programs](https://hackerone.com/reports/32990) to HackerOne - 5 upvotes, $5
-507. 03-05-2015 [Homograph Attack](https://hackerone.com/reports/59372) to HackerOne - 5 upvotes, $5
-508. 27-05-2015 [Potential denial of service in hackerone.com/\<program\>/reward_settings](https://hackerone.com/reports/63865) to HackerOne - 5 upvotes, $5
-509. 18-05-2015 [Email Notification should be get while changing Paypal Email](https://hackerone.com/reports/62827) to HackerOne - 5 upvotes, $5
-510. 17-10-2015 [Minimum bounty of a private program is visible for users that were removed from the program](https://hackerone.com/reports/94336) to HackerOne - 5 upvotes, $5
-511. 19-01-2016 [attack in not an authorized user](https://hackerone.com/reports/111676) to HackerOne - 5 upvotes, $5
-512. 13-02-2016 [Null byte injection ](https://hackerone.com/reports/116189) to HackerOne - 5 upvotes, $5
-513. 16-02-2016 [Private Program Disclosure in /:handle/settings/allow_report_submission.json endpoint](https://hackerone.com/reports/116798) to HackerOne - 5 upvotes, $5
-514. 22-05-2014 [Spamming any user from Reset Password Function](https://hackerone.com/reports/12782) to HackerOne - 5 upvotes, $5
-515. 12-12-2014 [URL Crashing browser. {Tested on firefox, Chrome and Safari}](https://hackerone.com/reports/39139) to HackerOne - 5 upvotes, $5
-516. 07-02-2018 [Information Disclosure which violate program privacy](https://hackerone.com/reports/313075) to HackerOne - 5 upvotes, $5
-517. 14-03-2016 [Edit Auto Response Messages](https://hackerone.com/reports/123027) to HackerOne - 4 upvotes, $4
-518. 04-02-2015 [Team member invitations to sandboxed teams are not invalidated consistently](https://hackerone.com/reports/46429) to HackerOne - 4 upvotes, $4
-519. 25-05-2015 [Logic error with notifications: user that has left team continues to receive notifications and can not 'clean' this area on account](https://hackerone.com/reports/63729) to HackerOne - 4 upvotes, $4
-520. 06-08-2015 [Private Program and bounty details disclosed as part of JSON search response](https://hackerone.com/reports/80936) to HackerOne - 4 upvotes, $4
-521. 15-03-2016 [Mediation link can be accepted by other users](https://hackerone.com/reports/123420) to HackerOne - 4 upvotes, $4
-522. 17-04-2014 [Issue with remember_user_token](https://hackerone.com/reports/7931) to HackerOne - 4 upvotes, $4
-523. 27-06-2014 [Denial of Service](https://hackerone.com/reports/17785) to HackerOne - 4 upvotes, $4
-524. 11-03-2014 [Criptographic Issue: Strisct Transport Security with not good max age..(TOO SHORT!)](https://hackerone.com/reports/3709) to HackerOne - 4 upvotes, $4
-525. 17-04-2014 [Arbitrary file uploads to Amazon WS.](https://hackerone.com/reports/7929) to HackerOne - 4 upvotes, $4
-526. 21-06-2014 [Cache leads to Privacy leaks](https://hackerone.com/reports/17105) to HackerOne - 4 upvotes, $4
-527. 22-07-2014 [Account Hijacking (Only rare case scenario)](https://hackerone.com/reports/21083) to HackerOne - 4 upvotes, $4
-528. 13-09-2014 [Window Opener Property Bug](https://hackerone.com/reports/27987) to HackerOne - 4 upvotes, $4
-529. 04-12-2014 [Breaking Bugs as team member](https://hackerone.com/reports/38232) to HackerOne - 4 upvotes, $4
-530. 27-02-2015 [Substantially weakened authenticity verification when using 'Remember me for a week'](https://hackerone.com/reports/49357) to HackerOne - 4 upvotes, $4
-531. 09-03-2015 [Reflected File Download attack allows attacker to 'upload' executables to hackerone.com domain](https://hackerone.com/reports/50658) to HackerOne - 4 upvotes, $4
-532. 18-04-2015 [Open-redirect on hackerone.com](https://hackerone.com/reports/57163) to HackerOne - 4 upvotes, $4
-533. 05-04-2014 [Marking notifications as read CSRF bug](https://hackerone.com/reports/5946) to HackerOne - 4 upvotes, $4
-534. 26-04-2015 [Homograph attack](https://hackerone.com/reports/58612) to HackerOne - 4 upvotes, $4
-535. 08-04-2014 [(lack of) smtp transport layer security](https://hackerone.com/reports/6547) to HackerOne - 4 upvotes, $4
-536. 10-05-2015 [Content Spoofing - External Link Warning Page](https://hackerone.com/reports/60402) to HackerOne - 4 upvotes, $4
-537. 06-06-2015 [mailto: link injection on https://hackerone.com/directory](https://hackerone.com/reports/66262) to HackerOne - 4 upvotes, $4
-538. 04-08-2015 [Number of invited researchers disclosed as part of JSON search response](https://hackerone.com/reports/80597) to HackerOne - 4 upvotes, $4
-539. 24-09-2015 [Minor Bug: Public un-compiled CSS with original sass, versioning, source map, comments, etc.](https://hackerone.com/reports/90367) to HackerOne - 4 upvotes, $4
-540. 06-10-2015 [Content spoofing on invitations page ](https://hackerone.com/reports/92607) to HackerOne - 4 upvotes, $4
-541. 07-10-2015 [HackerOne Private Programs users disclosure and de-anonymous-ize](https://hackerone.com/reports/92716) to HackerOne - 4 upvotes, $4
-542. 15-03-2016 [Email Address Leak](https://hackerone.com/reports/123170) to HackerOne - 4 upvotes, $4
-543. 20-03-2016 [Disclosure of private programs that have an "external" page on HackerOne](https://hackerone.com/reports/124611) to HackerOne - 4 upvotes, $4
-544. 07-02-2016 [Putting link inside link in markdown](https://hackerone.com/reports/115205) to HackerOne - 4 upvotes, $4
-545. 15-03-2016 [Possible XSS](https://hackerone.com/reports/123278) to HackerOne - 4 upvotes, $4
-546. 26-02-2016 [Distinguish EP+Private vs Private programs in HackerOne](https://hackerone.com/reports/118965) to HackerOne - 4 upvotes, $4
-547. 20-01-2015 [Add text to the title of the page "Thanks"](https://hackerone.com/reports/44359) to HackerOne - 4 upvotes, $4
-548. 31-03-2016 [HackerOne Important Emails Notification are sent in clear-text](https://hackerone.com/reports/127175) to HackerOne - 4 upvotes, $4
-549. 19-10-2014 [Content Spoofing via reports](https://hackerone.com/reports/32137) to HackerOne - 4 upvotes, $4
-550. 18-10-2017 [Issue with password change in Disabled Account](https://hackerone.com/reports/279914) to HackerOne - 4 upvotes, $4
-551. 01-02-2018 [Reputation gain split by company can be used to track the existence of otherwise undisclosed reports](https://hackerone.com/reports/311449) to HackerOne - 4 upvotes, $4
-552. 09-01-2016 [User with Read-Only permissions can request/approve public disclosure](https://hackerone.com/reports/109483) to HackerOne - 3 upvotes, $3
-553. 07-08-2015 [Internal bounty and swag details disclosed as part of JSON response](https://hackerone.com/reports/81083) to HackerOne - 3 upvotes, $3
-554. 28-05-2014 [Potential denial of service in hackerone.com/teams/new](https://hackerone.com/reports/13748) to HackerOne - 3 upvotes, $3
-555. 03-05-2015 [Fake URL + Additional vectors for homograph attack](https://hackerone.com/reports/59469) to HackerOne - 3 upvotes, $3
-556. 20-05-2015 [External URL page bypass](https://hackerone.com/reports/63158) to HackerOne - 3 upvotes, $3
-557. 01-09-2015 [Weak HSTS age in support hackerone site](https://hackerone.com/reports/86067) to HackerOne - 3 upvotes, $3
-558. 03-11-2015 [Hackerone impersonation](https://hackerone.com/reports/97377) to HackerOne - 3 upvotes, $3
-559. 17-03-2016 [Sending emails (via HackerOne) impersonating other users](https://hackerone.com/reports/123743) to HackerOne - 3 upvotes, $3
-560. 25-02-2016 [Abusing HOF rankings in limited circumstances](https://hackerone.com/reports/118684) to HackerOne - 3 upvotes, $3
-561. 18-03-2016 [CSV Injection via the CSV export feature](https://hackerone.com/reports/124223) to HackerOne - 3 upvotes, $3
-562. 16-03-2016 [SECURITY: Referencing  previous Reports attachment_IDs on new Reports via Draft_Sync DELETES Attachments](https://hackerone.com/reports/123615) to HackerOne - 3 upvotes, $3
-563. 14-06-2015 [Redirection Page throwing error instead of redirecting to site](https://hackerone.com/reports/67929) to HackerOne - 3 upvotes, $3
-564. 30-10-2017 [Reverse Tabnabbing Vulnerability in Outgoing Links](https://hackerone.com/reports/284143) to HackerOne - 3 upvotes, $3
-565. 28-02-2016 [User with Read-Only permissions can edit the Internal comment Activities on Bug Reports After Revoke the team access permissions](https://hackerone.com/reports/119221) to HackerOne - 2 upvotes, $2
-566. 25-02-2016 [User with Read-Only permissions can manually public disclosure the report ](https://hackerone.com/reports/118718) to HackerOne - 2 upvotes, $2
-567. 29-08-2014 [Notification of previous signed out user leakage.](https://hackerone.com/reports/26395) to HackerOne - 2 upvotes, $2
-568. 08-01-2016 [Requesting unknown file type returns Ruby object w/ address](https://hackerone.com/reports/109420) to HackerOne - 2 upvotes, $2
-569. 25-02-2016 [User with Read-Only permissions can edit the SwagAwarded Activities on Bug Reports](https://hackerone.com/reports/118731) to HackerOne - 2 upvotes, $2
-570. 24-05-2016 [Denial of service in report view.](https://hackerone.com/reports/140720) to HackerOne - 2 upvotes, $2
-571. 07-10-2017 [Pending member invitations are not revoked on program name change](https://hackerone.com/reports/275293) to HackerOne - 2 upvotes, $2
+414. 30-01-2025 [Ability to access policy and updates for unauthorized program](https://hackerone.com/reports/2965723) to HackerOne - 12 upvotes, $12
+415. 06-12-2015 [CSRF possible when SOP Bypass/UXSS is available ](https://hackerone.com/reports/103787) to HackerOne - 11 upvotes, $11
+416. 30-09-2014 [homograph attack. IDNs displayed in unicode in bug reports and on external link warning page](https://hackerone.com/reports/29491) to HackerOne - 11 upvotes, $11
+417. 28-09-2014 [No email verification on username change](https://hackerone.com/reports/29331) to HackerOne - 11 upvotes, $11
+418. 30-11-2013 [Flawed account creation process allows registration of usernames corresponding to existing file names](https://hackerone.com/reports/477) to HackerOne - 11 upvotes, $11
+419. 18-04-2014 [Password Reset Bug](https://hackerone.com/reports/8082) to HackerOne - 11 upvotes, $11
+420. 27-04-2014 [All Active user sessions should be deleted when user change his password!](https://hackerone.com/reports/9950) to HackerOne - 11 upvotes, $11
+421. 07-11-2013 [RTL override symbol not stripped from file names](https://hackerone.com/reports/298) to HackerOne - 11 upvotes, $11
+422. 08-11-2013 [Privilege escalation..., or not?!](https://hackerone.com/reports/345) to HackerOne - 11 upvotes, $11
+423. 26-06-2015 [CSV Injection with the CVS export feature](https://hackerone.com/reports/72785) to HackerOne - 11 upvotes, $11
+424. 11-11-2018 [Verbose PHP error messages exposed on a blog article](https://hackerone.com/reports/439174) to HackerOne - 11 upvotes, $11
+425. 19-11-2015 [Pre-generation of 2FA secret/backup codes seems like an unnecessary risk](https://hackerone.com/reports/100509) to HackerOne - 10 upvotes, $10
+426. 23-06-2014 [Category- Broken Authentication and Session Management (leads to account compromise if some conditions are met)](https://hackerone.com/reports/17383) to HackerOne - 10 upvotes, $10
+427. 29-02-2016 [Race Conditions Exist When Accepting Invitations](https://hackerone.com/reports/119354) to HackerOne - 10 upvotes, $10
+428. 06-02-2014 [LinkedIN URL should be HTTPS](https://hackerone.com/reports/1093) to HackerOne - 10 upvotes, $10
+429. 20-01-2018 [While adding a payment method - Notification email not sent to newly added email ID as well as there is no verification for new email id (Paypal)](https://hackerone.com/reports/307424) to HackerOne - 10 upvotes, $10
+430. 11-02-2015 [CSP Bypass: Click handler for links with data-method="post" can cause authenticity_token to be sent off domain](https://hackerone.com/reports/47472) to HackerOne - 9 upvotes, $9
+431. 01-04-2016 [New hacktivity view discloses report IDs of non-public reports](https://hackerone.com/reports/127620) to HackerOne - 9 upvotes, $9
+432. 17-01-2014 [A password reset page does not properly validate the authenticity token at the server side.](https://hackerone.com/reports/742) to HackerOne - 9 upvotes, $9
+433. 25-06-2014 [Account takeover](https://hackerone.com/reports/17512) to HackerOne - 9 upvotes, $9
+434. 26-09-2014 ["early preview" programs disclosure](https://hackerone.com/reports/29185) to HackerOne - 9 upvotes, $9
+435. 18-04-2016 [Reputation Manipulation (Theoretical)](https://hackerone.com/reports/132057) to HackerOne - 9 upvotes, $9
+436. 31-03-2015 [Reflected Filename Download](https://hackerone.com/reports/54034) to HackerOne - 9 upvotes, $9
+437. 17-12-2014 [Reflected File Download](https://hackerone.com/reports/39658) to HackerOne - 9 upvotes, $9
+438. 05-07-2016 [Reward Money Leakage](https://hackerone.com/reports/149435) to HackerOne - 9 upvotes, $9
+439. 08-08-2016 [Disclosure of external users invited to a specific report](https://hackerone.com/reports/157699) to HackerOne - 9 upvotes, $9
+440. 22-10-2016 [Information disclosure via policy update notifications after removal from program](https://hackerone.com/reports/177484) to HackerOne - 9 upvotes, $9
+441. 28-10-2017 [GraphQL sessions aren't immediately invalidated when user password is changed](https://hackerone.com/reports/283847) to HackerOne - 9 upvotes, $9
+442. 08-01-2018 [Missing Password Confirmation at a Critical Function (Payout Method)](https://hackerone.com/reports/303299) to HackerOne - 9 upvotes, $9
+443. 22-03-2016 [External programs revealing info](https://hackerone.com/reports/124929) to HackerOne - 8 upvotes, $8
+444. 09-08-2014 [Redirect while opening links in new tabs](https://hackerone.com/reports/23386) to HackerOne - 8 upvotes, $8
+445. 14-11-2015 [Limited CSRF bypass.](https://hackerone.com/reports/99708) to HackerOne - 8 upvotes, $8
+446. 01-03-2014 [Weird Bug - Ability to see partial of other user's notification](https://hackerone.com/reports/2584) to HackerOne - 8 upvotes, $8
+447. 13-03-2014 [Adding an user email address to the list before confirming.](https://hackerone.com/reports/3923) to HackerOne - 8 upvotes, $8
+448. 10-07-2014 [Session Hijacking attack (Different Scenario)](https://hackerone.com/reports/19640) to HackerOne - 8 upvotes, $8
+449. 03-07-2014 [Email changing](https://hackerone.com/reports/18846) to HackerOne - 8 upvotes, $8
+450. 14-10-2014 [Ability to see common response titles of other teams (limited)](https://hackerone.com/reports/31383) to HackerOne - 8 upvotes, $8
+451. 20-02-2015 [Restrict any user from logging into his account.](https://hackerone.com/reports/48416) to HackerOne - 8 upvotes, $8
+452. 24-04-2014 [Anti-MIME-Sniffing header X-Content-Type-Options header has not been set.](https://hackerone.com/reports/9479) to HackerOne - 8 upvotes, $8
+453. 17-03-2014 [javascript: and mailto: links are allowed on users' profiles](https://hackerone.com/reports/4184) to HackerOne - 8 upvotes, $8
+454. 01-02-2014 [Autocomplete enabled in Paypal preferences](https://hackerone.com/reports/842) to HackerOne - 8 upvotes, $8
+455. 07-11-2013 [Report title autocompletion](https://hackerone.com/reports/263) to HackerOne - 8 upvotes, $8
+456. 17-01-2016 [CSV Injection via the CSV export feature](https://hackerone.com/reports/111192) to HackerOne - 8 upvotes, $8
+457. 12-02-2016 [Private program activity timeline information disclosure](https://hackerone.com/reports/116029) to HackerOne - 8 upvotes, $8
+458. 26-10-2017 [Private Program all members disclosed ](https://hackerone.com/reports/283309) to HackerOne - 8 upvotes, $8
+459. 13-03-2018 [Leakage badges on disabled user](https://hackerone.com/reports/325594) to HackerOne - 8 upvotes, $8
+460. 02-08-2015 [Information leakage - Private reports cached by Google ](https://hackerone.com/reports/80118) to HackerOne - 8 upvotes, $8
+461. 11-05-2018 [Information disclosure](https://hackerone.com/reports/350432) to HackerOne - 8 upvotes, $8
+462. 26-06-2024 [Hackers can Invite Collaborators Without 2FA on Programs Requiring 2FA](https://hackerone.com/reports/2575079) to HackerOne - 8 upvotes, $8
+463. 04-02-2015 [Insecure Direct Object Reference vulnerability](https://hackerone.com/reports/46397) to HackerOne - 7 upvotes, $7
+464. 15-07-2015 [Accessing title of the report of which you are marked as duplicate](https://hackerone.com/reports/75556) to HackerOne - 7 upvotes, $7
+465. 19-12-2015 [Team Member███ associated with a Custom Group Created with 'Program Managment' only permissions can Comments on Bug Reports ](https://hackerone.com/reports/106084) to HackerOne - 7 upvotes, $7
+466. 19-08-2014 [Change Any username and profile link in hackerone](https://hackerone.com/reports/25281) to HackerOne - 7 upvotes, $7
+467. 18-03-2015 ["learn more here", reward email - domain expired.](https://hackerone.com/reports/52532) to HackerOne - 7 upvotes, $7
+468. 16-11-2014 [Logic Issue with Reputation: Boost Reputation Points](https://hackerone.com/reports/36211) to HackerOne - 7 upvotes, $7
+469. 03-02-2015 [In markdown, parsing things like @danlec and #46072 after links is unsafe](https://hackerone.com/reports/46312) to HackerOne - 7 upvotes, $7
+470. 02-11-2015 [Send AJAX request to external domain](https://hackerone.com/reports/97191) to HackerOne - 7 upvotes, $7
+471. 20-03-2016 [External links should use rel="noopener" or use the redirect service](https://hackerone.com/reports/124620) to HackerOne - 7 upvotes, $7
+472. 17-02-2016 [Increase number of bugs by sending duplicate of your own valid report](https://hackerone.com/reports/116951) to HackerOne - 7 upvotes, $7
+473. 10-12-2017 [Open redirect deceive in hackerone.com via another open redirect link.](https://hackerone.com/reports/296706) to HackerOne - 7 upvotes, $7
+474. 06-07-2018 [Ajouter le même utilisateur que celui déjà inscrit dans les équipes](https://hackerone.com/reports/378209) to HackerOne - 7 upvotes, $7
+475. 27-01-2016 [Multiple issues with Markdown and URL parsing](https://hackerone.com/reports/113070) to HackerOne - 6 upvotes, $6
+476. 14-03-2014 [Securing sensitive pages from SearchBots](https://hackerone.com/reports/3986) to HackerOne - 6 upvotes, $6
+477. 07-04-2014 [creating titleless and non-closable bugs ](https://hackerone.com/reports/6350) to HackerOne - 6 upvotes, $6
+478. 28-04-2014 [Flooding mailbox of user](https://hackerone.com/reports/10109) to HackerOne - 6 upvotes, $6
+479. 22-02-2014 [harvesting attack on user registration](https://hackerone.com/reports/2193) to HackerOne - 6 upvotes, $6
+480. 03-05-2015 [Making any Report Failed to load](https://hackerone.com/reports/59369) to HackerOne - 6 upvotes, $6
+481. 16-04-2015 [SPF whitelist of mandrill leads to email forgery](https://hackerone.com/reports/56742) to HackerOne - 6 upvotes, $6
+482. 05-05-2015 [Reopen Disable Accounts/ Hidden Access After Disable](https://hackerone.com/reports/59659) to HackerOne - 6 upvotes, $6
+483. 06-02-2015 [Markdown code block sequence makes report unreadable](https://hackerone.com/reports/46952) to HackerOne - 6 upvotes, $6
+484. 05-06-2015 [Invitation is not properly cancelled while inviting to bug reports.](https://hackerone.com/reports/66151) to HackerOne - 6 upvotes, $6
+485. 10-05-2015 [Logical Issue (Boosting Reputation points)](https://hackerone.com/reports/60429) to HackerOne - 6 upvotes, $6
+486. 05-11-2015 [Cross-domain AJAX request](https://hackerone.com/reports/97948) to HackerOne - 6 upvotes, $6
+487. 14-11-2015 [profile cover can also load external URL's ](https://hackerone.com/reports/99687) to HackerOne - 6 upvotes, $6
+488. 29-12-2015 [Team Member(s) associated with a  Group have Read-only permission (Post internal comments) can post comment to all the participants ](https://hackerone.com/reports/107336) to HackerOne - 6 upvotes, $6
+489. 12-02-2016 [Private Program Disclosure in /:handle/reports/draft.json endpoint](https://hackerone.com/reports/116032) to HackerOne - 6 upvotes, $6
+490. 25-02-2016 [Denial of Service any Report](https://hackerone.com/reports/118663) to HackerOne - 6 upvotes, $6
+491. 03-04-2016 [Deleted name still present via mouseover functionality for user accounts](https://hackerone.com/reports/127914) to HackerOne - 6 upvotes, $6
+492. 21-03-2016 [Websites opened from reports can change url of report page](https://hackerone.com/reports/124889) to HackerOne - 6 upvotes, $6
+493. 14-03-2014 [Accepting Invalid characters on email address](https://hackerone.com/reports/3991) to HackerOne - 6 upvotes, $6
+494. 07-01-2016 [Signals get affected once reports closed as self ](https://hackerone.com/reports/108928) to HackerOne - 6 upvotes, $6
+495. 01-04-2016 [New hacktivity view discloses report IDs of non-public reports](https://hackerone.com/reports/127235) to HackerOne - 6 upvotes, $6
+496. 02-04-2016 [DOS Report  FILE html inside \<code\> in markdown](https://hackerone.com/reports/127827) to HackerOne - 6 upvotes, $6
+497. 05-01-2018 [Partial disclosure of undisclosed programs through \<meta\> tags](https://hackerone.com/reports/302620) to HackerOne - 6 upvotes, $6
+498. 21-09-2014 [Redirect FILTER bypass in report/comment](https://hackerone.com/reports/28865) to HackerOne - 5 upvotes, $5
+499. 20-02-2015 [Team member invitations to sandboxed teams are not invalidated consistently (v2)](https://hackerone.com/reports/48422) to HackerOne - 5 upvotes, $5
+500. 05-12-2014 [Issue with password change](https://hackerone.com/reports/38343) to HackerOne - 5 upvotes, $5
+501. 22-05-2014 [Improper filtering of classes used in codeblocks in Markdown](https://hackerone.com/reports/12815) to HackerOne - 5 upvotes, $5
+502. 15-07-2014 [No option to logout concurrent sessions](https://hackerone.com/reports/20122) to HackerOne - 5 upvotes, $5
+503. 23-01-2015 [Improper way of validating a program](https://hackerone.com/reports/44888) to HackerOne - 5 upvotes, $5
+504. 28-02-2015 [Auto Approval of Invitation to join Team as a Team member](https://hackerone.com/reports/49566) to HackerOne - 5 upvotes, $5
+505. 11-01-2015 [HTTPS is not enforced for objects stored by HackerOne on Amazon S3](https://hackerone.com/reports/43280) to HackerOne - 5 upvotes, $5
+506. 22-04-2015 [Missing spf flags for hackerone.com](https://hackerone.com/reports/57736) to HackerOne - 5 upvotes, $5
+507. 27-10-2014 [Enumeration/Guess of Private (Invited) Programs](https://hackerone.com/reports/32990) to HackerOne - 5 upvotes, $5
+508. 03-05-2015 [Homograph Attack](https://hackerone.com/reports/59372) to HackerOne - 5 upvotes, $5
+509. 27-05-2015 [Potential denial of service in hackerone.com/\<program\>/reward_settings](https://hackerone.com/reports/63865) to HackerOne - 5 upvotes, $5
+510. 18-05-2015 [Email Notification should be get while changing Paypal Email](https://hackerone.com/reports/62827) to HackerOne - 5 upvotes, $5
+511. 17-10-2015 [Minimum bounty of a private program is visible for users that were removed from the program](https://hackerone.com/reports/94336) to HackerOne - 5 upvotes, $5
+512. 19-01-2016 [attack in not an authorized user](https://hackerone.com/reports/111676) to HackerOne - 5 upvotes, $5
+513. 13-02-2016 [Null byte injection ](https://hackerone.com/reports/116189) to HackerOne - 5 upvotes, $5
+514. 16-02-2016 [Private Program Disclosure in /:handle/settings/allow_report_submission.json endpoint](https://hackerone.com/reports/116798) to HackerOne - 5 upvotes, $5
+515. 22-05-2014 [Spamming any user from Reset Password Function](https://hackerone.com/reports/12782) to HackerOne - 5 upvotes, $5
+516. 12-12-2014 [URL Crashing browser. {Tested on firefox, Chrome and Safari}](https://hackerone.com/reports/39139) to HackerOne - 5 upvotes, $5
+517. 07-02-2018 [Information Disclosure which violate program privacy](https://hackerone.com/reports/313075) to HackerOne - 5 upvotes, $5
+518. 14-03-2016 [Edit Auto Response Messages](https://hackerone.com/reports/123027) to HackerOne - 4 upvotes, $4
+519. 04-02-2015 [Team member invitations to sandboxed teams are not invalidated consistently](https://hackerone.com/reports/46429) to HackerOne - 4 upvotes, $4
+520. 25-05-2015 [Logic error with notifications: user that has left team continues to receive notifications and can not 'clean' this area on account](https://hackerone.com/reports/63729) to HackerOne - 4 upvotes, $4
+521. 06-08-2015 [Private Program and bounty details disclosed as part of JSON search response](https://hackerone.com/reports/80936) to HackerOne - 4 upvotes, $4
+522. 15-03-2016 [Mediation link can be accepted by other users](https://hackerone.com/reports/123420) to HackerOne - 4 upvotes, $4
+523. 17-04-2014 [Issue with remember_user_token](https://hackerone.com/reports/7931) to HackerOne - 4 upvotes, $4
+524. 27-06-2014 [Denial of Service](https://hackerone.com/reports/17785) to HackerOne - 4 upvotes, $4
+525. 11-03-2014 [Criptographic Issue: Strisct Transport Security with not good max age..(TOO SHORT!)](https://hackerone.com/reports/3709) to HackerOne - 4 upvotes, $4
+526. 17-04-2014 [Arbitrary file uploads to Amazon WS.](https://hackerone.com/reports/7929) to HackerOne - 4 upvotes, $4
+527. 21-06-2014 [Cache leads to Privacy leaks](https://hackerone.com/reports/17105) to HackerOne - 4 upvotes, $4
+528. 22-07-2014 [Account Hijacking (Only rare case scenario)](https://hackerone.com/reports/21083) to HackerOne - 4 upvotes, $4
+529. 13-09-2014 [Window Opener Property Bug](https://hackerone.com/reports/27987) to HackerOne - 4 upvotes, $4
+530. 04-12-2014 [Breaking Bugs as team member](https://hackerone.com/reports/38232) to HackerOne - 4 upvotes, $4
+531. 27-02-2015 [Substantially weakened authenticity verification when using 'Remember me for a week'](https://hackerone.com/reports/49357) to HackerOne - 4 upvotes, $4
+532. 09-03-2015 [Reflected File Download attack allows attacker to 'upload' executables to hackerone.com domain](https://hackerone.com/reports/50658) to HackerOne - 4 upvotes, $4
+533. 18-04-2015 [Open-redirect on hackerone.com](https://hackerone.com/reports/57163) to HackerOne - 4 upvotes, $4
+534. 05-04-2014 [Marking notifications as read CSRF bug](https://hackerone.com/reports/5946) to HackerOne - 4 upvotes, $4
+535. 26-04-2015 [Homograph attack](https://hackerone.com/reports/58612) to HackerOne - 4 upvotes, $4
+536. 08-04-2014 [(lack of) smtp transport layer security](https://hackerone.com/reports/6547) to HackerOne - 4 upvotes, $4
+537. 10-05-2015 [Content Spoofing - External Link Warning Page](https://hackerone.com/reports/60402) to HackerOne - 4 upvotes, $4
+538. 06-06-2015 [mailto: link injection on https://hackerone.com/directory](https://hackerone.com/reports/66262) to HackerOne - 4 upvotes, $4
+539. 04-08-2015 [Number of invited researchers disclosed as part of JSON search response](https://hackerone.com/reports/80597) to HackerOne - 4 upvotes, $4
+540. 24-09-2015 [Minor Bug: Public un-compiled CSS with original sass, versioning, source map, comments, etc.](https://hackerone.com/reports/90367) to HackerOne - 4 upvotes, $4
+541. 06-10-2015 [Content spoofing on invitations page ](https://hackerone.com/reports/92607) to HackerOne - 4 upvotes, $4
+542. 07-10-2015 [HackerOne Private Programs users disclosure and de-anonymous-ize](https://hackerone.com/reports/92716) to HackerOne - 4 upvotes, $4
+543. 15-03-2016 [Email Address Leak](https://hackerone.com/reports/123170) to HackerOne - 4 upvotes, $4
+544. 20-03-2016 [Disclosure of private programs that have an "external" page on HackerOne](https://hackerone.com/reports/124611) to HackerOne - 4 upvotes, $4
+545. 07-02-2016 [Putting link inside link in markdown](https://hackerone.com/reports/115205) to HackerOne - 4 upvotes, $4
+546. 15-03-2016 [Possible XSS](https://hackerone.com/reports/123278) to HackerOne - 4 upvotes, $4
+547. 26-02-2016 [Distinguish EP+Private vs Private programs in HackerOne](https://hackerone.com/reports/118965) to HackerOne - 4 upvotes, $4
+548. 20-01-2015 [Add text to the title of the page "Thanks"](https://hackerone.com/reports/44359) to HackerOne - 4 upvotes, $4
+549. 31-03-2016 [HackerOne Important Emails Notification are sent in clear-text](https://hackerone.com/reports/127175) to HackerOne - 4 upvotes, $4
+550. 19-10-2014 [Content Spoofing via reports](https://hackerone.com/reports/32137) to HackerOne - 4 upvotes, $4
+551. 18-10-2017 [Issue with password change in Disabled Account](https://hackerone.com/reports/279914) to HackerOne - 4 upvotes, $4
+552. 01-02-2018 [Reputation gain split by company can be used to track the existence of otherwise undisclosed reports](https://hackerone.com/reports/311449) to HackerOne - 4 upvotes, $4
+553. 09-01-2016 [User with Read-Only permissions can request/approve public disclosure](https://hackerone.com/reports/109483) to HackerOne - 3 upvotes, $3
+554. 07-08-2015 [Internal bounty and swag details disclosed as part of JSON response](https://hackerone.com/reports/81083) to HackerOne - 3 upvotes, $3
+555. 28-05-2014 [Potential denial of service in hackerone.com/teams/new](https://hackerone.com/reports/13748) to HackerOne - 3 upvotes, $3
+556. 03-05-2015 [Fake URL + Additional vectors for homograph attack](https://hackerone.com/reports/59469) to HackerOne - 3 upvotes, $3
+557. 20-05-2015 [External URL page bypass](https://hackerone.com/reports/63158) to HackerOne - 3 upvotes, $3
+558. 01-09-2015 [Weak HSTS age in support hackerone site](https://hackerone.com/reports/86067) to HackerOne - 3 upvotes, $3
+559. 03-11-2015 [Hackerone impersonation](https://hackerone.com/reports/97377) to HackerOne - 3 upvotes, $3
+560. 17-03-2016 [Sending emails (via HackerOne) impersonating other users](https://hackerone.com/reports/123743) to HackerOne - 3 upvotes, $3
+561. 25-02-2016 [Abusing HOF rankings in limited circumstances](https://hackerone.com/reports/118684) to HackerOne - 3 upvotes, $3
+562. 18-03-2016 [CSV Injection via the CSV export feature](https://hackerone.com/reports/124223) to HackerOne - 3 upvotes, $3
+563. 16-03-2016 [SECURITY: Referencing  previous Reports attachment_IDs on new Reports via Draft_Sync DELETES Attachments](https://hackerone.com/reports/123615) to HackerOne - 3 upvotes, $3
+564. 14-06-2015 [Redirection Page throwing error instead of redirecting to site](https://hackerone.com/reports/67929) to HackerOne - 3 upvotes, $3
+565. 30-10-2017 [Reverse Tabnabbing Vulnerability in Outgoing Links](https://hackerone.com/reports/284143) to HackerOne - 3 upvotes, $3
+566. 28-02-2016 [User with Read-Only permissions can edit the Internal comment Activities on Bug Reports After Revoke the team access permissions](https://hackerone.com/reports/119221) to HackerOne - 2 upvotes, $2
+567. 25-02-2016 [User with Read-Only permissions can manually public disclosure the report ](https://hackerone.com/reports/118718) to HackerOne - 2 upvotes, $2
+568. 29-08-2014 [Notification of previous signed out user leakage.](https://hackerone.com/reports/26395) to HackerOne - 2 upvotes, $2
+569. 08-01-2016 [Requesting unknown file type returns Ruby object w/ address](https://hackerone.com/reports/109420) to HackerOne - 2 upvotes, $2
+570. 25-02-2016 [User with Read-Only permissions can edit the SwagAwarded Activities on Bug Reports](https://hackerone.com/reports/118731) to HackerOne - 2 upvotes, $2
+571. 24-05-2016 [Denial of service in report view.](https://hackerone.com/reports/140720) to HackerOne - 2 upvotes, $2
+572. 07-10-2017 [Pending member invitations are not revoked on program name change](https://hackerone.com/reports/275293) to HackerOne - 2 upvotes, $2

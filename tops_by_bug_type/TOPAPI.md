@@ -182,58 +182,59 @@ Top REST API reports from HackerOne for period all:
 180. 12-01-2020 [Disclosure of Users Information On Wordpress Api  [https://jitsi.org/]](https://hackerone.com/reports/772778) to 8x8 - 9 upvotes, $0
 181. 28-12-2020 [Sending trusted ████ and ██████████ emails through public API endpoint in ███████ site](https://hackerone.com/reports/1067276) to U.S. Dept Of Defense - 9 upvotes, $0
 182. 02-10-2022 [HTML injection in API response including request url](https://hackerone.com/reports/1719588) to Reddit - 9 upvotes, $0
-183. 21-04-2015 [API: missing invalidation of OAuth2 Authorization Code during access revocation causes authorization bypass](https://hackerone.com/reports/57603) to Vimeo - 8 upvotes, $0
-184. 12-04-2015 [Shopify android client all API request's response leakage, including access_token, cookie, response header, response body content](https://hackerone.com/reports/56002) to Shopify - 8 upvotes, $0
-185. 12-01-2017 [User Information Disclosure via REST API](https://hackerone.com/reports/197877) to Nextcloud - 8 upvotes, $0
-186. 25-05-2017 [Insecure Cache-Control Leading to API key Retrieval](https://hackerone.com/reports/231805) to ThisData - 8 upvotes, $0
-187. 28-05-2022 [Deprecated owners.query API bypasses object view policy](https://hackerone.com/reports/1584409) to Phabricator - 7 upvotes, $300
-188. 05-11-2017 [Stored XSS in content when Graph is created via API](https://hackerone.com/reports/287562) to Infogram - 7 upvotes, $0
-189. 17-10-2016 [Wordpress.com REST API oauth bypass via Cross Site Flashing](https://hackerone.com/reports/176308) to Automattic - 7 upvotes, $0
-190. 16-05-2018 [Api token exposed in Reverb.com's public github repository](https://hackerone.com/reports/352623) to Reverb.com - 7 upvotes, $0
-191. 11-03-2019 [Public and secret api key leaked via omise github repo(owned by omise)](https://hackerone.com/reports/508024) to Omise - 7 upvotes, $0
-192. 27-08-2021 [Google Maps API Key Leakage](https://hackerone.com/reports/1321830) to Uber - 7 upvotes, $0
-193. 29-07-2021 [Insecure Storage and Overly Permissive API Keys](https://hackerone.com/reports/1283575) to Stripo Inc - 7 upvotes, $0
-194. 26-02-2016 [API Key added for one Indices works for all other indices too.](https://hackerone.com/reports/118925) to Algolia - 6 upvotes, $1000
-195. 02-01-2016 [API: Bug in method auth.signup , дающий возможность бесконечно звонить ](https://hackerone.com/reports/107877) to VK.com - 6 upvotes, $500
-196. 07-11-2015 [Urgent : Disclosure of all the apps with hash ID in mopub through API request (Authentication bypass) ](https://hackerone.com/reports/98432) to X / xAI - 6 upvotes, $0
-197. 24-04-2017 [CSRF : Reset API ](https://hackerone.com/reports/223333) to Weblate - 6 upvotes, $0
-198. 06-09-2017 [[api.data.gov] Leak Valid API With out Verification -](https://hackerone.com/reports/266449) to GSA Bounty - 6 upvotes, $0
-199. 22-06-2021 [hardcoded api secret & api key in com.reddit.frontpage](https://hackerone.com/reports/1241116) to Reddit - 6 upvotes, $0
-200. 05-06-2022 [API Key reported in #1465145 not rotated and thus is still valid and can be used by anyone](https://hackerone.com/reports/1591770) to Adobe - 6 upvotes, $0
-201. 10-03-2016 [Mapbox API Access Token with No Scope Can Read Styles](https://hackerone.com/reports/122050) to Mapbox - 5 upvotes, $200
-202. 17-08-2016 [API OAuth Public Key disclosure in mobile app](https://hackerone.com/reports/160120) to Instacart - 5 upvotes, $0
-203. 18-04-2017 [The mailbox verification API interface is unlimited and can be used as a mailbox bomb](https://hackerone.com/reports/221948) to Phabricator - 5 upvotes, $0
-204. 22-03-2017 [Подмена SSL-сертификата для любой группы в секции Управление группой-\>Работа с API неавторизированным пользователем.](https://hackerone.com/reports/215326) to VK.com - 5 upvotes, $0
-205. 27-06-2017 [No Rate Limitation on Regenerate Api Key](https://hackerone.com/reports/243619) to Weblate - 5 upvotes, $0
-206. 21-03-2020 [Private account causes displayed through API](https://hackerone.com/reports/826005) to Staging.every.org - 5 upvotes, $0
-207. 12-10-2014 [Timing Attack Side-Channel on API Token Verification](https://hackerone.com/reports/31167) to joola.io - 4 upvotes, $0
-208. 23-12-2014 [Stored XSS in api key of operator wallet](https://hackerone.com/reports/41758) to Enter - 4 upvotes, $0
-209. 25-04-2016 [Private snippets in public / internal projects leaked though GitLab API](https://hackerone.com/reports/134305) to GitLab - 4 upvotes, $0
-210. 24-04-2017 [Abuse of Api that causes spamming users and possible DOS due to missing rate limit on contact form](https://hackerone.com/reports/223542) to Weblate - 4 upvotes, $0
-211. 29-05-2017 [API Does Not Apply Access Controls to Translations](https://hackerone.com/reports/232994) to Weblate - 4 upvotes, $0
-212. 02-06-2018 [twitter api access token leaked on github ](https://hackerone.com/reports/361089) to Liberapay - 4 upvotes, $0
-213. 19-08-2020 [API key is not validated for C.R.M integration [Pipedrive] of LOGGED IN USER, A user can use another USER'S API key for this operation.](https://hackerone.com/reports/962033) to Dropcontact - 4 upvotes, $0
-214. 02-10-2020 [SSRF in login page using fetch API exposes victims IP address to attacker controled server](https://hackerone.com/reports/996273) to U.S. Dept Of Defense - 4 upvotes, $0
-215. 12-06-2015 [Bypass access restrictions from API](https://hackerone.com/reports/67557) to Shopify - 3 upvotes, $1000
-216. 07-11-2015 [Apps can access 'channels' beta api](https://hackerone.com/reports/98499) to Shopify - 3 upvotes, $500
-217. 30-03-2014 [User Enumeration, Information Disclosure and Lack of Rate Limitation on API](https://hackerone.com/reports/5200) to Coinbase - 3 upvotes, $0
-218. 17-05-2014 [API keys being cached ](https://hackerone.com/reports/12425) to Kadira - 3 upvotes, $0
-219. 30-05-2015 [Header Misconfiguration - PHP API](https://hackerone.com/reports/64941) to Shopify - 3 upvotes, $0
-220. 30-05-2015 [API: Bug in method auth.validatePhone](https://hackerone.com/reports/64963) to VK.com - 3 upvotes, $0
-221. 23-07-2015 [Cross site scripting On api Calculator API requests](https://hackerone.com/reports/78003) to ok.ru - 3 upvotes, $0
-222. 19-04-2017 [The email API to reset password is unlimited and can be used as a email bomb](https://hackerone.com/reports/222080) to Nextcloud - 3 upvotes, $0
-223. 31-10-2017 [Insecure Direct Object Reference on API without API key](https://hackerone.com/reports/284963) to Semrush - 3 upvotes, $0
-224. 18-03-2019 [Unprotected Api EndPoints](https://hackerone.com/reports/511536) to Semmle - 3 upvotes, $0
-225. 06-01-2019 [Логирование ответов запросов VK API в приложении Клевер](https://hackerone.com/reports/475177) to VK.com - 3 upvotes, $0
-226. 11-01-2022 [API route chat.getThreadsList leaks private message content](https://hackerone.com/reports/1446767) to Rocket.Chat - 3 upvotes, $0
-227. 06-06-2021 [User information disclosed via API](https://hackerone.com/reports/1218461) to U.S. General Services Administration - 3 upvotes, $0
-228. 29-09-2015 [Inadequate input validation on API endpoint leading to self denial of service and increased system load.](https://hackerone.com/reports/90912) to IRCCloud - 2 upvotes, $500
-229. 21-04-2017 [The email API to test email-server settings is unlimited and can be used as a email bomb](https://hackerone.com/reports/222660) to Nextcloud - 2 upvotes, $0
-230. 24-04-2017 [Abuse of Api that causes spamming users and possible DOS due to missing rate limit](https://hackerone.com/reports/223557) to Weblate - 2 upvotes, $0
-231. 10-01-2020 [CRLF Injection in legacy url API (url.parse().hostname)](https://hackerone.com/reports/771596) to Node.js - 2 upvotes, $0
-232. 06-02-2021 [API Server DoS (crash?) if many large resources (~1MB each) are concurrently/repeatedly sent to an external Validating WebHook endpoint](https://hackerone.com/reports/1096907) to Kubernetes - 2 upvotes, $0
-233. 23-11-2019 [Unprotected ██████ and Test site API Exposes Documents, Credentials, and Emails in ██████████ Proposal System](https://hackerone.com/reports/745171) to U.S. Dept Of Defense - 2 upvotes, $0
-234. 29-03-2021 [REST API gets `query` as parameter and executes it](https://hackerone.com/reports/1140631) to Rocket.Chat - 2 upvotes, $0
-235. 24-03-2016 [Reflected XSS on Zomato API](https://hackerone.com/reports/125762) to Zomato - 1 upvotes, $0
-236. 18-01-2016 [Legacy API exposes private video titles](https://hackerone.com/reports/111386) to Vimeo - 0 upvotes, $0
-237. 30-07-2017 [Create Api Key is not working](https://hackerone.com/reports/255025) to Legal Robot - 0 upvotes, $0
+183. 17-04-2025 [user api key leaked](https://hackerone.com/reports/3098717) to WakaTime - 9 upvotes, $0
+184. 21-04-2015 [API: missing invalidation of OAuth2 Authorization Code during access revocation causes authorization bypass](https://hackerone.com/reports/57603) to Vimeo - 8 upvotes, $0
+185. 12-04-2015 [Shopify android client all API request's response leakage, including access_token, cookie, response header, response body content](https://hackerone.com/reports/56002) to Shopify - 8 upvotes, $0
+186. 12-01-2017 [User Information Disclosure via REST API](https://hackerone.com/reports/197877) to Nextcloud - 8 upvotes, $0
+187. 25-05-2017 [Insecure Cache-Control Leading to API key Retrieval](https://hackerone.com/reports/231805) to ThisData - 8 upvotes, $0
+188. 28-05-2022 [Deprecated owners.query API bypasses object view policy](https://hackerone.com/reports/1584409) to Phabricator - 7 upvotes, $300
+189. 05-11-2017 [Stored XSS in content when Graph is created via API](https://hackerone.com/reports/287562) to Infogram - 7 upvotes, $0
+190. 17-10-2016 [Wordpress.com REST API oauth bypass via Cross Site Flashing](https://hackerone.com/reports/176308) to Automattic - 7 upvotes, $0
+191. 16-05-2018 [Api token exposed in Reverb.com's public github repository](https://hackerone.com/reports/352623) to Reverb.com - 7 upvotes, $0
+192. 11-03-2019 [Public and secret api key leaked via omise github repo(owned by omise)](https://hackerone.com/reports/508024) to Omise - 7 upvotes, $0
+193. 27-08-2021 [Google Maps API Key Leakage](https://hackerone.com/reports/1321830) to Uber - 7 upvotes, $0
+194. 29-07-2021 [Insecure Storage and Overly Permissive API Keys](https://hackerone.com/reports/1283575) to Stripo Inc - 7 upvotes, $0
+195. 26-02-2016 [API Key added for one Indices works for all other indices too.](https://hackerone.com/reports/118925) to Algolia - 6 upvotes, $1000
+196. 02-01-2016 [API: Bug in method auth.signup , дающий возможность бесконечно звонить ](https://hackerone.com/reports/107877) to VK.com - 6 upvotes, $500
+197. 07-11-2015 [Urgent : Disclosure of all the apps with hash ID in mopub through API request (Authentication bypass) ](https://hackerone.com/reports/98432) to X / xAI - 6 upvotes, $0
+198. 24-04-2017 [CSRF : Reset API ](https://hackerone.com/reports/223333) to Weblate - 6 upvotes, $0
+199. 06-09-2017 [[api.data.gov] Leak Valid API With out Verification -](https://hackerone.com/reports/266449) to GSA Bounty - 6 upvotes, $0
+200. 22-06-2021 [hardcoded api secret & api key in com.reddit.frontpage](https://hackerone.com/reports/1241116) to Reddit - 6 upvotes, $0
+201. 05-06-2022 [API Key reported in #1465145 not rotated and thus is still valid and can be used by anyone](https://hackerone.com/reports/1591770) to Adobe - 6 upvotes, $0
+202. 10-03-2016 [Mapbox API Access Token with No Scope Can Read Styles](https://hackerone.com/reports/122050) to Mapbox - 5 upvotes, $200
+203. 17-08-2016 [API OAuth Public Key disclosure in mobile app](https://hackerone.com/reports/160120) to Instacart - 5 upvotes, $0
+204. 18-04-2017 [The mailbox verification API interface is unlimited and can be used as a mailbox bomb](https://hackerone.com/reports/221948) to Phabricator - 5 upvotes, $0
+205. 22-03-2017 [Подмена SSL-сертификата для любой группы в секции Управление группой-\>Работа с API неавторизированным пользователем.](https://hackerone.com/reports/215326) to VK.com - 5 upvotes, $0
+206. 27-06-2017 [No Rate Limitation on Regenerate Api Key](https://hackerone.com/reports/243619) to Weblate - 5 upvotes, $0
+207. 21-03-2020 [Private account causes displayed through API](https://hackerone.com/reports/826005) to Staging.every.org - 5 upvotes, $0
+208. 12-10-2014 [Timing Attack Side-Channel on API Token Verification](https://hackerone.com/reports/31167) to joola.io - 4 upvotes, $0
+209. 23-12-2014 [Stored XSS in api key of operator wallet](https://hackerone.com/reports/41758) to Enter - 4 upvotes, $0
+210. 25-04-2016 [Private snippets in public / internal projects leaked though GitLab API](https://hackerone.com/reports/134305) to GitLab - 4 upvotes, $0
+211. 24-04-2017 [Abuse of Api that causes spamming users and possible DOS due to missing rate limit on contact form](https://hackerone.com/reports/223542) to Weblate - 4 upvotes, $0
+212. 29-05-2017 [API Does Not Apply Access Controls to Translations](https://hackerone.com/reports/232994) to Weblate - 4 upvotes, $0
+213. 02-06-2018 [twitter api access token leaked on github ](https://hackerone.com/reports/361089) to Liberapay - 4 upvotes, $0
+214. 19-08-2020 [API key is not validated for C.R.M integration [Pipedrive] of LOGGED IN USER, A user can use another USER'S API key for this operation.](https://hackerone.com/reports/962033) to Dropcontact - 4 upvotes, $0
+215. 02-10-2020 [SSRF in login page using fetch API exposes victims IP address to attacker controled server](https://hackerone.com/reports/996273) to U.S. Dept Of Defense - 4 upvotes, $0
+216. 12-06-2015 [Bypass access restrictions from API](https://hackerone.com/reports/67557) to Shopify - 3 upvotes, $1000
+217. 07-11-2015 [Apps can access 'channels' beta api](https://hackerone.com/reports/98499) to Shopify - 3 upvotes, $500
+218. 30-03-2014 [User Enumeration, Information Disclosure and Lack of Rate Limitation on API](https://hackerone.com/reports/5200) to Coinbase - 3 upvotes, $0
+219. 17-05-2014 [API keys being cached ](https://hackerone.com/reports/12425) to Kadira - 3 upvotes, $0
+220. 30-05-2015 [Header Misconfiguration - PHP API](https://hackerone.com/reports/64941) to Shopify - 3 upvotes, $0
+221. 30-05-2015 [API: Bug in method auth.validatePhone](https://hackerone.com/reports/64963) to VK.com - 3 upvotes, $0
+222. 23-07-2015 [Cross site scripting On api Calculator API requests](https://hackerone.com/reports/78003) to ok.ru - 3 upvotes, $0
+223. 19-04-2017 [The email API to reset password is unlimited and can be used as a email bomb](https://hackerone.com/reports/222080) to Nextcloud - 3 upvotes, $0
+224. 31-10-2017 [Insecure Direct Object Reference on API without API key](https://hackerone.com/reports/284963) to Semrush - 3 upvotes, $0
+225. 18-03-2019 [Unprotected Api EndPoints](https://hackerone.com/reports/511536) to Semmle - 3 upvotes, $0
+226. 06-01-2019 [Логирование ответов запросов VK API в приложении Клевер](https://hackerone.com/reports/475177) to VK.com - 3 upvotes, $0
+227. 11-01-2022 [API route chat.getThreadsList leaks private message content](https://hackerone.com/reports/1446767) to Rocket.Chat - 3 upvotes, $0
+228. 06-06-2021 [User information disclosed via API](https://hackerone.com/reports/1218461) to U.S. General Services Administration - 3 upvotes, $0
+229. 29-09-2015 [Inadequate input validation on API endpoint leading to self denial of service and increased system load.](https://hackerone.com/reports/90912) to IRCCloud - 2 upvotes, $500
+230. 21-04-2017 [The email API to test email-server settings is unlimited and can be used as a email bomb](https://hackerone.com/reports/222660) to Nextcloud - 2 upvotes, $0
+231. 24-04-2017 [Abuse of Api that causes spamming users and possible DOS due to missing rate limit](https://hackerone.com/reports/223557) to Weblate - 2 upvotes, $0
+232. 10-01-2020 [CRLF Injection in legacy url API (url.parse().hostname)](https://hackerone.com/reports/771596) to Node.js - 2 upvotes, $0
+233. 06-02-2021 [API Server DoS (crash?) if many large resources (~1MB each) are concurrently/repeatedly sent to an external Validating WebHook endpoint](https://hackerone.com/reports/1096907) to Kubernetes - 2 upvotes, $0
+234. 23-11-2019 [Unprotected ██████ and Test site API Exposes Documents, Credentials, and Emails in ██████████ Proposal System](https://hackerone.com/reports/745171) to U.S. Dept Of Defense - 2 upvotes, $0
+235. 29-03-2021 [REST API gets `query` as parameter and executes it](https://hackerone.com/reports/1140631) to Rocket.Chat - 2 upvotes, $0
+236. 24-03-2016 [Reflected XSS on Zomato API](https://hackerone.com/reports/125762) to Zomato - 1 upvotes, $0
+237. 18-01-2016 [Legacy API exposes private video titles](https://hackerone.com/reports/111386) to Vimeo - 0 upvotes, $0
+238. 30-07-2017 [Create Api Key is not working](https://hackerone.com/reports/255025) to Legal Robot - 0 upvotes, $0

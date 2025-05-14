@@ -1,4 +1,19 @@
 link,submitted_at,title,program,upvotes,bounty,vuln_type
+hackerone.com/reports/3098717,2025-04-17T12:16:12.700Z,user api key leaked,WakaTime,9,0.0,Information Disclosure
+hackerone.com/reports/2915647,2024-12-27T21:52:44.033Z,Netlify Authentication Token Exposed in Public Mozilla CI Logs,Mozilla,22,1500.0,Information Disclosure
+hackerone.com/reports/3090123,2025-04-12T14:39:31.906Z,insecure deserilize object leads to RCE On Sitecore (CVE-██████████-27218),Mars,9,0.0,Deserialization of Untrusted Data
+hackerone.com/reports/2828608,2024-11-08T11:00:03.625Z,Users Data Exposure via Insecure Endpoint,Mars,6,0.0,Information Disclosure
+hackerone.com/reports/3063026,2025-03-27T14:28:08.362Z,debug.log leaked [█████████],Mars,7,0.0,Information Disclosure
+hackerone.com/reports/2887506,2024-12-08T08:08:16.504Z,massive PII  leakage for ███████,Mars,9,0.0,Insecure Storage of Sensitive Information
+hackerone.com/reports/2828693,2024-11-08T11:00:49.036Z,change part of personal information all users,Mars,9,0.0,Improper Access Control - Generic
+hackerone.com/reports/3137657,2025-05-09T20:18:26.098Z,Memory Leak,curl,12,0.0,Memory Corruption - Generic
+hackerone.com/reports/2616045,2024-07-22T11:58:05.469Z,Race condition on add 1 free domain,Automattic,43,0.0,Business Logic Errors
+hackerone.com/reports/3016540,2025-02-27T10:56:50.806Z,Enable 2FA without verifying the email,XVIDEOS,33,0.0,Improper Access Control - Generic
+hackerone.com/reports/2965723,2025-01-30T01:27:16.344Z,Ability to access policy and updates for unauthorized program,HackerOne,12,0.0,Improper Access Control - Generic
+hackerone.com/reports/3133379,2025-05-07T22:24:22.322Z,CRLF Injection in `--proxy-header` allows extra HTTP headers (CWE-93),curl,10,0.0,CRLF Injection
+hackerone.com/reports/3080597,2025-04-07T12:55:43.790Z,Unauthorized Account Access via Leaked Credentials in URL Format (Account Takeover ),Khan Academy,21,0.0,Cleartext Storage of Sensitive Information
+hackerone.com/reports/3060373,2025-03-26T10:55:48.148Z,Path Traversal Vulnerability found on IBM Cloud,IBM,13,0.0,Path Traversal
+hackerone.com/reports/3079966,2025-04-06T17:28:07.539Z,HTML Injection in LinkedIn Premium Support Chat,LinkedIn,37,0.0,
 hackerone.com/reports/3112106,2025-04-25T08:45:06.524Z,BAC – Bypass chatbot restrictions via unauthorized mention injection,Dust,3,0.0,
 hackerone.com/reports/3125832,2025-05-04T04:56:30.904Z,HTTP/3 Stream Dependency Cycle Exploit,curl,19,0.0,Improper Input Validation
 hackerone.com/reports/3097900,2025-04-16T21:57:11.366Z,`/names.nsf` and all `/names*` files route to public API on rubygems.org,RubyGems,20,0.0,Improper Access Control - Generic
