@@ -107,108 +107,109 @@ Top Open Redirect reports from HackerOne for period all:
 105. 03-07-2021 [Open redirect by the parameter redirectUri in the URL](https://hackerone.com/reports/1250758) to BlackRock - 15 upvotes, $0
 106. 15-07-2022 [Open Redirect ███.8x8.com](https://hackerone.com/reports/1637571) to 8x8 - 15 upvotes, $0
 107. 25-01-2018 [Open Redirect on the nl.wordpress.net](https://hackerone.com/reports/309058) to WordPress - 14 upvotes, $0
-108. 25-05-2022 [Open Redirect](https://hackerone.com/reports/1581258) to Flickr - 13 upvotes, $258
-109. 13-11-2015 [open redirect in \<your_zendesk\>.zendesk.com](https://hackerone.com/reports/99516) to Zendesk - 13 upvotes, $0
-110. 11-09-2020 [Stored open redirect in about page](https://hackerone.com/reports/979375) to Flickr - 13 upvotes, $0
-111. 15-03-2015 [Open redirect in "Language change".](https://hackerone.com/reports/52035) to HackerOne - 12 upvotes, $500
-112. 09-04-2015 [Open redirection in OAuth](https://hackerone.com/reports/55525) to Shopify - 12 upvotes, $500
-113. 17-08-2016 [[apps.shopify.com] Open Redirect](https://hackerone.com/reports/160047) to Shopify - 12 upvotes, $500
-114. 06-12-2018 [Open redirect на мобильной версии в контакте (m.vk.com](https://hackerone.com/reports/456963) to VK.com - 12 upvotes, $300
-115. 18-02-2020 [open redirect in eb9f.pivcac.prod.login.gov](https://hackerone.com/reports/798742) to GSA Bounty - 12 upvotes, $150
-116. 04-06-2021 [Open redirect GET-Based on https://www.flickr.com/browser/upgrade/?continue=](https://hackerone.com/reports/1217570) to Flickr - 12 upvotes, $150
-117. 30-07-2016 [(BYPASS) Open Redirect after login at http://ecommerce.shopify.com](https://hackerone.com/reports/155222) to Shopify - 12 upvotes, $0
-118. 06-04-2020 [Open Redirect in  www.shopify.dev Environment ](https://hackerone.com/reports/842035) to Shopify - 12 upvotes, $0
-119. 06-02-2021 [Open redirect on https://www.glassdoor.com/profile/siwa.htm via state parameter](https://hackerone.com/reports/1097208) to Glassdoor - 12 upvotes, $0
-120. 04-04-2022 [Open redirection at https://smartreports.mtncameroon.net](https://hackerone.com/reports/1530396) to MTN Group - 12 upvotes, $0
-121. 21-01-2022 [Open Redirect](https://hackerone.com/reports/1457736) to JetBlue - 12 upvotes, $0
-122. 23-05-2016 [Open Redirect on slack.com](https://hackerone.com/reports/140447) to Slack - 11 upvotes, $500
-123. 02-03-2014 [Open redirect vulnerability ](https://hackerone.com/reports/2731) to Slack - 11 upvotes, $0
-124. 27-05-2016 [Open Redirect in unifi.ubnt.com [Controller Finder]](https://hackerone.com/reports/141355) to Ubiquiti Inc. - 11 upvotes, $0
-125. 13-10-2017 [Goodhire Open Redirect](https://hackerone.com/reports/277078) to Inflection - 11 upvotes, $0
-126. 05-09-2018 [Open redirection in OAuth](https://hackerone.com/reports/405697) to Shopify - 11 upvotes, $0
-127. 29-12-2018 [Open Redirect On Your Login Panel](https://hackerone.com/reports/473064) to Zomato - 11 upvotes, $0
-128. 10-04-2020 [Open redirect at mc-beta-cloud-acronis.com](https://hackerone.com/reports/846389) to Acronis - 11 upvotes, $0
-129. 24-03-2016 [Reflected XSS via Unvalidated / Open Redirect in uber.com](https://hackerone.com/reports/125791) to Uber - 10 upvotes, $3000
-130. 22-03-2016 [Open Redirect in riders.uber.com](https://hackerone.com/reports/125003) to Uber - 10 upvotes, $500
-131. 27-08-2018 [Open redirect in securegatewayaccess.com / secure.chaturbate.com via prejoin_data parameter](https://hackerone.com/reports/400982) to Chaturbate - 10 upvotes, $250
-132. 12-12-2014 [[admin.c2fo.com] Open Redirect](https://hackerone.com/reports/39198) to C2FO - 10 upvotes, $0
-133. 28-02-2018 [[hekto] open redirect when target domain name is used as html filename on server](https://hackerone.com/reports/320693) to Node.js third-party modules - 10 upvotes, $0
-134. 25-03-2016 [Open redirect on rush.uber.com, business.uber.com, and help.uber.com](https://hackerone.com/reports/126070) to Uber - 10 upvotes, $0
-135. 19-06-2018 [Open redirect open.rocket.chat/file-upload/ID/filename.svg](https://hackerone.com/reports/368927) to Rocket.Chat - 10 upvotes, $0
-136. 07-11-2019 [Open Redirect on Greater Asia domains](https://hackerone.com/reports/731618) to Starbucks - 10 upvotes, $0
-137. 18-08-2021 [Open Redirect through POST Request in www.redditinc.com](https://hackerone.com/reports/1310230) to Reddit - 10 upvotes, $0
-138. 28-02-2016 [Open Redirection on Uber.com](https://hackerone.com/reports/119236) to Uber - 9 upvotes, $500
-139. 22-03-2016 [Open Redirect in m.uber.com](https://hackerone.com/reports/125000) to Uber - 9 upvotes, $500
-140. 28-01-2015 [[zaption.com] Open Redirect](https://hackerone.com/reports/45516) to Zaption - 9 upvotes, $0
-141. 06-02-2017 [Open Redirect in \<customer\>.greenhouse.io](https://hackerone.com/reports/203726) to Greenhouse.io - 9 upvotes, $0
-142. 13-11-2015 [Open redirect helps to steal Facebook access_token](https://hackerone.com/reports/99435) to Bumble - 9 upvotes, $0
-143. 11-09-2019 [Open Redirect in the Path of vendhq.com](https://hackerone.com/reports/692154) to Vend VDP - 9 upvotes, $0
-144. 13-10-2021 [OPEN REDIRECT ](https://hackerone.com/reports/1369806) to Nutanix - 9 upvotes, $0
-145. 19-08-2017 [Open Redirection Found in users.whisper.sh](https://hackerone.com/reports/261592) to Whisper - 8 upvotes, $30
-146. 26-10-2016 [[parc.informatica.com] Reflected Cross Site Scripting and Open Redirect](https://hackerone.com/reports/178278) to Informatica - 8 upvotes, $0
-147. 31-03-2017 [[connect.teavana.com] Open Redirect and abuse of connect.teavana.com](https://hackerone.com/reports/217430) to Starbucks - 8 upvotes, $0
-148. 21-11-2019 [Hong Kong - Open Redirect on card.starbucks.com.hk](https://hackerone.com/reports/743524) to Starbucks - 8 upvotes, $0
-149. 14-08-2020 [Open redirect (DOM-based) on av.ru via "return_url" parameter (Login form)](https://hackerone.com/reports/958864) to Azbuka Vkusa - 8 upvotes, $0
-150. 01-02-2022 [Open Redirect on https://██.8x8.com/login?nextPage=%2F](https://hackerone.com/reports/1467046) to 8x8 - 8 upvotes, $0
-151. 08-05-2023 [Open redirect on "Unsupported browser" warning](https://hackerone.com/reports/1977222) to Nextcloud - 7 upvotes, $150
-152. 17-06-2014 [Open Redirect login account](https://hackerone.com/reports/16718) to Slack - 7 upvotes, $100
-153. 05-05-2017 [Open Redirect in shopify app URL](https://hackerone.com/reports/226408) to Shopify - 7 upvotes, $0
-154. 15-10-2017 [[BuddyPress 2.9.1] Open Redirect via "wp_http_referer" parameter on "bp-profile-edit" endpoint](https://hackerone.com/reports/277502) to WordPress - 7 upvotes, $0
-155. 10-12-2017 [Open redirect deceive in hackerone.com via another open redirect link.](https://hackerone.com/reports/296706) to HackerOne - 7 upvotes, $0
-156. 07-12-2017 [Open Redirection on auth.rbk.money](https://hackerone.com/reports/295865) to RBKmoney - 7 upvotes, $0
-157. 07-06-2019 [Open Redirect in comment section](https://hackerone.com/reports/603196) to ExpressionEngine - 7 upvotes, $0
-158. 27-12-2019 [Potential Open-Redirection](https://hackerone.com/reports/765227) to Ian Dunn - 7 upvotes, $0
-159. 12-02-2020 [Open redirection bypass in /www/admin/campaign-modify.php](https://hackerone.com/reports/794144) to Revive Adserver - 7 upvotes, $0
-160. 09-04-2015 [Open Redirect after login at http://ecommerce.shopify.com](https://hackerone.com/reports/55546) to Shopify - 6 upvotes, $500
-161. 17-04-2014 [OAuth open redirect](https://hackerone.com/reports/7900) to Respondly - 6 upvotes, $0
-162. 18-04-2016 [Open Redirect vulnerability in moneybird.com](https://hackerone.com/reports/131728) to Moneybird - 6 upvotes, $0
-163. 21-08-2016 [Open Redirect possible in https://www.shopify.com/admin/](https://hackerone.com/reports/161991) to Shopify - 6 upvotes, $0
-164. 03-12-2016 [Open redirect vulnerability in a DoD website](https://hackerone.com/reports/187969) to U.S. Dept Of Defense - 6 upvotes, $0
-165. 04-09-2014 [open redirect in rfc6749](https://hackerone.com/reports/26962) to Internet Bug Bounty - 5 upvotes, $3000
-166. 02-03-2015 [Open Redirect leak of authenticity_token lead to full account take over.](https://hackerone.com/reports/49759) to X / xAI - 5 upvotes, $1400
-167. 15-04-2016 [Open Redirector via (apps/files_pdfviewer) for un-authenticated users.](https://hackerone.com/reports/131082) to ownCloud - 5 upvotes, $150
-168. 08-04-2014 [Open Redirection in SmartHistory KhanAcademy](https://hackerone.com/reports/6564) to Khan Academy - 5 upvotes, $0
-169. 24-08-2016 [[skyliner.io / qa.skyliner.io] Open Redirect](https://hackerone.com/reports/163124) to Skyliner - 5 upvotes, $0
-170. 12-12-2015 [[status.zopim.com] Open Redirect](https://hackerone.com/reports/104896) to Zendesk - 5 upvotes, $0
-171. 30-11-2016 [Open Redirect in a DoD website](https://hackerone.com/reports/187006) to U.S. Dept Of Defense - 5 upvotes, $0
-172. 27-04-2017 [Open redirect while disconnecting authenticated account](https://hackerone.com/reports/224317) to Weblate - 5 upvotes, $0
-173. 08-06-2017 [Open redirect while disconnecting Email](https://hackerone.com/reports/238117) to Weblate - 5 upvotes, $0
-174. 05-06-2017 [Open redirects protection bypass](https://hackerone.com/reports/236599) to ExpressionEngine - 5 upvotes, $0
-175. 05-12-2016 [Unvalidated / Open Redirect](https://hackerone.com/reports/188338) to Zendesk - 5 upvotes, $0
-176. 21-03-2021 [Open Redirect at https://www.nutanix.com/tw/login via icid parameter](https://hackerone.com/reports/1131753) to Nutanix - 5 upvotes, $0
-177. 12-07-2022 [Open Redirect at █████](https://hackerone.com/reports/1634105) to U.S. Dept Of Defense - 5 upvotes, $0
-178. 12-04-2014 [Host Header is not validated resulting in Open Redirect](https://hackerone.com/reports/7357) to IRCCloud - 4 upvotes, $100
-179. 18-04-2015 [Open-redirect on hackerone.com](https://hackerone.com/reports/57163) to HackerOne - 4 upvotes, $0
-180. 06-03-2015 [Open redirect and reflected xss in http://youthvoices.adobe.com/community?return_url=[payload her]](https://hackerone.com/reports/50379) to Adobe - 4 upvotes, $0
-181. 27-01-2016 [Open-redirect on paragonie.com](https://hackerone.com/reports/113112) to Paragon Initiative Enterprises - 4 upvotes, $0
-182. 16-03-2016 [[marketplace.informatica.com] Open Redirect](https://hackerone.com/reports/123625) to Informatica - 4 upvotes, $0
-183. 25-03-2017 [[Repository Import] Open Redirect via "continue[to]" parameter ](https://hackerone.com/reports/215970) to GitLab - 4 upvotes, $0
-184. 24-04-2017 [Open Redirect via "next" parameter in third-party authentication](https://hackerone.com/reports/223326) to Weblate - 4 upvotes, $0
-185. 21-06-2018 [OPEN REDIRECTION at every 302 HTTP CODE](https://hackerone.com/reports/369447) to Brave Software - 4 upvotes, $0
-186. 14-03-2020 [Cross Site Scripting and Open Redirect in affiliate-preview.php file ](https://hackerone.com/reports/819362) to Revive Adserver - 4 upvotes, $0
-187. 08-12-2015 [Trick make all fixed open redirect links vulnerable again](https://hackerone.com/reports/104087) to Slack - 3 upvotes, $1000
-188. 17-12-2014 [Open redirection in fabric.io](https://hackerone.com/reports/39631) to X / xAI - 3 upvotes, $280
-189. 07-04-2014 [https://www.khanacademy.org/login open-redirect](https://hackerone.com/reports/6357) to Khan Academy - 3 upvotes, $0
-190. 19-07-2015 [Open redirect filter bypass](https://hackerone.com/reports/76738) to Zaption - 3 upvotes, $0
-191. 28-09-2016 [WebSummit - Open Redirect ](https://hackerone.com/reports/172746) to WebSummit - 3 upvotes, $0
-192. 16-03-2017 [Open redirect](https://hackerone.com/reports/214034) to GitLab - 3 upvotes, $0
-193. 25-04-2017 [Open redirect in Signing in via Social Sites](https://hackerone.com/reports/223718) to Weblate - 3 upvotes, $0
-194. 25-05-2017 [Open redirect on sign in ](https://hackerone.com/reports/231760) to Coinbase - 3 upvotes, $0
-195. 07-04-2016 [CPU utilization 99% on visiting wordpress site url & open redirect found](https://hackerone.com/reports/129091) to Automattic - 3 upvotes, $0
-196. 05-08-2018 [Open redirect in switch account functionality](https://hackerone.com/reports/390663) to Revive Adserver - 3 upvotes, $0
-197. 22-04-2020 [China - Open redirect at trackinghub.starbucks.com.cn](https://hackerone.com/reports/856137) to Starbucks - 3 upvotes, $0
-198. 10-11-2021 [open redirect to a remote website which can phish users](https://hackerone.com/reports/1397804) to Concrete CMS - 3 upvotes, $0
-199. 22-03-2014 [Open Redirect in Slack](https://hackerone.com/reports/4549) to Slack - 2 upvotes, $0
-200. 06-04-2014 [open redirect in https://slack.com](https://hackerone.com/reports/6035) to Slack - 2 upvotes, $0
-201. 23-05-2014 [Open Redirection](https://hackerone.com/reports/12949) to Urban Dictionary - 2 upvotes, $0
-202. 17-01-2015 [Open Redirection Security Filter bypassed](https://hackerone.com/reports/44157) to Vimeo - 2 upvotes, $0
-203. 10-08-2017 [owncloud.com open redirect](https://hackerone.com/reports/258632) to ownCloud - 2 upvotes, $0
-204. 29-06-2018 [Open redirect in Serendipity (exit.php)](https://hackerone.com/reports/373932) to Hanno's projects - 2 upvotes, $0
-205. 29-09-2021 [Open redirect in fastify-static via mishandled user's input when attempt to redirect](https://hackerone.com/reports/1354255) to Fastify - 2 upvotes, $0
-206. 03-05-2021 [Vulnerability Name: URL Redirection / Unvalidate Open Redirect](https://hackerone.com/reports/1182824) to Reddit - 2 upvotes, $0
-207. 10-03-2015 [open redirect sends authenticity_token to any website or (ip address)](https://hackerone.com/reports/50752) to X / xAI - 1 upvotes, $560
-208. 28-02-2014 [open redirect](https://hackerone.com/reports/2414) to RelateIQ - 1 upvotes, $0
-209. 02-08-2014 [Open Redirect in WordPress Feed Statistics {Affected All Versions}](https://hackerone.com/reports/22142) to Automattic - 1 upvotes, $0
-210. 18-08-2014 [Open redirection on secure.phabricator.com](https://hackerone.com/reports/25160) to Phabricator - 1 upvotes, $0
-211. 22-07-2020 [Open Redirect on [blog.wavecell.com]](https://hackerone.com/reports/929633) to 8x8 - 1 upvotes, $0
-212. 19-01-2021 [Open redirect in ck.php and lg.php](https://hackerone.com/reports/1081406) to Revive Adserver - 1 upvotes, $0
+108. 18-04-2025 [Open Redirect Vulnerability in OAuth Flow Leading to Potential Phishing Attack](https://hackerone.com/reports/3099816) to Lichess - 14 upvotes, $0
+109. 25-05-2022 [Open Redirect](https://hackerone.com/reports/1581258) to Flickr - 13 upvotes, $258
+110. 13-11-2015 [open redirect in \<your_zendesk\>.zendesk.com](https://hackerone.com/reports/99516) to Zendesk - 13 upvotes, $0
+111. 11-09-2020 [Stored open redirect in about page](https://hackerone.com/reports/979375) to Flickr - 13 upvotes, $0
+112. 15-03-2015 [Open redirect in "Language change".](https://hackerone.com/reports/52035) to HackerOne - 12 upvotes, $500
+113. 09-04-2015 [Open redirection in OAuth](https://hackerone.com/reports/55525) to Shopify - 12 upvotes, $500
+114. 17-08-2016 [[apps.shopify.com] Open Redirect](https://hackerone.com/reports/160047) to Shopify - 12 upvotes, $500
+115. 06-12-2018 [Open redirect на мобильной версии в контакте (m.vk.com](https://hackerone.com/reports/456963) to VK.com - 12 upvotes, $300
+116. 18-02-2020 [open redirect in eb9f.pivcac.prod.login.gov](https://hackerone.com/reports/798742) to GSA Bounty - 12 upvotes, $150
+117. 04-06-2021 [Open redirect GET-Based on https://www.flickr.com/browser/upgrade/?continue=](https://hackerone.com/reports/1217570) to Flickr - 12 upvotes, $150
+118. 30-07-2016 [(BYPASS) Open Redirect after login at http://ecommerce.shopify.com](https://hackerone.com/reports/155222) to Shopify - 12 upvotes, $0
+119. 06-04-2020 [Open Redirect in  www.shopify.dev Environment ](https://hackerone.com/reports/842035) to Shopify - 12 upvotes, $0
+120. 06-02-2021 [Open redirect on https://www.glassdoor.com/profile/siwa.htm via state parameter](https://hackerone.com/reports/1097208) to Glassdoor - 12 upvotes, $0
+121. 04-04-2022 [Open redirection at https://smartreports.mtncameroon.net](https://hackerone.com/reports/1530396) to MTN Group - 12 upvotes, $0
+122. 21-01-2022 [Open Redirect](https://hackerone.com/reports/1457736) to JetBlue - 12 upvotes, $0
+123. 23-05-2016 [Open Redirect on slack.com](https://hackerone.com/reports/140447) to Slack - 11 upvotes, $500
+124. 02-03-2014 [Open redirect vulnerability ](https://hackerone.com/reports/2731) to Slack - 11 upvotes, $0
+125. 27-05-2016 [Open Redirect in unifi.ubnt.com [Controller Finder]](https://hackerone.com/reports/141355) to Ubiquiti Inc. - 11 upvotes, $0
+126. 13-10-2017 [Goodhire Open Redirect](https://hackerone.com/reports/277078) to Inflection - 11 upvotes, $0
+127. 05-09-2018 [Open redirection in OAuth](https://hackerone.com/reports/405697) to Shopify - 11 upvotes, $0
+128. 29-12-2018 [Open Redirect On Your Login Panel](https://hackerone.com/reports/473064) to Zomato - 11 upvotes, $0
+129. 10-04-2020 [Open redirect at mc-beta-cloud-acronis.com](https://hackerone.com/reports/846389) to Acronis - 11 upvotes, $0
+130. 24-03-2016 [Reflected XSS via Unvalidated / Open Redirect in uber.com](https://hackerone.com/reports/125791) to Uber - 10 upvotes, $3000
+131. 22-03-2016 [Open Redirect in riders.uber.com](https://hackerone.com/reports/125003) to Uber - 10 upvotes, $500
+132. 27-08-2018 [Open redirect in securegatewayaccess.com / secure.chaturbate.com via prejoin_data parameter](https://hackerone.com/reports/400982) to Chaturbate - 10 upvotes, $250
+133. 12-12-2014 [[admin.c2fo.com] Open Redirect](https://hackerone.com/reports/39198) to C2FO - 10 upvotes, $0
+134. 28-02-2018 [[hekto] open redirect when target domain name is used as html filename on server](https://hackerone.com/reports/320693) to Node.js third-party modules - 10 upvotes, $0
+135. 25-03-2016 [Open redirect on rush.uber.com, business.uber.com, and help.uber.com](https://hackerone.com/reports/126070) to Uber - 10 upvotes, $0
+136. 19-06-2018 [Open redirect open.rocket.chat/file-upload/ID/filename.svg](https://hackerone.com/reports/368927) to Rocket.Chat - 10 upvotes, $0
+137. 07-11-2019 [Open Redirect on Greater Asia domains](https://hackerone.com/reports/731618) to Starbucks - 10 upvotes, $0
+138. 18-08-2021 [Open Redirect through POST Request in www.redditinc.com](https://hackerone.com/reports/1310230) to Reddit - 10 upvotes, $0
+139. 28-02-2016 [Open Redirection on Uber.com](https://hackerone.com/reports/119236) to Uber - 9 upvotes, $500
+140. 22-03-2016 [Open Redirect in m.uber.com](https://hackerone.com/reports/125000) to Uber - 9 upvotes, $500
+141. 28-01-2015 [[zaption.com] Open Redirect](https://hackerone.com/reports/45516) to Zaption - 9 upvotes, $0
+142. 06-02-2017 [Open Redirect in \<customer\>.greenhouse.io](https://hackerone.com/reports/203726) to Greenhouse.io - 9 upvotes, $0
+143. 13-11-2015 [Open redirect helps to steal Facebook access_token](https://hackerone.com/reports/99435) to Bumble - 9 upvotes, $0
+144. 11-09-2019 [Open Redirect in the Path of vendhq.com](https://hackerone.com/reports/692154) to Vend VDP - 9 upvotes, $0
+145. 13-10-2021 [OPEN REDIRECT ](https://hackerone.com/reports/1369806) to Nutanix - 9 upvotes, $0
+146. 19-08-2017 [Open Redirection Found in users.whisper.sh](https://hackerone.com/reports/261592) to Whisper - 8 upvotes, $30
+147. 26-10-2016 [[parc.informatica.com] Reflected Cross Site Scripting and Open Redirect](https://hackerone.com/reports/178278) to Informatica - 8 upvotes, $0
+148. 31-03-2017 [[connect.teavana.com] Open Redirect and abuse of connect.teavana.com](https://hackerone.com/reports/217430) to Starbucks - 8 upvotes, $0
+149. 21-11-2019 [Hong Kong - Open Redirect on card.starbucks.com.hk](https://hackerone.com/reports/743524) to Starbucks - 8 upvotes, $0
+150. 14-08-2020 [Open redirect (DOM-based) on av.ru via "return_url" parameter (Login form)](https://hackerone.com/reports/958864) to Azbuka Vkusa - 8 upvotes, $0
+151. 01-02-2022 [Open Redirect on https://██.8x8.com/login?nextPage=%2F](https://hackerone.com/reports/1467046) to 8x8 - 8 upvotes, $0
+152. 08-05-2023 [Open redirect on "Unsupported browser" warning](https://hackerone.com/reports/1977222) to Nextcloud - 7 upvotes, $150
+153. 17-06-2014 [Open Redirect login account](https://hackerone.com/reports/16718) to Slack - 7 upvotes, $100
+154. 05-05-2017 [Open Redirect in shopify app URL](https://hackerone.com/reports/226408) to Shopify - 7 upvotes, $0
+155. 15-10-2017 [[BuddyPress 2.9.1] Open Redirect via "wp_http_referer" parameter on "bp-profile-edit" endpoint](https://hackerone.com/reports/277502) to WordPress - 7 upvotes, $0
+156. 10-12-2017 [Open redirect deceive in hackerone.com via another open redirect link.](https://hackerone.com/reports/296706) to HackerOne - 7 upvotes, $0
+157. 07-12-2017 [Open Redirection on auth.rbk.money](https://hackerone.com/reports/295865) to RBKmoney - 7 upvotes, $0
+158. 07-06-2019 [Open Redirect in comment section](https://hackerone.com/reports/603196) to ExpressionEngine - 7 upvotes, $0
+159. 27-12-2019 [Potential Open-Redirection](https://hackerone.com/reports/765227) to Ian Dunn - 7 upvotes, $0
+160. 12-02-2020 [Open redirection bypass in /www/admin/campaign-modify.php](https://hackerone.com/reports/794144) to Revive Adserver - 7 upvotes, $0
+161. 09-04-2015 [Open Redirect after login at http://ecommerce.shopify.com](https://hackerone.com/reports/55546) to Shopify - 6 upvotes, $500
+162. 17-04-2014 [OAuth open redirect](https://hackerone.com/reports/7900) to Respondly - 6 upvotes, $0
+163. 18-04-2016 [Open Redirect vulnerability in moneybird.com](https://hackerone.com/reports/131728) to Moneybird - 6 upvotes, $0
+164. 21-08-2016 [Open Redirect possible in https://www.shopify.com/admin/](https://hackerone.com/reports/161991) to Shopify - 6 upvotes, $0
+165. 03-12-2016 [Open redirect vulnerability in a DoD website](https://hackerone.com/reports/187969) to U.S. Dept Of Defense - 6 upvotes, $0
+166. 04-09-2014 [open redirect in rfc6749](https://hackerone.com/reports/26962) to Internet Bug Bounty - 5 upvotes, $3000
+167. 02-03-2015 [Open Redirect leak of authenticity_token lead to full account take over.](https://hackerone.com/reports/49759) to X / xAI - 5 upvotes, $1400
+168. 15-04-2016 [Open Redirector via (apps/files_pdfviewer) for un-authenticated users.](https://hackerone.com/reports/131082) to ownCloud - 5 upvotes, $150
+169. 08-04-2014 [Open Redirection in SmartHistory KhanAcademy](https://hackerone.com/reports/6564) to Khan Academy - 5 upvotes, $0
+170. 24-08-2016 [[skyliner.io / qa.skyliner.io] Open Redirect](https://hackerone.com/reports/163124) to Skyliner - 5 upvotes, $0
+171. 12-12-2015 [[status.zopim.com] Open Redirect](https://hackerone.com/reports/104896) to Zendesk - 5 upvotes, $0
+172. 30-11-2016 [Open Redirect in a DoD website](https://hackerone.com/reports/187006) to U.S. Dept Of Defense - 5 upvotes, $0
+173. 27-04-2017 [Open redirect while disconnecting authenticated account](https://hackerone.com/reports/224317) to Weblate - 5 upvotes, $0
+174. 08-06-2017 [Open redirect while disconnecting Email](https://hackerone.com/reports/238117) to Weblate - 5 upvotes, $0
+175. 05-06-2017 [Open redirects protection bypass](https://hackerone.com/reports/236599) to ExpressionEngine - 5 upvotes, $0
+176. 05-12-2016 [Unvalidated / Open Redirect](https://hackerone.com/reports/188338) to Zendesk - 5 upvotes, $0
+177. 21-03-2021 [Open Redirect at https://www.nutanix.com/tw/login via icid parameter](https://hackerone.com/reports/1131753) to Nutanix - 5 upvotes, $0
+178. 12-07-2022 [Open Redirect at █████](https://hackerone.com/reports/1634105) to U.S. Dept Of Defense - 5 upvotes, $0
+179. 12-04-2014 [Host Header is not validated resulting in Open Redirect](https://hackerone.com/reports/7357) to IRCCloud - 4 upvotes, $100
+180. 18-04-2015 [Open-redirect on hackerone.com](https://hackerone.com/reports/57163) to HackerOne - 4 upvotes, $0
+181. 06-03-2015 [Open redirect and reflected xss in http://youthvoices.adobe.com/community?return_url=[payload her]](https://hackerone.com/reports/50379) to Adobe - 4 upvotes, $0
+182. 27-01-2016 [Open-redirect on paragonie.com](https://hackerone.com/reports/113112) to Paragon Initiative Enterprises - 4 upvotes, $0
+183. 16-03-2016 [[marketplace.informatica.com] Open Redirect](https://hackerone.com/reports/123625) to Informatica - 4 upvotes, $0
+184. 25-03-2017 [[Repository Import] Open Redirect via "continue[to]" parameter ](https://hackerone.com/reports/215970) to GitLab - 4 upvotes, $0
+185. 24-04-2017 [Open Redirect via "next" parameter in third-party authentication](https://hackerone.com/reports/223326) to Weblate - 4 upvotes, $0
+186. 21-06-2018 [OPEN REDIRECTION at every 302 HTTP CODE](https://hackerone.com/reports/369447) to Brave Software - 4 upvotes, $0
+187. 14-03-2020 [Cross Site Scripting and Open Redirect in affiliate-preview.php file ](https://hackerone.com/reports/819362) to Revive Adserver - 4 upvotes, $0
+188. 08-12-2015 [Trick make all fixed open redirect links vulnerable again](https://hackerone.com/reports/104087) to Slack - 3 upvotes, $1000
+189. 17-12-2014 [Open redirection in fabric.io](https://hackerone.com/reports/39631) to X / xAI - 3 upvotes, $280
+190. 07-04-2014 [https://www.khanacademy.org/login open-redirect](https://hackerone.com/reports/6357) to Khan Academy - 3 upvotes, $0
+191. 19-07-2015 [Open redirect filter bypass](https://hackerone.com/reports/76738) to Zaption - 3 upvotes, $0
+192. 28-09-2016 [WebSummit - Open Redirect ](https://hackerone.com/reports/172746) to WebSummit - 3 upvotes, $0
+193. 16-03-2017 [Open redirect](https://hackerone.com/reports/214034) to GitLab - 3 upvotes, $0
+194. 25-04-2017 [Open redirect in Signing in via Social Sites](https://hackerone.com/reports/223718) to Weblate - 3 upvotes, $0
+195. 25-05-2017 [Open redirect on sign in ](https://hackerone.com/reports/231760) to Coinbase - 3 upvotes, $0
+196. 07-04-2016 [CPU utilization 99% on visiting wordpress site url & open redirect found](https://hackerone.com/reports/129091) to Automattic - 3 upvotes, $0
+197. 05-08-2018 [Open redirect in switch account functionality](https://hackerone.com/reports/390663) to Revive Adserver - 3 upvotes, $0
+198. 22-04-2020 [China - Open redirect at trackinghub.starbucks.com.cn](https://hackerone.com/reports/856137) to Starbucks - 3 upvotes, $0
+199. 10-11-2021 [open redirect to a remote website which can phish users](https://hackerone.com/reports/1397804) to Concrete CMS - 3 upvotes, $0
+200. 22-03-2014 [Open Redirect in Slack](https://hackerone.com/reports/4549) to Slack - 2 upvotes, $0
+201. 06-04-2014 [open redirect in https://slack.com](https://hackerone.com/reports/6035) to Slack - 2 upvotes, $0
+202. 23-05-2014 [Open Redirection](https://hackerone.com/reports/12949) to Urban Dictionary - 2 upvotes, $0
+203. 17-01-2015 [Open Redirection Security Filter bypassed](https://hackerone.com/reports/44157) to Vimeo - 2 upvotes, $0
+204. 10-08-2017 [owncloud.com open redirect](https://hackerone.com/reports/258632) to ownCloud - 2 upvotes, $0
+205. 29-06-2018 [Open redirect in Serendipity (exit.php)](https://hackerone.com/reports/373932) to Hanno's projects - 2 upvotes, $0
+206. 29-09-2021 [Open redirect in fastify-static via mishandled user's input when attempt to redirect](https://hackerone.com/reports/1354255) to Fastify - 2 upvotes, $0
+207. 03-05-2021 [Vulnerability Name: URL Redirection / Unvalidate Open Redirect](https://hackerone.com/reports/1182824) to Reddit - 2 upvotes, $0
+208. 10-03-2015 [open redirect sends authenticity_token to any website or (ip address)](https://hackerone.com/reports/50752) to X / xAI - 1 upvotes, $560
+209. 28-02-2014 [open redirect](https://hackerone.com/reports/2414) to RelateIQ - 1 upvotes, $0
+210. 02-08-2014 [Open Redirect in WordPress Feed Statistics {Affected All Versions}](https://hackerone.com/reports/22142) to Automattic - 1 upvotes, $0
+211. 18-08-2014 [Open redirection on secure.phabricator.com](https://hackerone.com/reports/25160) to Phabricator - 1 upvotes, $0
+212. 22-07-2020 [Open Redirect on [blog.wavecell.com]](https://hackerone.com/reports/929633) to 8x8 - 1 upvotes, $0
+213. 19-01-2021 [Open redirect in ck.php and lg.php](https://hackerone.com/reports/1081406) to Revive Adserver - 1 upvotes, $0

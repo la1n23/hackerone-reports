@@ -1,4 +1,12 @@
 link,submitted_at,title,program,upvotes,bounty,vuln_type
+hackerone.com/reports/2885269,2024-12-06T00:39:03.705Z,Shopify Partners Invitation Process Allows Privilege Escalation Without Email Verification,Shopify,27,3500.0,Improper Access Control - Generic
+hackerone.com/reports/3056937,2025-03-25T15:38:21.747Z,Bedrock Guardrails Evasion with Prompt Formatting,AWS VDP,8,0.0,
+hackerone.com/reports/3083428,2025-04-08T20:42:15.790Z,Corrupted pointer in node::fs::ReadFileUtf8(const FunctionCallbackInfo<Value>& args) when args[0] is a string.,Node.js,10,0.0,Memory Corruption - Generic
+hackerone.com/reports/3085889,2025-04-09T14:25:04.801Z,Weak Rate Limiting Controls in the (LOGIN) page Expose System to Brute Force and DoS Attacks,Lichess,14,0.0,
+hackerone.com/reports/3099816,2025-04-18T13:04:24.630Z,Open Redirect Vulnerability in OAuth Flow Leading to Potential Phishing Attack,Lichess,14,0.0,Open Redirect
+hackerone.com/reports/3062122,2025-03-31T01:31:01.670Z,[Xenoblade Chronicles X: Definitive Edition] Unrestricted RPCs allow DoS and writing arbitrary flags remotely,Nintendo,23,0.0,Resource Injection
+hackerone.com/reports/3052880,2025-03-23T03:41:33.352Z,[Xenoblade Chronicles X: Definitive Edition] Improper validation of names allows injecting formatting tags and bypassing profanity filter,Nintendo,16,0.0,
+hackerone.com/reports/2817648,2024-11-02T14:01:24.290Z,Improper error handling in async cryptographic operations crashes process,Node.js,10,0.0,Cryptographic Issues - Generic
 hackerone.com/reports/3098717,2025-04-17T12:16:12.700Z,user api key leaked,WakaTime,9,0.0,Information Disclosure
 hackerone.com/reports/2915647,2024-12-27T21:52:44.033Z,Netlify Authentication Token Exposed in Public Mozilla CI Logs,Mozilla,22,1500.0,Information Disclosure
 hackerone.com/reports/3090123,2025-04-12T14:39:31.906Z,insecure deserilize object leads to RCE On Sitecore (CVE-██████████-27218),Mars,9,0.0,Deserialization of Untrusted Data

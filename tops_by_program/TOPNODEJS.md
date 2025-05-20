@@ -41,53 +41,55 @@ Top reports from Node.js program at HackerOne for period all:
 39. 02-09-2022 [Weak randomness in WebCrypto keygen](https://hackerone.com/reports/1690000) to Node.js - 11 upvotes, $11
 40. 03-01-2023 [CRLF Injection in Nodejs ‘undici’ via host](https://hackerone.com/reports/1820955) to Node.js - 11 upvotes, $11
 41. 18-02-2024 [fetch with integrity option is too lax when algorithm is specified but hash value is in incorrect](https://hackerone.com/reports/2377760) to Node.js - 11 upvotes, $11
-42. 24-05-2019 [Multiple HTTP/2 DOS Issues](https://hackerone.com/reports/589739) to Node.js - 9 upvotes, $9
-43. 28-05-2021 [Node Installer Local Privilege Escalation ](https://hackerone.com/reports/1211160) to Node.js - 9 upvotes, $9
-44. 08-03-2024 [Proxy-Authorization header not cleared on cross-origin redirect in undici.request](https://hackerone.com/reports/2408074) to Node.js - 9 upvotes, $9
-45. 08-05-2020 [Denial of Service by resource exhaustion CWE-400 due to unfinished HTTP/1.1 requests](https://hackerone.com/reports/868834) to Node.js - 8 upvotes, $8
-46. 18-02-2020 [Slowloris, body parsing](https://hackerone.com/reports/799072) to Node.js - 8 upvotes, $8
-47. 14-06-2018 [Your page has 2 blocking CSS resources. This causes a delay in rendering your page.](https://hackerone.com/reports/365968) to Node.js - 8 upvotes, $8
-48. 17-02-2023 [The use of __proto__ in process.mainModule.__proto__.require() bypasses the permission system in Node v19.6.1](https://hackerone.com/reports/1877919) to Node.js - 8 upvotes, $8
-49. 27-01-2020 [napi_get_value_string_X allow various kinds of memory corruption](https://hackerone.com/reports/784186) to Node.js - 7 upvotes, $7
-50. 28-03-2022 [HTTP Request Smuggling Due To Improper Delimiting of Header Fields](https://hackerone.com/reports/1524692) to Node.js - 7 upvotes, $7
-51. 25-05-2023 [HTTP Request Smuggling via Empty headers separated by CR](https://hackerone.com/reports/2001873) to Node.js - 7 upvotes, $7
-52. 31-03-2023 [DiffieHellman doesn't generate keys after setting a key](https://hackerone.com/reports/1927480) to Node.js - 7 upvotes, $7
-53. 19-06-2021 [HTTP Request Smuggling due to ignoring chunk extensions](https://hackerone.com/reports/1238099) to Node.js - 6 upvotes, $6
-54. 10-04-2018 [HTTP/2 Denial of Service Vulnerability](https://hackerone.com/reports/335533) to Node.js - 6 upvotes, $6
-55. 10-08-2022 [HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding (improper fix for CVE-2022-32215)](https://hackerone.com/reports/1665156) to Node.js - 6 upvotes, $6
-56. 20-08-2022 [HTTP Request Smuggling Due to Incorrect Parsing of Header Fields](https://hackerone.com/reports/1675191) to Node.js - 6 upvotes, $6
-57. 24-10-2022 [Permissions policies can be bypassed via process.mainModule](https://hackerone.com/reports/1747642) to Node.js - 6 upvotes, $6
-58. 29-04-2023 [fs.openAsBlob() bypasses permission system](https://hackerone.com/reports/1966492) to Node.js - 6 upvotes, $6
-59. 31-12-2020 [DNS rebinding in --inspect (insufficient fix of CVE-2018-7160)](https://hackerone.com/reports/1069487) to Node.js - 5 upvotes, $5
-60. 27-09-2018 [Pull Request #12949 - Security Implications without CVE assignment](https://hackerone.com/reports/415329) to Node.js - 5 upvotes, $5
-61. 26-05-2021 [OOB read in libuv](https://hackerone.com/reports/1209681) to Node.js - 5 upvotes, $5
-62. 06-03-2022 [HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding](https://hackerone.com/reports/1501679) to Node.js - 5 upvotes, $5
-63. 28-03-2022 [HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding ](https://hackerone.com/reports/1524555) to Node.js - 5 upvotes, $5
-64. 07-07-2022 [CVE-2022-32213 bypass via obs-fold mechanic](https://hackerone.com/reports/1630336) to Node.js - 5 upvotes, $5
-65. 16-12-2022 [Multiple OpenSSL error handling issues in nodejs crypto library](https://hackerone.com/reports/1808596) to Node.js - 5 upvotes, $5
-66. 26-04-2023 [Process-based permissions can be bypassed with the "inspector" module.  ](https://hackerone.com/reports/1962701) to Node.js - 5 upvotes, $5
-67. 18-04-2023 [Filesystem experimental permissions policy does not handle path traversal cases.](https://hackerone.com/reports/1952978) to Node.js - 5 upvotes, $5
-68. 29-04-2023 [fs module's file watching is not restricted by --allow-fs-read](https://hackerone.com/reports/1966499) to Node.js - 5 upvotes, $5
-69. 10-04-2018 [Denial of Service: nghttp2 use of uninitialized pointer](https://hackerone.com/reports/335608) to Node.js - 4 upvotes, $4
-70. 24-08-2020 [`fs.realpath.native` on darwin may cause buffer overflow](https://hackerone.com/reports/965914) to Node.js - 4 upvotes, $4
-71. 30-03-2021 [Unexpected input validation of octal literals in nodejs v15.12.0 and below returns defined values for all undefined octal literals.](https://hackerone.com/reports/1141623) to Node.js - 4 upvotes, $4
-72. 28-04-2021 [Improper handling of untypical characters in domain names](https://hackerone.com/reports/1178337) to Node.js - 4 upvotes, $4
-73. 27-05-2022 [Undici does not use CONNECT or otherwise validate upstream HTTPS certificates when using a proxy](https://hackerone.com/reports/1583680) to Node.js - 4 upvotes, $4
-74. 23-09-2022 [DNS rebinding in --inspect via invalid octal IP address](https://hackerone.com/reports/1710652) to Node.js - 4 upvotes, $4
-75. 04-07-2022 [Insecure loading of ICU data through ICU_DATA environment variable](https://hackerone.com/reports/1625036) to Node.js - 4 upvotes, $4
-76. 19-04-2023 [OpenSSL engines can be used to bypass and/or disable the permission model](https://hackerone.com/reports/1954535) to Node.js - 4 upvotes, $4
-77. 21-08-2019 [Hostname spoofing](https://hackerone.com/reports/678487) to Node.js - 3 upvotes, $3
-78. 10-04-2018 [Out of order TLS handshake / application data messages lead to segmentation fault](https://hackerone.com/reports/335495) to Node.js - 3 upvotes, $3
-79. 01-12-2018 [Fix for CVE-2018-12122 can be bypassed via keep-alive requests](https://hackerone.com/reports/453513) to Node.js - 3 upvotes, $3
-80. 26-06-2019 [loader.js is not secure](https://hackerone.com/reports/629879) to Node.js - 3 upvotes, $3
-81. 19-05-2020 [Child process environment injection via prototype pollution](https://hackerone.com/reports/878181) to Node.js - 3 upvotes, $3
-82. 25-11-2020 [HTTP2 'unknownProtocol' cause Denial of Service by resource exhaustion](https://hackerone.com/reports/1043360) to Node.js - 3 upvotes, $3
-83. 08-09-2022 [Node 18 reads openssl.cnf from /home/iojs/build/... upon startup on MacOS](https://hackerone.com/reports/1695596) to Node.js - 3 upvotes, $3
-84. 25-11-2022 [Regular Expression Denial of Service in Headers](https://hackerone.com/reports/1784449) to Node.js - 3 upvotes, $3
-85. 12-11-2020 [DNS Max Responses for DOS](https://hackerone.com/reports/1033107) to Node.js - 2 upvotes, $2
-86. 10-01-2020 [CRLF Injection in legacy url API (url.parse().hostname)](https://hackerone.com/reports/771596) to Node.js - 2 upvotes, $2
-87. 18-04-2018 [Use After Free in crypto.randomFill](https://hackerone.com/reports/340053) to Node.js - 2 upvotes, $2
-88. 18-11-2018 [Node.js HTTP/2 Large Settings Frame DoS](https://hackerone.com/reports/446662) to Node.js - 2 upvotes, $2
-89. 17-12-2021 [Node.js Certificate Verification Bypass via String Injection](https://hackerone.com/reports/1429694) to Node.js - 2 upvotes, $2
-90. 19-08-2019 [Http response is not ended although underlying socket is already destroyed](https://hackerone.com/reports/676710) to Node.js - 1 upvotes, $1
-91. 12-04-2019 [Vulnerability in http-parser & embedded NULL header handling](https://hackerone.com/reports/536954) to Node.js - 1 upvotes, $1
+42. 02-11-2024 [Improper error handling in async cryptographic operations crashes process](https://hackerone.com/reports/2817648) to Node.js - 10 upvotes, $10
+43. 08-04-2025 [Corrupted pointer in node::fs::ReadFileUtf8(const FunctionCallbackInfo\<Value\>& args) when args[0] is a string.](https://hackerone.com/reports/3083428) to Node.js - 10 upvotes, $10
+44. 24-05-2019 [Multiple HTTP/2 DOS Issues](https://hackerone.com/reports/589739) to Node.js - 9 upvotes, $9
+45. 28-05-2021 [Node Installer Local Privilege Escalation ](https://hackerone.com/reports/1211160) to Node.js - 9 upvotes, $9
+46. 08-03-2024 [Proxy-Authorization header not cleared on cross-origin redirect in undici.request](https://hackerone.com/reports/2408074) to Node.js - 9 upvotes, $9
+47. 08-05-2020 [Denial of Service by resource exhaustion CWE-400 due to unfinished HTTP/1.1 requests](https://hackerone.com/reports/868834) to Node.js - 8 upvotes, $8
+48. 18-02-2020 [Slowloris, body parsing](https://hackerone.com/reports/799072) to Node.js - 8 upvotes, $8
+49. 14-06-2018 [Your page has 2 blocking CSS resources. This causes a delay in rendering your page.](https://hackerone.com/reports/365968) to Node.js - 8 upvotes, $8
+50. 17-02-2023 [The use of __proto__ in process.mainModule.__proto__.require() bypasses the permission system in Node v19.6.1](https://hackerone.com/reports/1877919) to Node.js - 8 upvotes, $8
+51. 27-01-2020 [napi_get_value_string_X allow various kinds of memory corruption](https://hackerone.com/reports/784186) to Node.js - 7 upvotes, $7
+52. 28-03-2022 [HTTP Request Smuggling Due To Improper Delimiting of Header Fields](https://hackerone.com/reports/1524692) to Node.js - 7 upvotes, $7
+53. 25-05-2023 [HTTP Request Smuggling via Empty headers separated by CR](https://hackerone.com/reports/2001873) to Node.js - 7 upvotes, $7
+54. 31-03-2023 [DiffieHellman doesn't generate keys after setting a key](https://hackerone.com/reports/1927480) to Node.js - 7 upvotes, $7
+55. 19-06-2021 [HTTP Request Smuggling due to ignoring chunk extensions](https://hackerone.com/reports/1238099) to Node.js - 6 upvotes, $6
+56. 10-04-2018 [HTTP/2 Denial of Service Vulnerability](https://hackerone.com/reports/335533) to Node.js - 6 upvotes, $6
+57. 10-08-2022 [HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding (improper fix for CVE-2022-32215)](https://hackerone.com/reports/1665156) to Node.js - 6 upvotes, $6
+58. 20-08-2022 [HTTP Request Smuggling Due to Incorrect Parsing of Header Fields](https://hackerone.com/reports/1675191) to Node.js - 6 upvotes, $6
+59. 24-10-2022 [Permissions policies can be bypassed via process.mainModule](https://hackerone.com/reports/1747642) to Node.js - 6 upvotes, $6
+60. 29-04-2023 [fs.openAsBlob() bypasses permission system](https://hackerone.com/reports/1966492) to Node.js - 6 upvotes, $6
+61. 31-12-2020 [DNS rebinding in --inspect (insufficient fix of CVE-2018-7160)](https://hackerone.com/reports/1069487) to Node.js - 5 upvotes, $5
+62. 27-09-2018 [Pull Request #12949 - Security Implications without CVE assignment](https://hackerone.com/reports/415329) to Node.js - 5 upvotes, $5
+63. 26-05-2021 [OOB read in libuv](https://hackerone.com/reports/1209681) to Node.js - 5 upvotes, $5
+64. 06-03-2022 [HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding](https://hackerone.com/reports/1501679) to Node.js - 5 upvotes, $5
+65. 28-03-2022 [HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding ](https://hackerone.com/reports/1524555) to Node.js - 5 upvotes, $5
+66. 07-07-2022 [CVE-2022-32213 bypass via obs-fold mechanic](https://hackerone.com/reports/1630336) to Node.js - 5 upvotes, $5
+67. 16-12-2022 [Multiple OpenSSL error handling issues in nodejs crypto library](https://hackerone.com/reports/1808596) to Node.js - 5 upvotes, $5
+68. 26-04-2023 [Process-based permissions can be bypassed with the "inspector" module.  ](https://hackerone.com/reports/1962701) to Node.js - 5 upvotes, $5
+69. 18-04-2023 [Filesystem experimental permissions policy does not handle path traversal cases.](https://hackerone.com/reports/1952978) to Node.js - 5 upvotes, $5
+70. 29-04-2023 [fs module's file watching is not restricted by --allow-fs-read](https://hackerone.com/reports/1966499) to Node.js - 5 upvotes, $5
+71. 10-04-2018 [Denial of Service: nghttp2 use of uninitialized pointer](https://hackerone.com/reports/335608) to Node.js - 4 upvotes, $4
+72. 24-08-2020 [`fs.realpath.native` on darwin may cause buffer overflow](https://hackerone.com/reports/965914) to Node.js - 4 upvotes, $4
+73. 30-03-2021 [Unexpected input validation of octal literals in nodejs v15.12.0 and below returns defined values for all undefined octal literals.](https://hackerone.com/reports/1141623) to Node.js - 4 upvotes, $4
+74. 28-04-2021 [Improper handling of untypical characters in domain names](https://hackerone.com/reports/1178337) to Node.js - 4 upvotes, $4
+75. 27-05-2022 [Undici does not use CONNECT or otherwise validate upstream HTTPS certificates when using a proxy](https://hackerone.com/reports/1583680) to Node.js - 4 upvotes, $4
+76. 23-09-2022 [DNS rebinding in --inspect via invalid octal IP address](https://hackerone.com/reports/1710652) to Node.js - 4 upvotes, $4
+77. 04-07-2022 [Insecure loading of ICU data through ICU_DATA environment variable](https://hackerone.com/reports/1625036) to Node.js - 4 upvotes, $4
+78. 19-04-2023 [OpenSSL engines can be used to bypass and/or disable the permission model](https://hackerone.com/reports/1954535) to Node.js - 4 upvotes, $4
+79. 21-08-2019 [Hostname spoofing](https://hackerone.com/reports/678487) to Node.js - 3 upvotes, $3
+80. 10-04-2018 [Out of order TLS handshake / application data messages lead to segmentation fault](https://hackerone.com/reports/335495) to Node.js - 3 upvotes, $3
+81. 01-12-2018 [Fix for CVE-2018-12122 can be bypassed via keep-alive requests](https://hackerone.com/reports/453513) to Node.js - 3 upvotes, $3
+82. 26-06-2019 [loader.js is not secure](https://hackerone.com/reports/629879) to Node.js - 3 upvotes, $3
+83. 19-05-2020 [Child process environment injection via prototype pollution](https://hackerone.com/reports/878181) to Node.js - 3 upvotes, $3
+84. 25-11-2020 [HTTP2 'unknownProtocol' cause Denial of Service by resource exhaustion](https://hackerone.com/reports/1043360) to Node.js - 3 upvotes, $3
+85. 08-09-2022 [Node 18 reads openssl.cnf from /home/iojs/build/... upon startup on MacOS](https://hackerone.com/reports/1695596) to Node.js - 3 upvotes, $3
+86. 25-11-2022 [Regular Expression Denial of Service in Headers](https://hackerone.com/reports/1784449) to Node.js - 3 upvotes, $3
+87. 12-11-2020 [DNS Max Responses for DOS](https://hackerone.com/reports/1033107) to Node.js - 2 upvotes, $2
+88. 10-01-2020 [CRLF Injection in legacy url API (url.parse().hostname)](https://hackerone.com/reports/771596) to Node.js - 2 upvotes, $2
+89. 18-04-2018 [Use After Free in crypto.randomFill](https://hackerone.com/reports/340053) to Node.js - 2 upvotes, $2
+90. 18-11-2018 [Node.js HTTP/2 Large Settings Frame DoS](https://hackerone.com/reports/446662) to Node.js - 2 upvotes, $2
+91. 17-12-2021 [Node.js Certificate Verification Bypass via String Injection](https://hackerone.com/reports/1429694) to Node.js - 2 upvotes, $2
+92. 19-08-2019 [Http response is not ended although underlying socket is already destroyed](https://hackerone.com/reports/676710) to Node.js - 1 upvotes, $1
+93. 12-04-2019 [Vulnerability in http-parser & embedded NULL header handling](https://hackerone.com/reports/536954) to Node.js - 1 upvotes, $1

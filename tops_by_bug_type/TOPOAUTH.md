@@ -33,33 +33,34 @@ Top OAuth reports from HackerOne for period all:
 31. 09-01-2020 [Insecure OAuth redirection at [admin.8x8.vc]](https://hackerone.com/reports/770548) to 8x8 - 16 upvotes, $0
 32. 16-02-2018 [SocialClub's Facebook OAuth Theft through Warehouse XSS.](https://hackerone.com/reports/316948) to Rockstar Games - 15 upvotes, $0
 33. 29-05-2021 [Oauth Misconfiguration Lead To Account Takeover](https://hackerone.com/reports/1212374) to Reddit - 15 upvotes, $0
-34. 04-06-2015 [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 13 upvotes, $5000
-35. 31-03-2014 [Coinbase Android Application - Bitcoin Wallet Leaks OAuth Response Code](https://hackerone.com/reports/5314) to Coinbase - 13 upvotes, $0
-36. 09-04-2015 [Open redirection in OAuth](https://hackerone.com/reports/55525) to Shopify - 12 upvotes, $500
-37. 08-09-2016 [leaking Digits OAuth authorization to third party websites](https://hackerone.com/reports/166942) to X / xAI - 12 upvotes, $0
-38. 17-08-2017 [Stored XSS in OAuth redirect URI ](https://hackerone.com/reports/261138) to Nextcloud - 12 upvotes, $0
-39. 18-02-2019 [Image Injection on www.rockstargames.com/screenshot-viewer/responsive/image may allow facebook oauth token theft.](https://hackerone.com/reports/497655) to Rockstar Games - 12 upvotes, $0
-40. 05-09-2018 [Open redirection in OAuth](https://hackerone.com/reports/405697) to Shopify - 11 upvotes, $0
-41. 23-02-2014 [Login CSRF using Twitter OAuth](https://hackerone.com/reports/2228) to Phabricator - 10 upvotes, $0
-42. 25-07-2019 [Image Injection on `/bully/anniversaryedition` may lead to FB's OAuth Token Theft.](https://hackerone.com/reports/659784) to Rockstar Games - 9 upvotes, $0
-43. 22-12-2022 [oauth misconfigration lead to account takeover](https://hackerone.com/reports/1815463) to Reddit - 9 upvotes, $0
-44. 13-03-2014 [OAuth Stealing Attack (New)](https://hackerone.com/reports/3930) to Phabricator - 7 upvotes, $400
-45. 17-10-2016 [Wordpress.com REST API oauth bypass via Cross Site Flashing](https://hackerone.com/reports/176308) to Automattic - 7 upvotes, $0
-46. 20-02-2019 [Image Injection on /bully/anniversaryedition may lead to OAuth token theft.](https://hackerone.com/reports/498358) to Rockstar Games - 7 upvotes, $0
-47. 04-02-2015 [Problem with OAuth](https://hackerone.com/reports/46485) to X / xAI - 6 upvotes, $1260
-48. 10-03-2014 [OAuth access_token stealing in Phabricator](https://hackerone.com/reports/3596) to Phabricator - 6 upvotes, $450
-49. 17-04-2014 [OAuth open redirect](https://hackerone.com/reports/7900) to Respondly - 6 upvotes, $0
-50. 30-05-2015 [Registration bypass using OAuth logical bug](https://hackerone.com/reports/64946) to Legal Robot - 6 upvotes, $0
-51. 06-02-2019 [Image Injection vulnerability affecting www.rockstargames.com/careers may lead to Facebook OAuth Theft](https://hackerone.com/reports/491654) to Rockstar Games - 6 upvotes, $0
-52. 27-05-2014 [Login CSRF using Twitter oauth](https://hackerone.com/reports/13555) to Factlink - 5 upvotes, $0
-53. 01-03-2014 [Broken Authentication (including Slack OAuth bugs)](https://hackerone.com/reports/2559) to Slack - 5 upvotes, $0
-54. 21-01-2015 [Flaw in login with twitter to steal Oauth tokens](https://hackerone.com/reports/44492) to X / xAI - 5 upvotes, $0
-55. 17-01-2016 [Attach Pinterest account - no State/CSRF parameter in Oauth Call back](https://hackerone.com/reports/111218) to Shopify - 5 upvotes, $0
-56. 15-04-2016 [XSS in uber oauth](https://hackerone.com/reports/131052) to Uber - 5 upvotes, $0
-57. 17-08-2016 [API OAuth Public Key disclosure in mobile app](https://hackerone.com/reports/160120) to Instacart - 5 upvotes, $0
-58. 05-09-2015 [OAUTH pemission set as true= lead to authorize malicious application](https://hackerone.com/reports/87561) to Coinbase - 4 upvotes, $100
-59. 24-04-2014 [OAuth Bug](https://hackerone.com/reports/9460) to Respondly - 4 upvotes, $0
-60. 15-03-2019 [Image injection /br/games/info may lead to phishing attacks or FB OAuth theft.](https://hackerone.com/reports/510388) to Rockstar Games - 4 upvotes, $0
-61. 02-03-2014 [State parameter missing on google OAuth](https://hackerone.com/reports/2688) to Slack - 3 upvotes, $0
-62. 12-10-2014 [Cryptographic Side Channel in OAuth Library](https://hackerone.com/reports/31168) to WP API - 3 upvotes, $0
-63. 25-02-2016 [Login CSRF using Google OAuth](https://hackerone.com/reports/118737) to ThisData - 3 upvotes, $0
+34. 18-04-2025 [Open Redirect Vulnerability in OAuth Flow Leading to Potential Phishing Attack](https://hackerone.com/reports/3099816) to Lichess - 14 upvotes, $0
+35. 04-06-2015 [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 13 upvotes, $5000
+36. 31-03-2014 [Coinbase Android Application - Bitcoin Wallet Leaks OAuth Response Code](https://hackerone.com/reports/5314) to Coinbase - 13 upvotes, $0
+37. 09-04-2015 [Open redirection in OAuth](https://hackerone.com/reports/55525) to Shopify - 12 upvotes, $500
+38. 08-09-2016 [leaking Digits OAuth authorization to third party websites](https://hackerone.com/reports/166942) to X / xAI - 12 upvotes, $0
+39. 17-08-2017 [Stored XSS in OAuth redirect URI ](https://hackerone.com/reports/261138) to Nextcloud - 12 upvotes, $0
+40. 18-02-2019 [Image Injection on www.rockstargames.com/screenshot-viewer/responsive/image may allow facebook oauth token theft.](https://hackerone.com/reports/497655) to Rockstar Games - 12 upvotes, $0
+41. 05-09-2018 [Open redirection in OAuth](https://hackerone.com/reports/405697) to Shopify - 11 upvotes, $0
+42. 23-02-2014 [Login CSRF using Twitter OAuth](https://hackerone.com/reports/2228) to Phabricator - 10 upvotes, $0
+43. 25-07-2019 [Image Injection on `/bully/anniversaryedition` may lead to FB's OAuth Token Theft.](https://hackerone.com/reports/659784) to Rockstar Games - 9 upvotes, $0
+44. 22-12-2022 [oauth misconfigration lead to account takeover](https://hackerone.com/reports/1815463) to Reddit - 9 upvotes, $0
+45. 13-03-2014 [OAuth Stealing Attack (New)](https://hackerone.com/reports/3930) to Phabricator - 7 upvotes, $400
+46. 17-10-2016 [Wordpress.com REST API oauth bypass via Cross Site Flashing](https://hackerone.com/reports/176308) to Automattic - 7 upvotes, $0
+47. 20-02-2019 [Image Injection on /bully/anniversaryedition may lead to OAuth token theft.](https://hackerone.com/reports/498358) to Rockstar Games - 7 upvotes, $0
+48. 04-02-2015 [Problem with OAuth](https://hackerone.com/reports/46485) to X / xAI - 6 upvotes, $1260
+49. 10-03-2014 [OAuth access_token stealing in Phabricator](https://hackerone.com/reports/3596) to Phabricator - 6 upvotes, $450
+50. 17-04-2014 [OAuth open redirect](https://hackerone.com/reports/7900) to Respondly - 6 upvotes, $0
+51. 30-05-2015 [Registration bypass using OAuth logical bug](https://hackerone.com/reports/64946) to Legal Robot - 6 upvotes, $0
+52. 06-02-2019 [Image Injection vulnerability affecting www.rockstargames.com/careers may lead to Facebook OAuth Theft](https://hackerone.com/reports/491654) to Rockstar Games - 6 upvotes, $0
+53. 27-05-2014 [Login CSRF using Twitter oauth](https://hackerone.com/reports/13555) to Factlink - 5 upvotes, $0
+54. 01-03-2014 [Broken Authentication (including Slack OAuth bugs)](https://hackerone.com/reports/2559) to Slack - 5 upvotes, $0
+55. 21-01-2015 [Flaw in login with twitter to steal Oauth tokens](https://hackerone.com/reports/44492) to X / xAI - 5 upvotes, $0
+56. 17-01-2016 [Attach Pinterest account - no State/CSRF parameter in Oauth Call back](https://hackerone.com/reports/111218) to Shopify - 5 upvotes, $0
+57. 15-04-2016 [XSS in uber oauth](https://hackerone.com/reports/131052) to Uber - 5 upvotes, $0
+58. 17-08-2016 [API OAuth Public Key disclosure in mobile app](https://hackerone.com/reports/160120) to Instacart - 5 upvotes, $0
+59. 05-09-2015 [OAUTH pemission set as true= lead to authorize malicious application](https://hackerone.com/reports/87561) to Coinbase - 4 upvotes, $100
+60. 24-04-2014 [OAuth Bug](https://hackerone.com/reports/9460) to Respondly - 4 upvotes, $0
+61. 15-03-2019 [Image injection /br/games/info may lead to phishing attacks or FB OAuth theft.](https://hackerone.com/reports/510388) to Rockstar Games - 4 upvotes, $0
+62. 02-03-2014 [State parameter missing on google OAuth](https://hackerone.com/reports/2688) to Slack - 3 upvotes, $0
+63. 12-10-2014 [Cryptographic Side Channel in OAuth Library](https://hackerone.com/reports/31168) to WP API - 3 upvotes, $0
+64. 25-02-2016 [Login CSRF using Google OAuth](https://hackerone.com/reports/118737) to ThisData - 3 upvotes, $0
