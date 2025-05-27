@@ -13,6 +13,7 @@ You can specify period of time using --period argument to limit the reports to a
 import argparse
 import csv
 from datetime import datetime, timedelta
+import sys
 
 index = []
 PERIOD = 'all'
@@ -180,7 +181,8 @@ def main():
         else:
             programs[report['program']].append(report)
     top_programs = sorted(programs, key=lambda k: len(programs[k]), reverse=True)
-    for program in top_programs[:35]:
+    for program in top_programs:
+    #for program in top_programs[:35]:
         print(program)
         top_by_program(reports, program)
 

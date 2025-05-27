@@ -1,4 +1,10 @@
 link,submitted_at,title,program,upvotes,bounty,vuln_type
+hackerone.com/reports/2084280,2023-07-25T19:48:45.697Z,WASI sandbox escape via symlink,Node.js,10,0.0,Privilege Escalation
+hackerone.com/reports/1981441,2023-05-10T13:44:24.668Z,Dynamic fee algorithm doesn't check for zero fee,Monero,17,0.0,Uncontrolled Resource Consumption
+hackerone.com/reports/2338094,2024-01-28T19:29:52.023Z,RPC service DOS,Monero,17,0.0,Uncontrolled Resource Consumption
+hackerone.com/reports/3158093,2025-05-22T01:15:44.803Z,Memory Leak in libcurl via Location Header Handling (CWE-770),curl,25,0.0,Allocation of Resources Without Limits or Throttling
+hackerone.com/reports/3148937,2025-05-15T16:59:22.955Z,`Curl_socketpair()` fallback vulnerable to man-in-the-middle attack,curl,29,0.0,Man-in-the-Middle
+hackerone.com/reports/2802817,2024-10-25T06:42:59.207Z,Any WARP User Can Access Organization-Specific Application,Cloudflare Public Bug Bounty,26,0.0,Improper Authentication - Generic
 hackerone.com/reports/2885269,2024-12-06T00:39:03.705Z,Shopify Partners Invitation Process Allows Privilege Escalation Without Email Verification,Shopify,27,3500.0,Improper Access Control - Generic
 hackerone.com/reports/3056937,2025-03-25T15:38:21.747Z,Bedrock Guardrails Evasion with Prompt Formatting,AWS VDP,8,0.0,
 hackerone.com/reports/3083428,2025-04-08T20:42:15.790Z,Corrupted pointer in node::fs::ReadFileUtf8(const FunctionCallbackInfo<Value>& args) when args[0] is a string.,Node.js,10,0.0,Memory Corruption - Generic
