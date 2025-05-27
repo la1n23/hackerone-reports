@@ -116,7 +116,7 @@ def top_by_program(reports, program):
         for i in range(0, len(bug_sorted_reports)):
             report = bug_sorted_reports[i]
             d =  format_time(report)
-            file.write('{0}. {1} [{2}](https://{3}) to {4} - {5} upvotes, ${5}\n'
+            file.write('{0}. {1} [{2}](https://{3}) to {4} - {5} upvotes, ${6}\n'
                        .format(i + 1, d, report['title'], report['link'], report['program'], report['upvotes'], int(report['bounty'])))
 
 
