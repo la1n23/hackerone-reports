@@ -99,94 +99,95 @@ Top SQLI reports from HackerOne for period all:
 97. 29-03-2019 [SQLi allow query restriction bypass on exposed FileContentProvider](https://hackerone.com/reports/518669) to Nextcloud - 19 upvotes, $100
 98. 17-10-2014 [Drupal 7 pre auth sql injection and remote code execution](https://hackerone.com/reports/31756) to Internet Bug Bounty - 19 upvotes, $0
 99. 13-02-2021 [Blind SQL iNJECTION ](https://hackerone.com/reports/1102591) to U.S. Dept Of Defense - 19 upvotes, $0
-100. 19-03-2021 [Pre-Auth Blind NoSQL Injection leading to Remote Code Execution](https://hackerone.com/reports/1130721) to Rocket.Chat - 18 upvotes, $0
-101. 23-01-2017 [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/200623) to U.S. Dept Of Defense - 17 upvotes, $0
-102. 03-11-2016 [WordPress DB Class, bad implementation of prepare method guides to sqli and information disclosure](https://hackerone.com/reports/179920) to WordPress - 17 upvotes, $0
-103. 03-06-2018 [Unsafe deserialization in Libera Pay allows to escalate a SQL injection to Remote Command Execution](https://hackerone.com/reports/361341) to Liberapay - 17 upvotes, $0
-104. 05-07-2022 [SQL injection at [█████████] [HtUS]](https://hackerone.com/reports/1626198) to U.S. Dept Of Defense - 16 upvotes, $0
-105. 08-03-2019 [[typeorm] SQL Injection](https://hackerone.com/reports/506654) to Node.js third-party modules - 15 upvotes, $0
-106. 13-03-2017 [Blind SQLi vulnerability in a DoD Website](https://hackerone.com/reports/213239) to U.S. Dept Of Defense - 14 upvotes, $0
-107. 01-02-2018 [[query-mysql] SQL Injection due to lack of user input sanitization allows to run arbitrary SQL queries when fetching data from database](https://hackerone.com/reports/311244) to Node.js third-party modules - 14 upvotes, $0
-108. 29-01-2018 [[Informational] Possible SQL Injection in inc/ajax-actions-frontend.php](https://hackerone.com/reports/310280) to MapsMarker.com e.U. - 14 upvotes, $0
-109. 09-03-2019 [[untitled-model] sql injection](https://hackerone.com/reports/507222) to Node.js third-party modules - 14 upvotes, $0
-110. 07-02-2018 [Blind SQL injection on ████████](https://hackerone.com/reports/313037) to U.S. Dept Of Defense - 14 upvotes, $0
-111. 16-09-2020 [SQL injection when configuring a database ](https://hackerone.com/reports/983710) to ImpressCMS - 14 upvotes, $0
-112. 07-12-2016 [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/189332) to U.S. Dept Of Defense - 13 upvotes, $0
-113. 05-10-2022 [Sql Injection At █████████](https://hackerone.com/reports/1723896) to U.S. Dept Of Defense - 13 upvotes, $0
-114. 29-06-2018 [blind sql injection](https://hackerone.com/reports/374027) to Hanno's projects - 12 upvotes, $0
-115. 27-09-2017 [ SQL injections](https://hackerone.com/reports/272506) to U.S. Dept Of Defense - 12 upvotes, $0
-116. 20-11-2018 [SQL Injection in Login Page: https://█████/█████████/login.php](https://hackerone.com/reports/447742) to U.S. Dept Of Defense - 12 upvotes, $0
-117. 28-03-2017 [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/216699) to U.S. Dept Of Defense - 11 upvotes, $0
-118. 11-05-2019 [MSSQL injection via param Customwho in https://█████/News/Transcripts/Search/Sort/ and WAF bypass](https://hackerone.com/reports/577612) to U.S. Dept Of Defense - 11 upvotes, $0
-119. 19-12-2019 [stripo blog search  SQL Injection](https://hackerone.com/reports/761382) to Stripo Inc - 11 upvotes, $0
-120. 19-03-2021 [Post-Auth Blind NoSQL Injection in the users.list API leads to Remote Code Execution](https://hackerone.com/reports/1130874) to Rocket.Chat - 11 upvotes, $0
-121. 29-09-2019 [SQL Injection and plaintext passwords via User Search](https://hackerone.com/reports/703819) to IBM - 11 upvotes, $0
-122. 27-05-2017 [SQL Injection on https://████████/](https://hackerone.com/reports/232378) to U.S. Dept Of Defense - 11 upvotes, $0
-123. 18-02-2016 [[informatica.com] Blind SQL Injection](https://hackerone.com/reports/117073) to Informatica - 10 upvotes, $0
-124. 28-01-2018 [SQL injection on █████ due to tech.cfm ](https://hackerone.com/reports/310031) to U.S. Dept Of Defense - 10 upvotes, $0
-125. 14-09-2020 [SQLi in login form of █████](https://hackerone.com/reports/982202) to U.S. Dept Of Defense - 10 upvotes, $0
-126. 09-01-2020 [Blind SQL Injection](https://hackerone.com/reports/771215) to U.S. Dept Of Defense - 10 upvotes, $0
-127. 03-11-2021 [SQL injextion via vulnerable doctrine/dbal version](https://hackerone.com/reports/1390331) to Nextcloud - 10 upvotes, $0
-128. 06-01-2017 [Blind SQLi in a DoD Website](https://hackerone.com/reports/196300) to U.S. Dept Of Defense - 9 upvotes, $0
-129. 09-12-2016 [Time Based SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/189851) to U.S. Dept Of Defense - 9 upvotes, $0
-130. 09-08-2020 [SQLi on █████████](https://hackerone.com/reports/954667) to U.S. Dept Of Defense - 9 upvotes, $0
-131. 15-07-2020 [SQL injection [futexpert.mtngbissau.com]](https://hackerone.com/reports/924855) to MTN Group - 9 upvotes, $0
-132. 28-10-2016 [[afocusp.informatica.com] Sql injection  afocusp.informatica.com:37777](https://hackerone.com/reports/178632) to Informatica - 8 upvotes, $0
-133. 18-04-2017 [Blind SQL Injection](https://hackerone.com/reports/221757) to ok.ru - 8 upvotes, $0
-134. 23-01-2019 [[███]  SQL injection & Reflected XSS](https://hackerone.com/reports/484801) to U.S. Dept Of Defense - 8 upvotes, $0
-135. 09-05-2020 [SQL Injection or Denial of Service due to a Prototype Pollution](https://hackerone.com/reports/869574) to Node.js third-party modules - 8 upvotes, $0
-136. 21-10-2020 [SQL Injection in www.██████████](https://hackerone.com/reports/1015406) to U.S. Dept Of Defense - 8 upvotes, $0
-137. 08-10-2020 [SQL Injection leads to retrieve the contents of an entire database. ](https://hackerone.com/reports/1002641) to BlockDev Sp. Z o.o - 8 upvotes, $0
-138. 27-08-2020 [SQL injection at /admin.php?/cp/members/create](https://hackerone.com/reports/968240) to ExpressionEngine - 8 upvotes, $0
-139. 23-02-2022 [SQL Injection in █████](https://hackerone.com/reports/1489744) to U.S. Dept Of Defense - 8 upvotes, $0
-140. 01-11-2022 [NoSQL injection in listEmojiCustom method call](https://hackerone.com/reports/1757676) to Rocket.Chat - 8 upvotes, $0
-141. 28-11-2016 [SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/186156) to U.S. Dept Of Defense - 7 upvotes, $0
-142. 25-12-2016 [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/193936) to U.S. Dept Of Defense - 7 upvotes, $0
-143. 07-12-2016 [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/189069) to U.S. Dept Of Defense - 7 upvotes, $0
-144. 17-07-2019 [[████████] Boolean SQL Injection (/personnel.php?content=profile&rcnum=*)](https://hackerone.com/reports/648346) to U.S. Dept Of Defense - 7 upvotes, $0
-145. 01-02-2019 [SQL Injection in the get_publications.php on the https://█████](https://hackerone.com/reports/489483) to U.S. Dept Of Defense - 6 upvotes, $0
-146. 26-10-2020 [[████] SQL Injections on Referer Header exploitable via Time-Based method](https://hackerone.com/reports/1018621) to U.S. Dept Of Defense - 6 upvotes, $0
-147. 01-02-2017 [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/202619) to U.S. Dept Of Defense - 5 upvotes, $0
-148. 27-01-2017 [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/201512) to U.S. Dept Of Defense - 5 upvotes, $0
-149. 09-03-2017 [sql injection vulnerablity found](https://hackerone.com/reports/211988) to Legal Robot - 5 upvotes, $0
-150. 14-07-2018 [sql injection on  /messagecenter/messagingcenter at https://www.███████/](https://hackerone.com/reports/381758) to U.S. Dept Of Defense - 5 upvotes, $0
-151. 25-10-2019 [SQL INJECTION  in https://████/██████████ ](https://hackerone.com/reports/723044) to U.S. Dept Of Defense - 5 upvotes, $0
-152. 11-10-2014 [Sql injection And XSS](https://hackerone.com/reports/31023) to Khan Academy - 4 upvotes, $0
-153. 22-12-2016 [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/193436) to U.S. Dept Of Defense - 4 upvotes, $0
-154. 17-12-2016 [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/192079) to U.S. Dept Of Defense - 4 upvotes, $0
-155. 18-12-2016 [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/192110) to U.S. Dept Of Defense - 4 upvotes, $0
-156. 01-01-2017 [SQL injection vulnerability in a DoD website](https://hackerone.com/reports/195051) to U.S. Dept Of Defense - 4 upvotes, $0
-157. 10-05-2017 [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/227587) to U.S. Dept Of Defense - 4 upvotes, $0
-158. 07-05-2018 [Code reversion allowing SQLI again in ███████](https://hackerone.com/reports/348047) to U.S. Dept Of Defense - 4 upvotes, $0
-159. 15-07-2021 [SQL injection located in `███` in POST param `████████` ](https://hackerone.com/reports/1262757) to U.S. Dept Of Defense - 4 upvotes, $0
-160. 01-09-2015 [[https://www.anghami.com/updatemailinfo/] Sql Injection](https://hackerone.com/reports/86468) to Anghami - 3 upvotes, $0
-161. 22-03-2016 [SQLi in love.uber.com](https://hackerone.com/reports/125181) to Uber - 3 upvotes, $0
-162. 09-12-2014 [SQL injection in conc/index.php/ccm/system/search/users/submit](https://hackerone.com/reports/38778) to Concrete CMS - 3 upvotes, $0
-163. 06-12-2016 [Time Based SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/188929) to U.S. Dept Of Defense - 3 upvotes, $0
-164. 30-06-2018 [SQL injection in Serendipity (serendipity_fetchComments)](https://hackerone.com/reports/374748) to Hanno's projects - 3 upvotes, $0
-165. 20-03-2017 [SQL injection on https://███████](https://hackerone.com/reports/214798) to U.S. Dept Of Defense - 3 upvotes, $0
-166. 24-06-2017 [Blind SQL Injection on DoD Site](https://hackerone.com/reports/242882) to U.S. Dept Of Defense - 3 upvotes, $0
-167. 11-09-2019 [Followup - SQL Injection - https://██████████/██████/MSI.portal](https://hackerone.com/reports/692326) to U.S. Dept Of Defense - 3 upvotes, $0
-168. 24-10-2019 [[CRITICAL] Sql Injection on http://axa.dxi.eu](https://hackerone.com/reports/722145) to 8x8 - 3 upvotes, $0
-169. 22-01-2022 [NoSQL-Injection discloses S3 File Upload URLs](https://hackerone.com/reports/1458020) to Rocket.Chat - 3 upvotes, $0
-170. 22-06-2014 [SQL injection, tile ID](https://hackerone.com/reports/17225) to Uzbey - 2 upvotes, $0
-171. 02-07-2014 [Active Record SQL Injection Vulnerability Affecting PostgreSQL](https://hackerone.com/reports/28449) to Ruby on Rails - 2 upvotes, $0
-172. 02-07-2014 [Active Record SQL Injection Vulnerability Affecting PostgreSQL](https://hackerone.com/reports/28450) to Ruby on Rails - 2 upvotes, $0
-173. 08-08-2014 [SQL Injection](https://hackerone.com/reports/23014) to Uzbey - 2 upvotes, $0
-174. 11-08-2015 [Possible SQL injection on "Jump to twitter"](https://hackerone.com/reports/81701) to Gratipay - 2 upvotes, $0
-175. 04-05-2017 [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/226211) to U.S. Dept Of Defense - 2 upvotes, $0
-176. 12-01-2017 [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/197754) to U.S. Dept Of Defense - 2 upvotes, $0
-177. 25-02-2018 [`sql` does not properly escape parameters when building SQL queries, resulting in potential SQLi](https://hackerone.com/reports/319465) to Node.js third-party modules - 2 upvotes, $0
-178. 08-03-2019 [[@azhou/basemodel] SQL injection](https://hackerone.com/reports/506644) to Node.js third-party modules - 2 upvotes, $0
-179. 13-07-2020 [SQL injection (stacked queries) in the export to Excel functionality on Vidyo Server](https://hackerone.com/reports/922567) to 8x8 - 2 upvotes, $0
-180. 22-06-2014 [SQL injection, time zoom script, tile ID](https://hackerone.com/reports/17227) to Uzbey - 1 upvotes, $0
-181. 05-05-2015 [SQL Injection Vulnerability in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59664) to Concrete CMS - 1 upvotes, $0
-182. 08-02-2016 [Blind SQL INJ](https://hackerone.com/reports/115304) to Paragon Initiative Enterprises - 1 upvotes, $0
-183. 12-06-2016 [Time Based SQL injection in url parameter](https://hackerone.com/reports/144359) to WebSummit - 1 upvotes, $0
-184. 31-05-2018 [SQL Injection Proof of Concept for Starbucks URL](https://hackerone.com/reports/360539) to Starbucks - 1 upvotes, $0
-185. 25-02-2018 [typeorm does not properly escape parameters when building SQL queries, resulting in potential SQLi](https://hackerone.com/reports/319458) to Node.js third-party modules - 1 upvotes, $0
-186. 12-01-2017 [SQL injection found in US Navy Website (http://███/)](https://hackerone.com/reports/197755) to U.S. Dept Of Defense - 1 upvotes, $0
-187. 12-03-2019 [[increments] sql injection](https://hackerone.com/reports/508346) to Node.js third-party modules - 1 upvotes, $0
-188. 16-08-2019 [SQL Injection - https://███/█████████/MSI.portal](https://hackerone.com/reports/674838) to U.S. Dept Of Defense - 1 upvotes, $0
-189. 15-04-2016 [Possible Blind SQL injection | Language choice in presentation](https://hackerone.com/reports/131047) to Gratipay - 0 upvotes, $0
-190. 09-05-2017 [Two Error-Based SQLi in courses.aspx on ██████████](https://hackerone.com/reports/227102) to U.S. Dept Of Defense - 0 upvotes, $0
+100. 05-04-2025 [Apache Airflow Sql injection by authenticated user](https://hackerone.com/reports/3078856) to Internet Bug Bounty - 18 upvotes, $505
+101. 19-03-2021 [Pre-Auth Blind NoSQL Injection leading to Remote Code Execution](https://hackerone.com/reports/1130721) to Rocket.Chat - 18 upvotes, $0
+102. 23-01-2017 [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/200623) to U.S. Dept Of Defense - 17 upvotes, $0
+103. 03-11-2016 [WordPress DB Class, bad implementation of prepare method guides to sqli and information disclosure](https://hackerone.com/reports/179920) to WordPress - 17 upvotes, $0
+104. 03-06-2018 [Unsafe deserialization in Libera Pay allows to escalate a SQL injection to Remote Command Execution](https://hackerone.com/reports/361341) to Liberapay - 17 upvotes, $0
+105. 05-07-2022 [SQL injection at [█████████] [HtUS]](https://hackerone.com/reports/1626198) to U.S. Dept Of Defense - 16 upvotes, $0
+106. 08-03-2019 [[typeorm] SQL Injection](https://hackerone.com/reports/506654) to Node.js third-party modules - 15 upvotes, $0
+107. 13-03-2017 [Blind SQLi vulnerability in a DoD Website](https://hackerone.com/reports/213239) to U.S. Dept Of Defense - 14 upvotes, $0
+108. 01-02-2018 [[query-mysql] SQL Injection due to lack of user input sanitization allows to run arbitrary SQL queries when fetching data from database](https://hackerone.com/reports/311244) to Node.js third-party modules - 14 upvotes, $0
+109. 29-01-2018 [[Informational] Possible SQL Injection in inc/ajax-actions-frontend.php](https://hackerone.com/reports/310280) to MapsMarker.com e.U. - 14 upvotes, $0
+110. 09-03-2019 [[untitled-model] sql injection](https://hackerone.com/reports/507222) to Node.js third-party modules - 14 upvotes, $0
+111. 07-02-2018 [Blind SQL injection on ████████](https://hackerone.com/reports/313037) to U.S. Dept Of Defense - 14 upvotes, $0
+112. 16-09-2020 [SQL injection when configuring a database ](https://hackerone.com/reports/983710) to ImpressCMS - 14 upvotes, $0
+113. 07-12-2016 [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/189332) to U.S. Dept Of Defense - 13 upvotes, $0
+114. 05-10-2022 [Sql Injection At █████████](https://hackerone.com/reports/1723896) to U.S. Dept Of Defense - 13 upvotes, $0
+115. 29-06-2018 [blind sql injection](https://hackerone.com/reports/374027) to Hanno's projects - 12 upvotes, $0
+116. 27-09-2017 [ SQL injections](https://hackerone.com/reports/272506) to U.S. Dept Of Defense - 12 upvotes, $0
+117. 20-11-2018 [SQL Injection in Login Page: https://█████/█████████/login.php](https://hackerone.com/reports/447742) to U.S. Dept Of Defense - 12 upvotes, $0
+118. 28-03-2017 [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/216699) to U.S. Dept Of Defense - 11 upvotes, $0
+119. 11-05-2019 [MSSQL injection via param Customwho in https://█████/News/Transcripts/Search/Sort/ and WAF bypass](https://hackerone.com/reports/577612) to U.S. Dept Of Defense - 11 upvotes, $0
+120. 19-12-2019 [stripo blog search  SQL Injection](https://hackerone.com/reports/761382) to Stripo Inc - 11 upvotes, $0
+121. 19-03-2021 [Post-Auth Blind NoSQL Injection in the users.list API leads to Remote Code Execution](https://hackerone.com/reports/1130874) to Rocket.Chat - 11 upvotes, $0
+122. 29-09-2019 [SQL Injection and plaintext passwords via User Search](https://hackerone.com/reports/703819) to IBM - 11 upvotes, $0
+123. 27-05-2017 [SQL Injection on https://████████/](https://hackerone.com/reports/232378) to U.S. Dept Of Defense - 11 upvotes, $0
+124. 18-02-2016 [[informatica.com] Blind SQL Injection](https://hackerone.com/reports/117073) to Informatica - 10 upvotes, $0
+125. 28-01-2018 [SQL injection on █████ due to tech.cfm ](https://hackerone.com/reports/310031) to U.S. Dept Of Defense - 10 upvotes, $0
+126. 14-09-2020 [SQLi in login form of █████](https://hackerone.com/reports/982202) to U.S. Dept Of Defense - 10 upvotes, $0
+127. 09-01-2020 [Blind SQL Injection](https://hackerone.com/reports/771215) to U.S. Dept Of Defense - 10 upvotes, $0
+128. 03-11-2021 [SQL injextion via vulnerable doctrine/dbal version](https://hackerone.com/reports/1390331) to Nextcloud - 10 upvotes, $0
+129. 06-01-2017 [Blind SQLi in a DoD Website](https://hackerone.com/reports/196300) to U.S. Dept Of Defense - 9 upvotes, $0
+130. 09-12-2016 [Time Based SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/189851) to U.S. Dept Of Defense - 9 upvotes, $0
+131. 09-08-2020 [SQLi on █████████](https://hackerone.com/reports/954667) to U.S. Dept Of Defense - 9 upvotes, $0
+132. 15-07-2020 [SQL injection [futexpert.mtngbissau.com]](https://hackerone.com/reports/924855) to MTN Group - 9 upvotes, $0
+133. 28-10-2016 [[afocusp.informatica.com] Sql injection  afocusp.informatica.com:37777](https://hackerone.com/reports/178632) to Informatica - 8 upvotes, $0
+134. 18-04-2017 [Blind SQL Injection](https://hackerone.com/reports/221757) to ok.ru - 8 upvotes, $0
+135. 23-01-2019 [[███]  SQL injection & Reflected XSS](https://hackerone.com/reports/484801) to U.S. Dept Of Defense - 8 upvotes, $0
+136. 09-05-2020 [SQL Injection or Denial of Service due to a Prototype Pollution](https://hackerone.com/reports/869574) to Node.js third-party modules - 8 upvotes, $0
+137. 21-10-2020 [SQL Injection in www.██████████](https://hackerone.com/reports/1015406) to U.S. Dept Of Defense - 8 upvotes, $0
+138. 08-10-2020 [SQL Injection leads to retrieve the contents of an entire database. ](https://hackerone.com/reports/1002641) to BlockDev Sp. Z o.o - 8 upvotes, $0
+139. 27-08-2020 [SQL injection at /admin.php?/cp/members/create](https://hackerone.com/reports/968240) to ExpressionEngine - 8 upvotes, $0
+140. 23-02-2022 [SQL Injection in █████](https://hackerone.com/reports/1489744) to U.S. Dept Of Defense - 8 upvotes, $0
+141. 01-11-2022 [NoSQL injection in listEmojiCustom method call](https://hackerone.com/reports/1757676) to Rocket.Chat - 8 upvotes, $0
+142. 28-11-2016 [SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/186156) to U.S. Dept Of Defense - 7 upvotes, $0
+143. 25-12-2016 [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/193936) to U.S. Dept Of Defense - 7 upvotes, $0
+144. 07-12-2016 [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/189069) to U.S. Dept Of Defense - 7 upvotes, $0
+145. 17-07-2019 [[████████] Boolean SQL Injection (/personnel.php?content=profile&rcnum=*)](https://hackerone.com/reports/648346) to U.S. Dept Of Defense - 7 upvotes, $0
+146. 01-02-2019 [SQL Injection in the get_publications.php on the https://█████](https://hackerone.com/reports/489483) to U.S. Dept Of Defense - 6 upvotes, $0
+147. 26-10-2020 [[████] SQL Injections on Referer Header exploitable via Time-Based method](https://hackerone.com/reports/1018621) to U.S. Dept Of Defense - 6 upvotes, $0
+148. 01-02-2017 [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/202619) to U.S. Dept Of Defense - 5 upvotes, $0
+149. 27-01-2017 [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/201512) to U.S. Dept Of Defense - 5 upvotes, $0
+150. 09-03-2017 [sql injection vulnerablity found](https://hackerone.com/reports/211988) to Legal Robot - 5 upvotes, $0
+151. 14-07-2018 [sql injection on  /messagecenter/messagingcenter at https://www.███████/](https://hackerone.com/reports/381758) to U.S. Dept Of Defense - 5 upvotes, $0
+152. 25-10-2019 [SQL INJECTION  in https://████/██████████ ](https://hackerone.com/reports/723044) to U.S. Dept Of Defense - 5 upvotes, $0
+153. 11-10-2014 [Sql injection And XSS](https://hackerone.com/reports/31023) to Khan Academy - 4 upvotes, $0
+154. 22-12-2016 [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/193436) to U.S. Dept Of Defense - 4 upvotes, $0
+155. 17-12-2016 [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/192079) to U.S. Dept Of Defense - 4 upvotes, $0
+156. 18-12-2016 [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/192110) to U.S. Dept Of Defense - 4 upvotes, $0
+157. 01-01-2017 [SQL injection vulnerability in a DoD website](https://hackerone.com/reports/195051) to U.S. Dept Of Defense - 4 upvotes, $0
+158. 10-05-2017 [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/227587) to U.S. Dept Of Defense - 4 upvotes, $0
+159. 07-05-2018 [Code reversion allowing SQLI again in ███████](https://hackerone.com/reports/348047) to U.S. Dept Of Defense - 4 upvotes, $0
+160. 15-07-2021 [SQL injection located in `███` in POST param `████████` ](https://hackerone.com/reports/1262757) to U.S. Dept Of Defense - 4 upvotes, $0
+161. 01-09-2015 [[https://www.anghami.com/updatemailinfo/] Sql Injection](https://hackerone.com/reports/86468) to Anghami - 3 upvotes, $0
+162. 22-03-2016 [SQLi in love.uber.com](https://hackerone.com/reports/125181) to Uber - 3 upvotes, $0
+163. 09-12-2014 [SQL injection in conc/index.php/ccm/system/search/users/submit](https://hackerone.com/reports/38778) to Concrete CMS - 3 upvotes, $0
+164. 06-12-2016 [Time Based SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/188929) to U.S. Dept Of Defense - 3 upvotes, $0
+165. 30-06-2018 [SQL injection in Serendipity (serendipity_fetchComments)](https://hackerone.com/reports/374748) to Hanno's projects - 3 upvotes, $0
+166. 20-03-2017 [SQL injection on https://███████](https://hackerone.com/reports/214798) to U.S. Dept Of Defense - 3 upvotes, $0
+167. 24-06-2017 [Blind SQL Injection on DoD Site](https://hackerone.com/reports/242882) to U.S. Dept Of Defense - 3 upvotes, $0
+168. 11-09-2019 [Followup - SQL Injection - https://██████████/██████/MSI.portal](https://hackerone.com/reports/692326) to U.S. Dept Of Defense - 3 upvotes, $0
+169. 24-10-2019 [[CRITICAL] Sql Injection on http://axa.dxi.eu](https://hackerone.com/reports/722145) to 8x8 - 3 upvotes, $0
+170. 22-01-2022 [NoSQL-Injection discloses S3 File Upload URLs](https://hackerone.com/reports/1458020) to Rocket.Chat - 3 upvotes, $0
+171. 22-06-2014 [SQL injection, tile ID](https://hackerone.com/reports/17225) to Uzbey - 2 upvotes, $0
+172. 02-07-2014 [Active Record SQL Injection Vulnerability Affecting PostgreSQL](https://hackerone.com/reports/28449) to Ruby on Rails - 2 upvotes, $0
+173. 02-07-2014 [Active Record SQL Injection Vulnerability Affecting PostgreSQL](https://hackerone.com/reports/28450) to Ruby on Rails - 2 upvotes, $0
+174. 08-08-2014 [SQL Injection](https://hackerone.com/reports/23014) to Uzbey - 2 upvotes, $0
+175. 11-08-2015 [Possible SQL injection on "Jump to twitter"](https://hackerone.com/reports/81701) to Gratipay - 2 upvotes, $0
+176. 04-05-2017 [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/226211) to U.S. Dept Of Defense - 2 upvotes, $0
+177. 12-01-2017 [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/197754) to U.S. Dept Of Defense - 2 upvotes, $0
+178. 25-02-2018 [`sql` does not properly escape parameters when building SQL queries, resulting in potential SQLi](https://hackerone.com/reports/319465) to Node.js third-party modules - 2 upvotes, $0
+179. 08-03-2019 [[@azhou/basemodel] SQL injection](https://hackerone.com/reports/506644) to Node.js third-party modules - 2 upvotes, $0
+180. 13-07-2020 [SQL injection (stacked queries) in the export to Excel functionality on Vidyo Server](https://hackerone.com/reports/922567) to 8x8 - 2 upvotes, $0
+181. 22-06-2014 [SQL injection, time zoom script, tile ID](https://hackerone.com/reports/17227) to Uzbey - 1 upvotes, $0
+182. 05-05-2015 [SQL Injection Vulnerability in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59664) to Concrete CMS - 1 upvotes, $0
+183. 08-02-2016 [Blind SQL INJ](https://hackerone.com/reports/115304) to Paragon Initiative Enterprises - 1 upvotes, $0
+184. 12-06-2016 [Time Based SQL injection in url parameter](https://hackerone.com/reports/144359) to WebSummit - 1 upvotes, $0
+185. 31-05-2018 [SQL Injection Proof of Concept for Starbucks URL](https://hackerone.com/reports/360539) to Starbucks - 1 upvotes, $0
+186. 25-02-2018 [typeorm does not properly escape parameters when building SQL queries, resulting in potential SQLi](https://hackerone.com/reports/319458) to Node.js third-party modules - 1 upvotes, $0
+187. 12-01-2017 [SQL injection found in US Navy Website (http://███/)](https://hackerone.com/reports/197755) to U.S. Dept Of Defense - 1 upvotes, $0
+188. 12-03-2019 [[increments] sql injection](https://hackerone.com/reports/508346) to Node.js third-party modules - 1 upvotes, $0
+189. 16-08-2019 [SQL Injection - https://███/█████████/MSI.portal](https://hackerone.com/reports/674838) to U.S. Dept Of Defense - 1 upvotes, $0
+190. 15-04-2016 [Possible Blind SQL injection | Language choice in presentation](https://hackerone.com/reports/131047) to Gratipay - 0 upvotes, $0
+191. 09-05-2017 [Two Error-Based SQLi in courses.aspx on ██████████](https://hackerone.com/reports/227102) to U.S. Dept Of Defense - 0 upvotes, $0

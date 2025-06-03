@@ -16,7 +16,16 @@ Top reports from AWS VDP program at HackerOne for period all:
 14. 07-01-2025 [Non-Production API Endpoints for the ssm Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/2926361) to AWS VDP - 33 upvotes, $0
 15. 18-02-2025 [Non-Production API Endpoints for the Device Farm Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/2999116) to AWS VDP - 30 upvotes, $0
 16. 06-02-2025 [Amazon Comprehend Medical Service Reporting "AWS Internal" for CloudTrail Events Generated from FIPS Endpoints](https://hackerone.com/reports/2979238) to AWS VDP - 29 upvotes, $0
-17. 03-02-2025 [Non-Production API Endpoints for the cloudwatch Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/2972435) to AWS VDP - 20 upvotes, $0
-18. 26-10-2024 [A potential risk in the cloudFrontExtensionsConsole which can be used to privilege escalation.](https://hackerone.com/reports/2805173) to AWS VDP - 17 upvotes, $0
-19. 11-03-2025 [Non-Production API Endpoints for the Glue Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3031512) to AWS VDP - 16 upvotes, $0
-20. 25-03-2025 [Bedrock Guardrails Evasion with Prompt Formatting](https://hackerone.com/reports/3056937) to AWS VDP - 8 upvotes, $0
+17. 23-10-2024 [Non-Production API Endpoints for the bedrock-agent Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/2800091) to AWS VDP - 29 upvotes, $0
+18. 21-01-2025 [Non-Production API Endpoints for the bedrock Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/2951803) to AWS VDP - 22 upvotes, $0
+19. 03-02-2025 [Non-Production API Endpoints for the cloudwatch Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/2972435) to AWS VDP - 20 upvotes, $0
+20. 03-03-2025 [Non-Production API Endpoint for the EventBridge Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3021618) to AWS VDP - 20 upvotes, $0
+21. 26-10-2024 [A potential risk in the cloudFrontExtensionsConsole which can be used to privilege escalation.](https://hackerone.com/reports/2805173) to AWS VDP - 17 upvotes, $0
+22. 11-03-2025 [Non-Production API Endpoints for the Glue Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3031512) to AWS VDP - 16 upvotes, $0
+23. 10-03-2025 [Non-Production API Endpoints for the Global Accelerator Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3029552) to AWS VDP - 16 upvotes, $0
+24. 17-03-2025 [Non-Production API Endpoints for the Health Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3042588) to AWS VDP - 15 upvotes, $0
+25. 18-03-2025 [Amazon Kendra Intelligent Ranking Service Reporting "AWS Internal" for CloudTrail Events Generated from FIPS Endpoints](https://hackerone.com/reports/3044471) to AWS VDP - 12 upvotes, $0
+26. 02-04-2025 [Amazon Pinpoint SMS and Voice, version 2  Service Reporting "AWS Internal" for CloudTrail Events Generated from FIPS Endpoints](https://hackerone.com/reports/3072841) to AWS VDP - 12 upvotes, $0
+27. 31-03-2025 [Non-Production API Endpoints for the Neptune Graph Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3068422) to AWS VDP - 10 upvotes, $0
+28. 25-03-2025 [Bedrock Guardrails Evasion with Prompt Formatting](https://hackerone.com/reports/3056937) to AWS VDP - 8 upvotes, $0
+29. 14-04-2025 [Non-Production API Endpoints for the Route 53 Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3092085) to AWS VDP - 8 upvotes, $0

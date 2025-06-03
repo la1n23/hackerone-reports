@@ -36,18 +36,20 @@ Top reports from Mars program at HackerOne for period all:
 34. 28-11-2023 [Blind SQL Injection on █████ via URI Path](https://hackerone.com/reports/2266081) to Mars - 25 upvotes, $0
 35. 12-01-2024 [CSRF resulting in adding pet at ███████](https://hackerone.com/reports/2313478) to Mars - 25 upvotes, $0
 36. 29-02-2024 [sensitive  data-creds for database - private key](https://hackerone.com/reports/2396630) to Mars - 25 upvotes, $0
-37. 17-06-2023 [CSRF to delete a pet](https://hackerone.com/reports/2029753) to Mars - 21 upvotes, $0
-38. 07-11-2023 [Information Exposure due to enabled debug mode](https://hackerone.com/reports/2243003) to Mars - 21 upvotes, $0
-39. 30-07-2023 [Reflected XSS on formaction parameter](https://hackerone.com/reports/2089895) to Mars - 20 upvotes, $0
-40. 14-04-2023 [███████  ' can delete any animal from other account  '  at ██████████ ](https://hackerone.com/reports/1947376) to Mars - 18 upvotes, $0
-41. 23-04-2023 [' Full Account Takeover ' at █████](https://hackerone.com/reports/1959540) to Mars - 16 upvotes, $0
-42. 28-03-2023 [Stored XSS via ' profile ' at ███](https://hackerone.com/reports/1921606) to Mars - 15 upvotes, $0
-43. 27-09-2022 [Jolokia Reflected XSS ](https://hackerone.com/reports/1714563) to Mars - 13 upvotes, $0
-44. 15-04-2023 [Information Exposure Through Directory Listing](https://hackerone.com/reports/1948562) to Mars - 12 upvotes, $0
-45. 11-04-2023 [CRLF Inection at `██████████`](https://hackerone.com/reports/1943013) to Mars - 12 upvotes, $0
-46. 07-07-2023 [Google dork lead to unsubscribe anyone from all Banfield emails](https://hackerone.com/reports/2055081) to Mars - 9 upvotes, $0
-47. 08-11-2024 [change part of personal information all users](https://hackerone.com/reports/2828693) to Mars - 9 upvotes, $0
-48. 08-12-2024 [massive PII  leakage for ███████](https://hackerone.com/reports/2887506) to Mars - 9 upvotes, $0
-49. 12-04-2025 [insecure deserilize object leads to RCE On Sitecore (CVE-██████████-27218)](https://hackerone.com/reports/3090123) to Mars - 9 upvotes, $0
-50. 27-03-2025 [debug.log leaked [█████████]](https://hackerone.com/reports/3063026) to Mars - 7 upvotes, $0
-51. 08-11-2024 [Users Data Exposure via Insecure Endpoint](https://hackerone.com/reports/2828608) to Mars - 6 upvotes, $0
+37. 07-11-2024 [unauthorized access and add user and change personal information all users](https://hackerone.com/reports/2828641) to Mars - 24 upvotes, $0
+38. 17-06-2023 [CSRF to delete a pet](https://hackerone.com/reports/2029753) to Mars - 21 upvotes, $0
+39. 07-11-2023 [Information Exposure due to enabled debug mode](https://hackerone.com/reports/2243003) to Mars - 21 upvotes, $0
+40. 30-07-2023 [Reflected XSS on formaction parameter](https://hackerone.com/reports/2089895) to Mars - 20 upvotes, $0
+41. 14-04-2023 [███████  ' can delete any animal from other account  '  at ██████████ ](https://hackerone.com/reports/1947376) to Mars - 18 upvotes, $0
+42. 08-11-2024 [Customer Data Exposure via Insecure Endpoint of coupon](https://hackerone.com/reports/2828720) to Mars - 17 upvotes, $0
+43. 23-04-2023 [' Full Account Takeover ' at █████](https://hackerone.com/reports/1959540) to Mars - 16 upvotes, $0
+44. 28-03-2023 [Stored XSS via ' profile ' at ███](https://hackerone.com/reports/1921606) to Mars - 15 upvotes, $0
+45. 27-09-2022 [Jolokia Reflected XSS ](https://hackerone.com/reports/1714563) to Mars - 13 upvotes, $0
+46. 15-04-2023 [Information Exposure Through Directory Listing](https://hackerone.com/reports/1948562) to Mars - 12 upvotes, $0
+47. 11-04-2023 [CRLF Inection at `██████████`](https://hackerone.com/reports/1943013) to Mars - 12 upvotes, $0
+48. 07-07-2023 [Google dork lead to unsubscribe anyone from all Banfield emails](https://hackerone.com/reports/2055081) to Mars - 9 upvotes, $0
+49. 08-11-2024 [change part of personal information all users](https://hackerone.com/reports/2828693) to Mars - 9 upvotes, $0
+50. 08-12-2024 [massive PII  leakage for ███████](https://hackerone.com/reports/2887506) to Mars - 9 upvotes, $0
+51. 12-04-2025 [insecure deserilize object leads to RCE On Sitecore (CVE-██████████-27218)](https://hackerone.com/reports/3090123) to Mars - 9 upvotes, $0
+52. 27-03-2025 [debug.log leaked [█████████]](https://hackerone.com/reports/3063026) to Mars - 7 upvotes, $0
+53. 08-11-2024 [Users Data Exposure via Insecure Endpoint](https://hackerone.com/reports/2828608) to Mars - 6 upvotes, $0

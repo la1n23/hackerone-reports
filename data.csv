@@ -1,4 +1,26 @@
 link,submitted_at,title,program,upvotes,bounty,vuln_type
+hackerone.com/reports/2937622,2025-01-14T17:30:22.529Z,Public GitHub repositories for multiple HackerOne managed triage team profiles contain private HackerOne reports information,HackerOne,92,1200.0,Information Disclosure
+hackerone.com/reports/1365076,2021-10-10T20:26:48.216Z,Information Disclosure of metrics fax.wavecell.com/metrics,8x8 Bounty,44,0.0,Information Disclosure
+hackerone.com/reports/3119034,2025-04-30T05:14:58.377Z,Facebook Username Takeover via Broken Link in Footer,Omise,59,0.0,Improper Access Control - Generic
+hackerone.com/reports/3073507,2025-04-02T10:40:17.010Z,Apache Airflow Fab Provider: Application does not invalidate session after password change via Airflow cli,Internet Bug Bounty,39,0.0,Insufficient Session Expiration
+hackerone.com/reports/3122019,2025-05-01T15:15:25.581Z,Remote Code Execution via unsafe usage of `reply.view({ raw })` in @fastify/view (EJS template engine),Fastify,50,0.0,
+hackerone.com/reports/3153497,2025-05-19T16:01:54.305Z,CVE-2025-5025: No QUIC certificate pinning with wolfSSL,curl,44,0.0,Improper Certificate Validation
+hackerone.com/reports/3150884,2025-05-17T06:01:26.757Z,CVE-2025-4947: QUIC certificate check skip with wolfSSL,curl,38,0.0,Improper Validation of Certificate with Host Mismatch
+hackerone.com/reports/2800091,2024-10-23T18:23:22.077Z,Non-Production API Endpoints for the bedrock-agent Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration,AWS VDP,29,0.0,Insufficient Logging
+hackerone.com/reports/2951803,2025-01-21T14:49:01.460Z,Non-Production API Endpoints for the bedrock Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration,AWS VDP,22,0.0,Insufficient Logging
+hackerone.com/reports/3021618,2025-03-03T19:06:58.811Z,Non-Production API Endpoint for the EventBridge Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration,AWS VDP,20,0.0,Insufficient Logging
+hackerone.com/reports/3029552,2025-03-10T16:23:07.778Z,Non-Production API Endpoints for the Global Accelerator Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration,AWS VDP,16,0.0,Insufficient Logging
+hackerone.com/reports/3042588,2025-03-17T21:52:01.427Z,Non-Production API Endpoints for the Health Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration,AWS VDP,15,0.0,Insufficient Logging
+hackerone.com/reports/3072841,2025-04-02T02:45:36.533Z,"Amazon Pinpoint SMS and Voice, version 2  Service Reporting ""AWS Internal"" for CloudTrail Events Generated from FIPS Endpoints",AWS VDP,12,0.0,Insufficient Logging
+hackerone.com/reports/3044471,2025-03-18T15:27:46.002Z,"Amazon Kendra Intelligent Ranking Service Reporting ""AWS Internal"" for CloudTrail Events Generated from FIPS Endpoints",AWS VDP,12,0.0,Insufficient Logging
+hackerone.com/reports/3068422,2025-03-31T14:44:01.972Z,Non-Production API Endpoints for the Neptune Graph Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration,AWS VDP,10,0.0,Insufficient Logging
+hackerone.com/reports/3092085,2025-04-14T16:26:01.535Z,Non-Production API Endpoints for the Route 53 Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration,AWS VDP,8,0.0,Insufficient Logging
+hackerone.com/reports/2828641,2024-11-07T17:12:30.184Z,unauthorized access and add user and change personal information all users,Mars,24,0.0,Improper Access Control - Generic
+hackerone.com/reports/2828720,2024-11-08T11:03:29.047Z,Customer Data Exposure via Insecure Endpoint of coupon,Mars,17,0.0,Information Disclosure
+hackerone.com/reports/3078856,2025-04-05T06:10:57.402Z,Apache Airflow Sql injection by authenticated user,Internet Bug Bounty,18,505.0,SQL Injection
+hackerone.com/reports/2905013,2024-12-17T22:48:03.348Z,[SECURITY] CVE-2024-50379 Apache Tomcat - RCE via write-enabled default servlet,Internet Bug Bounty,20,0.0,Code Injection
+hackerone.com/reports/2978267,2025-02-06T13:18:17.741Z,TLS client authentication can be bypassed due to ticket resumption,Internet Bug Bounty,19,2162.0,Improper Authentication - Generic
+hackerone.com/reports/2939104,2025-01-15T06:03:50.058Z,CVE-2024-56374:  Denial-of-service vulnerability in IPv6 validation,Internet Bug Bounty,19,2162.0,
 hackerone.com/reports/2084280,2023-07-25T19:48:45.697Z,WASI sandbox escape via symlink,Node.js,10,0.0,Privilege Escalation
 hackerone.com/reports/1981441,2023-05-10T13:44:24.668Z,Dynamic fee algorithm doesn't check for zero fee,Monero,17,0.0,Uncontrolled Resource Consumption
 hackerone.com/reports/2338094,2024-01-28T19:29:52.023Z,RPC service DOS,Monero,17,0.0,Uncontrolled Resource Consumption
