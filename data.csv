@@ -1,4 +1,12 @@
 link,submitted_at,title,program,upvotes,bounty,vuln_type
+hackerone.com/reports/2633771,2024-07-31T18:12:15.939Z,IDOR Vulnerability at AddTagToAssets operation name,HackerOne,11,0.0,Insecure Direct Object Reference (IDOR)
+hackerone.com/reports/3175928,2025-06-03T14:51:34.197Z,ImageId Format Injection in Image Upload Endpoint,Lichess,27,0.0,Improper Input Validation
+hackerone.com/reports/3081691,2025-04-07T21:59:18.249Z,1 Click Account Takeover via Auth Token Theft on marketing.hostinger.com,hostinger ,63,0.0,Improper Access Control - Generic
+hackerone.com/reports/1695604,2022-09-08T19:58:34.926Z,DoS Vulnerability via Cache Poisoning on cdn.shopify.com and shopify-assets.shopifycdn.com,Shopify,124,3800.0,Cache Poisoning
+hackerone.com/reports/1544236,2022-04-19T06:51:36.018Z,returnUrl= allow attacker to redirect users to the another phising website and takeover credientials,Insightly,54,0.0,Improper Authentication - Generic
+hackerone.com/reports/3168039,2025-05-30T03:38:19.537Z,CVE-2025-5399: WebSocket endless loop,curl,34,0.0,Loop with Unreachable Exit Condition ('Infinite Loop')
+hackerone.com/reports/3165242,2025-05-28T09:36:50.362Z,Server-Side Request Forgery (SSRF) via Game Export API,Lichess,51,0.0,Server-Side Request Forgery (SSRF)
+hackerone.com/reports/3154983,2025-05-20T15:52:48.865Z,IDOR: Account Deletion via Session Misbinding – Attacker Can Delete Victim Account,Mozilla,111,6000.0,Insecure Direct Object Reference (IDOR)
 hackerone.com/reports/2937622,2025-01-14T17:30:22.529Z,Public GitHub repositories for multiple HackerOne managed triage team profiles contain private HackerOne reports information,HackerOne,92,1200.0,Information Disclosure
 hackerone.com/reports/1365076,2021-10-10T20:26:48.216Z,Information Disclosure of metrics fax.wavecell.com/metrics,8x8 Bounty,44,0.0,Information Disclosure
 hackerone.com/reports/3119034,2025-04-30T05:14:58.377Z,Facebook Username Takeover via Broken Link in Footer,Omise,59,0.0,Improper Access Control - Generic
