@@ -1,4 +1,5 @@
 link,submitted_at,title,program,upvotes,bounty,vuln_type
+hackerone.com/reports/3181066,2025-06-06T11:16:21.849Z,Path Traversal Vulnerability in Lila Project,Lichess,66,0.0,Path Traversal: '.../...//'
 hackerone.com/reports/2633771,2024-07-31T18:12:15.939Z,IDOR Vulnerability at AddTagToAssets operation name,HackerOne,11,0.0,Insecure Direct Object Reference (IDOR)
 hackerone.com/reports/3175928,2025-06-03T14:51:34.197Z,ImageId Format Injection in Image Upload Endpoint,Lichess,27,0.0,Improper Input Validation
 hackerone.com/reports/3081691,2025-04-07T21:59:18.249Z,1 Click Account Takeover via Auth Token Theft on marketing.hostinger.com,hostinger ,63,0.0,Improper Access Control - Generic
