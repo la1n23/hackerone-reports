@@ -44,12 +44,13 @@ Top reports from Mars program at HackerOne for period all:
 42. 08-11-2024 [Customer Data Exposure via Insecure Endpoint of coupon](https://hackerone.com/reports/2828720) to Mars - 17 upvotes, $0
 43. 23-04-2023 [' Full Account Takeover ' at █████](https://hackerone.com/reports/1959540) to Mars - 16 upvotes, $0
 44. 28-03-2023 [Stored XSS via ' profile ' at ███](https://hackerone.com/reports/1921606) to Mars - 15 upvotes, $0
-45. 27-09-2022 [Jolokia Reflected XSS ](https://hackerone.com/reports/1714563) to Mars - 13 upvotes, $0
-46. 15-04-2023 [Information Exposure Through Directory Listing](https://hackerone.com/reports/1948562) to Mars - 12 upvotes, $0
-47. 11-04-2023 [CRLF Inection at `██████████`](https://hackerone.com/reports/1943013) to Mars - 12 upvotes, $0
-48. 07-07-2023 [Google dork lead to unsubscribe anyone from all Banfield emails](https://hackerone.com/reports/2055081) to Mars - 9 upvotes, $0
-49. 08-11-2024 [change part of personal information all users](https://hackerone.com/reports/2828693) to Mars - 9 upvotes, $0
-50. 08-12-2024 [massive PII  leakage for ███████](https://hackerone.com/reports/2887506) to Mars - 9 upvotes, $0
-51. 12-04-2025 [insecure deserilize object leads to RCE On Sitecore (CVE-██████████-27218)](https://hackerone.com/reports/3090123) to Mars - 9 upvotes, $0
-52. 27-03-2025 [debug.log leaked [█████████]](https://hackerone.com/reports/3063026) to Mars - 7 upvotes, $0
-53. 08-11-2024 [Users Data Exposure via Insecure Endpoint](https://hackerone.com/reports/2828608) to Mars - 6 upvotes, $0
+45. 14-05-2025 [[XSS] Reflected XSS via POST request in (███████)](https://hackerone.com/reports/3146996) to Mars - 14 upvotes, $0
+46. 27-09-2022 [Jolokia Reflected XSS ](https://hackerone.com/reports/1714563) to Mars - 13 upvotes, $0
+47. 15-04-2023 [Information Exposure Through Directory Listing](https://hackerone.com/reports/1948562) to Mars - 12 upvotes, $0
+48. 11-04-2023 [CRLF Inection at `██████████`](https://hackerone.com/reports/1943013) to Mars - 12 upvotes, $0
+49. 07-07-2023 [Google dork lead to unsubscribe anyone from all Banfield emails](https://hackerone.com/reports/2055081) to Mars - 9 upvotes, $0
+50. 08-11-2024 [change part of personal information all users](https://hackerone.com/reports/2828693) to Mars - 9 upvotes, $0
+51. 08-12-2024 [massive PII  leakage for ███████](https://hackerone.com/reports/2887506) to Mars - 9 upvotes, $0
+52. 12-04-2025 [insecure deserilize object leads to RCE On Sitecore (CVE-██████████-27218)](https://hackerone.com/reports/3090123) to Mars - 9 upvotes, $0
+53. 27-03-2025 [debug.log leaked [█████████]](https://hackerone.com/reports/3063026) to Mars - 7 upvotes, $0
+54. 08-11-2024 [Users Data Exposure via Insecure Endpoint](https://hackerone.com/reports/2828608) to Mars - 6 upvotes, $0

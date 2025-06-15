@@ -105,87 +105,88 @@ Top IDOR reports from HackerOne for period all:
 103. 28-06-2017 [IDOR [partners.shopify.com] - User with ONLY Manage apps permission is able to get shops info and staff names from inside the shop](https://hackerone.com/reports/243943) to Shopify - 26 upvotes, $500
 104. 24-04-2020 [Thailand - IDOR on www.starbuckscardth.in.th: A logged in user could view any Thailand Starbucks card balance if they knew that Starbucks card number](https://hackerone.com/reports/858662) to Starbucks - 26 upvotes, $0
 105. 24-01-2021 [█████████ IDOR leads to disclosure of PHI/PII](https://hackerone.com/reports/1085782) to U.S. Dept Of Defense - 26 upvotes, $0
-106. 04-08-2016 [IDOR Causing Deletion of any account](https://hackerone.com/reports/156537) to Ubiquiti Inc. - 25 upvotes, $0
-107. 20-05-2017 [IDOR unsubscribe Anyone from NextClouds Newsletters by knowing their Email ](https://hackerone.com/reports/230328) to Nextcloud - 25 upvotes, $0
-108. 21-07-2021 [IDOR Leads To Account Takeover Without User Interaction](https://hackerone.com/reports/1272478) to MTN Group - 25 upvotes, $0
-109. 05-01-2015 [Vimeo.com Insecure Direct Object References Reset Password](https://hackerone.com/reports/42587) to Vimeo - 24 upvotes, $0
-110. 27-08-2020 [IDOR to Account Takeover on https://████/index.html](https://hackerone.com/reports/969223) to U.S. Dept Of Defense - 24 upvotes, $0
-111. 14-05-2021 [IDOR while uploading ████ attachments at [█████████]](https://hackerone.com/reports/1196976) to U.S. Dept Of Defense - 24 upvotes, $0
-112. 25-12-2020 [GRAPHQL cross-tenant IDOR giving write access thought the operation UpdateAtlasApplicationPerson](https://hackerone.com/reports/1066203) to Stripe - 23 upvotes, $0
-113. 27-10-2017 [[app.mavenlink.com] IDOR to view sensitive information](https://hackerone.com/reports/283419) to Mavenlink - 22 upvotes, $0
-114. 28-07-2017 [IDOR in activateFuelCard id allows bulk lookup of driver uuids](https://hackerone.com/reports/254151) to Uber - 22 upvotes, $0
-115. 22-05-2019 [IDOR to update folder name of other user](https://hackerone.com/reports/587687) to Trint Ltd - 22 upvotes, $0
-116. 13-01-2022 [Remove Every User, Admin, And Owner Out Of Their Teams on developers.mtn.com via IDOR + Information Disclosure](https://hackerone.com/reports/1448550) to MTN Group - 22 upvotes, $0
-117. 05-05-2022 [IDOR in report download functionality on ads.tiktok.com](https://hackerone.com/reports/1559739) to TikTok - 21 upvotes, $500
-118. 28-09-2016 [IDOR - Ability to view unlisted products](https://hackerone.com/reports/172545) to Reverb.com - 21 upvotes, $0
-119. 23-03-2020 [IDOR Vulnerability in Job Preferences](https://hackerone.com/reports/827158) to Glassdoor - 21 upvotes, $0
-120. 28-04-2018 [[www.zomato.com] IDOR - Gold Subscription Details, Able to view "Membership ID" and "Validity Details" of other Users](https://hackerone.com/reports/344145) to Zomato - 19 upvotes, $100
-121. 31-08-2017 [[www.zomato.com] IDOR - Delete/Deactivate any special menu of any Restaurants from Zomato](https://hackerone.com/reports/264919) to Zomato - 19 upvotes, $0
-122. 01-09-2017 ['cnvID' parameter vulnerable to Insecure Direct Object References](https://hackerone.com/reports/265284) to Concrete CMS - 19 upvotes, $0
-123. 04-07-2020 [IDOR at 'media_code' when addings media to questions](https://hackerone.com/reports/915133) to Automattic - 19 upvotes, $0
-124. 15-04-2015 [IDOR expire other user sessions](https://hackerone.com/reports/56511) to Shopify - 18 upvotes, $1000
-125. 25-01-2020 [Singapore - IDOR in campaign.starbucks.com.sg](https://hackerone.com/reports/783332) to Starbucks - 18 upvotes, $0
-126. 02-07-2020 [IDOR on notes to HTML injection](https://hackerone.com/reports/914331) to Palo Alto Software - 18 upvotes, $0
-127. 31-10-2019 [IDOR in https://moneybird.com/user/accountant_company/edit(change company name)](https://hackerone.com/reports/726163) to Moneybird - 18 upvotes, $0
-128. 29-12-2016 [IDOR on partners.uber.com allows for a driver to override administrator documents](https://hackerone.com/reports/194594) to Uber - 17 upvotes, $0
-129. 14-05-2017 [IDOR on DoD Website exposes FTP users and passes linked to all accounts!](https://hackerone.com/reports/228383) to U.S. Dept Of Defense - 17 upvotes, $0
-130. 01-08-2018 [IDOR](https://hackerone.com/reports/389250) to U.S. Dept Of Defense - 17 upvotes, $0
-131. 24-10-2015 [IDOR- Activate Mopub on different organizations- steal api token- Fabric.io](https://hackerone.com/reports/95552) to X / xAI - 16 upvotes, $0
-132. 28-04-2018 [View & add to cart unlisted items via IDOR](https://hackerone.com/reports/344284) to Instacart - 16 upvotes, $0
-133. 13-06-2018 [Comment restriction in subsection "Workshop" of domain "steamcommunity.com" can be bypassed using IDOR](https://hackerone.com/reports/365504) to Valve - 16 upvotes, $0
-134. 06-03-2021 [IDOR at training.smartpay.gsa.gov/reports/quizzes-taken-by-user](https://hackerone.com/reports/1118638) to U.S. General Services Administration - 16 upvotes, $0
-135. 31-08-2019 [Unauth IDOR to mass account takeover without user interaction on the ███████ (https://███████.edu/)](https://hackerone.com/reports/685338) to U.S. Dept Of Defense - 16 upvotes, $0
-136. 30-08-2017 [[www.zomato.com] IDOR - Delete/Deactivate ANY/ALL Promos through a Post Request at **clients/promoDataHandler.php**](https://hackerone.com/reports/264754) to Zomato - 15 upvotes, $0
-137. 20-10-2017 [IDOR in merchant.rbmonkey.com allows deleting eShops of another user](https://hackerone.com/reports/281296) to RBKmoney - 15 upvotes, $0
-138. 02-09-2022 [IDOR leaking PII data via VendorId parameter](https://hackerone.com/reports/1690044) to U.S. Dept Of Defense - 14 upvotes, $0
-139. 20-04-2020 [IDOR on update user preferences](https://hackerone.com/reports/854290) to Palo Alto Software - 13 upvotes, $0
-140. 10-10-2020 [IDOR + Account Takeover  [UNAUTHENTICATED]](https://hackerone.com/reports/1004750) to U.S. Dept Of Defense - 13 upvotes, $0
-141. 30-06-2017 [IDOR create accounts and verify them with original account email](https://hackerone.com/reports/244636) to WakaTime - 12 upvotes, $0
-142. 24-09-2019 [India - An Insecure Direct Object Reference (IDOR) allowed unauthorized access to view card index number and monetary balance](https://hackerone.com/reports/701160) to Starbucks - 12 upvotes, $0
-143. 07-01-2021 [IDOR at https://fast.trychameleon.com/observe/v2/profiles/ via uid parameter discloses users' PII data](https://hackerone.com/reports/1073420) to Lab45 - 12 upvotes, $0
-144. 08-01-2021 [IDOR Allows Viewer to Delete Bin's Files](https://hackerone.com/reports/1074420) to Lark Technologies - 12 upvotes, $0
-145. 31-08-2022 [IDOR when editing email leads to Mass Full ATOs (Account Takeovers) without user interaction on https://██████/](https://hackerone.com/reports/1687415) to U.S. Dept Of Defense - 12 upvotes, $0
-146. 18-04-2020 [IDOR on stocky application-Low Stock-Varient-Settings-Columns](https://hackerone.com/reports/853130) to Shopify - 11 upvotes, $750
-147. 03-02-2021 [IDOR leads to Leakage an ██████████ Login Information](https://hackerone.com/reports/1093908) to U.S. Dept Of Defense - 11 upvotes, $0
-148. 01-12-2020 [IDOR on https://██████ via POST UID enables database scraping](https://hackerone.com/reports/1048540) to U.S. Dept Of Defense - 11 upvotes, $0
-149. 31-07-2024 [IDOR Vulnerability at AddTagToAssets operation name](https://hackerone.com/reports/2633771) to HackerOne - 11 upvotes, $0
-150. 29-03-2015 [Insecure Direct Object Reference - access to other user/group DM's](https://hackerone.com/reports/53858) to X / xAI - 10 upvotes, $0
-151. 19-03-2015 [Insecure direct object reference - have access to deleted DM's](https://hackerone.com/reports/52646) to X / xAI - 10 upvotes, $0
-152. 10-10-2020 [View another user information with IDOR vulnerability ](https://hackerone.com/reports/1004745) to U.S. Dept Of Defense - 10 upvotes, $0
-153. 27-02-2015 [Generating Unlimited Free Travel Gift Invites | IDOR](https://hackerone.com/reports/49499) to Airbnb - 9 upvotes, $0
-154. 07-02-2018 [IDOR in treat subscriptions](https://hackerone.com/reports/313050) to Zomato - 9 upvotes, $0
-155. 26-07-2016 [IDOR - Disable sharing](https://hackerone.com/reports/153905) to Nextcloud - 8 upvotes, $0
-156. 20-11-2019 [idor on upload profile functionality ](https://hackerone.com/reports/741683) to U.S. Dept Of Defense - 8 upvotes, $0
-157. 11-04-2020 [Full Account Take-Over of ████████ Members via IDOR](https://hackerone.com/reports/847452) to U.S. Dept Of Defense - 8 upvotes, $0
-158. 06-02-2022 [IDOR at https://demo.sftool.gov/TwsHome/ScorecardManage/ via scorecard name](https://hackerone.com/reports/1472721) to U.S. General Services Administration - 8 upvotes, $0
-159. 04-02-2015 [Insecure Direct Object Reference vulnerability](https://hackerone.com/reports/46397) to HackerOne - 7 upvotes, $500
-160. 30-03-2016 [Insecure Direct Object Reference on badoo.com](https://hackerone.com/reports/126861) to Bumble - 7 upvotes, $0
-161. 24-11-2016 [Insecure direct object reference vulnerability on a DoD website](https://hackerone.com/reports/184933) to U.S. Dept Of Defense - 7 upvotes, $0
-162. 17-02-2017 [Insecure Direct Object Reference (IDOR) vulnerability in a DoD website](https://hackerone.com/reports/207099) to U.S. Dept Of Defense - 7 upvotes, $0
-163. 23-02-2022 [Authorization bypass -\> IDOR -\> PII Leakage](https://hackerone.com/reports/1489470) to U.S. Dept Of Defense - 7 upvotes, $0
-164. 24-08-2022 [IDOR able to buy a plan with lesser fee](https://hackerone.com/reports/1679276) to Automattic - 7 upvotes, $0
-165. 30-08-2015 [IDOR on remoing Share](https://hackerone.com/reports/85720) to Enter - 6 upvotes, $250
-166. 19-05-2017 [Insecure Direct Object Reference on in-scope .mil website](https://hackerone.com/reports/230026) to U.S. Dept Of Defense - 6 upvotes, $0
-167. 16-08-2020 [Idor for firstpromoter service](https://hackerone.com/reports/959697) to Dropcontact - 6 upvotes, $0
-168. 06-07-2022 [IDOR on ███████ [HtUS]](https://hackerone.com/reports/1627974) to U.S. Dept Of Defense - 6 upvotes, $0
-169. 02-03-2016 [Critical - Insecure Direct Object Reference - Deleting any member of any organization remotely](https://hackerone.com/reports/120115) to Veris - 5 upvotes, $0
-170. 21-05-2020 [IDOR: Adding Contacts to Other User Groups](https://hackerone.com/reports/879960) to 8x8 - 5 upvotes, $0
-171. 31-01-2015 [CRITICAL vulnerability - Insecure Direct Object Reference - Unauthorized access to `Videos` of Channel whose privacy is set to `Private`.](https://hackerone.com/reports/45960) to Vimeo - 4 upvotes, $0
-172. 16-03-2015 [Insecure Direct Object References in https://vimeo.com/forums](https://hackerone.com/reports/52176) to Vimeo - 4 upvotes, $0
-173. 16-03-2015 [Insecure Direct Object References that allows to read any comment (even if it should be private)](https://hackerone.com/reports/52181) to Vimeo - 4 upvotes, $0
-174. 03-03-2016 [Critical IDOR - Get Authentication Details of any Terminal/Gatekeeper](https://hackerone.com/reports/120293) to Veris - 4 upvotes, $0
-175. 03-03-2016 [Critical IDOR - Get venue data of any organization remotely](https://hackerone.com/reports/120305) to Veris - 3 upvotes, $0
-176. 03-03-2016 [Critical IDOR - Can select any Parent while creating new Venue](https://hackerone.com/reports/120312) to Veris - 3 upvotes, $0
-177. 03-03-2016 [Critical IDOR - Make Rule for Any Group & Any Venue remotely](https://hackerone.com/reports/120318) to Veris - 3 upvotes, $0
-178. 03-03-2016 [Critical IDOR - Get Rules of any organization remotely](https://hackerone.com/reports/120314) to Veris - 3 upvotes, $0
-179. 03-03-2016 [Critical IDOR - Get anyone's Terminal Data remotely](https://hackerone.com/reports/120289) to Veris - 3 upvotes, $0
-180. 03-03-2016 [Critical IDOR - Set anyone's Terminal Data remotely](https://hackerone.com/reports/120291) to Veris - 3 upvotes, $0
-181. 03-03-2016 [Critical IDOR - Delete any terminal/gatekeeper of any organization remotely](https://hackerone.com/reports/120288) to Veris - 3 upvotes, $0
-182. 02-03-2016 [Critical IDOR - Delete any rule of any organization remotely](https://hackerone.com/reports/120126) to Veris - 3 upvotes, $0
-183. 02-03-2016 [Critical IDOR - Delete any venue of any organization remotely](https://hackerone.com/reports/120123) to Veris - 3 upvotes, $0
-184. 02-03-2016 [Critical IDOR - Delete any group of any organization remotely](https://hackerone.com/reports/120121) to Veris - 3 upvotes, $0
-185. 31-10-2017 [Insecure Direct Object Reference on API without API key](https://hackerone.com/reports/284963) to Semrush - 3 upvotes, $0
-186. 25-08-2020 [IDOR in locid parameter allowing to view others accounts Profile Locations ](https://hackerone.com/reports/966949) to Yelp - 3 upvotes, $0
-187. 11-04-2020 [Members Personal Information Leak Due to IDOR](https://hackerone.com/reports/847185) to U.S. Dept Of Defense - 3 upvotes, $0
-188. 20-02-2020 [IDOR - Delete Users Saved Projects](https://hackerone.com/reports/800608) to U.S. Dept Of Defense - 3 upvotes, $0
-189. 06-07-2022 [IDOR Lead  To VIEW & DELETE & Create api_key [HtUS]](https://hackerone.com/reports/1628012) to U.S. Dept Of Defense - 3 upvotes, $0
+106. 09-04-2025 [IDOR on in-app hardcoded zombie endpoint  ](https://hackerone.com/reports/3085742) to Bykea - 26 upvotes, $0
+107. 04-08-2016 [IDOR Causing Deletion of any account](https://hackerone.com/reports/156537) to Ubiquiti Inc. - 25 upvotes, $0
+108. 20-05-2017 [IDOR unsubscribe Anyone from NextClouds Newsletters by knowing their Email ](https://hackerone.com/reports/230328) to Nextcloud - 25 upvotes, $0
+109. 21-07-2021 [IDOR Leads To Account Takeover Without User Interaction](https://hackerone.com/reports/1272478) to MTN Group - 25 upvotes, $0
+110. 05-01-2015 [Vimeo.com Insecure Direct Object References Reset Password](https://hackerone.com/reports/42587) to Vimeo - 24 upvotes, $0
+111. 27-08-2020 [IDOR to Account Takeover on https://████/index.html](https://hackerone.com/reports/969223) to U.S. Dept Of Defense - 24 upvotes, $0
+112. 14-05-2021 [IDOR while uploading ████ attachments at [█████████]](https://hackerone.com/reports/1196976) to U.S. Dept Of Defense - 24 upvotes, $0
+113. 25-12-2020 [GRAPHQL cross-tenant IDOR giving write access thought the operation UpdateAtlasApplicationPerson](https://hackerone.com/reports/1066203) to Stripe - 23 upvotes, $0
+114. 27-10-2017 [[app.mavenlink.com] IDOR to view sensitive information](https://hackerone.com/reports/283419) to Mavenlink - 22 upvotes, $0
+115. 28-07-2017 [IDOR in activateFuelCard id allows bulk lookup of driver uuids](https://hackerone.com/reports/254151) to Uber - 22 upvotes, $0
+116. 22-05-2019 [IDOR to update folder name of other user](https://hackerone.com/reports/587687) to Trint Ltd - 22 upvotes, $0
+117. 13-01-2022 [Remove Every User, Admin, And Owner Out Of Their Teams on developers.mtn.com via IDOR + Information Disclosure](https://hackerone.com/reports/1448550) to MTN Group - 22 upvotes, $0
+118. 05-05-2022 [IDOR in report download functionality on ads.tiktok.com](https://hackerone.com/reports/1559739) to TikTok - 21 upvotes, $500
+119. 28-09-2016 [IDOR - Ability to view unlisted products](https://hackerone.com/reports/172545) to Reverb.com - 21 upvotes, $0
+120. 23-03-2020 [IDOR Vulnerability in Job Preferences](https://hackerone.com/reports/827158) to Glassdoor - 21 upvotes, $0
+121. 28-04-2018 [[www.zomato.com] IDOR - Gold Subscription Details, Able to view "Membership ID" and "Validity Details" of other Users](https://hackerone.com/reports/344145) to Zomato - 19 upvotes, $100
+122. 31-08-2017 [[www.zomato.com] IDOR - Delete/Deactivate any special menu of any Restaurants from Zomato](https://hackerone.com/reports/264919) to Zomato - 19 upvotes, $0
+123. 01-09-2017 ['cnvID' parameter vulnerable to Insecure Direct Object References](https://hackerone.com/reports/265284) to Concrete CMS - 19 upvotes, $0
+124. 04-07-2020 [IDOR at 'media_code' when addings media to questions](https://hackerone.com/reports/915133) to Automattic - 19 upvotes, $0
+125. 15-04-2015 [IDOR expire other user sessions](https://hackerone.com/reports/56511) to Shopify - 18 upvotes, $1000
+126. 25-01-2020 [Singapore - IDOR in campaign.starbucks.com.sg](https://hackerone.com/reports/783332) to Starbucks - 18 upvotes, $0
+127. 02-07-2020 [IDOR on notes to HTML injection](https://hackerone.com/reports/914331) to Palo Alto Software - 18 upvotes, $0
+128. 31-10-2019 [IDOR in https://moneybird.com/user/accountant_company/edit(change company name)](https://hackerone.com/reports/726163) to Moneybird - 18 upvotes, $0
+129. 29-12-2016 [IDOR on partners.uber.com allows for a driver to override administrator documents](https://hackerone.com/reports/194594) to Uber - 17 upvotes, $0
+130. 14-05-2017 [IDOR on DoD Website exposes FTP users and passes linked to all accounts!](https://hackerone.com/reports/228383) to U.S. Dept Of Defense - 17 upvotes, $0
+131. 01-08-2018 [IDOR](https://hackerone.com/reports/389250) to U.S. Dept Of Defense - 17 upvotes, $0
+132. 24-10-2015 [IDOR- Activate Mopub on different organizations- steal api token- Fabric.io](https://hackerone.com/reports/95552) to X / xAI - 16 upvotes, $0
+133. 28-04-2018 [View & add to cart unlisted items via IDOR](https://hackerone.com/reports/344284) to Instacart - 16 upvotes, $0
+134. 13-06-2018 [Comment restriction in subsection "Workshop" of domain "steamcommunity.com" can be bypassed using IDOR](https://hackerone.com/reports/365504) to Valve - 16 upvotes, $0
+135. 06-03-2021 [IDOR at training.smartpay.gsa.gov/reports/quizzes-taken-by-user](https://hackerone.com/reports/1118638) to U.S. General Services Administration - 16 upvotes, $0
+136. 31-08-2019 [Unauth IDOR to mass account takeover without user interaction on the ███████ (https://███████.edu/)](https://hackerone.com/reports/685338) to U.S. Dept Of Defense - 16 upvotes, $0
+137. 30-08-2017 [[www.zomato.com] IDOR - Delete/Deactivate ANY/ALL Promos through a Post Request at **clients/promoDataHandler.php**](https://hackerone.com/reports/264754) to Zomato - 15 upvotes, $0
+138. 20-10-2017 [IDOR in merchant.rbmonkey.com allows deleting eShops of another user](https://hackerone.com/reports/281296) to RBKmoney - 15 upvotes, $0
+139. 02-09-2022 [IDOR leaking PII data via VendorId parameter](https://hackerone.com/reports/1690044) to U.S. Dept Of Defense - 14 upvotes, $0
+140. 20-04-2020 [IDOR on update user preferences](https://hackerone.com/reports/854290) to Palo Alto Software - 13 upvotes, $0
+141. 10-10-2020 [IDOR + Account Takeover  [UNAUTHENTICATED]](https://hackerone.com/reports/1004750) to U.S. Dept Of Defense - 13 upvotes, $0
+142. 30-06-2017 [IDOR create accounts and verify them with original account email](https://hackerone.com/reports/244636) to WakaTime - 12 upvotes, $0
+143. 24-09-2019 [India - An Insecure Direct Object Reference (IDOR) allowed unauthorized access to view card index number and monetary balance](https://hackerone.com/reports/701160) to Starbucks - 12 upvotes, $0
+144. 07-01-2021 [IDOR at https://fast.trychameleon.com/observe/v2/profiles/ via uid parameter discloses users' PII data](https://hackerone.com/reports/1073420) to Lab45 - 12 upvotes, $0
+145. 08-01-2021 [IDOR Allows Viewer to Delete Bin's Files](https://hackerone.com/reports/1074420) to Lark Technologies - 12 upvotes, $0
+146. 31-08-2022 [IDOR when editing email leads to Mass Full ATOs (Account Takeovers) without user interaction on https://██████/](https://hackerone.com/reports/1687415) to U.S. Dept Of Defense - 12 upvotes, $0
+147. 18-04-2020 [IDOR on stocky application-Low Stock-Varient-Settings-Columns](https://hackerone.com/reports/853130) to Shopify - 11 upvotes, $750
+148. 03-02-2021 [IDOR leads to Leakage an ██████████ Login Information](https://hackerone.com/reports/1093908) to U.S. Dept Of Defense - 11 upvotes, $0
+149. 01-12-2020 [IDOR on https://██████ via POST UID enables database scraping](https://hackerone.com/reports/1048540) to U.S. Dept Of Defense - 11 upvotes, $0
+150. 31-07-2024 [IDOR Vulnerability at AddTagToAssets operation name](https://hackerone.com/reports/2633771) to HackerOne - 11 upvotes, $0
+151. 29-03-2015 [Insecure Direct Object Reference - access to other user/group DM's](https://hackerone.com/reports/53858) to X / xAI - 10 upvotes, $0
+152. 19-03-2015 [Insecure direct object reference - have access to deleted DM's](https://hackerone.com/reports/52646) to X / xAI - 10 upvotes, $0
+153. 10-10-2020 [View another user information with IDOR vulnerability ](https://hackerone.com/reports/1004745) to U.S. Dept Of Defense - 10 upvotes, $0
+154. 27-02-2015 [Generating Unlimited Free Travel Gift Invites | IDOR](https://hackerone.com/reports/49499) to Airbnb - 9 upvotes, $0
+155. 07-02-2018 [IDOR in treat subscriptions](https://hackerone.com/reports/313050) to Zomato - 9 upvotes, $0
+156. 26-07-2016 [IDOR - Disable sharing](https://hackerone.com/reports/153905) to Nextcloud - 8 upvotes, $0
+157. 20-11-2019 [idor on upload profile functionality ](https://hackerone.com/reports/741683) to U.S. Dept Of Defense - 8 upvotes, $0
+158. 11-04-2020 [Full Account Take-Over of ████████ Members via IDOR](https://hackerone.com/reports/847452) to U.S. Dept Of Defense - 8 upvotes, $0
+159. 06-02-2022 [IDOR at https://demo.sftool.gov/TwsHome/ScorecardManage/ via scorecard name](https://hackerone.com/reports/1472721) to U.S. General Services Administration - 8 upvotes, $0
+160. 04-02-2015 [Insecure Direct Object Reference vulnerability](https://hackerone.com/reports/46397) to HackerOne - 7 upvotes, $500
+161. 30-03-2016 [Insecure Direct Object Reference on badoo.com](https://hackerone.com/reports/126861) to Bumble - 7 upvotes, $0
+162. 24-11-2016 [Insecure direct object reference vulnerability on a DoD website](https://hackerone.com/reports/184933) to U.S. Dept Of Defense - 7 upvotes, $0
+163. 17-02-2017 [Insecure Direct Object Reference (IDOR) vulnerability in a DoD website](https://hackerone.com/reports/207099) to U.S. Dept Of Defense - 7 upvotes, $0
+164. 23-02-2022 [Authorization bypass -\> IDOR -\> PII Leakage](https://hackerone.com/reports/1489470) to U.S. Dept Of Defense - 7 upvotes, $0
+165. 24-08-2022 [IDOR able to buy a plan with lesser fee](https://hackerone.com/reports/1679276) to Automattic - 7 upvotes, $0
+166. 30-08-2015 [IDOR on remoing Share](https://hackerone.com/reports/85720) to Enter - 6 upvotes, $250
+167. 19-05-2017 [Insecure Direct Object Reference on in-scope .mil website](https://hackerone.com/reports/230026) to U.S. Dept Of Defense - 6 upvotes, $0
+168. 16-08-2020 [Idor for firstpromoter service](https://hackerone.com/reports/959697) to Dropcontact - 6 upvotes, $0
+169. 06-07-2022 [IDOR on ███████ [HtUS]](https://hackerone.com/reports/1627974) to U.S. Dept Of Defense - 6 upvotes, $0
+170. 02-03-2016 [Critical - Insecure Direct Object Reference - Deleting any member of any organization remotely](https://hackerone.com/reports/120115) to Veris - 5 upvotes, $0
+171. 21-05-2020 [IDOR: Adding Contacts to Other User Groups](https://hackerone.com/reports/879960) to 8x8 - 5 upvotes, $0
+172. 31-01-2015 [CRITICAL vulnerability - Insecure Direct Object Reference - Unauthorized access to `Videos` of Channel whose privacy is set to `Private`.](https://hackerone.com/reports/45960) to Vimeo - 4 upvotes, $0
+173. 16-03-2015 [Insecure Direct Object References in https://vimeo.com/forums](https://hackerone.com/reports/52176) to Vimeo - 4 upvotes, $0
+174. 16-03-2015 [Insecure Direct Object References that allows to read any comment (even if it should be private)](https://hackerone.com/reports/52181) to Vimeo - 4 upvotes, $0
+175. 03-03-2016 [Critical IDOR - Get Authentication Details of any Terminal/Gatekeeper](https://hackerone.com/reports/120293) to Veris - 4 upvotes, $0
+176. 03-03-2016 [Critical IDOR - Get venue data of any organization remotely](https://hackerone.com/reports/120305) to Veris - 3 upvotes, $0
+177. 03-03-2016 [Critical IDOR - Can select any Parent while creating new Venue](https://hackerone.com/reports/120312) to Veris - 3 upvotes, $0
+178. 03-03-2016 [Critical IDOR - Make Rule for Any Group & Any Venue remotely](https://hackerone.com/reports/120318) to Veris - 3 upvotes, $0
+179. 03-03-2016 [Critical IDOR - Get Rules of any organization remotely](https://hackerone.com/reports/120314) to Veris - 3 upvotes, $0
+180. 03-03-2016 [Critical IDOR - Get anyone's Terminal Data remotely](https://hackerone.com/reports/120289) to Veris - 3 upvotes, $0
+181. 03-03-2016 [Critical IDOR - Set anyone's Terminal Data remotely](https://hackerone.com/reports/120291) to Veris - 3 upvotes, $0
+182. 03-03-2016 [Critical IDOR - Delete any terminal/gatekeeper of any organization remotely](https://hackerone.com/reports/120288) to Veris - 3 upvotes, $0
+183. 02-03-2016 [Critical IDOR - Delete any rule of any organization remotely](https://hackerone.com/reports/120126) to Veris - 3 upvotes, $0
+184. 02-03-2016 [Critical IDOR - Delete any venue of any organization remotely](https://hackerone.com/reports/120123) to Veris - 3 upvotes, $0
+185. 02-03-2016 [Critical IDOR - Delete any group of any organization remotely](https://hackerone.com/reports/120121) to Veris - 3 upvotes, $0
+186. 31-10-2017 [Insecure Direct Object Reference on API without API key](https://hackerone.com/reports/284963) to Semrush - 3 upvotes, $0
+187. 25-08-2020 [IDOR in locid parameter allowing to view others accounts Profile Locations ](https://hackerone.com/reports/966949) to Yelp - 3 upvotes, $0
+188. 11-04-2020 [Members Personal Information Leak Due to IDOR](https://hackerone.com/reports/847185) to U.S. Dept Of Defense - 3 upvotes, $0
+189. 20-02-2020 [IDOR - Delete Users Saved Projects](https://hackerone.com/reports/800608) to U.S. Dept Of Defense - 3 upvotes, $0
+190. 06-07-2022 [IDOR Lead  To VIEW & DELETE & Create api_key [HtUS]](https://hackerone.com/reports/1628012) to U.S. Dept Of Defense - 3 upvotes, $0

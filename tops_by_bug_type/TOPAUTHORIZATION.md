@@ -251,379 +251,381 @@ Top Authorization Bypass reports from HackerOne for period all:
 249. 13-05-2021 [Default Admin Username and Password on █████ Server at █████████mil](https://hackerone.com/reports/1195325) to U.S. Dept Of Defense - 27 upvotes, $0
 250. 06-12-2021 [Default credentials lead to Spring Boot Admin dashboard access](https://hackerone.com/reports/1417635) to 8x8 - 27 upvotes, $0
 251. 13-11-2023 [Non-admin users can reset app allowlist to the default](https://hackerone.com/reports/2250398) to Nextcloud - 27 upvotes, $0
-252. 17-03-2024 [Ability to by-pass second factor ](https://hackerone.com/reports/2419776) to Nextcloud - 26 upvotes, $1000
-253. 14-09-2022 [Shop App - Attacker is able to intercept authorization code during authentication (OAuth) and is able to get access to Microsoft Outlook email account](https://hackerone.com/reports/1700734) to Shopify - 26 upvotes, $900
-254. 28-06-2017 [IDOR [partners.shopify.com] - User with ONLY Manage apps permission is able to get shops info and staff names from inside the shop](https://hackerone.com/reports/243943) to Shopify - 26 upvotes, $500
-255. 13-04-2020 [None permission staff member can identify installed application and products attached to it](https://hackerone.com/reports/848625) to Shopify - 26 upvotes, $500
-256. 25-12-2017 [[www.zomato.com] Privilege Escalation - /php/restaurant_menus_handler.php](https://hackerone.com/reports/300454) to Zomato - 26 upvotes, $200
-257. 12-01-2017 [[EdgeSwitch] Web GUI command injection as root with Privilege-1 and Privilege-15 users](https://hackerone.com/reports/197958) to Ubiquiti Inc. - 26 upvotes, $0
-258. 20-09-2019 [Bypass report #416983 - Removed Staff members who had "Apps" permission can still modify flow app connections](https://hackerone.com/reports/698708) to Shopify - 26 upvotes, $0
-259. 14-02-2020 [Readonly to Root Privilege Escalation on EdgeSwitch](https://hackerone.com/reports/796414) to Ubiquiti Inc. - 26 upvotes, $0
-260. 18-05-2023 [Endpoint Redirects to Admin Page and Provides Admin role](https://hackerone.com/reports/1991290) to U.S. Dept Of Defense - 26 upvotes, $0
-261. 16-03-2017 [File access controls incorrectly enforced for files shared via QuickLink - Unshared files can be accessed](https://hackerone.com/reports/214001) to Files.com - 25 upvotes, $600
-262. 22-02-2020 [user with no draft order permission can still perform action on draft order's in stocky app (idor)](https://hackerone.com/reports/802286) to Shopify - 25 upvotes, $500
-263. 18-08-2017 [Privilege Escalation to Admin-level Account](https://hackerone.com/reports/261285) to Legal Robot - 25 upvotes, $0
-264. 24-02-2020 [Unauthorized User Can Delete Any User Account](https://hackerone.com/reports/803141) to Nord Security - 25 upvotes, $0
-265. 22-01-2021 [[h1-2102] Improper Access Control at https://shopify.plus/[id]/users/api in operation UpdateOrganizationUserRole](https://hackerone.com/reports/1084638) to Shopify - 25 upvotes, $0
-266. 21-11-2024 [Unauthorized Access  Exposing Sensitive Data](https://hackerone.com/reports/2858876) to U.S. Dept Of Defense - 25 upvotes, $0
-267. 22-04-2025 [Privilege Escalation leads to Unauthorized Access to Private Conversations By any Regular user  [Read , Edit and Delete]](https://hackerone.com/reports/3103849) to Dust - 25 upvotes, $0
-268. 23-04-2022 [Unauthorized packages modification or secrets exfiltration via GitHub actions](https://hackerone.com/reports/1548870) to Hyperledger - 24 upvotes, $1500
-269. 12-09-2020 [Local Privilege Escalation and Code Execution when restoring files from Quarantine](https://hackerone.com/reports/980500) to Acronis - 24 upvotes, $250
-270. 12-06-2019 [CVE-2019-5443: Windows Privilege Escalation: Malicious OpenSSL Engine](https://hackerone.com/reports/608577) to curl - 24 upvotes, $200
-271. 12-09-2016 [Ability to enumerate private programs using SAML](https://hackerone.com/reports/167828) to HackerOne - 24 upvotes, $0
-272. 20-07-2016 [Missing Access Control(IDOR) To Know LinkedAccounts ](https://hackerone.com/reports/152407) to Dashlane - 24 upvotes, $0
-273. 09-01-2019 [Last build status and coverage leaked to unauthorized users](https://hackerone.com/reports/477222) to GitLab - 24 upvotes, $0
-274. 28-05-2020 [Ability to generate shipping labels in another store orders](https://hackerone.com/reports/884159) to Shopify - 24 upvotes, $0
-275. 19-04-2020 [Unauthorized access to private project security dashboard](https://hackerone.com/reports/853355) to GitLab - 24 upvotes, $0
-276. 09-12-2021 [Direct Access To admin Dashboard](https://hackerone.com/reports/1421804) to Shopify - 24 upvotes, $0
-277. 15-08-2020 [Local Privilege Escalation via DLL Search-Order Hijacking with Cyber Protection Agent - systeminfo.exe utility](https://hackerone.com/reports/959608) to Acronis - 24 upvotes, $0
-278. 07-11-2024 [unauthorized access and add user and change personal information all users](https://hackerone.com/reports/2828641) to Mars - 24 upvotes, $0
-279. 08-04-2020 [Open TURN relay abuse is possible due to lack of peer access control (Critical)](https://hackerone.com/reports/843256) to 8x8 Bounty - 23 upvotes, $700
-280. 05-01-2021 [Local privilege escalation via insecure MSI file](https://hackerone.com/reports/1071832) to Acronis - 23 upvotes, $250
-281. 17-08-2022 [[Broken Access Control ] Unauthorized Linking accounts & Linked Accounts info DIsclosure](https://hackerone.com/reports/1672614) to Stripe - 23 upvotes, $250
-282. 21-04-2022 [Anonymous access control - Payments Status](https://hackerone.com/reports/1546726) to Omise - 23 upvotes, $100
-283. 27-07-2018 [Admin bar: Incomplete message origin validation results in XSS](https://hackerone.com/reports/387544) to Shopify - 23 upvotes, $0
-284. 09-09-2018 [Unauthorized users may be able to view almost all informations related to Private projects.](https://hackerone.com/reports/407763) to GitLab - 23 upvotes, $0
-285. 21-01-2020 [Multiple Vulnerabilities in (*.blog.yelp.com) - Leakage user admin Sensitive Exposure](https://hackerone.com/reports/779656) to Yelp - 23 upvotes, $0
-286. 22-01-2021 [[h1-2102] [Plus] User with Store Management Permission can Make changeDomainEnforcementState - that should be limited to User Management Only](https://hackerone.com/reports/1084892) to Shopify - 23 upvotes, $0
-287. 12-11-2023 [CVE-2023-47037: Airflow Broken Access Control Vulnerability](https://hackerone.com/reports/2249299) to Internet Bug Bounty - 23 upvotes, $0
-288. 02-10-2017 [Unauthorized Access to Protected Tweets via niche.co API](https://hackerone.com/reports/273698) to X / xAI - 22 upvotes, $0
-289. 14-06-2017 [Privilege Escalation using API-\>Feature](https://hackerone.com/reports/239719) to Ubiquiti Inc. - 22 upvotes, $0
-290. 17-09-2018 [Unauthorized access to a system used for CI/CD processes](https://hackerone.com/reports/410475) to Starbucks - 22 upvotes, $0
-291. 21-12-2018 [Unauthorized command execution in Web protection component of Anti-Virus products family [IE]](https://hackerone.com/reports/470547) to Kaspersky - 22 upvotes, $0
-292. 03-05-2020 [unpermitted user can change the device name of admin account](https://hackerone.com/reports/865115) to Helium - 22 upvotes, $0
-293. 10-03-2020 [Unauthorized updates to extended_info properties in /store/ajaxpackagesave](https://hackerone.com/reports/815547) to Valve - 22 upvotes, $0
-294. 06-11-2020 [Ability to potentially hit internal NGINX locations on *.myshopify.com by making use of the `X-Accel-Redirect` header via a configured App Proxy](https://hackerone.com/reports/1027873) to Shopify - 22 upvotes, $0
-295. 09-04-2021 [Access control vulnerability (read-only)](https://hackerone.com/reports/1159367) to EXNESS - 22 upvotes, $0
-296. 12-02-2020 [Users Without Permission Can Download Restricted Files](https://hackerone.com/reports/794904) to Lark Technologies - 22 upvotes, $0
-297. 13-01-2022 [Remove Every User, Admin, And Owner Out Of Their Teams on developers.mtn.com via IDOR + Information Disclosure](https://hackerone.com/reports/1448550) to MTN Group - 22 upvotes, $0
-298. 03-11-2023 [Code injection and privilege escalation through Linux capabilities](https://hackerone.com/reports/2237545) to Node.js - 22 upvotes, $0
-299. 21-01-2025 [Non-Production API Endpoints for the bedrock Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/2951803) to AWS VDP - 22 upvotes, $0
-300. 31-10-2018 [Order Creation Webhooks can be edited/deleted by STAFF with `Settings` only permission](https://hackerone.com/reports/431633) to Shopify - 21 upvotes, $500
-301. 10-01-2021 [Local Privilege Escalation when updating Acronis True Image](https://hackerone.com/reports/1075449) to Acronis - 21 upvotes, $250
-302. 28-09-2016 [IDOR - Ability to view unlisted products](https://hackerone.com/reports/172545) to Reverb.com - 21 upvotes, $0
-303. 20-07-2020 [Ability to manipulate price with a max threshold of `\<1 Rupee` in support rider parameter](https://hackerone.com/reports/927661) to Zomato - 21 upvotes, $0
-304. 17-04-2020 [Privilege Escalation vulnerability in steam's Remote Play feature leads to arbitrary kernel-mode driver installation](https://hackerone.com/reports/852091) to Valve - 21 upvotes, $0
-305. 13-02-2021 [staffOrderNotificationSubscriptionCreate Is Not Blocked Entirely From Staff Member With Settings Permission](https://hackerone.com/reports/1102652) to Shopify - 21 upvotes, $0
-306. 13-02-2021 [staffOrderNotificationSubscriptionDelete Could Be Used By Staff Member With Settings Permission](https://hackerone.com/reports/1102660) to Shopify - 21 upvotes, $0
-307. 29-10-2020 [Privilege Escalation to All-staff group](https://hackerone.com/reports/1021460) to Lark Technologies - 21 upvotes, $0
-308. 23-11-2023 [Default Admin Username and Password on ███](https://hackerone.com/reports/2262365) to U.S. Dept Of Defense - 21 upvotes, $0
-309. 07-04-2025 [Unauthorized Account Access via Leaked Credentials in URL Format (Account Takeover )](https://hackerone.com/reports/3080597) to Khan Academy - 21 upvotes, $0
-310. 30-04-2018 [Cleartext password exposure allows access to the desafio5estrelas.com admin panel](https://hackerone.com/reports/344566) to Uber - 20 upvotes, $500
-311. 24-08-2022 [Unauthorized Canceling/Unsubscribe TaxJar account & Payment information DIsclosure](https://hackerone.com/reports/1679124) to Stripe - 20 upvotes, $500
-312. 22-03-2022 [ Renderers can obtain access to random bluetooth device without permission](https://hackerone.com/reports/1519099) to Internet Bug Bounty - 20 upvotes, $480
-313. 12-04-2016 [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/129992) to HackerOne - 20 upvotes, $0
-314. 02-11-2019 [Clickjacking in the admin page](https://hackerone.com/reports/728004) to Rocket.Chat - 20 upvotes, $0
-315. 10-06-2020 [[H1-2006 2020] Bypassing access control checks by modifying the URL, internal application state, or the HTML page, or using a custom API attack tool](https://hackerone.com/reports/895172) to h1-ctf - 20 upvotes, $0
-316. 24-03-2022 [Staff can create workflows in Shopify Admin without apps permission](https://hackerone.com/reports/1521336) to Shopify - 20 upvotes, $0
-317. 03-02-2025 [Non-Production API Endpoints for the cloudwatch Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/2972435) to AWS VDP - 20 upvotes, $0
-318. 03-03-2025 [Non-Production API Endpoint for the EventBridge Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3021618) to AWS VDP - 20 upvotes, $0
-319. 08-05-2023 [Privilege Esacalation at Apache Airflow 2.5.1 ](https://hackerone.com/reports/1872682) to Internet Bug Bounty - 19 upvotes, $2400
-320. 27-07-2016 [Unauthorized access to Zookeeper on http://locutus-zk3.ec2.shopify.com:2181](https://hackerone.com/reports/154369) to Shopify - 19 upvotes, $1000
-321. 27-05-2020 [Inject page in admin panel via Shopify.API.pushState [New Payload]](https://hackerone.com/reports/883867) to Shopify - 19 upvotes, $500
-322. 28-09-2017 [Organization Admin Privilege Escalation To Owner](https://hackerone.com/reports/272570) to Bitwarden - 19 upvotes, $0
-323. 09-08-2018 [Admin Macro Description Stored XSS](https://hackerone.com/reports/392457) to Zendesk - 19 upvotes, $0
-324. 20-11-2018 [Corrupted Authorization header can cause logs not to be ingested properly in ████████](https://hackerone.com/reports/447488) to HackerOne - 19 upvotes, $0
-325. 21-05-2020 [Admin Reseller Account Disclosure](https://hackerone.com/reports/879562) to 8x8 - 19 upvotes, $0
-326. 04-01-2021 [[Bypass #870709] Unauthorised access to pagespeed global admin at https://webtools.paloalto.com/](https://hackerone.com/reports/1070889) to Palo Alto Software - 19 upvotes, $0
-327. 12-03-2022 [Response Manipulation leads to Admin Panel Login Bypass at https://██████/](https://hackerone.com/reports/1508661) to Sony - 19 upvotes, $0
-328. 31-08-2022 [[user_oidc] Stored XSS via Authorization Endpoint - Safari-Only](https://hackerone.com/reports/1687410) to Nextcloud - 19 upvotes, $0
-329. 03-04-2016 [Stored XSS on newsroom.uber.com admin panel / Stream WordPress plugin](https://hackerone.com/reports/127948) to Uber - 18 upvotes, $5000
-330. 20-07-2020 [Ability to publish a paid theme without purchasing it.](https://hackerone.com/reports/927567) to Shopify - 18 upvotes, $2000
-331. 13-10-2023 [CVE-2023-42780: Apache Airflow: Improper access control vulnerability in the "List dag warnings" feature](https://hackerone.com/reports/2208647) to Internet Bug Bounty - 18 upvotes, $540
-332. 27-07-2021 [Ability to add address without being an admin or staff in the store via wholesale store](https://hackerone.com/reports/1279322) to Shopify - 18 upvotes, $500
-333. 22-12-2017 [[www.zomato.com] Privilege Escalation - Control reviews - /████dashboard_handler.php](https://hackerone.com/reports/300099) to Zomato - 18 upvotes, $300
-334. 06-07-2020 [Access control missing while viewing the attachments in the "All boards"](https://hackerone.com/reports/916704) to Nextcloud - 18 upvotes, $150
-335. 04-12-2019 [Improper Authorization](https://hackerone.com/reports/751299) to Stripo Inc - 18 upvotes, $0
-336. 18-05-2020 [User with single department permission can view applicant list of all department's](https://hackerone.com/reports/877300) to Lark Technologies - 18 upvotes, $0
-337. 06-06-2021 [Improper authorization on `/api/as/v1/credentials/` for  Dev Role User with Limited Engine Access](https://hackerone.com/reports/1218680) to Elastic - 18 upvotes, $0
-338. 12-02-2021 [[dubmash] Lack of authorization checks - Update Sound Titles](https://hackerone.com/reports/1102365) to Reddit - 18 upvotes, $0
-339. 26-04-2021 [Access control vulnerability (read/write)](https://hackerone.com/reports/1174734) to EXNESS - 18 upvotes, $0
-340. 14-08-2022 [Unauthorized access](https://hackerone.com/reports/1669176) to GitLab - 18 upvotes, $0
-341. 21-11-2023 [Multiple permission model bypasses due to improper path traversal sequence sanitization](https://hackerone.com/reports/2259914) to Node.js - 18 upvotes, $0
-342. 02-02-2024 [Proxy-Authorization header is not cleared in cross-domain redirect in undici](https://hackerone.com/reports/2352957) to Node.js - 18 upvotes, $0
-343. 19-04-2024 [fs.fchown/fchmod bypasses permission model](https://hackerone.com/reports/2472071) to Node.js - 18 upvotes, $0
-344. 26-04-2025 [Broken Access Control Exposes Email Verification Status and Privacy Settings via API Endpoint](https://hackerone.com/reports/3114132) to WakaTime - 18 upvotes, $0
-345. 10-01-2017 [[IMP] - Blind XSS in the admin panel for reviewing comments](https://hackerone.com/reports/197337) to Rockstar Games - 17 upvotes, $650
-346. 04-08-2016 [Unauthorized team members can leak information and see all API calls through /1/admin/* endpoints, even after they have been removed.](https://hackerone.com/reports/156520) to Algolia - 17 upvotes, $400
-347. 08-10-2020 [Local Privilege Escalation via Backup delete](https://hackerone.com/reports/1003007) to Acronis - 17 upvotes, $250
-348. 30-07-2018 [Access control issue -- [Allow file system access not validated when using session auth]](https://hackerone.com/reports/388515) to Nextcloud - 17 upvotes, $100
-349. 15-04-2016 [Privilege escalation to access all private groups and repositories](https://hackerone.com/reports/131210) to GitLab - 17 upvotes, $0
-350. 12-05-2016 [Missing access control exposing detailed information on all users](https://hackerone.com/reports/138244) to WP API - 17 upvotes, $0
-351. 16-09-2018 [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/410245) to HackerOne - 17 upvotes, $0
-352. 04-01-2020 [Race condition (TOCTOU) in NordVPN can result in local privilege escalation](https://hackerone.com/reports/768110) to Nord Security - 17 upvotes, $0
-353. 01-11-2022 [Low authorization level at server side API operation e2e.updateGroupKey, let an attacker break the E2E architecture.](https://hackerone.com/reports/1757663) to Rocket.Chat - 17 upvotes, $0
-354. 12-09-2023 [fs.lstat bypasses permission model](https://hackerone.com/reports/2145862) to Node.js - 17 upvotes, $0
-355. 13-04-2023 [Missing permission check when removing a photo from an album](https://hackerone.com/reports/1946298) to Nextcloud - 17 upvotes, $0
-356. 26-10-2024 [A potential risk in the cloudFrontExtensionsConsole which can be used to privilege escalation.](https://hackerone.com/reports/2805173) to AWS VDP - 17 upvotes, $0
-357. 17-08-2016 [Ability to monitor reports' submission in real time](https://hackerone.com/reports/159890) to HackerOne - 16 upvotes, $0
-358. 16-06-2017 [Privilege Escalation.](https://hackerone.com/reports/240562) to Inflection - 16 upvotes, $0
-359. 17-06-2017 [Privilege Escalation: From operator to ubnt (and root) with non-interactive Session Hijacking](https://hackerone.com/reports/241044) to Ubiquiti Inc. - 16 upvotes, $0
-360. 19-02-2018 [Any user can completely delete their own account without authorization and/or going through any kind of membership cancellation protocol.](https://hackerone.com/reports/317507) to Shipt - 16 upvotes, $0
-361. 07-11-2018 [Ability to login to the Nexus Repo Manager from https://nexus.imgur.com/ ](https://hackerone.com/reports/435457) to Imgur - 16 upvotes, $0
-362. 25-04-2018 [brute force attack allowed on admin page https://www.stellar.org/wp-admin/](https://hackerone.com/reports/342977) to Stellar.org - 16 upvotes, $0
-363. 12-01-2020 [Unsafe cors sharing of admin users ](https://hackerone.com/reports/772744) to MTN Group - 16 upvotes, $0
-364. 17-08-2020 [Insufficient Type Check leading to Developer ability to delete Project, Repository, Group, ...](https://hackerone.com/reports/960244) to GitLab - 16 upvotes, $0
-365. 29-03-2020 [Broken Access Controls](https://hackerone.com/reports/833735) to Acronis - 16 upvotes, $0
-366. 31-01-2021 [[h1-2102] Partner's team member with no permission can retrieve services financial data](https://hackerone.com/reports/1091380) to Shopify - 16 upvotes, $0
-367. 11-03-2025 [Non-Production API Endpoints for the Glue Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3031512) to AWS VDP - 16 upvotes, $0
-368. 10-03-2025 [Non-Production API Endpoints for the Global Accelerator Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3029552) to AWS VDP - 16 upvotes, $0
-369. 28-09-2016 [Add signature to transactions without any permission](https://hackerone.com/reports/172733) to Shopify - 15 upvotes, $500
-370. 28-07-2016 [Missing authorization checks leading to the exposure of ubernihao.com administrator accounts ](https://hackerone.com/reports/154762) to Uber - 15 upvotes, $0
-371. 06-07-2016 [CSRF to add admin [wordpress]](https://hackerone.com/reports/149589) to WordPress - 15 upvotes, $0
-372. 01-07-2017 [Double Stored Cross-Site scripting in the admin panel](https://hackerone.com/reports/245172) to GSA Bounty - 15 upvotes, $0
-373. 10-08-2018 [Vulnerability Report - Missing Certificate Authority Authorization rule](https://hackerone.com/reports/392701) to MariaDB - 15 upvotes, $0
-374. 28-02-2019 [█████████ on CRM server without authorization](https://hackerone.com/reports/503300) to Unikrn - 15 upvotes, $0
-375. 30-05-2019 [Non-admin users can trigger writes to memcached by entering a malicious server as a share URL](https://hackerone.com/reports/592864) to Nextcloud - 15 upvotes, $0
-376. 21-12-2020 [Unauthorized access to employee panel with default credentials.](https://hackerone.com/reports/1063298) to U.S. General Services Administration - 15 upvotes, $0
-377. 23-01-2021 [[h1-2102] [PLUS] User with Store Management Permission can Make enforceSamlOrganizationDomains call - that should be limited to User Management Only](https://hackerone.com/reports/1084939) to Shopify - 15 upvotes, $0
-378. 23-02-2022 [All user password hash can be seen from admin panel](https://hackerone.com/reports/1489892) to UPchieve - 15 upvotes, $0
-379. 17-03-2025 [Non-Production API Endpoints for the Health Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3042588) to AWS VDP - 15 upvotes, $0
-380. 02-04-2020 [Ability to perform various POST requests on quantopian.com as a different user - insecure by design.](https://hackerone.com/reports/837328) to Quantopian - 14 upvotes, $1050
-381. 27-04-2020 [Staff member with no permission can delete POS staff from account settings](https://hackerone.com/reports/860348) to Shopify - 14 upvotes, $500
-382. 01-02-2017 [User with only Viewing Privilege can send message to Room](https://hackerone.com/reports/202499) to Phabricator - 14 upvotes, $300
-383. 10-05-2016 [Inadequate access controls in "Vote" functionality???](https://hackerone.com/reports/137503) to HackerOne - 14 upvotes, $0
-384. 28-05-2016 [Able to remove the admin access of my program](https://hackerone.com/reports/141629) to HackerOne - 14 upvotes, $0
-385. 24-08-2016 [Code Injection in Slack's Windows Desktop Client leads to Privilege Escalation](https://hackerone.com/reports/162955) to Slack - 14 upvotes, $0
-386. 19-07-2018 [Redirect on authorization allows account compromise](https://hackerone.com/reports/384289) to GSA Bounty - 14 upvotes, $0
-387. 01-07-2019 [Delete permission can be added on reshare](https://hackerone.com/reports/633245) to Nextcloud - 14 upvotes, $0
-388. 19-02-2019 [[Critical] Full local fylesystem access (LFI/LFD) as admin via Path Traversal in the misconfigured Java servlet on the https://███/](https://hackerone.com/reports/497771) to U.S. Dept Of Defense - 14 upvotes, $0
-389. 02-09-2016 [Nextcloud 10.0 privilege escalation issue - Normal user can mask external storage shared by admin    ](https://hackerone.com/reports/165229) to Nextcloud - 14 upvotes, $0
-390. 06-05-2020 [Access Control: Inject tasks into other users decks](https://hackerone.com/reports/867052) to Nextcloud - 14 upvotes, $0
-391. 22-05-2019 [Improper access control in place for "member only" groups via root.YUI_config.flickr.api.site_key](https://hackerone.com/reports/587733) to Flickr - 14 upvotes, $0
-392. 19-10-2020 [Improper Sanitization leads to XSS Fire on admin panel](https://hackerone.com/reports/1011888) to Informatica - 14 upvotes, $0
-393. 26-04-2021 [[Transportation Management Services Solution 2.0] Improper authorization at  tmss.gsa.gov leads to data exposure of all registered users](https://hackerone.com/reports/1175980) to U.S. General Services Administration - 14 upvotes, $0
-394. 01-02-2022 [User with no Develop apps permission can Uninstall Custom App](https://hackerone.com/reports/1466855) to Shopify - 14 upvotes, $0
-395. 04-06-2015 [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 13 upvotes, $5000
-396. 25-06-2020 [Acronis True Image Local Privilege Escalation via insecure folder permissions](https://hackerone.com/reports/908162) to Acronis - 13 upvotes, $300
-397. 14-04-2021 [Store Admin Page Accessible Without Authentication at http://www.grouplogic.com/ADMIN/store/index.cfm](https://hackerone.com/reports/1164854) to Acronis - 13 upvotes, $250
-398. 31-05-2017 [Privilege escalation-User who does not have access is able to add notes to the contact](https://hackerone.com/reports/235059) to Mixmax - 13 upvotes, $0
-399. 13-12-2017 [Unauthenticated Reflected XSS in admin dashboard](https://hackerone.com/reports/297434) to Deconf - 13 upvotes, $0
-400. 18-02-2018 [Improper access control on adding a Register to an Outlet](https://hackerone.com/reports/317332) to Vend VDP - 13 upvotes, $0
-401. 21-12-2018 [Unauthorized command execution in Web protection component of Anti-Virus products family](https://hackerone.com/reports/470544) to Kaspersky - 13 upvotes, $0
-402. 07-04-2022 [Ability to View Non-Permitted Admin Log](https://hackerone.com/reports/1533220) to Lark Technologies - 13 upvotes, $0
-403. 08-11-2022 [Reference caching can leak data to unauthorized users](https://hackerone.com/reports/1767503) to Nextcloud - 13 upvotes, $0
-404. 23-06-2022 [Improper Access Control in Ali Express Importer](https://hackerone.com/reports/1609955) to Judge.me  - 13 upvotes, $0
-405. 13-07-2022 [Ability to bypass locked Cloudflare WARP on wifi networks.](https://hackerone.com/reports/1635748) to Cloudflare Public Bug Bounty - 12 upvotes, $1000
-406. 02-10-2018 [H1514 Lack of access control on edit packing slip template](https://hackerone.com/reports/417839) to Shopify - 12 upvotes, $500
-407. 20-07-2019 [Unsecured Dropwizard Admin Panel on display.uber-adsystem.com exposes sensitive server information](https://hackerone.com/reports/651355) to Uber - 12 upvotes, $500
-408. 14-10-2020 [DLL Hijacking when sending feedback and crash report leading to Privilege Escalation](https://hackerone.com/reports/1008427) to Acronis - 12 upvotes, $250
-409. 16-03-2016 [Unauthorized Team members viewing](https://hackerone.com/reports/123572) to HackerOne - 12 upvotes, $0
-410. 08-09-2016 [leaking Digits OAuth authorization to third party websites](https://hackerone.com/reports/166942) to X / xAI - 12 upvotes, $0
-411. 08-11-2016 [Password reset access control](https://hackerone.com/reports/180895) to Legal Robot - 12 upvotes, $0
-412. 02-08-2017 [Unauthorized update of merchants' information via /php/merchant_details.php](https://hackerone.com/reports/255651) to Zomato - 12 upvotes, $0
-413. 16-04-2017 [Privilege escalation in the client impersonation functionality](https://hackerone.com/reports/221454) to Ubiquiti Inc. - 12 upvotes, $0
-414. 12-04-2019 ["Test target" of the "HTTP target" extension can unintentionally send username and password in the Authorization header](https://hackerone.com/reports/536669) to Zendesk - 12 upvotes, $0
-415. 24-09-2019 [India - An Insecure Direct Object Reference (IDOR) allowed unauthorized access to view card index number and monetary balance](https://hackerone.com/reports/701160) to Starbucks - 12 upvotes, $0
-416. 28-08-2021 [Ability to subscribe to inactive Post+ creators](https://hackerone.com/reports/1322334) to Automattic - 12 upvotes, $0
-417. 24-08-2021 [Unauthorized Kubernetes to RCE (root) and found TEAMTNT Crypto Miner on it](https://hackerone.com/reports/1317236) to IBM - 12 upvotes, $0
-418. 09-11-2023 [Unauthorized access to Argo dashboard on █████](https://hackerone.com/reports/2247231) to U.S. Dept Of Defense - 12 upvotes, $0
-419. 30-01-2025 [Ability to access policy and updates for unauthorized program](https://hackerone.com/reports/2965723) to HackerOne - 12 upvotes, $0
-420. 08-11-2013 [Privilege escalation..., or not?!](https://hackerone.com/reports/345) to HackerOne - 11 upvotes, $0
-421. 25-06-2017 [Paragonie Airship Admin CSRF on Extensions Pages](https://hackerone.com/reports/243094) to Paragon Initiative Enterprises - 11 upvotes, $0
-422. 13-10-2017 [Information Disclosure and Privilege Escalation in app.goodhire.com/member/developers/api-settings](https://hackerone.com/reports/276976) to Inflection - 11 upvotes, $0
-423. 26-04-2018 [Privilege escalation allows any user to add an administrator](https://hackerone.com/reports/343626) to Node.js third-party modules - 11 upvotes, $0
-424. 20-09-2018 [Password protected rooms total number of viewers disclosure to unauthorized members](https://hackerone.com/reports/411822) to Chaturbate - 11 upvotes, $0
-425. 10-04-2016 [UniFi Video Server - Broken access control on system configuration](https://hackerone.com/reports/129698) to Ubiquiti Inc. - 11 upvotes, $0
-426. 03-04-2019 [In Dockerized Environments, Failing to Read config.php Grants Any Anonymous User Full Admin Access](https://hackerone.com/reports/522876) to Nextcloud - 11 upvotes, $0
-427. 05-08-2019 [Head pipeline leaked to unauthorized users via blocking merge request feature](https://hackerone.com/reports/667408) to GitLab - 11 upvotes, $0
-428. 26-10-2020 [Server Side Request Forgery in 'Jabber settings' in Admin Control Panel](https://hackerone.com/reports/1018568) to phpBB - 11 upvotes, $0
-429. 24-02-2021 [Blind Stored XSS on ███████  leads to takeover admin account](https://hackerone.com/reports/1110243) to U.S. Dept Of Defense - 11 upvotes, $0
-430. 28-09-2020 [Improper Access Control - Generic on https://████](https://hackerone.com/reports/992618) to U.S. Dept Of Defense - 11 upvotes, $0
-431. 04-11-2020 [Unauthorized access to admin panel of the Questionmark Perception system at https://██████████](https://hackerone.com/reports/1026146) to U.S. Dept Of Defense - 11 upvotes, $0
-432. 10-11-2021 [Unauthenticated Access to Admin Panel Functions at https://███████/███](https://hackerone.com/reports/1397564) to U.S. Dept Of Defense - 11 upvotes, $0
-433. 22-01-2021 [[h1-2102] [Plus] User with Store Management Permission can Make convertUsersFromSaml/convertUsersToSaml - that should be limited to User Management](https://hackerone.com/reports/1084904) to Shopify - 11 upvotes, $0
-434. 22-04-2022 [Unauthorized Access to Internal Server Panel without Authentication](https://hackerone.com/reports/1548067) to U.S. Dept Of Defense - 11 upvotes, $0
-435. 31-03-2024 [Missing Access Control Allows for User Creation and Privilege Escalation ](https://hackerone.com/reports/2442229) to U.S. Dept Of Defense - 11 upvotes, $0
-436. 24-03-2023 [Authenticated but unauthorized users may enumerate Application names via the API](https://hackerone.com/reports/1916583) to Internet Bug Bounty - 10 upvotes, $2400
-437. 17-10-2020 [DLL Hijacking when creating Rescue Media Builder leading to Privilege Escalation](https://hackerone.com/reports/1010552) to Acronis - 10 upvotes, $250
-438. 14-08-2020 [TrueImage for Acronis True Image 2020 - Untrusted DLL Search-Ordering lead to Privilege Escalation as Administrative account](https://hackerone.com/reports/959017) to Acronis - 10 upvotes, $250
-439. 13-05-2015 [Ability to add pishing links in discusion ," Bypassing uneductional Links  add "](https://hackerone.com/reports/62301) to Udemy - 10 upvotes, $0
-440. 19-06-2016 [Uploading files to a folder where invited user don't have any EDIT privilege](https://hackerone.com/reports/145950) to Nextcloud - 10 upvotes, $0
-441. 18-01-2017 [Group admin can remove user from all his groups via API](https://hackerone.com/reports/199286) to Nextcloud - 10 upvotes, $0
-442. 04-05-2017 [Wordpress Vulnerable to Potential Unauthorized Password Reset](https://hackerone.com/reports/226037) to Nextcloud - 10 upvotes, $0
-443. 02-10-2017 [Improper access control lead  To delete anyone comment](https://hackerone.com/reports/273805) to Paragon Initiative Enterprises - 10 upvotes, $0
-444. 14-12-2018 [Unauthorized access of Monero wallet by an unprivileged process](https://hackerone.com/reports/462442) to Monero - 10 upvotes, $0
-445. 13-10-2018 [H1514 Wholesale customer without checkout permission can complete purchases](https://hackerone.com/reports/423546) to Shopify - 10 upvotes, $0
-446. 02-06-2019 [Homebrew privilege escalation vulnerability](https://hackerone.com/reports/593926) to Homebrew - 10 upvotes, $0
-447. 23-01-2020 [[h1-415 2020] Chain of vulnerabilities leading to account takeover and unauthorized access of sensitive internal resources](https://hackerone.com/reports/781281) to h1-ctf - 10 upvotes, $0
-448. 26-03-2018 [UniFi Video Server web interface admin user Firmware Update path traversal leading to local system compromise](https://hackerone.com/reports/330051) to Ubiquiti Inc. - 10 upvotes, $0
-449. 11-05-2020 [Unauthorised access to pagespeed global admin at https://webtools.paloalto.com/](https://hackerone.com/reports/870709) to Palo Alto Software - 10 upvotes, $0
-450. 02-04-2020 [Improper Access Control in Buddypress core allows reply,delete any user's activity](https://hackerone.com/reports/837256) to WordPress - 10 upvotes, $0
-451. 18-09-2020 [Privilege Escalation in Point Of Sale Application from POS Manage Staff Role to potentially Store Owner](https://hackerone.com/reports/985150) to Shopify - 10 upvotes, $0
-452. 12-09-2020 [[Fixed] KIS for macOS is vulnerable to AV bypass due to improper client authorization on XPC service](https://hackerone.com/reports/980876) to Kaspersky - 10 upvotes, $0
-453. 19-04-2021 [Improper authorization on `/api/as/v1/credentials/` allows any App Search user to access all API keys and escalate privileges](https://hackerone.com/reports/1168528) to Elastic - 10 upvotes, $0
-454. 18-05-2021 [Admin audit is not properly logging unsetting of expiration date](https://hackerone.com/reports/1200810) to Nextcloud - 10 upvotes, $0
-455. 28-01-2022 [[AWC-Pune] - User can download files deleted by Admin using shortcuts](https://hackerone.com/reports/1463028) to Lark Technologies - 10 upvotes, $0
-456. 16-04-2021 [Ability to use premium templates as free user via https://stripo.email/templates/?utm_source=viewstripo&utm_medium=referral](https://hackerone.com/reports/1166993) to Stripo Inc - 10 upvotes, $0
-457. 31-07-2023 [Adobe ColdFusion Access Control Bypass - CVE-2023-38205](https://hackerone.com/reports/2090435) to U.S. Dept Of Defense - 10 upvotes, $0
-458. 31-03-2025 [Non-Production API Endpoints for the Neptune Graph Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3068422) to AWS VDP - 10 upvotes, $0
-459. 28-01-2020 [Relative Path Vulnerability Results in Arbitrary Command Execution/Privilege Escalation](https://hackerone.com/reports/784714) to Slack - 9 upvotes, $750
-460. 09-05-2023 [Privilege escalation to root in Pages build image v2](https://hackerone.com/reports/1979372) to Cloudflare Public Bug Bounty - 9 upvotes, $350
-461. 16-09-2020 [Local Privilege Escalation when deleting a file from Quarantine](https://hackerone.com/reports/983363) to Acronis - 9 upvotes, $250
-462. 24-03-2022 [Moderator can enable cam/mic remotely if  cam/mic-permission was disabled while user has activated cam/mic](https://hackerone.com/reports/1520685) to Nextcloud - 9 upvotes, $100
-463. 22-07-2015 [http://217.20.144.201 privilege escalation in apache tomcat SessionEample-script](https://hackerone.com/reports/77679) to ok.ru - 9 upvotes, $0
-464. 03-01-2017 [Exposed Access Control Data Backup Files on DoD Website](https://hackerone.com/reports/195544) to U.S. Dept Of Defense - 9 upvotes, $0
-465. 19-01-2017 [Privilege Escalation on a DoD Website](https://hackerone.com/reports/199644) to U.S. Dept Of Defense - 9 upvotes, $0
-466. 07-09-2016 [Privilege escalation - Normal user can somehow make admin to delete shared folders](https://hackerone.com/reports/166581) to Nextcloud - 9 upvotes, $0
-467. 02-10-2016 [Stored XSS on Admin Access Page - Email field](https://hackerone.com/reports/173501) to Revive Adserver - 9 upvotes, $0
-468. 30-06-2017 [Users with member privilege are able to see emails and membership information of other users](https://hackerone.com/reports/244781) to WakaTime - 9 upvotes, $0
-469. 06-02-2019 [Broken access control on apps ](https://hackerone.com/reports/491892) to Rocket.Chat - 9 upvotes, $0
-470. 19-08-2019 [Container scanning and Dependency scanning report leaked to unauthorized users](https://hackerone.com/reports/676976) to GitLab - 9 upvotes, $0
-471. 17-10-2019 [Stored XSS (Hexo-admin plugin)](https://hackerone.com/reports/716570) to Node.js third-party modules - 9 upvotes, $0
-472. 25-03-2018 [UniFi Video web interface Configuration Restore user privilege escalation](https://hackerone.com/reports/329659) to Ubiquiti Inc. - 9 upvotes, $0
-473. 19-08-2020 [Unauthorized user is able to access schedule pipeline variables and values](https://hackerone.com/reports/962462) to GitLab - 9 upvotes, $0
-474. 22-07-2020 [Reflected XSS on cz.acronis.com/dekujeme-za-odber-novinek-produktu-disk-director with ability to creating an admin user in WordPress](https://hackerone.com/reports/935503) to Acronis - 9 upvotes, $0
-475. 28-05-2021 [Node Installer Local Privilege Escalation ](https://hackerone.com/reports/1211160) to Node.js - 9 upvotes, $0
-476. 06-12-2022 [Unauthenticated phpinfo()files could lead to ability file read at █████████  [HtUS]](https://hackerone.com/reports/1794884) to U.S. Dept Of Defense - 9 upvotes, $0
-477. 08-03-2024 [Proxy-Authorization header not cleared on cross-origin redirect in undici.request](https://hackerone.com/reports/2408074) to Node.js - 9 upvotes, $0
-478. 02-09-2022 [Airflow Daemon Mode Insecure Umask Privilege Escalation](https://hackerone.com/reports/1690093) to Internet Bug Bounty - 8 upvotes, $2400
-479. 22-11-2015 [An administrator without any permission is able to get order notifications using his APNS Token.](https://hackerone.com/reports/100938) to Shopify - 8 upvotes, $500
-480. 13-10-2018 [H1514 Ability to Edit Packaging Slip Templates and View Product & Shipping Information by a low privileged staff in a Sandbox Store](https://hackerone.com/reports/423198) to Shopify - 8 upvotes, $500
-481. 15-07-2020 [Acronis Sync Agent Service - Untrusted DLL Search-Ordering lead to Privilege Escalation](https://hackerone.com/reports/924493) to Acronis - 8 upvotes, $250
-482. 18-11-2021 [Possibility to force an admin to install recommended applications](https://hackerone.com/reports/1403614) to Nextcloud - 8 upvotes, $100
-483. 01-03-2014 [Weird Bug - Ability to see partial of other user's notification](https://hackerone.com/reports/2584) to HackerOne - 8 upvotes, $0
-484. 14-10-2014 [Ability to see common response titles of other teams (limited)](https://hackerone.com/reports/31383) to HackerOne - 8 upvotes, $0
-485. 21-04-2015 [API: missing invalidation of OAuth2 Authorization Code during access revocation causes authorization bypass](https://hackerone.com/reports/57603) to Vimeo - 8 upvotes, $0
-486. 04-02-2017 [Bypass file access control vulnerability on a DoD website](https://hackerone.com/reports/203311) to U.S. Dept Of Defense - 8 upvotes, $0
-487. 03-05-2017 [Extract Billing admin email address using random team id](https://hackerone.com/reports/225831) to Dashlane - 8 upvotes, $0
-488. 02-07-2017 [Bypassing Access control, changing owner's name in a private leaderboard](https://hackerone.com/reports/245340) to WakaTime - 8 upvotes, $0
-489. 03-02-2020 [Authorization for wp-admin directory are vulnerable to brute force.](https://hackerone.com/reports/788420) to Stripo Inc - 8 upvotes, $0
-490. 08-04-2019 [UniFi Video v3.10.1 (Windows) Local Privileges Escalation to SYSTEM from arbitrary filedelete and DLL hijack vulnerabilities.](https://hackerone.com/reports/530967) to Ubiquiti Inc. - 8 upvotes, $0
-491. 09-06-2020 [[H1-2006 2020] From multiple vulnerabilities to complete ATO on any customer account and staff admin](https://hackerone.com/reports/894863) to h1-ctf - 8 upvotes, $0
-492. 20-08-2020 [Stocky App Administrator can create a backdoor admin account by using an existing POS User](https://hackerone.com/reports/962895) to Shopify - 8 upvotes, $0
-493. 19-10-2021 [The Host Authorization middleware in Action Pack is vulnerable to crafted X-Forwarded-Host values](https://hackerone.com/reports/1374512) to Internet Bug Bounty - 8 upvotes, $0
-494. 17-08-2021 [Privilege Escalation leads to trash other users comment without having admin rights.](https://hackerone.com/reports/1307943) to Basecamp - 8 upvotes, $0
-495. 20-08-2020 [Unauthorized access to choice.av.ru control panel](https://hackerone.com/reports/963161) to Azbuka Vkusa - 8 upvotes, $0
-496. 28-09-2022 [Upload and delete files in debug page without access control.](https://hackerone.com/reports/1714767) to U.S. Dept Of Defense - 8 upvotes, $0
-497. 17-02-2023 [The use of __proto__ in process.mainModule.__proto__.require() bypasses the permission system in Node v19.6.1](https://hackerone.com/reports/1877919) to Node.js - 8 upvotes, $0
-498. 14-04-2025 [Non-Production API Endpoints for the Route 53 Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3092085) to AWS VDP - 8 upvotes, $0
-499. 26-03-2016 [Stored XSS in drive.uber.com WordPress admin panel](https://hackerone.com/reports/126099) to Uber - 7 upvotes, $2000
-500. 03-11-2015 [Staff members with no permission can access to the files, uploaded by the administrator](https://hackerone.com/reports/97452) to Shopify - 7 upvotes, $500
-501. 06-03-2014 [UnAuthorized Editorial Publishing to Blogs](https://hackerone.com/reports/3356) to Phabricator - 7 upvotes, $300
-502. 02-11-2021 [XSS in Acronis Cloud Manager Admin Portal](https://hackerone.com/reports/1388788) to Acronis - 7 upvotes, $100
-503. 29-05-2014 [privilege escalation](https://hackerone.com/reports/13959) to Automattic - 7 upvotes, $0
-504. 19-02-2016 [XSS in Draft Orders in Timeline i SHOPIFY Admin Site!](https://hackerone.com/reports/117449) to Shopify - 7 upvotes, $0
-505. 02-02-2015 [Can message users without the proper authorization](https://hackerone.com/reports/46113) to Vimeo - 7 upvotes, $0
-506. 31-08-2016 [Missing access control at password change](https://hackerone.com/reports/164648) to Legal Robot - 7 upvotes, $0
-507. 28-05-2018 [File access control rules not enforced on image files](https://hackerone.com/reports/358339) to Nextcloud - 7 upvotes, $0
-508. 21-12-2018 [Unauthorized command execution in Web protection component of Anti-Virus products family [FF, Chrome]](https://hackerone.com/reports/470553) to Kaspersky - 7 upvotes, $0
-509. 18-06-2017 [Admin Salt Leakage on DoD site.](https://hackerone.com/reports/241116) to U.S. Dept Of Defense - 7 upvotes, $0
-510. 14-02-2020 [[Critical] Insufficient Access Control On Registration Page of Webapps Website Allows Privilege Escalation to Administrator ](https://hackerone.com/reports/796379) to U.S. Dept Of Defense - 7 upvotes, $0
-511. 10-08-2020 [Default Creds Spring Boot Admin](https://hackerone.com/reports/954818) to 8x8 - 7 upvotes, $0
-512. 10-05-2020 [access permission is not revoked even if the email has been deleted or changed on the partner account -partners.shopify-](https://hackerone.com/reports/870001) to Shopify - 7 upvotes, $0
-513. 20-12-2020 [Misconfigured AWS S3 bucket leaks senstive data  such of  admin, Prdouction,beta, localhost and many more directories....](https://hackerone.com/reports/1062803) to U.S. Dept Of Defense - 7 upvotes, $0
-514. 23-02-2022 [Authorization bypass -\> IDOR -\> PII Leakage](https://hackerone.com/reports/1489470) to U.S. Dept Of Defense - 7 upvotes, $0
-515. 27-02-2022 [Broken access control, can lead to legitimate user data loss](https://hackerone.com/reports/1493007) to U.S. Dept Of Defense - 7 upvotes, $0
-516. 05-07-2021 [Acronis True Image Local Privilege Escalation Due To Race Condition In Application Verification ](https://hackerone.com/reports/1251464) to Acronis - 7 upvotes, $0
-517. 14-10-2015 [Unauthorized access to all collections, products, pages from other stores](https://hackerone.com/reports/93921) to Shopify - 6 upvotes, $2500
-518. 28-05-2015 [Privilege Escalation - A `MEMBER` with no ACCESS to `ORDERS` can still access the orders by using  `Order Printer APP` ](https://hackerone.com/reports/64164) to Shopify - 6 upvotes, $1000
-519. 02-03-2015 [Twitter Ads Campaign information disclosure through admin without any authentication.](https://hackerone.com/reports/49806) to X / xAI - 6 upvotes, $560
-520. 10-01-2017 [Ability to post comments to a crew even after getting kicked out](https://hackerone.com/reports/197153) to Rockstar Games - 6 upvotes, $500
-521. 10-04-2015 [Fabric.io:  Ex-admin of an organization can delete team members](https://hackerone.com/reports/55670) to X / xAI - 6 upvotes, $280
-522. 29-12-2015 [Team Member(s) associated with a  Group have Read-only permission (Post internal comments) can post comment to all the participants ](https://hackerone.com/reports/107336) to HackerOne - 6 upvotes, $0
-523. 16-05-2016 [Ability to collect users' ids that have visited a specific web page with malicious code ](https://hackerone.com/reports/139192) to Bumble - 6 upvotes, $0
-524. 30-06-2016 [No authorization required in iOS device web-application](https://hackerone.com/reports/148538) to Coinbase - 6 upvotes, $0
-525. 27-10-2016 [ability to retrieve a user's phone-number/email for a given inviteCode](https://hackerone.com/reports/178503) to Uber - 6 upvotes, $0
-526. 20-10-2017 [Business Logic Flaw allowing Privilege Escalation](https://hackerone.com/reports/280914) to Inflection - 6 upvotes, $0
-527. 22-06-2017 [Privilege Escalation with Session Hijacking Having a Non-privileged Valid User](https://hackerone.com/reports/242407) to Ubiquiti Inc. - 6 upvotes, $0
-528. 20-08-2018 [[express-cart] Customer and admin email enumeration through MongoDB injection](https://hackerone.com/reports/397445) to Node.js third-party modules - 6 upvotes, $0
-529. 14-08-2018 [Incorrect Permission Assignment for Critical Resource](https://hackerone.com/reports/394861) to MariaDB - 6 upvotes, $0
-530. 25-10-2018 [Admin panel take over | User info leakage | Mass Comprimise](https://hackerone.com/reports/428757) to U.S. Dept Of Defense - 6 upvotes, $0
-531. 20-03-2017 [Default page exposes admin functions and all metods and classes available. on https://██████/█████/dwr/index.html](https://hackerone.com/reports/214800) to U.S. Dept Of Defense - 6 upvotes, $0
-532. 17-07-2019 [[██████████] Unauthorized access to admin panel](https://hackerone.com/reports/648222) to U.S. Dept Of Defense - 6 upvotes, $0
-533. 07-08-2018 [Unauthorized Use of Victim Credit Card](https://hackerone.com/reports/391385) to Yelp - 6 upvotes, $0
-534. 05-08-2020 [Admin web sessions remain active after logout of Shopify ID](https://hackerone.com/reports/952035) to Shopify - 6 upvotes, $0
-535. 21-02-2020 [Grafana Improper authorization ](https://hackerone.com/reports/802011) to Kubernetes - 6 upvotes, $0
-536. 14-12-2022 [Improper Access Control on Media Wiki allows an attackers to restart installation on DoD asset](https://hackerone.com/reports/1804174) to U.S. Dept Of Defense - 6 upvotes, $0
-537. 29-04-2023 [fs.openAsBlob() bypasses permission system](https://hackerone.com/reports/1966492) to Node.js - 6 upvotes, $0
-538. 30-10-2015 [An administrator without the 'Settings' permission is able to see payment gateways](https://hackerone.com/reports/96908) to Shopify - 5 upvotes, $500
-539. 10-10-2020 [DLL Hijacking when performing operations in Acronis Secure Zone partition leading to Privilege Escalation](https://hackerone.com/reports/1004740) to Acronis - 5 upvotes, $250
-540. 16-06-2016 [Stored XSS from ticket messages in admin table in SupportFlow](https://hackerone.com/reports/145091) to Ian Dunn - 5 upvotes, $50
-541. 30-10-2015 [Staff members with no permission to  access domains can access them.](https://hackerone.com/reports/96855) to Shopify - 5 upvotes, $0
-542. 24-10-2015 [Privilege escalation and circumvention of permission to limited access user](https://hackerone.com/reports/95589) to Shopify - 5 upvotes, $0
-543. 30-06-2016 [No authorization required in Windows phone web-application](https://hackerone.com/reports/148537) to Coinbase - 5 upvotes, $0
-544. 24-04-2017 [Improper access control when an added email address is deleted from authentication](https://hackerone.com/reports/223434) to Weblate - 5 upvotes, $0
-545. 20-08-2017 [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/261706) to Gratipay - 5 upvotes, $0
-546. 01-01-2020 [China - Leaked credentials permitted a limited ability to create Starbucks coupons and cards](https://hackerone.com/reports/766770) to Starbucks - 5 upvotes, $0
-547. 23-07-2020 [app.lemlist.com : Admin Panel Access](https://hackerone.com/reports/937921) to lemlist - 5 upvotes, $0
-548. 15-03-2020 [Improper Access Controls Allow PII Leak via ████](https://hackerone.com/reports/819591) to U.S. Dept Of Defense - 5 upvotes, $0
-549. 24-04-2020 [Local Privilege Escalation in anti_ransomware_service.exe via quarantine](https://hackerone.com/reports/858598) to Acronis - 5 upvotes, $0
-550. 29-07-2020 [A member-member privilege could access the https://console.rockset.com/billing?tab=payment page even though the billing page is hidden from the menu. ](https://hackerone.com/reports/946384) to Rockset - 5 upvotes, $0
-551. 18-12-2020 [Unauthorized access to PII leads to MASS account Takeover](https://hackerone.com/reports/1061736) to U.S. Dept Of Defense - 5 upvotes, $0
-552. 20-06-2022 [Unauthorized Access - downgraded admin roles to none can still edit projects through brupsuite](https://hackerone.com/reports/1607756) to Omise - 5 upvotes, $0
-553. 10-11-2021 [Default Admin Username and Password on remedysso.mtncameroon.net](https://hackerone.com/reports/1397786) to MTN Group - 5 upvotes, $0
-554. 22-11-2022 [Ability to control the filename when uploading a logo or favicon on theming](https://hackerone.com/reports/1781751) to Nextcloud - 5 upvotes, $0
-555. 10-01-2022 [Mute User can disclose private channel members to unauthorized users](https://hackerone.com/reports/1445810) to Rocket.Chat - 5 upvotes, $0
-556. 20-08-2020 [Local Privilege Escalation via DLL Search-Order Hijacking with Cyber Protection Agent - tibxread.exe utility](https://hackerone.com/reports/963103) to Acronis - 5 upvotes, $0
-557. 31-08-2020 [Local Privilege Escalation via EXE hijacking with Acronis True Image 2021 - Acronis Scheduler2 Service](https://hackerone.com/reports/971610) to Acronis - 5 upvotes, $0
-558. 16-04-2015 [Shop admin can change external login services](https://hackerone.com/reports/56626) to Shopify - 4 upvotes, $1000
-559. 13-10-2015 [Missing authorization check on dashboard overviews](https://hackerone.com/reports/93680) to Shopify - 4 upvotes, $500
-560. 14-01-2015 [Ability to Download Music Tracks Without Paying (Missing permission check on`/musicstore/download`)](https://hackerone.com/reports/43770) to Vimeo - 4 upvotes, $0
-561. 31-01-2015 [CRITICAL vulnerability - Insecure Direct Object Reference - Unauthorized access to `Videos` of Channel whose privacy is set to `Private`.](https://hackerone.com/reports/45960) to Vimeo - 4 upvotes, $0
-562. 26-06-2015 [Prevent Shop Admin From Seeing his Installed Apps / Install Persistent Unremovable App](https://hackerone.com/reports/72793) to Shopify - 4 upvotes, $0
-563. 23-10-2015 [Unauthorized access to any Store Admin's First & Last name](https://hackerone.com/reports/95441) to Shopify - 4 upvotes, $0
-564. 29-05-2017 [API Does Not Apply Access Controls to Translations](https://hackerone.com/reports/232994) to Weblate - 4 upvotes, $0
-565. 02-04-2020 [Privilege Escalation in BuddyPress core allows Moderate to Administrator ](https://hackerone.com/reports/837018) to WordPress - 4 upvotes, $0
-566. 15-09-2018 [Some store settings/data are accessible to "No Access" permission users on GraphQL LiveView operation](https://hackerone.com/reports/409973) to Shopify - 4 upvotes, $0
-567. 12-07-2020 [Improper access control to messages of Social app](https://hackerone.com/reports/921717) to Nextcloud - 4 upvotes, $0
-568. 01-03-2021 [[mattermost.com] CORS Misconfiguration leakage of admin users](https://hackerone.com/reports/1113759) to Mattermost - 4 upvotes, $0
-569. 03-04-2021 [DoS due to improper input validation can break the admin access into the user data will disallow him from editing that user's data.](https://hackerone.com/reports/1147611) to Nextcloud - 4 upvotes, $0
-570. 16-05-2021 [Clickjacking on profile page leading to unauthorized changes](https://hackerone.com/reports/1198907) to UPchieve - 4 upvotes, $0
-571. 18-05-2021 [No admin audit entry for enabling/disabling 2FA](https://hackerone.com/reports/1200989) to Nextcloud - 4 upvotes, $0
-572. 16-06-2020 [Man in the middle leading to root privilege escalation using hostNetwork=true (CAP_NET_RAW considered harmful)](https://hackerone.com/reports/899103) to Kubernetes - 4 upvotes, $0
-573. 19-01-2021 [Incorrect Authorization Checks in /include/findusers.php](https://hackerone.com/reports/1081137) to ImpressCMS - 4 upvotes, $0
-574. 27-09-2020 [Improper Access Control - Generic](https://hackerone.com/reports/992280) to Rocket.Chat - 4 upvotes, $0
-575. 19-04-2023 [OpenSSL engines can be used to bypass and/or disable the permission model](https://hackerone.com/reports/1954535) to Node.js - 4 upvotes, $0
-576. 05-10-2015 [unauthorized access to all customers first and last name ](https://hackerone.com/reports/92453) to Shopify - 3 upvotes, $2500
-577. 08-01-2015 [fabric.io - app member can make himself an admin](https://hackerone.com/reports/42961) to X / xAI - 3 upvotes, $1400
-578. 10-12-2014 [Phabricator Diffusion application allows unauthorized users to delete mirrors](https://hackerone.com/reports/38965) to Phabricator - 3 upvotes, $300
-579. 05-02-2015 [Team admin can change unauthorized team setting (allow_message_deletion)](https://hackerone.com/reports/46750) to Slack - 3 upvotes, $100
-580. 19-04-2014 [Deleting groups in any project without permission ](https://hackerone.com/reports/8104) to Localize - 3 upvotes, $0
-581. 19-04-2014 [Making groups in any project without permission ](https://hackerone.com/reports/8102) to Localize - 3 upvotes, $0
-582. 23-07-2014 [privilege escalation](https://hackerone.com/reports/21210) to Mavenlink - 3 upvotes, $0
-583. 18-09-2014 [iOS App can establish Facetime calls without user's permission](https://hackerone.com/reports/28500) to X / xAI - 3 upvotes, $0
-584. 14-05-2015 [XSS in myshopify.com Admin site in TAX Overrides](https://hackerone.com/reports/62427) to Shopify - 3 upvotes, $0
-585. 10-06-2015 [Expire User Sessions in Admin Site does not expire user session in Shopify Application in IOS](https://hackerone.com/reports/67220) to Shopify - 3 upvotes, $0
-586. 06-10-2015 [The POS Firmware is leaking the root Password which can be used for unauthorized access to the device.](https://hackerone.com/reports/92633) to Shopify - 3 upvotes, $0
-587. 11-10-2015 [First & Last Name Disclosure of any Shopify Store Admin](https://hackerone.com/reports/93294) to Shopify - 3 upvotes, $0
-588. 08-10-2014 [Missing Function Level Access Control in /cindex.php/widget/customize/](https://hackerone.com/reports/30575) to Bookfresh - 3 upvotes, $0
-589. 18-06-2016 [Business/Functional logic bypass: Remove admins from admin group.](https://hackerone.com/reports/145745) to Nextcloud - 3 upvotes, $0
-590. 17-06-2016 [No permission set on Activities [Android App]](https://hackerone.com/reports/145402) to Nextcloud - 3 upvotes, $0
-591. 04-12-2016 [Login Hints on Admin Panel](https://hackerone.com/reports/188195) to Nextcloud - 3 upvotes, $0
-592. 25-07-2016 [xss for admin of https://newsletter.nextcloud.com](https://hackerone.com/reports/153799) to Nextcloud - 3 upvotes, $0
-593. 08-07-2017 [Session Duplication due to Broken Access Control](https://hackerone.com/reports/247225) to WakaTime - 3 upvotes, $0
-594. 24-05-2016 [UniFi Video v3.2.2 (Windows) Local Privileges Escalation due to weak default install directory ACLs](https://hackerone.com/reports/140793) to Ubiquiti Inc. - 3 upvotes, $0
-595. 28-05-2018 [Privilage escalation with malicious .npmrc](https://hackerone.com/reports/358359) to Node.js third-party modules - 3 upvotes, $0
-596. 21-06-2017 [Roundcube virtualmin privilege escalation (CVE-2017-8114)](https://hackerone.com/reports/242119) to Internet Bug Bounty - 3 upvotes, $0
-597. 04-07-2018 [Admin panel of https://www.stellar.org/wp-admin/](https://hackerone.com/reports/376563) to Stellar.org - 3 upvotes, $0
-598. 19-02-2020 [Admin Login Credential Leak for DoD Gitlab EE instance](https://hackerone.com/reports/799898) to U.S. Dept Of Defense - 3 upvotes, $0
-599. 18-06-2020 [Get analytics token using only apps permission](https://hackerone.com/reports/901775) to Shopify - 3 upvotes, $0
-600. 18-05-2021 [No admin audit log for auth tokens](https://hackerone.com/reports/1200992) to Nextcloud - 3 upvotes, $0
-601. 30-08-2020 [Local Privilege Escalation via EXE hijacking with Acronis True Image 2021 installer](https://hackerone.com/reports/970739) to Acronis - 3 upvotes, $0
-602. 25-04-2025 [BAC – Bypass chatbot restrictions via unauthorized mention injection](https://hackerone.com/reports/3112106) to Dust - 3 upvotes, $0
-603. 08-10-2015 [unauthorized access to all collections name](https://hackerone.com/reports/93004) to Shopify - 2 upvotes, $2000
-604. 09-01-2015 [Fabric.io - an app admin can delete team members from other user apps](https://hackerone.com/reports/43065) to X / xAI - 2 upvotes, $1120
-605. 12-10-2014 [Unauthorized Tweeting on behalf of Account Owners](https://hackerone.com/reports/31082) to X / xAI - 2 upvotes, $420
-606. 14-06-2014 [Abusing daemon logs for Privilege escalation under certain scenarios](https://hackerone.com/reports/16392) to Phabricator - 2 upvotes, $300
-607. 17-02-2015 [Team admin can add billing contacts](https://hackerone.com/reports/47940) to Slack - 2 upvotes, $200
-608. 05-02-2015 [Team admin can change unauthorized team setting (require_at_for_mention)](https://hackerone.com/reports/46747) to Slack - 2 upvotes, $200
-609. 13-10-2014 [Creating Unauthorized Audience Lists](https://hackerone.com/reports/31188) to X / xAI - 2 upvotes, $0
-610. 19-06-2015 [XSS in Myshopify Admin Site in DISCOUNTS](https://hackerone.com/reports/71614) to Shopify - 2 upvotes, $0
-611. 27-09-2015 [Privilege escalation vulnerability](https://hackerone.com/reports/90671) to Shopify - 2 upvotes, $0
-612. 07-02-2016 [Unauthorized file (invoice) download](https://hackerone.com/reports/115209) to Uber - 2 upvotes, $0
-613. 15-07-2016 [User enumeration in wp-admin](https://hackerone.com/reports/151583) to Ian Dunn - 2 upvotes, $0
-614. 04-12-2016 [BruteForce in to Admin Account](https://hackerone.com/reports/188205) to Nextcloud - 2 upvotes, $0
-615. 22-09-2016 [Missing function level access controls allowing attacker to abuse file access controls. Multiple vulnerabilities](https://hackerone.com/reports/171130) to Zendesk - 2 upvotes, $0
-616. 06-05-2017 [Unauthorized access to the slack channel via inside.gratipay.com/appendices/chat](https://hackerone.com/reports/226648) to Gratipay - 2 upvotes, $0
-617. 12-10-2016 [Brave: Admin Panel Access](https://hackerone.com/reports/175366) to Brave Software - 2 upvotes, $0
-618. 17-08-2017 [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/260928) to Gratipay - 2 upvotes, $0
-619. 20-04-2018 [Bruteforce in admin panel](https://hackerone.com/reports/341074) to Nextcloud - 2 upvotes, $0
-620. 12-09-2019 [[expressjs-ip-control] Whitelist IP bypass leads to authorization bypass and sensitive info disclosure](https://hackerone.com/reports/693788) to Node.js third-party modules - 2 upvotes, $0
-621. 25-01-2021 [Proxy-Authorization header carried to a new host on a redirect](https://hackerone.com/reports/1086259) to curl - 2 upvotes, $0
-622. 23-02-2016 [Injection via CSV Export feature in Admin Orders](https://hackerone.com/reports/118103) to Shopify - 1 upvotes, $0
-623. 27-03-2016 [Privilege escalation to allow non activated users to login and use uber partner ios app](https://hackerone.com/reports/126260) to Uber - 1 upvotes, $0
-624. 09-01-2018 [Reflected XSS in admin settings](https://hackerone.com/reports/303480) to Deconf - 1 upvotes, $0
-625. 06-05-2021 [Misconfiguration Certificate Authority Authorization Rule](https://hackerone.com/reports/1186740) to Sifchain - 1 upvotes, $0
-626. 02-01-2016 [[https://test1.owncloud.com/owncloud6/] Guessable password used for admin user](https://hackerone.com/reports/107849) to ownCloud - 0 upvotes, $0
-627. 11-07-2018 [Ubuntu 12.04 Privilege Escalation](https://hackerone.com/reports/380782) to Nextcloud - 0 upvotes, $0
+252. 15-02-2024 [Broken Access Control (IDOR) in Booking Detail and Bids Could Leads to Sensitive Information Disclosure](https://hackerone.com/reports/2374730) to Bykea - 27 upvotes, $0
+253. 17-03-2024 [Ability to by-pass second factor ](https://hackerone.com/reports/2419776) to Nextcloud - 26 upvotes, $1000
+254. 14-09-2022 [Shop App - Attacker is able to intercept authorization code during authentication (OAuth) and is able to get access to Microsoft Outlook email account](https://hackerone.com/reports/1700734) to Shopify - 26 upvotes, $900
+255. 28-06-2017 [IDOR [partners.shopify.com] - User with ONLY Manage apps permission is able to get shops info and staff names from inside the shop](https://hackerone.com/reports/243943) to Shopify - 26 upvotes, $500
+256. 13-04-2020 [None permission staff member can identify installed application and products attached to it](https://hackerone.com/reports/848625) to Shopify - 26 upvotes, $500
+257. 25-12-2017 [[www.zomato.com] Privilege Escalation - /php/restaurant_menus_handler.php](https://hackerone.com/reports/300454) to Zomato - 26 upvotes, $200
+258. 12-01-2017 [[EdgeSwitch] Web GUI command injection as root with Privilege-1 and Privilege-15 users](https://hackerone.com/reports/197958) to Ubiquiti Inc. - 26 upvotes, $0
+259. 20-09-2019 [Bypass report #416983 - Removed Staff members who had "Apps" permission can still modify flow app connections](https://hackerone.com/reports/698708) to Shopify - 26 upvotes, $0
+260. 14-02-2020 [Readonly to Root Privilege Escalation on EdgeSwitch](https://hackerone.com/reports/796414) to Ubiquiti Inc. - 26 upvotes, $0
+261. 18-05-2023 [Endpoint Redirects to Admin Page and Provides Admin role](https://hackerone.com/reports/1991290) to U.S. Dept Of Defense - 26 upvotes, $0
+262. 16-03-2017 [File access controls incorrectly enforced for files shared via QuickLink - Unshared files can be accessed](https://hackerone.com/reports/214001) to Files.com - 25 upvotes, $600
+263. 22-02-2020 [user with no draft order permission can still perform action on draft order's in stocky app (idor)](https://hackerone.com/reports/802286) to Shopify - 25 upvotes, $500
+264. 18-08-2017 [Privilege Escalation to Admin-level Account](https://hackerone.com/reports/261285) to Legal Robot - 25 upvotes, $0
+265. 24-02-2020 [Unauthorized User Can Delete Any User Account](https://hackerone.com/reports/803141) to Nord Security - 25 upvotes, $0
+266. 22-01-2021 [[h1-2102] Improper Access Control at https://shopify.plus/[id]/users/api in operation UpdateOrganizationUserRole](https://hackerone.com/reports/1084638) to Shopify - 25 upvotes, $0
+267. 21-11-2024 [Unauthorized Access  Exposing Sensitive Data](https://hackerone.com/reports/2858876) to U.S. Dept Of Defense - 25 upvotes, $0
+268. 22-04-2025 [Privilege Escalation leads to Unauthorized Access to Private Conversations By any Regular user  [Read , Edit and Delete]](https://hackerone.com/reports/3103849) to Dust - 25 upvotes, $0
+269. 23-04-2022 [Unauthorized packages modification or secrets exfiltration via GitHub actions](https://hackerone.com/reports/1548870) to Hyperledger - 24 upvotes, $1500
+270. 12-09-2020 [Local Privilege Escalation and Code Execution when restoring files from Quarantine](https://hackerone.com/reports/980500) to Acronis - 24 upvotes, $250
+271. 12-06-2019 [CVE-2019-5443: Windows Privilege Escalation: Malicious OpenSSL Engine](https://hackerone.com/reports/608577) to curl - 24 upvotes, $200
+272. 12-09-2016 [Ability to enumerate private programs using SAML](https://hackerone.com/reports/167828) to HackerOne - 24 upvotes, $0
+273. 20-07-2016 [Missing Access Control(IDOR) To Know LinkedAccounts ](https://hackerone.com/reports/152407) to Dashlane - 24 upvotes, $0
+274. 09-01-2019 [Last build status and coverage leaked to unauthorized users](https://hackerone.com/reports/477222) to GitLab - 24 upvotes, $0
+275. 28-05-2020 [Ability to generate shipping labels in another store orders](https://hackerone.com/reports/884159) to Shopify - 24 upvotes, $0
+276. 19-04-2020 [Unauthorized access to private project security dashboard](https://hackerone.com/reports/853355) to GitLab - 24 upvotes, $0
+277. 09-12-2021 [Direct Access To admin Dashboard](https://hackerone.com/reports/1421804) to Shopify - 24 upvotes, $0
+278. 15-08-2020 [Local Privilege Escalation via DLL Search-Order Hijacking with Cyber Protection Agent - systeminfo.exe utility](https://hackerone.com/reports/959608) to Acronis - 24 upvotes, $0
+279. 07-11-2024 [unauthorized access and add user and change personal information all users](https://hackerone.com/reports/2828641) to Mars - 24 upvotes, $0
+280. 23-11-2024 [Ability to increase any customer offered fare (BAC)](https://hackerone.com/reports/2861888) to Bykea - 24 upvotes, $0
+281. 08-04-2020 [Open TURN relay abuse is possible due to lack of peer access control (Critical)](https://hackerone.com/reports/843256) to 8x8 Bounty - 23 upvotes, $700
+282. 05-01-2021 [Local privilege escalation via insecure MSI file](https://hackerone.com/reports/1071832) to Acronis - 23 upvotes, $250
+283. 17-08-2022 [[Broken Access Control ] Unauthorized Linking accounts & Linked Accounts info DIsclosure](https://hackerone.com/reports/1672614) to Stripe - 23 upvotes, $250
+284. 21-04-2022 [Anonymous access control - Payments Status](https://hackerone.com/reports/1546726) to Omise - 23 upvotes, $100
+285. 27-07-2018 [Admin bar: Incomplete message origin validation results in XSS](https://hackerone.com/reports/387544) to Shopify - 23 upvotes, $0
+286. 09-09-2018 [Unauthorized users may be able to view almost all informations related to Private projects.](https://hackerone.com/reports/407763) to GitLab - 23 upvotes, $0
+287. 21-01-2020 [Multiple Vulnerabilities in (*.blog.yelp.com) - Leakage user admin Sensitive Exposure](https://hackerone.com/reports/779656) to Yelp - 23 upvotes, $0
+288. 22-01-2021 [[h1-2102] [Plus] User with Store Management Permission can Make changeDomainEnforcementState - that should be limited to User Management Only](https://hackerone.com/reports/1084892) to Shopify - 23 upvotes, $0
+289. 12-11-2023 [CVE-2023-47037: Airflow Broken Access Control Vulnerability](https://hackerone.com/reports/2249299) to Internet Bug Bounty - 23 upvotes, $0
+290. 02-10-2017 [Unauthorized Access to Protected Tweets via niche.co API](https://hackerone.com/reports/273698) to X / xAI - 22 upvotes, $0
+291. 14-06-2017 [Privilege Escalation using API-\>Feature](https://hackerone.com/reports/239719) to Ubiquiti Inc. - 22 upvotes, $0
+292. 17-09-2018 [Unauthorized access to a system used for CI/CD processes](https://hackerone.com/reports/410475) to Starbucks - 22 upvotes, $0
+293. 21-12-2018 [Unauthorized command execution in Web protection component of Anti-Virus products family [IE]](https://hackerone.com/reports/470547) to Kaspersky - 22 upvotes, $0
+294. 03-05-2020 [unpermitted user can change the device name of admin account](https://hackerone.com/reports/865115) to Helium - 22 upvotes, $0
+295. 10-03-2020 [Unauthorized updates to extended_info properties in /store/ajaxpackagesave](https://hackerone.com/reports/815547) to Valve - 22 upvotes, $0
+296. 06-11-2020 [Ability to potentially hit internal NGINX locations on *.myshopify.com by making use of the `X-Accel-Redirect` header via a configured App Proxy](https://hackerone.com/reports/1027873) to Shopify - 22 upvotes, $0
+297. 09-04-2021 [Access control vulnerability (read-only)](https://hackerone.com/reports/1159367) to EXNESS - 22 upvotes, $0
+298. 12-02-2020 [Users Without Permission Can Download Restricted Files](https://hackerone.com/reports/794904) to Lark Technologies - 22 upvotes, $0
+299. 13-01-2022 [Remove Every User, Admin, And Owner Out Of Their Teams on developers.mtn.com via IDOR + Information Disclosure](https://hackerone.com/reports/1448550) to MTN Group - 22 upvotes, $0
+300. 03-11-2023 [Code injection and privilege escalation through Linux capabilities](https://hackerone.com/reports/2237545) to Node.js - 22 upvotes, $0
+301. 21-01-2025 [Non-Production API Endpoints for the bedrock Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/2951803) to AWS VDP - 22 upvotes, $0
+302. 31-10-2018 [Order Creation Webhooks can be edited/deleted by STAFF with `Settings` only permission](https://hackerone.com/reports/431633) to Shopify - 21 upvotes, $500
+303. 10-01-2021 [Local Privilege Escalation when updating Acronis True Image](https://hackerone.com/reports/1075449) to Acronis - 21 upvotes, $250
+304. 28-09-2016 [IDOR - Ability to view unlisted products](https://hackerone.com/reports/172545) to Reverb.com - 21 upvotes, $0
+305. 20-07-2020 [Ability to manipulate price with a max threshold of `\<1 Rupee` in support rider parameter](https://hackerone.com/reports/927661) to Zomato - 21 upvotes, $0
+306. 17-04-2020 [Privilege Escalation vulnerability in steam's Remote Play feature leads to arbitrary kernel-mode driver installation](https://hackerone.com/reports/852091) to Valve - 21 upvotes, $0
+307. 13-02-2021 [staffOrderNotificationSubscriptionCreate Is Not Blocked Entirely From Staff Member With Settings Permission](https://hackerone.com/reports/1102652) to Shopify - 21 upvotes, $0
+308. 13-02-2021 [staffOrderNotificationSubscriptionDelete Could Be Used By Staff Member With Settings Permission](https://hackerone.com/reports/1102660) to Shopify - 21 upvotes, $0
+309. 29-10-2020 [Privilege Escalation to All-staff group](https://hackerone.com/reports/1021460) to Lark Technologies - 21 upvotes, $0
+310. 23-11-2023 [Default Admin Username and Password on ███](https://hackerone.com/reports/2262365) to U.S. Dept Of Defense - 21 upvotes, $0
+311. 07-04-2025 [Unauthorized Account Access via Leaked Credentials in URL Format (Account Takeover )](https://hackerone.com/reports/3080597) to Khan Academy - 21 upvotes, $0
+312. 30-04-2018 [Cleartext password exposure allows access to the desafio5estrelas.com admin panel](https://hackerone.com/reports/344566) to Uber - 20 upvotes, $500
+313. 24-08-2022 [Unauthorized Canceling/Unsubscribe TaxJar account & Payment information DIsclosure](https://hackerone.com/reports/1679124) to Stripe - 20 upvotes, $500
+314. 22-03-2022 [ Renderers can obtain access to random bluetooth device without permission](https://hackerone.com/reports/1519099) to Internet Bug Bounty - 20 upvotes, $480
+315. 12-04-2016 [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/129992) to HackerOne - 20 upvotes, $0
+316. 02-11-2019 [Clickjacking in the admin page](https://hackerone.com/reports/728004) to Rocket.Chat - 20 upvotes, $0
+317. 10-06-2020 [[H1-2006 2020] Bypassing access control checks by modifying the URL, internal application state, or the HTML page, or using a custom API attack tool](https://hackerone.com/reports/895172) to h1-ctf - 20 upvotes, $0
+318. 24-03-2022 [Staff can create workflows in Shopify Admin without apps permission](https://hackerone.com/reports/1521336) to Shopify - 20 upvotes, $0
+319. 03-02-2025 [Non-Production API Endpoints for the cloudwatch Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/2972435) to AWS VDP - 20 upvotes, $0
+320. 03-03-2025 [Non-Production API Endpoint for the EventBridge Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3021618) to AWS VDP - 20 upvotes, $0
+321. 08-05-2023 [Privilege Esacalation at Apache Airflow 2.5.1 ](https://hackerone.com/reports/1872682) to Internet Bug Bounty - 19 upvotes, $2400
+322. 27-07-2016 [Unauthorized access to Zookeeper on http://locutus-zk3.ec2.shopify.com:2181](https://hackerone.com/reports/154369) to Shopify - 19 upvotes, $1000
+323. 27-05-2020 [Inject page in admin panel via Shopify.API.pushState [New Payload]](https://hackerone.com/reports/883867) to Shopify - 19 upvotes, $500
+324. 28-09-2017 [Organization Admin Privilege Escalation To Owner](https://hackerone.com/reports/272570) to Bitwarden - 19 upvotes, $0
+325. 09-08-2018 [Admin Macro Description Stored XSS](https://hackerone.com/reports/392457) to Zendesk - 19 upvotes, $0
+326. 20-11-2018 [Corrupted Authorization header can cause logs not to be ingested properly in ████████](https://hackerone.com/reports/447488) to HackerOne - 19 upvotes, $0
+327. 21-05-2020 [Admin Reseller Account Disclosure](https://hackerone.com/reports/879562) to 8x8 - 19 upvotes, $0
+328. 04-01-2021 [[Bypass #870709] Unauthorised access to pagespeed global admin at https://webtools.paloalto.com/](https://hackerone.com/reports/1070889) to Palo Alto Software - 19 upvotes, $0
+329. 12-03-2022 [Response Manipulation leads to Admin Panel Login Bypass at https://██████/](https://hackerone.com/reports/1508661) to Sony - 19 upvotes, $0
+330. 31-08-2022 [[user_oidc] Stored XSS via Authorization Endpoint - Safari-Only](https://hackerone.com/reports/1687410) to Nextcloud - 19 upvotes, $0
+331. 03-04-2016 [Stored XSS on newsroom.uber.com admin panel / Stream WordPress plugin](https://hackerone.com/reports/127948) to Uber - 18 upvotes, $5000
+332. 20-07-2020 [Ability to publish a paid theme without purchasing it.](https://hackerone.com/reports/927567) to Shopify - 18 upvotes, $2000
+333. 13-10-2023 [CVE-2023-42780: Apache Airflow: Improper access control vulnerability in the "List dag warnings" feature](https://hackerone.com/reports/2208647) to Internet Bug Bounty - 18 upvotes, $540
+334. 27-07-2021 [Ability to add address without being an admin or staff in the store via wholesale store](https://hackerone.com/reports/1279322) to Shopify - 18 upvotes, $500
+335. 22-12-2017 [[www.zomato.com] Privilege Escalation - Control reviews - /████dashboard_handler.php](https://hackerone.com/reports/300099) to Zomato - 18 upvotes, $300
+336. 06-07-2020 [Access control missing while viewing the attachments in the "All boards"](https://hackerone.com/reports/916704) to Nextcloud - 18 upvotes, $150
+337. 04-12-2019 [Improper Authorization](https://hackerone.com/reports/751299) to Stripo Inc - 18 upvotes, $0
+338. 18-05-2020 [User with single department permission can view applicant list of all department's](https://hackerone.com/reports/877300) to Lark Technologies - 18 upvotes, $0
+339. 06-06-2021 [Improper authorization on `/api/as/v1/credentials/` for  Dev Role User with Limited Engine Access](https://hackerone.com/reports/1218680) to Elastic - 18 upvotes, $0
+340. 12-02-2021 [[dubmash] Lack of authorization checks - Update Sound Titles](https://hackerone.com/reports/1102365) to Reddit - 18 upvotes, $0
+341. 26-04-2021 [Access control vulnerability (read/write)](https://hackerone.com/reports/1174734) to EXNESS - 18 upvotes, $0
+342. 14-08-2022 [Unauthorized access](https://hackerone.com/reports/1669176) to GitLab - 18 upvotes, $0
+343. 21-11-2023 [Multiple permission model bypasses due to improper path traversal sequence sanitization](https://hackerone.com/reports/2259914) to Node.js - 18 upvotes, $0
+344. 02-02-2024 [Proxy-Authorization header is not cleared in cross-domain redirect in undici](https://hackerone.com/reports/2352957) to Node.js - 18 upvotes, $0
+345. 19-04-2024 [fs.fchown/fchmod bypasses permission model](https://hackerone.com/reports/2472071) to Node.js - 18 upvotes, $0
+346. 26-04-2025 [Broken Access Control Exposes Email Verification Status and Privacy Settings via API Endpoint](https://hackerone.com/reports/3114132) to WakaTime - 18 upvotes, $0
+347. 10-01-2017 [[IMP] - Blind XSS in the admin panel for reviewing comments](https://hackerone.com/reports/197337) to Rockstar Games - 17 upvotes, $650
+348. 04-08-2016 [Unauthorized team members can leak information and see all API calls through /1/admin/* endpoints, even after they have been removed.](https://hackerone.com/reports/156520) to Algolia - 17 upvotes, $400
+349. 08-10-2020 [Local Privilege Escalation via Backup delete](https://hackerone.com/reports/1003007) to Acronis - 17 upvotes, $250
+350. 30-07-2018 [Access control issue -- [Allow file system access not validated when using session auth]](https://hackerone.com/reports/388515) to Nextcloud - 17 upvotes, $100
+351. 15-04-2016 [Privilege escalation to access all private groups and repositories](https://hackerone.com/reports/131210) to GitLab - 17 upvotes, $0
+352. 12-05-2016 [Missing access control exposing detailed information on all users](https://hackerone.com/reports/138244) to WP API - 17 upvotes, $0
+353. 16-09-2018 [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/410245) to HackerOne - 17 upvotes, $0
+354. 04-01-2020 [Race condition (TOCTOU) in NordVPN can result in local privilege escalation](https://hackerone.com/reports/768110) to Nord Security - 17 upvotes, $0
+355. 01-11-2022 [Low authorization level at server side API operation e2e.updateGroupKey, let an attacker break the E2E architecture.](https://hackerone.com/reports/1757663) to Rocket.Chat - 17 upvotes, $0
+356. 12-09-2023 [fs.lstat bypasses permission model](https://hackerone.com/reports/2145862) to Node.js - 17 upvotes, $0
+357. 13-04-2023 [Missing permission check when removing a photo from an album](https://hackerone.com/reports/1946298) to Nextcloud - 17 upvotes, $0
+358. 26-10-2024 [A potential risk in the cloudFrontExtensionsConsole which can be used to privilege escalation.](https://hackerone.com/reports/2805173) to AWS VDP - 17 upvotes, $0
+359. 17-08-2016 [Ability to monitor reports' submission in real time](https://hackerone.com/reports/159890) to HackerOne - 16 upvotes, $0
+360. 16-06-2017 [Privilege Escalation.](https://hackerone.com/reports/240562) to Inflection - 16 upvotes, $0
+361. 17-06-2017 [Privilege Escalation: From operator to ubnt (and root) with non-interactive Session Hijacking](https://hackerone.com/reports/241044) to Ubiquiti Inc. - 16 upvotes, $0
+362. 19-02-2018 [Any user can completely delete their own account without authorization and/or going through any kind of membership cancellation protocol.](https://hackerone.com/reports/317507) to Shipt - 16 upvotes, $0
+363. 07-11-2018 [Ability to login to the Nexus Repo Manager from https://nexus.imgur.com/ ](https://hackerone.com/reports/435457) to Imgur - 16 upvotes, $0
+364. 25-04-2018 [brute force attack allowed on admin page https://www.stellar.org/wp-admin/](https://hackerone.com/reports/342977) to Stellar.org - 16 upvotes, $0
+365. 12-01-2020 [Unsafe cors sharing of admin users ](https://hackerone.com/reports/772744) to MTN Group - 16 upvotes, $0
+366. 17-08-2020 [Insufficient Type Check leading to Developer ability to delete Project, Repository, Group, ...](https://hackerone.com/reports/960244) to GitLab - 16 upvotes, $0
+367. 29-03-2020 [Broken Access Controls](https://hackerone.com/reports/833735) to Acronis - 16 upvotes, $0
+368. 31-01-2021 [[h1-2102] Partner's team member with no permission can retrieve services financial data](https://hackerone.com/reports/1091380) to Shopify - 16 upvotes, $0
+369. 11-03-2025 [Non-Production API Endpoints for the Glue Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3031512) to AWS VDP - 16 upvotes, $0
+370. 10-03-2025 [Non-Production API Endpoints for the Global Accelerator Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3029552) to AWS VDP - 16 upvotes, $0
+371. 28-09-2016 [Add signature to transactions without any permission](https://hackerone.com/reports/172733) to Shopify - 15 upvotes, $500
+372. 28-07-2016 [Missing authorization checks leading to the exposure of ubernihao.com administrator accounts ](https://hackerone.com/reports/154762) to Uber - 15 upvotes, $0
+373. 06-07-2016 [CSRF to add admin [wordpress]](https://hackerone.com/reports/149589) to WordPress - 15 upvotes, $0
+374. 01-07-2017 [Double Stored Cross-Site scripting in the admin panel](https://hackerone.com/reports/245172) to GSA Bounty - 15 upvotes, $0
+375. 10-08-2018 [Vulnerability Report - Missing Certificate Authority Authorization rule](https://hackerone.com/reports/392701) to MariaDB - 15 upvotes, $0
+376. 28-02-2019 [█████████ on CRM server without authorization](https://hackerone.com/reports/503300) to Unikrn - 15 upvotes, $0
+377. 30-05-2019 [Non-admin users can trigger writes to memcached by entering a malicious server as a share URL](https://hackerone.com/reports/592864) to Nextcloud - 15 upvotes, $0
+378. 21-12-2020 [Unauthorized access to employee panel with default credentials.](https://hackerone.com/reports/1063298) to U.S. General Services Administration - 15 upvotes, $0
+379. 23-01-2021 [[h1-2102] [PLUS] User with Store Management Permission can Make enforceSamlOrganizationDomains call - that should be limited to User Management Only](https://hackerone.com/reports/1084939) to Shopify - 15 upvotes, $0
+380. 23-02-2022 [All user password hash can be seen from admin panel](https://hackerone.com/reports/1489892) to UPchieve - 15 upvotes, $0
+381. 17-03-2025 [Non-Production API Endpoints for the Health Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3042588) to AWS VDP - 15 upvotes, $0
+382. 02-04-2020 [Ability to perform various POST requests on quantopian.com as a different user - insecure by design.](https://hackerone.com/reports/837328) to Quantopian - 14 upvotes, $1050
+383. 27-04-2020 [Staff member with no permission can delete POS staff from account settings](https://hackerone.com/reports/860348) to Shopify - 14 upvotes, $500
+384. 01-02-2017 [User with only Viewing Privilege can send message to Room](https://hackerone.com/reports/202499) to Phabricator - 14 upvotes, $300
+385. 10-05-2016 [Inadequate access controls in "Vote" functionality???](https://hackerone.com/reports/137503) to HackerOne - 14 upvotes, $0
+386. 28-05-2016 [Able to remove the admin access of my program](https://hackerone.com/reports/141629) to HackerOne - 14 upvotes, $0
+387. 24-08-2016 [Code Injection in Slack's Windows Desktop Client leads to Privilege Escalation](https://hackerone.com/reports/162955) to Slack - 14 upvotes, $0
+388. 19-07-2018 [Redirect on authorization allows account compromise](https://hackerone.com/reports/384289) to GSA Bounty - 14 upvotes, $0
+389. 01-07-2019 [Delete permission can be added on reshare](https://hackerone.com/reports/633245) to Nextcloud - 14 upvotes, $0
+390. 19-02-2019 [[Critical] Full local fylesystem access (LFI/LFD) as admin via Path Traversal in the misconfigured Java servlet on the https://███/](https://hackerone.com/reports/497771) to U.S. Dept Of Defense - 14 upvotes, $0
+391. 02-09-2016 [Nextcloud 10.0 privilege escalation issue - Normal user can mask external storage shared by admin    ](https://hackerone.com/reports/165229) to Nextcloud - 14 upvotes, $0
+392. 06-05-2020 [Access Control: Inject tasks into other users decks](https://hackerone.com/reports/867052) to Nextcloud - 14 upvotes, $0
+393. 22-05-2019 [Improper access control in place for "member only" groups via root.YUI_config.flickr.api.site_key](https://hackerone.com/reports/587733) to Flickr - 14 upvotes, $0
+394. 19-10-2020 [Improper Sanitization leads to XSS Fire on admin panel](https://hackerone.com/reports/1011888) to Informatica - 14 upvotes, $0
+395. 26-04-2021 [[Transportation Management Services Solution 2.0] Improper authorization at  tmss.gsa.gov leads to data exposure of all registered users](https://hackerone.com/reports/1175980) to U.S. General Services Administration - 14 upvotes, $0
+396. 01-02-2022 [User with no Develop apps permission can Uninstall Custom App](https://hackerone.com/reports/1466855) to Shopify - 14 upvotes, $0
+397. 04-06-2015 [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 13 upvotes, $5000
+398. 25-06-2020 [Acronis True Image Local Privilege Escalation via insecure folder permissions](https://hackerone.com/reports/908162) to Acronis - 13 upvotes, $300
+399. 14-04-2021 [Store Admin Page Accessible Without Authentication at http://www.grouplogic.com/ADMIN/store/index.cfm](https://hackerone.com/reports/1164854) to Acronis - 13 upvotes, $250
+400. 31-05-2017 [Privilege escalation-User who does not have access is able to add notes to the contact](https://hackerone.com/reports/235059) to Mixmax - 13 upvotes, $0
+401. 13-12-2017 [Unauthenticated Reflected XSS in admin dashboard](https://hackerone.com/reports/297434) to Deconf - 13 upvotes, $0
+402. 18-02-2018 [Improper access control on adding a Register to an Outlet](https://hackerone.com/reports/317332) to Vend VDP - 13 upvotes, $0
+403. 21-12-2018 [Unauthorized command execution in Web protection component of Anti-Virus products family](https://hackerone.com/reports/470544) to Kaspersky - 13 upvotes, $0
+404. 07-04-2022 [Ability to View Non-Permitted Admin Log](https://hackerone.com/reports/1533220) to Lark Technologies - 13 upvotes, $0
+405. 08-11-2022 [Reference caching can leak data to unauthorized users](https://hackerone.com/reports/1767503) to Nextcloud - 13 upvotes, $0
+406. 23-06-2022 [Improper Access Control in Ali Express Importer](https://hackerone.com/reports/1609955) to Judge.me  - 13 upvotes, $0
+407. 13-07-2022 [Ability to bypass locked Cloudflare WARP on wifi networks.](https://hackerone.com/reports/1635748) to Cloudflare Public Bug Bounty - 12 upvotes, $1000
+408. 02-10-2018 [H1514 Lack of access control on edit packing slip template](https://hackerone.com/reports/417839) to Shopify - 12 upvotes, $500
+409. 20-07-2019 [Unsecured Dropwizard Admin Panel on display.uber-adsystem.com exposes sensitive server information](https://hackerone.com/reports/651355) to Uber - 12 upvotes, $500
+410. 14-10-2020 [DLL Hijacking when sending feedback and crash report leading to Privilege Escalation](https://hackerone.com/reports/1008427) to Acronis - 12 upvotes, $250
+411. 16-03-2016 [Unauthorized Team members viewing](https://hackerone.com/reports/123572) to HackerOne - 12 upvotes, $0
+412. 08-09-2016 [leaking Digits OAuth authorization to third party websites](https://hackerone.com/reports/166942) to X / xAI - 12 upvotes, $0
+413. 08-11-2016 [Password reset access control](https://hackerone.com/reports/180895) to Legal Robot - 12 upvotes, $0
+414. 02-08-2017 [Unauthorized update of merchants' information via /php/merchant_details.php](https://hackerone.com/reports/255651) to Zomato - 12 upvotes, $0
+415. 16-04-2017 [Privilege escalation in the client impersonation functionality](https://hackerone.com/reports/221454) to Ubiquiti Inc. - 12 upvotes, $0
+416. 12-04-2019 ["Test target" of the "HTTP target" extension can unintentionally send username and password in the Authorization header](https://hackerone.com/reports/536669) to Zendesk - 12 upvotes, $0
+417. 24-09-2019 [India - An Insecure Direct Object Reference (IDOR) allowed unauthorized access to view card index number and monetary balance](https://hackerone.com/reports/701160) to Starbucks - 12 upvotes, $0
+418. 28-08-2021 [Ability to subscribe to inactive Post+ creators](https://hackerone.com/reports/1322334) to Automattic - 12 upvotes, $0
+419. 24-08-2021 [Unauthorized Kubernetes to RCE (root) and found TEAMTNT Crypto Miner on it](https://hackerone.com/reports/1317236) to IBM - 12 upvotes, $0
+420. 09-11-2023 [Unauthorized access to Argo dashboard on █████](https://hackerone.com/reports/2247231) to U.S. Dept Of Defense - 12 upvotes, $0
+421. 30-01-2025 [Ability to access policy and updates for unauthorized program](https://hackerone.com/reports/2965723) to HackerOne - 12 upvotes, $0
+422. 08-11-2013 [Privilege escalation..., or not?!](https://hackerone.com/reports/345) to HackerOne - 11 upvotes, $0
+423. 25-06-2017 [Paragonie Airship Admin CSRF on Extensions Pages](https://hackerone.com/reports/243094) to Paragon Initiative Enterprises - 11 upvotes, $0
+424. 13-10-2017 [Information Disclosure and Privilege Escalation in app.goodhire.com/member/developers/api-settings](https://hackerone.com/reports/276976) to Inflection - 11 upvotes, $0
+425. 26-04-2018 [Privilege escalation allows any user to add an administrator](https://hackerone.com/reports/343626) to Node.js third-party modules - 11 upvotes, $0
+426. 20-09-2018 [Password protected rooms total number of viewers disclosure to unauthorized members](https://hackerone.com/reports/411822) to Chaturbate - 11 upvotes, $0
+427. 10-04-2016 [UniFi Video Server - Broken access control on system configuration](https://hackerone.com/reports/129698) to Ubiquiti Inc. - 11 upvotes, $0
+428. 03-04-2019 [In Dockerized Environments, Failing to Read config.php Grants Any Anonymous User Full Admin Access](https://hackerone.com/reports/522876) to Nextcloud - 11 upvotes, $0
+429. 05-08-2019 [Head pipeline leaked to unauthorized users via blocking merge request feature](https://hackerone.com/reports/667408) to GitLab - 11 upvotes, $0
+430. 26-10-2020 [Server Side Request Forgery in 'Jabber settings' in Admin Control Panel](https://hackerone.com/reports/1018568) to phpBB - 11 upvotes, $0
+431. 24-02-2021 [Blind Stored XSS on ███████  leads to takeover admin account](https://hackerone.com/reports/1110243) to U.S. Dept Of Defense - 11 upvotes, $0
+432. 28-09-2020 [Improper Access Control - Generic on https://████](https://hackerone.com/reports/992618) to U.S. Dept Of Defense - 11 upvotes, $0
+433. 04-11-2020 [Unauthorized access to admin panel of the Questionmark Perception system at https://██████████](https://hackerone.com/reports/1026146) to U.S. Dept Of Defense - 11 upvotes, $0
+434. 10-11-2021 [Unauthenticated Access to Admin Panel Functions at https://███████/███](https://hackerone.com/reports/1397564) to U.S. Dept Of Defense - 11 upvotes, $0
+435. 22-01-2021 [[h1-2102] [Plus] User with Store Management Permission can Make convertUsersFromSaml/convertUsersToSaml - that should be limited to User Management](https://hackerone.com/reports/1084904) to Shopify - 11 upvotes, $0
+436. 22-04-2022 [Unauthorized Access to Internal Server Panel without Authentication](https://hackerone.com/reports/1548067) to U.S. Dept Of Defense - 11 upvotes, $0
+437. 31-03-2024 [Missing Access Control Allows for User Creation and Privilege Escalation ](https://hackerone.com/reports/2442229) to U.S. Dept Of Defense - 11 upvotes, $0
+438. 24-03-2023 [Authenticated but unauthorized users may enumerate Application names via the API](https://hackerone.com/reports/1916583) to Internet Bug Bounty - 10 upvotes, $2400
+439. 17-10-2020 [DLL Hijacking when creating Rescue Media Builder leading to Privilege Escalation](https://hackerone.com/reports/1010552) to Acronis - 10 upvotes, $250
+440. 14-08-2020 [TrueImage for Acronis True Image 2020 - Untrusted DLL Search-Ordering lead to Privilege Escalation as Administrative account](https://hackerone.com/reports/959017) to Acronis - 10 upvotes, $250
+441. 13-05-2015 [Ability to add pishing links in discusion ," Bypassing uneductional Links  add "](https://hackerone.com/reports/62301) to Udemy - 10 upvotes, $0
+442. 19-06-2016 [Uploading files to a folder where invited user don't have any EDIT privilege](https://hackerone.com/reports/145950) to Nextcloud - 10 upvotes, $0
+443. 18-01-2017 [Group admin can remove user from all his groups via API](https://hackerone.com/reports/199286) to Nextcloud - 10 upvotes, $0
+444. 04-05-2017 [Wordpress Vulnerable to Potential Unauthorized Password Reset](https://hackerone.com/reports/226037) to Nextcloud - 10 upvotes, $0
+445. 02-10-2017 [Improper access control lead  To delete anyone comment](https://hackerone.com/reports/273805) to Paragon Initiative Enterprises - 10 upvotes, $0
+446. 14-12-2018 [Unauthorized access of Monero wallet by an unprivileged process](https://hackerone.com/reports/462442) to Monero - 10 upvotes, $0
+447. 13-10-2018 [H1514 Wholesale customer without checkout permission can complete purchases](https://hackerone.com/reports/423546) to Shopify - 10 upvotes, $0
+448. 02-06-2019 [Homebrew privilege escalation vulnerability](https://hackerone.com/reports/593926) to Homebrew - 10 upvotes, $0
+449. 23-01-2020 [[h1-415 2020] Chain of vulnerabilities leading to account takeover and unauthorized access of sensitive internal resources](https://hackerone.com/reports/781281) to h1-ctf - 10 upvotes, $0
+450. 26-03-2018 [UniFi Video Server web interface admin user Firmware Update path traversal leading to local system compromise](https://hackerone.com/reports/330051) to Ubiquiti Inc. - 10 upvotes, $0
+451. 11-05-2020 [Unauthorised access to pagespeed global admin at https://webtools.paloalto.com/](https://hackerone.com/reports/870709) to Palo Alto Software - 10 upvotes, $0
+452. 02-04-2020 [Improper Access Control in Buddypress core allows reply,delete any user's activity](https://hackerone.com/reports/837256) to WordPress - 10 upvotes, $0
+453. 18-09-2020 [Privilege Escalation in Point Of Sale Application from POS Manage Staff Role to potentially Store Owner](https://hackerone.com/reports/985150) to Shopify - 10 upvotes, $0
+454. 12-09-2020 [[Fixed] KIS for macOS is vulnerable to AV bypass due to improper client authorization on XPC service](https://hackerone.com/reports/980876) to Kaspersky - 10 upvotes, $0
+455. 19-04-2021 [Improper authorization on `/api/as/v1/credentials/` allows any App Search user to access all API keys and escalate privileges](https://hackerone.com/reports/1168528) to Elastic - 10 upvotes, $0
+456. 18-05-2021 [Admin audit is not properly logging unsetting of expiration date](https://hackerone.com/reports/1200810) to Nextcloud - 10 upvotes, $0
+457. 28-01-2022 [[AWC-Pune] - User can download files deleted by Admin using shortcuts](https://hackerone.com/reports/1463028) to Lark Technologies - 10 upvotes, $0
+458. 16-04-2021 [Ability to use premium templates as free user via https://stripo.email/templates/?utm_source=viewstripo&utm_medium=referral](https://hackerone.com/reports/1166993) to Stripo Inc - 10 upvotes, $0
+459. 31-07-2023 [Adobe ColdFusion Access Control Bypass - CVE-2023-38205](https://hackerone.com/reports/2090435) to U.S. Dept Of Defense - 10 upvotes, $0
+460. 31-03-2025 [Non-Production API Endpoints for the Neptune Graph Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3068422) to AWS VDP - 10 upvotes, $0
+461. 28-01-2020 [Relative Path Vulnerability Results in Arbitrary Command Execution/Privilege Escalation](https://hackerone.com/reports/784714) to Slack - 9 upvotes, $750
+462. 09-05-2023 [Privilege escalation to root in Pages build image v2](https://hackerone.com/reports/1979372) to Cloudflare Public Bug Bounty - 9 upvotes, $350
+463. 16-09-2020 [Local Privilege Escalation when deleting a file from Quarantine](https://hackerone.com/reports/983363) to Acronis - 9 upvotes, $250
+464. 24-03-2022 [Moderator can enable cam/mic remotely if  cam/mic-permission was disabled while user has activated cam/mic](https://hackerone.com/reports/1520685) to Nextcloud - 9 upvotes, $100
+465. 22-07-2015 [http://217.20.144.201 privilege escalation in apache tomcat SessionEample-script](https://hackerone.com/reports/77679) to ok.ru - 9 upvotes, $0
+466. 03-01-2017 [Exposed Access Control Data Backup Files on DoD Website](https://hackerone.com/reports/195544) to U.S. Dept Of Defense - 9 upvotes, $0
+467. 19-01-2017 [Privilege Escalation on a DoD Website](https://hackerone.com/reports/199644) to U.S. Dept Of Defense - 9 upvotes, $0
+468. 07-09-2016 [Privilege escalation - Normal user can somehow make admin to delete shared folders](https://hackerone.com/reports/166581) to Nextcloud - 9 upvotes, $0
+469. 02-10-2016 [Stored XSS on Admin Access Page - Email field](https://hackerone.com/reports/173501) to Revive Adserver - 9 upvotes, $0
+470. 30-06-2017 [Users with member privilege are able to see emails and membership information of other users](https://hackerone.com/reports/244781) to WakaTime - 9 upvotes, $0
+471. 06-02-2019 [Broken access control on apps ](https://hackerone.com/reports/491892) to Rocket.Chat - 9 upvotes, $0
+472. 19-08-2019 [Container scanning and Dependency scanning report leaked to unauthorized users](https://hackerone.com/reports/676976) to GitLab - 9 upvotes, $0
+473. 17-10-2019 [Stored XSS (Hexo-admin plugin)](https://hackerone.com/reports/716570) to Node.js third-party modules - 9 upvotes, $0
+474. 25-03-2018 [UniFi Video web interface Configuration Restore user privilege escalation](https://hackerone.com/reports/329659) to Ubiquiti Inc. - 9 upvotes, $0
+475. 19-08-2020 [Unauthorized user is able to access schedule pipeline variables and values](https://hackerone.com/reports/962462) to GitLab - 9 upvotes, $0
+476. 22-07-2020 [Reflected XSS on cz.acronis.com/dekujeme-za-odber-novinek-produktu-disk-director with ability to creating an admin user in WordPress](https://hackerone.com/reports/935503) to Acronis - 9 upvotes, $0
+477. 28-05-2021 [Node Installer Local Privilege Escalation ](https://hackerone.com/reports/1211160) to Node.js - 9 upvotes, $0
+478. 06-12-2022 [Unauthenticated phpinfo()files could lead to ability file read at █████████  [HtUS]](https://hackerone.com/reports/1794884) to U.S. Dept Of Defense - 9 upvotes, $0
+479. 08-03-2024 [Proxy-Authorization header not cleared on cross-origin redirect in undici.request](https://hackerone.com/reports/2408074) to Node.js - 9 upvotes, $0
+480. 02-09-2022 [Airflow Daemon Mode Insecure Umask Privilege Escalation](https://hackerone.com/reports/1690093) to Internet Bug Bounty - 8 upvotes, $2400
+481. 22-11-2015 [An administrator without any permission is able to get order notifications using his APNS Token.](https://hackerone.com/reports/100938) to Shopify - 8 upvotes, $500
+482. 13-10-2018 [H1514 Ability to Edit Packaging Slip Templates and View Product & Shipping Information by a low privileged staff in a Sandbox Store](https://hackerone.com/reports/423198) to Shopify - 8 upvotes, $500
+483. 15-07-2020 [Acronis Sync Agent Service - Untrusted DLL Search-Ordering lead to Privilege Escalation](https://hackerone.com/reports/924493) to Acronis - 8 upvotes, $250
+484. 18-11-2021 [Possibility to force an admin to install recommended applications](https://hackerone.com/reports/1403614) to Nextcloud - 8 upvotes, $100
+485. 01-03-2014 [Weird Bug - Ability to see partial of other user's notification](https://hackerone.com/reports/2584) to HackerOne - 8 upvotes, $0
+486. 14-10-2014 [Ability to see common response titles of other teams (limited)](https://hackerone.com/reports/31383) to HackerOne - 8 upvotes, $0
+487. 21-04-2015 [API: missing invalidation of OAuth2 Authorization Code during access revocation causes authorization bypass](https://hackerone.com/reports/57603) to Vimeo - 8 upvotes, $0
+488. 04-02-2017 [Bypass file access control vulnerability on a DoD website](https://hackerone.com/reports/203311) to U.S. Dept Of Defense - 8 upvotes, $0
+489. 03-05-2017 [Extract Billing admin email address using random team id](https://hackerone.com/reports/225831) to Dashlane - 8 upvotes, $0
+490. 02-07-2017 [Bypassing Access control, changing owner's name in a private leaderboard](https://hackerone.com/reports/245340) to WakaTime - 8 upvotes, $0
+491. 03-02-2020 [Authorization for wp-admin directory are vulnerable to brute force.](https://hackerone.com/reports/788420) to Stripo Inc - 8 upvotes, $0
+492. 08-04-2019 [UniFi Video v3.10.1 (Windows) Local Privileges Escalation to SYSTEM from arbitrary filedelete and DLL hijack vulnerabilities.](https://hackerone.com/reports/530967) to Ubiquiti Inc. - 8 upvotes, $0
+493. 09-06-2020 [[H1-2006 2020] From multiple vulnerabilities to complete ATO on any customer account and staff admin](https://hackerone.com/reports/894863) to h1-ctf - 8 upvotes, $0
+494. 20-08-2020 [Stocky App Administrator can create a backdoor admin account by using an existing POS User](https://hackerone.com/reports/962895) to Shopify - 8 upvotes, $0
+495. 19-10-2021 [The Host Authorization middleware in Action Pack is vulnerable to crafted X-Forwarded-Host values](https://hackerone.com/reports/1374512) to Internet Bug Bounty - 8 upvotes, $0
+496. 17-08-2021 [Privilege Escalation leads to trash other users comment without having admin rights.](https://hackerone.com/reports/1307943) to Basecamp - 8 upvotes, $0
+497. 20-08-2020 [Unauthorized access to choice.av.ru control panel](https://hackerone.com/reports/963161) to Azbuka Vkusa - 8 upvotes, $0
+498. 28-09-2022 [Upload and delete files in debug page without access control.](https://hackerone.com/reports/1714767) to U.S. Dept Of Defense - 8 upvotes, $0
+499. 17-02-2023 [The use of __proto__ in process.mainModule.__proto__.require() bypasses the permission system in Node v19.6.1](https://hackerone.com/reports/1877919) to Node.js - 8 upvotes, $0
+500. 14-04-2025 [Non-Production API Endpoints for the Route 53 Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3092085) to AWS VDP - 8 upvotes, $0
+501. 26-03-2016 [Stored XSS in drive.uber.com WordPress admin panel](https://hackerone.com/reports/126099) to Uber - 7 upvotes, $2000
+502. 03-11-2015 [Staff members with no permission can access to the files, uploaded by the administrator](https://hackerone.com/reports/97452) to Shopify - 7 upvotes, $500
+503. 06-03-2014 [UnAuthorized Editorial Publishing to Blogs](https://hackerone.com/reports/3356) to Phabricator - 7 upvotes, $300
+504. 02-11-2021 [XSS in Acronis Cloud Manager Admin Portal](https://hackerone.com/reports/1388788) to Acronis - 7 upvotes, $100
+505. 29-05-2014 [privilege escalation](https://hackerone.com/reports/13959) to Automattic - 7 upvotes, $0
+506. 19-02-2016 [XSS in Draft Orders in Timeline i SHOPIFY Admin Site!](https://hackerone.com/reports/117449) to Shopify - 7 upvotes, $0
+507. 02-02-2015 [Can message users without the proper authorization](https://hackerone.com/reports/46113) to Vimeo - 7 upvotes, $0
+508. 31-08-2016 [Missing access control at password change](https://hackerone.com/reports/164648) to Legal Robot - 7 upvotes, $0
+509. 28-05-2018 [File access control rules not enforced on image files](https://hackerone.com/reports/358339) to Nextcloud - 7 upvotes, $0
+510. 21-12-2018 [Unauthorized command execution in Web protection component of Anti-Virus products family [FF, Chrome]](https://hackerone.com/reports/470553) to Kaspersky - 7 upvotes, $0
+511. 18-06-2017 [Admin Salt Leakage on DoD site.](https://hackerone.com/reports/241116) to U.S. Dept Of Defense - 7 upvotes, $0
+512. 14-02-2020 [[Critical] Insufficient Access Control On Registration Page of Webapps Website Allows Privilege Escalation to Administrator ](https://hackerone.com/reports/796379) to U.S. Dept Of Defense - 7 upvotes, $0
+513. 10-08-2020 [Default Creds Spring Boot Admin](https://hackerone.com/reports/954818) to 8x8 - 7 upvotes, $0
+514. 10-05-2020 [access permission is not revoked even if the email has been deleted or changed on the partner account -partners.shopify-](https://hackerone.com/reports/870001) to Shopify - 7 upvotes, $0
+515. 20-12-2020 [Misconfigured AWS S3 bucket leaks senstive data  such of  admin, Prdouction,beta, localhost and many more directories....](https://hackerone.com/reports/1062803) to U.S. Dept Of Defense - 7 upvotes, $0
+516. 23-02-2022 [Authorization bypass -\> IDOR -\> PII Leakage](https://hackerone.com/reports/1489470) to U.S. Dept Of Defense - 7 upvotes, $0
+517. 27-02-2022 [Broken access control, can lead to legitimate user data loss](https://hackerone.com/reports/1493007) to U.S. Dept Of Defense - 7 upvotes, $0
+518. 05-07-2021 [Acronis True Image Local Privilege Escalation Due To Race Condition In Application Verification ](https://hackerone.com/reports/1251464) to Acronis - 7 upvotes, $0
+519. 14-10-2015 [Unauthorized access to all collections, products, pages from other stores](https://hackerone.com/reports/93921) to Shopify - 6 upvotes, $2500
+520. 28-05-2015 [Privilege Escalation - A `MEMBER` with no ACCESS to `ORDERS` can still access the orders by using  `Order Printer APP` ](https://hackerone.com/reports/64164) to Shopify - 6 upvotes, $1000
+521. 02-03-2015 [Twitter Ads Campaign information disclosure through admin without any authentication.](https://hackerone.com/reports/49806) to X / xAI - 6 upvotes, $560
+522. 10-01-2017 [Ability to post comments to a crew even after getting kicked out](https://hackerone.com/reports/197153) to Rockstar Games - 6 upvotes, $500
+523. 10-04-2015 [Fabric.io:  Ex-admin of an organization can delete team members](https://hackerone.com/reports/55670) to X / xAI - 6 upvotes, $280
+524. 29-12-2015 [Team Member(s) associated with a  Group have Read-only permission (Post internal comments) can post comment to all the participants ](https://hackerone.com/reports/107336) to HackerOne - 6 upvotes, $0
+525. 16-05-2016 [Ability to collect users' ids that have visited a specific web page with malicious code ](https://hackerone.com/reports/139192) to Bumble - 6 upvotes, $0
+526. 30-06-2016 [No authorization required in iOS device web-application](https://hackerone.com/reports/148538) to Coinbase - 6 upvotes, $0
+527. 27-10-2016 [ability to retrieve a user's phone-number/email for a given inviteCode](https://hackerone.com/reports/178503) to Uber - 6 upvotes, $0
+528. 20-10-2017 [Business Logic Flaw allowing Privilege Escalation](https://hackerone.com/reports/280914) to Inflection - 6 upvotes, $0
+529. 22-06-2017 [Privilege Escalation with Session Hijacking Having a Non-privileged Valid User](https://hackerone.com/reports/242407) to Ubiquiti Inc. - 6 upvotes, $0
+530. 20-08-2018 [[express-cart] Customer and admin email enumeration through MongoDB injection](https://hackerone.com/reports/397445) to Node.js third-party modules - 6 upvotes, $0
+531. 14-08-2018 [Incorrect Permission Assignment for Critical Resource](https://hackerone.com/reports/394861) to MariaDB - 6 upvotes, $0
+532. 25-10-2018 [Admin panel take over | User info leakage | Mass Comprimise](https://hackerone.com/reports/428757) to U.S. Dept Of Defense - 6 upvotes, $0
+533. 20-03-2017 [Default page exposes admin functions and all metods and classes available. on https://██████/█████/dwr/index.html](https://hackerone.com/reports/214800) to U.S. Dept Of Defense - 6 upvotes, $0
+534. 17-07-2019 [[██████████] Unauthorized access to admin panel](https://hackerone.com/reports/648222) to U.S. Dept Of Defense - 6 upvotes, $0
+535. 07-08-2018 [Unauthorized Use of Victim Credit Card](https://hackerone.com/reports/391385) to Yelp - 6 upvotes, $0
+536. 05-08-2020 [Admin web sessions remain active after logout of Shopify ID](https://hackerone.com/reports/952035) to Shopify - 6 upvotes, $0
+537. 21-02-2020 [Grafana Improper authorization ](https://hackerone.com/reports/802011) to Kubernetes - 6 upvotes, $0
+538. 14-12-2022 [Improper Access Control on Media Wiki allows an attackers to restart installation on DoD asset](https://hackerone.com/reports/1804174) to U.S. Dept Of Defense - 6 upvotes, $0
+539. 29-04-2023 [fs.openAsBlob() bypasses permission system](https://hackerone.com/reports/1966492) to Node.js - 6 upvotes, $0
+540. 30-10-2015 [An administrator without the 'Settings' permission is able to see payment gateways](https://hackerone.com/reports/96908) to Shopify - 5 upvotes, $500
+541. 10-10-2020 [DLL Hijacking when performing operations in Acronis Secure Zone partition leading to Privilege Escalation](https://hackerone.com/reports/1004740) to Acronis - 5 upvotes, $250
+542. 16-06-2016 [Stored XSS from ticket messages in admin table in SupportFlow](https://hackerone.com/reports/145091) to Ian Dunn - 5 upvotes, $50
+543. 30-10-2015 [Staff members with no permission to  access domains can access them.](https://hackerone.com/reports/96855) to Shopify - 5 upvotes, $0
+544. 24-10-2015 [Privilege escalation and circumvention of permission to limited access user](https://hackerone.com/reports/95589) to Shopify - 5 upvotes, $0
+545. 30-06-2016 [No authorization required in Windows phone web-application](https://hackerone.com/reports/148537) to Coinbase - 5 upvotes, $0
+546. 24-04-2017 [Improper access control when an added email address is deleted from authentication](https://hackerone.com/reports/223434) to Weblate - 5 upvotes, $0
+547. 20-08-2017 [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/261706) to Gratipay - 5 upvotes, $0
+548. 01-01-2020 [China - Leaked credentials permitted a limited ability to create Starbucks coupons and cards](https://hackerone.com/reports/766770) to Starbucks - 5 upvotes, $0
+549. 23-07-2020 [app.lemlist.com : Admin Panel Access](https://hackerone.com/reports/937921) to lemlist - 5 upvotes, $0
+550. 15-03-2020 [Improper Access Controls Allow PII Leak via ████](https://hackerone.com/reports/819591) to U.S. Dept Of Defense - 5 upvotes, $0
+551. 24-04-2020 [Local Privilege Escalation in anti_ransomware_service.exe via quarantine](https://hackerone.com/reports/858598) to Acronis - 5 upvotes, $0
+552. 29-07-2020 [A member-member privilege could access the https://console.rockset.com/billing?tab=payment page even though the billing page is hidden from the menu. ](https://hackerone.com/reports/946384) to Rockset - 5 upvotes, $0
+553. 18-12-2020 [Unauthorized access to PII leads to MASS account Takeover](https://hackerone.com/reports/1061736) to U.S. Dept Of Defense - 5 upvotes, $0
+554. 20-06-2022 [Unauthorized Access - downgraded admin roles to none can still edit projects through brupsuite](https://hackerone.com/reports/1607756) to Omise - 5 upvotes, $0
+555. 10-11-2021 [Default Admin Username and Password on remedysso.mtncameroon.net](https://hackerone.com/reports/1397786) to MTN Group - 5 upvotes, $0
+556. 22-11-2022 [Ability to control the filename when uploading a logo or favicon on theming](https://hackerone.com/reports/1781751) to Nextcloud - 5 upvotes, $0
+557. 10-01-2022 [Mute User can disclose private channel members to unauthorized users](https://hackerone.com/reports/1445810) to Rocket.Chat - 5 upvotes, $0
+558. 20-08-2020 [Local Privilege Escalation via DLL Search-Order Hijacking with Cyber Protection Agent - tibxread.exe utility](https://hackerone.com/reports/963103) to Acronis - 5 upvotes, $0
+559. 31-08-2020 [Local Privilege Escalation via EXE hijacking with Acronis True Image 2021 - Acronis Scheduler2 Service](https://hackerone.com/reports/971610) to Acronis - 5 upvotes, $0
+560. 16-04-2015 [Shop admin can change external login services](https://hackerone.com/reports/56626) to Shopify - 4 upvotes, $1000
+561. 13-10-2015 [Missing authorization check on dashboard overviews](https://hackerone.com/reports/93680) to Shopify - 4 upvotes, $500
+562. 14-01-2015 [Ability to Download Music Tracks Without Paying (Missing permission check on`/musicstore/download`)](https://hackerone.com/reports/43770) to Vimeo - 4 upvotes, $0
+563. 31-01-2015 [CRITICAL vulnerability - Insecure Direct Object Reference - Unauthorized access to `Videos` of Channel whose privacy is set to `Private`.](https://hackerone.com/reports/45960) to Vimeo - 4 upvotes, $0
+564. 26-06-2015 [Prevent Shop Admin From Seeing his Installed Apps / Install Persistent Unremovable App](https://hackerone.com/reports/72793) to Shopify - 4 upvotes, $0
+565. 23-10-2015 [Unauthorized access to any Store Admin's First & Last name](https://hackerone.com/reports/95441) to Shopify - 4 upvotes, $0
+566. 29-05-2017 [API Does Not Apply Access Controls to Translations](https://hackerone.com/reports/232994) to Weblate - 4 upvotes, $0
+567. 02-04-2020 [Privilege Escalation in BuddyPress core allows Moderate to Administrator ](https://hackerone.com/reports/837018) to WordPress - 4 upvotes, $0
+568. 15-09-2018 [Some store settings/data are accessible to "No Access" permission users on GraphQL LiveView operation](https://hackerone.com/reports/409973) to Shopify - 4 upvotes, $0
+569. 12-07-2020 [Improper access control to messages of Social app](https://hackerone.com/reports/921717) to Nextcloud - 4 upvotes, $0
+570. 01-03-2021 [[mattermost.com] CORS Misconfiguration leakage of admin users](https://hackerone.com/reports/1113759) to Mattermost - 4 upvotes, $0
+571. 03-04-2021 [DoS due to improper input validation can break the admin access into the user data will disallow him from editing that user's data.](https://hackerone.com/reports/1147611) to Nextcloud - 4 upvotes, $0
+572. 16-05-2021 [Clickjacking on profile page leading to unauthorized changes](https://hackerone.com/reports/1198907) to UPchieve - 4 upvotes, $0
+573. 18-05-2021 [No admin audit entry for enabling/disabling 2FA](https://hackerone.com/reports/1200989) to Nextcloud - 4 upvotes, $0
+574. 16-06-2020 [Man in the middle leading to root privilege escalation using hostNetwork=true (CAP_NET_RAW considered harmful)](https://hackerone.com/reports/899103) to Kubernetes - 4 upvotes, $0
+575. 19-01-2021 [Incorrect Authorization Checks in /include/findusers.php](https://hackerone.com/reports/1081137) to ImpressCMS - 4 upvotes, $0
+576. 27-09-2020 [Improper Access Control - Generic](https://hackerone.com/reports/992280) to Rocket.Chat - 4 upvotes, $0
+577. 19-04-2023 [OpenSSL engines can be used to bypass and/or disable the permission model](https://hackerone.com/reports/1954535) to Node.js - 4 upvotes, $0
+578. 05-10-2015 [unauthorized access to all customers first and last name ](https://hackerone.com/reports/92453) to Shopify - 3 upvotes, $2500
+579. 08-01-2015 [fabric.io - app member can make himself an admin](https://hackerone.com/reports/42961) to X / xAI - 3 upvotes, $1400
+580. 10-12-2014 [Phabricator Diffusion application allows unauthorized users to delete mirrors](https://hackerone.com/reports/38965) to Phabricator - 3 upvotes, $300
+581. 05-02-2015 [Team admin can change unauthorized team setting (allow_message_deletion)](https://hackerone.com/reports/46750) to Slack - 3 upvotes, $100
+582. 19-04-2014 [Deleting groups in any project without permission ](https://hackerone.com/reports/8104) to Localize - 3 upvotes, $0
+583. 19-04-2014 [Making groups in any project without permission ](https://hackerone.com/reports/8102) to Localize - 3 upvotes, $0
+584. 23-07-2014 [privilege escalation](https://hackerone.com/reports/21210) to Mavenlink - 3 upvotes, $0
+585. 18-09-2014 [iOS App can establish Facetime calls without user's permission](https://hackerone.com/reports/28500) to X / xAI - 3 upvotes, $0
+586. 14-05-2015 [XSS in myshopify.com Admin site in TAX Overrides](https://hackerone.com/reports/62427) to Shopify - 3 upvotes, $0
+587. 10-06-2015 [Expire User Sessions in Admin Site does not expire user session in Shopify Application in IOS](https://hackerone.com/reports/67220) to Shopify - 3 upvotes, $0
+588. 06-10-2015 [The POS Firmware is leaking the root Password which can be used for unauthorized access to the device.](https://hackerone.com/reports/92633) to Shopify - 3 upvotes, $0
+589. 11-10-2015 [First & Last Name Disclosure of any Shopify Store Admin](https://hackerone.com/reports/93294) to Shopify - 3 upvotes, $0
+590. 08-10-2014 [Missing Function Level Access Control in /cindex.php/widget/customize/](https://hackerone.com/reports/30575) to Bookfresh - 3 upvotes, $0
+591. 18-06-2016 [Business/Functional logic bypass: Remove admins from admin group.](https://hackerone.com/reports/145745) to Nextcloud - 3 upvotes, $0
+592. 17-06-2016 [No permission set on Activities [Android App]](https://hackerone.com/reports/145402) to Nextcloud - 3 upvotes, $0
+593. 04-12-2016 [Login Hints on Admin Panel](https://hackerone.com/reports/188195) to Nextcloud - 3 upvotes, $0
+594. 25-07-2016 [xss for admin of https://newsletter.nextcloud.com](https://hackerone.com/reports/153799) to Nextcloud - 3 upvotes, $0
+595. 08-07-2017 [Session Duplication due to Broken Access Control](https://hackerone.com/reports/247225) to WakaTime - 3 upvotes, $0
+596. 24-05-2016 [UniFi Video v3.2.2 (Windows) Local Privileges Escalation due to weak default install directory ACLs](https://hackerone.com/reports/140793) to Ubiquiti Inc. - 3 upvotes, $0
+597. 28-05-2018 [Privilage escalation with malicious .npmrc](https://hackerone.com/reports/358359) to Node.js third-party modules - 3 upvotes, $0
+598. 21-06-2017 [Roundcube virtualmin privilege escalation (CVE-2017-8114)](https://hackerone.com/reports/242119) to Internet Bug Bounty - 3 upvotes, $0
+599. 04-07-2018 [Admin panel of https://www.stellar.org/wp-admin/](https://hackerone.com/reports/376563) to Stellar.org - 3 upvotes, $0
+600. 19-02-2020 [Admin Login Credential Leak for DoD Gitlab EE instance](https://hackerone.com/reports/799898) to U.S. Dept Of Defense - 3 upvotes, $0
+601. 18-06-2020 [Get analytics token using only apps permission](https://hackerone.com/reports/901775) to Shopify - 3 upvotes, $0
+602. 18-05-2021 [No admin audit log for auth tokens](https://hackerone.com/reports/1200992) to Nextcloud - 3 upvotes, $0
+603. 30-08-2020 [Local Privilege Escalation via EXE hijacking with Acronis True Image 2021 installer](https://hackerone.com/reports/970739) to Acronis - 3 upvotes, $0
+604. 25-04-2025 [BAC – Bypass chatbot restrictions via unauthorized mention injection](https://hackerone.com/reports/3112106) to Dust - 3 upvotes, $0
+605. 08-10-2015 [unauthorized access to all collections name](https://hackerone.com/reports/93004) to Shopify - 2 upvotes, $2000
+606. 09-01-2015 [Fabric.io - an app admin can delete team members from other user apps](https://hackerone.com/reports/43065) to X / xAI - 2 upvotes, $1120
+607. 12-10-2014 [Unauthorized Tweeting on behalf of Account Owners](https://hackerone.com/reports/31082) to X / xAI - 2 upvotes, $420
+608. 14-06-2014 [Abusing daemon logs for Privilege escalation under certain scenarios](https://hackerone.com/reports/16392) to Phabricator - 2 upvotes, $300
+609. 17-02-2015 [Team admin can add billing contacts](https://hackerone.com/reports/47940) to Slack - 2 upvotes, $200
+610. 05-02-2015 [Team admin can change unauthorized team setting (require_at_for_mention)](https://hackerone.com/reports/46747) to Slack - 2 upvotes, $200
+611. 13-10-2014 [Creating Unauthorized Audience Lists](https://hackerone.com/reports/31188) to X / xAI - 2 upvotes, $0
+612. 19-06-2015 [XSS in Myshopify Admin Site in DISCOUNTS](https://hackerone.com/reports/71614) to Shopify - 2 upvotes, $0
+613. 27-09-2015 [Privilege escalation vulnerability](https://hackerone.com/reports/90671) to Shopify - 2 upvotes, $0
+614. 07-02-2016 [Unauthorized file (invoice) download](https://hackerone.com/reports/115209) to Uber - 2 upvotes, $0
+615. 15-07-2016 [User enumeration in wp-admin](https://hackerone.com/reports/151583) to Ian Dunn - 2 upvotes, $0
+616. 04-12-2016 [BruteForce in to Admin Account](https://hackerone.com/reports/188205) to Nextcloud - 2 upvotes, $0
+617. 22-09-2016 [Missing function level access controls allowing attacker to abuse file access controls. Multiple vulnerabilities](https://hackerone.com/reports/171130) to Zendesk - 2 upvotes, $0
+618. 06-05-2017 [Unauthorized access to the slack channel via inside.gratipay.com/appendices/chat](https://hackerone.com/reports/226648) to Gratipay - 2 upvotes, $0
+619. 12-10-2016 [Brave: Admin Panel Access](https://hackerone.com/reports/175366) to Brave Software - 2 upvotes, $0
+620. 17-08-2017 [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/260928) to Gratipay - 2 upvotes, $0
+621. 20-04-2018 [Bruteforce in admin panel](https://hackerone.com/reports/341074) to Nextcloud - 2 upvotes, $0
+622. 12-09-2019 [[expressjs-ip-control] Whitelist IP bypass leads to authorization bypass and sensitive info disclosure](https://hackerone.com/reports/693788) to Node.js third-party modules - 2 upvotes, $0
+623. 25-01-2021 [Proxy-Authorization header carried to a new host on a redirect](https://hackerone.com/reports/1086259) to curl - 2 upvotes, $0
+624. 23-02-2016 [Injection via CSV Export feature in Admin Orders](https://hackerone.com/reports/118103) to Shopify - 1 upvotes, $0
+625. 27-03-2016 [Privilege escalation to allow non activated users to login and use uber partner ios app](https://hackerone.com/reports/126260) to Uber - 1 upvotes, $0
+626. 09-01-2018 [Reflected XSS in admin settings](https://hackerone.com/reports/303480) to Deconf - 1 upvotes, $0
+627. 06-05-2021 [Misconfiguration Certificate Authority Authorization Rule](https://hackerone.com/reports/1186740) to Sifchain - 1 upvotes, $0
+628. 02-01-2016 [[https://test1.owncloud.com/owncloud6/] Guessable password used for admin user](https://hackerone.com/reports/107849) to ownCloud - 0 upvotes, $0
+629. 11-07-2018 [Ubuntu 12.04 Privilege Escalation](https://hackerone.com/reports/380782) to Nextcloud - 0 upvotes, $0

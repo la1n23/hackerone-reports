@@ -71,190 +71,191 @@ Top Information Disclosure reports from HackerOne for period all:
 69. 01-05-2024 [Two-factor authentication bypass lead to information disclosure about the program and all hackers participate](https://hackerone.com/reports/2486086) to HackerOne - 28 upvotes, $0
 70. 18-08-2020 [Twitter Media Studio Source Information Disclosure With Analyst Role](https://hackerone.com/reports/961757) to X / xAI - 27 upvotes, $0
 71. 14-09-2020 [Information Disclosure of Garbage Collection Cycle](https://hackerone.com/reports/981796) to Basecamp - 27 upvotes, $0
-72. 01-06-2016 [Information Disclosure through .DS_Store in ██████████](https://hackerone.com/reports/142549) to X / xAI - 26 upvotes, $560
-73. 06-11-2015 [login to any user's cashier account and full account information disclosure](https://hackerone.com/reports/98247) to Deriv.com - 26 upvotes, $0
-74. 09-10-2020 [CVE-2020-14179 on https://jira.theendlessweb.com/secure/QueryComponent!Default.jspa leads to information disclosure](https://hackerone.com/reports/1003980) to Endless Group - 25 upvotes, $0
-75. 17-01-2014 [Information disclosure (reset password token) and changing the user's password](https://hackerone.com/reports/738) to HackerOne - 24 upvotes, $100
-76. 16-11-2017 [Information Disclosure when /invitations/\<token\>.json is not yet accepted](https://hackerone.com/reports/290930) to HackerOne - 24 upvotes, $0
-77. 02-01-2021 [information disclosure lead to disclose users private notes](https://hackerone.com/reports/1070081) to Automattic - 24 upvotes, $0
-78. 23-08-2017 [Information disclosure (system username) in the x-amz-meta-s3cmd-attrs response header on federation.data.gov](https://hackerone.com/reports/262649) to GSA Bounty - 22 upvotes, $0
-79. 13-01-2022 [Remove Every User, Admin, And Owner Out Of Their Teams on developers.mtn.com via IDOR + Information Disclosure](https://hackerone.com/reports/1448550) to MTN Group - 22 upvotes, $0
-80. 09-04-2025 [Information disclosure on IBM training service endpoint](https://hackerone.com/reports/3051155) to IBM - 22 upvotes, $0
-81. 25-02-2015 [Information disclosure - emails disclosed in response \> staging.seatme.us](https://hackerone.com/reports/49170) to Yelp - 21 upvotes, $0
-82. 02-03-2020 [Information Disclosure in https://www.rockstargames.com/search](https://hackerone.com/reports/808832) to Rockstar Games - 21 upvotes, $0
-83. 14-04-2022 [Information Disclosure Leads To User Data Leak](https://hackerone.com/reports/1541660) to MTN Group - 21 upvotes, $0
-84. 25-09-2023 [Information Disclosure FrontPage Configuration Information](https://hackerone.com/reports/2180018) to U.S. Dept Of Defense - 21 upvotes, $0
-85. 24-08-2022 [Unauthorized Canceling/Unsubscribe TaxJar account & Payment information DIsclosure](https://hackerone.com/reports/1679124) to Stripe - 20 upvotes, $500
-86. 03-07-2019 [HTML injection and information disclosure in support panel](https://hackerone.com/reports/634312) to Weblate - 20 upvotes, $0
-87. 17-02-2021 [critical information disclosure](https://hackerone.com/reports/1106009) to U.S. Dept Of Defense - 20 upvotes, $0
-88. 11-01-2022 [Verification process done using different documents without corresponding to user information / User information can be changed after verification](https://hackerone.com/reports/1446107) to EXNESS - 20 upvotes, $0
-89. 09-07-2022 [Sensitive information disclosure [HtUS]](https://hackerone.com/reports/1632104) to U.S. Dept Of Defense - 20 upvotes, $0
-90. 16-09-2017 [Sensitive Information Disclosure https://cards-dev.twitter.com](https://hackerone.com/reports/268888) to X / xAI - 19 upvotes, $280
-91. 27-07-2016 [Read access to hidden orders,products,customers etc. by limited access Staff member through reference page in Comments (Information disclosure )](https://hackerone.com/reports/154405) to Shopify - 19 upvotes, $0
-92. 29-05-2022 [Information disclosure ( Google Sales Channel )](https://hackerone.com/reports/1584718) to Shopify - 18 upvotes, $500
-93. 26-10-2020 [Information Disclosure of Advertiser Account on TikTok Ads Portal](https://hackerone.com/reports/1018608) to TikTok - 18 upvotes, $0
-94. 29-10-2021 [Information disclosure on error message](https://hackerone.com/reports/1385844) to PortSwigger Web Security - 18 upvotes, $0
-95. 22-01-2021 [[h1-2102] Information disclosure - ShopifyPlus add user displays existing Shopify ID fullname](https://hackerone.com/reports/1083922) to Shopify - 18 upvotes, $0
-96. 03-11-2016 [WordPress DB Class, bad implementation of prepare method guides to sqli and information disclosure](https://hackerone.com/reports/179920) to WordPress - 17 upvotes, $0
-97. 19-12-2017 [Information disclosure when trying to delete an expense's attachment on m.mavenlink.com  ](https://hackerone.com/reports/299334) to Mavenlink - 17 upvotes, $0
-98. 20-11-2017 [Arbitrary file deletion in wp-core - guides towards RCE and information disclosure](https://hackerone.com/reports/291878) to WordPress - 17 upvotes, $0
-99. 12-09-2019 [PII leakage due to scrceenshot of health records](https://hackerone.com/reports/693933) to U.S. Dept Of Defense - 17 upvotes, $0
-100. 15-12-2019 [CORS Misconfiguration on nordvpn.com leading to Private Information Disclosure,Account takeover](https://hackerone.com/reports/758785) to Nord Security - 17 upvotes, $0
-101. 28-09-2018 [PII disclosure -- Past team members & their email ID(personal email) can be viewed by Staff member with no permissions on Partner Dashboard](https://hackerone.com/reports/415622) to Shopify - 16 upvotes, $500
-102. 06-03-2020 [Username Information Disclosure via Json response - Using parameter number Intruder](https://hackerone.com/reports/812351) to Brave Software - 16 upvotes, $0
-103. 19-05-2020 [Blind stored XSS due to insecure contact form at https://www.topcoder.com leads to leakage of session token and other PII](https://hackerone.com/reports/878145) to Lab45 - 16 upvotes, $0
-104. 26-07-2022 [Golang expvar Information Disclosure](https://hackerone.com/reports/1650035) to Uber - 16 upvotes, $0
-105. 22-04-2021 [PII of users can be downloaded from export pages](https://hackerone.com/reports/1172852) to WordPress - 16 upvotes, $0
-106. 02-11-2016 [Information disclosure at https://blockchain.atlassian.net](https://hackerone.com/reports/179599) to Blockchain - 15 upvotes, $100
-107. 08-11-2017 [User Profiles Leak PII in HTML Document for Mobile Browser User Agents](https://hackerone.com/reports/288596) to Zomato - 15 upvotes, $0
-108. 26-02-2020 [Minimal information disclosure of internal asset names and links which were not publicly accessible.](https://hackerone.com/reports/805699) to Starbucks - 15 upvotes, $0
-109. 09-07-2021 [PII data Leakage through hackerone reports ](https://hackerone.com/reports/1256371) to HackerOne - 15 upvotes, $0
-110. 11-10-2016 [Information Disclosure on stun.screenhero.com](https://hackerone.com/reports/175061) to Slack - 14 upvotes, $700
-111. 29-06-2018 [PII leakage due to caching of Order/Contract ID's on █████████](https://hackerone.com/reports/374007) to U.S. Dept Of Defense - 14 upvotes, $0
-112. 20-02-2020 [Sensitive Information Disclosure on https://nordvpn.com/](https://hackerone.com/reports/801197) to Nord Security - 14 upvotes, $0
-113. 02-09-2022 [IDOR leaking PII data via VendorId parameter](https://hackerone.com/reports/1690044) to U.S. Dept Of Defense - 14 upvotes, $0
-114. 16-07-2019 [PII leakage-Full SSN on ███](https://hackerone.com/reports/644358) to U.S. Dept Of Defense - 13 upvotes, $0
-115. 19-12-2019 [Information Disclosure FrontPage Configuration Information /_vti_inf.html in https://www.mtn.co.za/](https://hackerone.com/reports/761617) to MTN Group - 13 upvotes, $0
-116. 10-06-2019 [[information disclosure] Validate existence of a private project.](https://hackerone.com/reports/605608) to GitLab - 13 upvotes, $0
-117. 17-10-2020 [Request Access for Uber Device Returns Management Platform (https://www.eats-devicereturns.com/request-access/) Bypass Allows Access to PII](https://hackerone.com/reports/1010787) to Uber - 13 upvotes, $0
-118. 25-06-2022 [Non-revoked API Key Information disclosure via Stripo_report()](https://hackerone.com/reports/1613714) to Stripo Inc - 13 upvotes, $0
-119. 04-01-2023 [[U.S. Air Force] Information disclosure due unauthenticated access to APIs and system browser functions](https://hackerone.com/reports/1822160) to U.S. Dept Of Defense - 13 upvotes, $0
-120. 27-09-2016 [Information Disclosure on rate limit defense mechanism](https://hackerone.com/reports/172296) to Legal Robot - 12 upvotes, $0
-121. 13-10-2020 [PII Leak of USCG Designated Examiner List at https://www.███](https://hackerone.com/reports/1007702) to U.S. Dept Of Defense - 12 upvotes, $0
-122. 07-01-2021 [IDOR at https://fast.trychameleon.com/observe/v2/profiles/ via uid parameter discloses users' PII data](https://hackerone.com/reports/1073420) to Lab45 - 12 upvotes, $0
-123. 18-09-2020 [GraphQL Query leads to sensitive information disclosure](https://hackerone.com/reports/985124) to GitLab - 12 upvotes, $0
-124. 04-05-2021 [Cross-origin resource sharing misconfig | steal user information ](https://hackerone.com/reports/1183601) to UPchieve - 12 upvotes, $0
-125. 17-02-2022 [Account takeover leading to PII chained with stored XSS](https://hackerone.com/reports/1483201) to U.S. General Services Administration - 12 upvotes, $0
-126. 10-11-2021 [Sensitive Information Disclosure Through Config File](https://hackerone.com/reports/1397788) to MTN Group - 12 upvotes, $0
-127. 21-05-2022 [Sensitive Information Disclosure](https://hackerone.com/reports/1577793) to Trellix - 12 upvotes, $0
-128. 13-10-2017 [Information Disclosure and Privilege Escalation in app.goodhire.com/member/developers/api-settings](https://hackerone.com/reports/276976) to Inflection - 11 upvotes, $0
-129. 01-07-2021 [Information Disclosure on TikTok Unplugged Site](https://hackerone.com/reports/1249050) to TikTok - 11 upvotes, $0
-130. 08-04-2023 [AEM misconfiguration leads to Information disclosure](https://hackerone.com/reports/1939272) to U.S. Dept Of Defense - 11 upvotes, $0
-131. 26-08-2016 [Information Disclosure in AWS S3 Bucket](https://hackerone.com/reports/163476) to Legal Robot - 10 upvotes, $0
-132. 10-10-2020 [View another user information with IDOR vulnerability ](https://hackerone.com/reports/1004745) to U.S. Dept Of Defense - 10 upvotes, $0
-133. 18-02-2021 [critical information disclosure](https://hackerone.com/reports/1106505) to U.S. Dept Of Defense - 10 upvotes, $0
-134. 14-05-2021 [Information Disclosure on https://rpc.sifchain.finance/](https://hackerone.com/reports/1197035) to Sifchain - 10 upvotes, $0
-135. 04-06-2016 [Information Disclosure](https://hackerone.com/reports/143064) to drchrono - 9 upvotes, $0
-136. 26-08-2016 [User Information leak allows user to bypass email verification.](https://hackerone.com/reports/163467) to Legal Robot - 9 upvotes, $0
-137. 22-10-2016 [Information disclosure via policy update notifications after removal from program](https://hackerone.com/reports/177484) to HackerOne - 9 upvotes, $0
-138. 04-12-2016 [Personal information disclosure on a DoD website](https://hackerone.com/reports/188149) to U.S. Dept Of Defense - 9 upvotes, $0
-139. 12-01-2017 [User Information Disclosure via REST API](https://hackerone.com/reports/197786) to ownCloud - 9 upvotes, $0
-140. 02-03-2020 [PII Leak via https://████████](https://hackerone.com/reports/808338) to U.S. Dept Of Defense - 9 upvotes, $0
-141. 08-12-2024 [massive PII  leakage for ███████](https://hackerone.com/reports/2887506) to Mars - 9 upvotes, $0
-142. 21-05-2015 [Flash Player information disclosure (etc.) CVE-2015-3044, PSIRT-3298](https://hackerone.com/reports/63324) to Internet Bug Bounty - 8 upvotes, $2000
-143. 12-02-2016 [Private program activity timeline information disclosure](https://hackerone.com/reports/116029) to HackerOne - 8 upvotes, $0
-144. 26-08-2016 [User Information sent to client through websockets](https://hackerone.com/reports/163464) to Legal Robot - 8 upvotes, $0
-145. 12-01-2017 [User Information Disclosure via REST API](https://hackerone.com/reports/197877) to Nextcloud - 8 upvotes, $0
-146. 11-05-2018 [Information disclosure](https://hackerone.com/reports/350432) to HackerOne - 8 upvotes, $0
-147. 12-12-2020 [PII Information Leak at https://████████.mil/](https://hackerone.com/reports/1057269) to U.S. Dept Of Defense - 8 upvotes, $0
-148. 22-06-2020 [PII Leak via /████████](https://hackerone.com/reports/905679) to U.S. Dept Of Defense - 8 upvotes, $0
-149. 22-12-2021 [Information disclosure through django debug mode](https://hackerone.com/reports/1434276) to MTN Group - 8 upvotes, $0
-150. 03-09-2022 [Authentication bypass leads to Information Disclosure at  U.S Air Force "https://███"](https://hackerone.com/reports/1690548) to U.S. Dept Of Defense - 8 upvotes, $0
-151. 06-04-2023 [LDAP Server NULL Bind Connection Information Disclosure](https://hackerone.com/reports/1937235) to U.S. Dept Of Defense - 8 upvotes, $0
-152. 12-07-2017 [Information disclosure same issue #176002](https://hackerone.com/reports/248599) to Coinbase - 7 upvotes, $100
-153. 08-12-2016 [Information disclosure on a DoD website](https://hackerone.com/reports/189414) to U.S. Dept Of Defense - 7 upvotes, $0
-154. 08-12-2016 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/189458) to U.S. Dept Of Defense - 7 upvotes, $0
-155. 21-01-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/200125) to U.S. Dept Of Defense - 7 upvotes, $0
-156. 22-11-2016 [Information disclosure on a DoD website](https://hackerone.com/reports/184076) to U.S. Dept Of Defense - 7 upvotes, $0
-157. 13-12-2018 [Information Disclosure on https://theendlessweb.com/](https://hackerone.com/reports/461598) to RATELIMITED - 7 upvotes, $0
-158. 23-01-2019 [Information Disclosure (can access all ███s) within ███████ view █████████ Portal](https://hackerone.com/reports/484377) to U.S. Dept Of Defense - 7 upvotes, $0
-159. 21-01-2017 [Critical information disclosure at https://█████████](https://hackerone.com/reports/200079) to U.S. Dept Of Defense - 7 upvotes, $0
-160. 25-01-2020 [Information disclosure through Server side resource forgery](https://hackerone.com/reports/782979) to Stripo Inc - 7 upvotes, $0
-161. 21-08-2020 [Information Disclosure through DEBUG at Subscription [https://app.dropcontact.io/app/subscription?connector=salesforce](CRITICAL)](https://hackerone.com/reports/963921) to Dropcontact - 7 upvotes, $0
-162. 08-01-2021 [Bypassed a fix to gain access to PII of more than 100 Officers](https://hackerone.com/reports/1074136) to U.S. Dept Of Defense - 7 upvotes, $0
-163. 05-04-2021 [████████ portal is open to enumeration once authenticated.  Session ID's appear static.  All PII available once a valid session ID is found.](https://hackerone.com/reports/1150573) to U.S. Dept Of Defense - 7 upvotes, $0
-164. 23-02-2022 [Authorization bypass -\> IDOR -\> PII Leakage](https://hackerone.com/reports/1489470) to U.S. Dept Of Defense - 7 upvotes, $0
-165. 02-03-2015 [Twitter Ads Campaign information disclosure through admin without any authentication.](https://hackerone.com/reports/49806) to X / xAI - 6 upvotes, $560
-166. 25-06-2014 [Information Disclosure (phpinfo())](https://hackerone.com/reports/17514) to Uzbey - 6 upvotes, $0
-167. 15-10-2016 [Information disclosure of user by email using buy widget](https://hackerone.com/reports/176002) to Coinbase - 6 upvotes, $0
-168. 18-05-2017 [Information Disclosure on demo.weblate.org](https://hackerone.com/reports/229620) to Weblate - 6 upvotes, $0
-169. 05-05-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/226427) to U.S. Dept Of Defense - 6 upvotes, $0
-170. 06-03-2018 [Information disclosure through search engines (password reset token)](https://hackerone.com/reports/322988) to Upserve  - 6 upvotes, $0
-171. 01-07-2018 [Partial PII leakage due to public set gitlab](https://hackerone.com/reports/375091) to U.S. Dept Of Defense - 6 upvotes, $0
-172. 02-04-2019 [Email PII disclosure due to Insecure Password Reset field](https://hackerone.com/reports/520842) to U.S. Dept Of Defense - 6 upvotes, $0
-173. 02-01-2020 [Information Disclosure Microsoft IIS Server service.cnf in a mtn website](https://hackerone.com/reports/767066) to MTN Group - 6 upvotes, $0
-174. 09-05-2020 [Support incident can be opened for any user via /███████ and PII leak via █████████ field](https://hackerone.com/reports/869450) to U.S. Dept Of Defense - 6 upvotes, $0
-175. 27-05-2020 [Information Disclosure(PHPINFO/Credentials) on DoD Asset](https://hackerone.com/reports/883693) to U.S. Dept Of Defense - 6 upvotes, $0
-176. 04-02-2021 [CRXDE Lite/CRX is on ██████ exposed that leads to PII disclosure](https://hackerone.com/reports/1095830) to U.S. Dept Of Defense - 6 upvotes, $0
-177. 13-02-2021 [bypassing dashboard without account + Information disclosure trough websockets ](https://hackerone.com/reports/1102780) to Nextcloud - 6 upvotes, $0
-178. 06-07-2022 [Unauthenticated PII leak on verified/requested to be verified profiles on ███████/app/org/{id}/profile/{id}/version/{id} [HtUS]](https://hackerone.com/reports/1627962) to U.S. Dept Of Defense - 6 upvotes, $0
-179. 10-04-2016 [reopen #128853 (Information disclosure at lite.uber.com)](https://hackerone.com/reports/129712) to Uber - 5 upvotes, $0
-180. 24-08-2016 [Information Disclosure of .htaccess file in Private Server/Subdomain](https://hackerone.com/reports/163106) to Nextcloud - 5 upvotes, $0
-181. 03-02-2015 [Directory index and information disclosure](https://hackerone.com/reports/46345) to Whisper - 5 upvotes, $0
-182. 18-04-2017 [The special code in editor has no Authority control and can lead to Information Disclosure](https://hackerone.com/reports/221950) to Phabricator - 5 upvotes, $0
-183. 07-01-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/196482) to U.S. Dept Of Defense - 5 upvotes, $0
-184. 04-01-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/195638) to U.S. Dept Of Defense - 5 upvotes, $0
-185. 04-01-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/195636) to U.S. Dept Of Defense - 5 upvotes, $0
-186. 29-11-2016 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/186530) to U.S. Dept Of Defense - 5 upvotes, $0
-187. 05-09-2017 [Possible to join any class without coache's knowledge & Little Information Disclosure](https://hackerone.com/reports/266090) to Khan Academy - 5 upvotes, $0
-188. 07-02-2018 [Information Disclosure which violate program privacy](https://hackerone.com/reports/313075) to HackerOne - 5 upvotes, $0
-189. 07-02-2017 [[informatica.com]- Information Disclosure ](https://hackerone.com/reports/204239) to Informatica - 5 upvotes, $0
-190. 03-12-2020 [PII Leak of ████████ Personal at  https://www.█████████](https://hackerone.com/reports/1050196) to U.S. Dept Of Defense - 5 upvotes, $0
-191. 15-03-2020 [Improper Access Controls Allow PII Leak via ████](https://hackerone.com/reports/819591) to U.S. Dept Of Defense - 5 upvotes, $0
-192. 09-03-2021 [Information Disclosure via ZIP file on AWS Bucket [http://acronis.1.s3.amazonaws.com]](https://hackerone.com/reports/1121771) to Acronis - 5 upvotes, $0
-193. 18-12-2020 [Unauthorized access to PII leads to MASS account Takeover](https://hackerone.com/reports/1061736) to U.S. Dept Of Defense - 5 upvotes, $0
-194. 07-01-2022 [Registered users contact  information disclosure on salesforce lightning endpoint https://disposal.gsa.gov](https://hackerone.com/reports/1443654) to U.S. General Services Administration - 5 upvotes, $0
-195. 04-07-2022 [Broken access discloses users and PII at https://███████ [HtUS]](https://hackerone.com/reports/1624374) to U.S. Dept Of Defense - 5 upvotes, $0
-196. 17-04-2014 [Information Disclosure (Directory Structure)](https://hackerone.com/reports/7930) to Localize - 4 upvotes, $0
-197. 21-04-2014 [Information Disclosure (FPD) - stopthehacker.com](https://hackerone.com/reports/8780) to StopTheHacker - 4 upvotes, $0
-198. 18-03-2016 [Authentication Bypassing and Sensitive Information Disclosure on Verify Email Address in Registration Flow](https://hackerone.com/reports/124151) to Zomato - 4 upvotes, $0
-199. 18-04-2017 [Administrator(s) Information disclosure via JSON on wordpress.org](https://hackerone.com/reports/221734) to WordPress - 4 upvotes, $0
-200. 17-12-2016 [Server side information disclosure on a DoD website](https://hackerone.com/reports/191830) to U.S. Dept Of Defense - 4 upvotes, $0
-201. 04-01-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/195836) to U.S. Dept Of Defense - 4 upvotes, $0
-202. 10-01-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/197055) to U.S. Dept Of Defense - 4 upvotes, $0
-203. 29-11-2016 [Information disclosure vulnerability in a DoD website](https://hackerone.com/reports/186308) to U.S. Dept Of Defense - 4 upvotes, $0
-204. 02-04-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/217747) to U.S. Dept Of Defense - 4 upvotes, $0
-205. 04-03-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/210525) to U.S. Dept Of Defense - 4 upvotes, $0
-206. 24-04-2017 [Open port leads to information disclosure](https://hackerone.com/reports/223421) to Weblate - 4 upvotes, $0
-207. 12-12-2018 [Line feed injection in get request leads AWS S3 Bucket information disclosure ](https://hackerone.com/reports/460928) to RATELIMITED - 4 upvotes, $0
-208. 15-01-2020 [Exposed debug.log file leads to information disclosure](https://hackerone.com/reports/775504) to MariaDB - 4 upvotes, $0
-209. 22-06-2020 [PII Leak via /███████](https://hackerone.com/reports/904659) to U.S. Dept Of Defense - 4 upvotes, $0
-210. 22-06-2020 [PII Leak via /██████](https://hackerone.com/reports/905688) to U.S. Dept Of Defense - 4 upvotes, $0
-211. 10-12-2021 [Wrong settings in ADF Faces leads to information disclosure](https://hackerone.com/reports/1422641) to U.S. Dept Of Defense - 4 upvotes, $0
-212. 08-04-2014 [Security bypass could lead to information disclosure](https://hackerone.com/reports/7803) to Internet Bug Bounty - 3 upvotes, $2000
-213. 30-03-2014 [User Enumeration, Information Disclosure and Lack of Rate Limitation on API](https://hackerone.com/reports/5200) to Coinbase - 3 upvotes, $0
-214. 29-03-2014 [Information Disclosure That shows the webroot of CoinBase Server](https://hackerone.com/reports/5073) to Coinbase - 3 upvotes, $0
-215. 17-04-2014 [Server header - information disclosure ](https://hackerone.com/reports/7914) to Localize - 3 upvotes, $0
-216. 23-06-2014 [CMS Information Disclosure](https://hackerone.com/reports/17297) to Uzbey - 3 upvotes, $0
-217. 18-04-2015 [comment out causes information disclosure](https://hackerone.com/reports/57125) to Shopify - 3 upvotes, $0
-218. 26-05-2016 [node.drchrono.com - Information Disclosure and Windows Host Exposed](https://hackerone.com/reports/141174) to drchrono - 3 upvotes, $0
-219. 18-06-2016 [https://newsletter.nextcloud.com Directory listening and Information Disclosure](https://hackerone.com/reports/145603) to Nextcloud - 3 upvotes, $0
-220. 21-04-2016 [Information Disclosure on lite.uber.com](https://hackerone.com/reports/133375) to Uber - 3 upvotes, $0
-221. 31-10-2016 [Information disclosure of website](https://hackerone.com/reports/179121) to Brave Software - 3 upvotes, $0
-222. 20-12-2016 [Server side information disclosure](https://hackerone.com/reports/192577) to U.S. Dept Of Defense - 3 upvotes, $0
-223. 17-02-2017 [Potentially sensitive information disclosure on a DoD website](https://hackerone.com/reports/207236) to U.S. Dept Of Defense - 3 upvotes, $0
-224. 20-07-2016 [Information disclosure](https://hackerone.com/reports/152499) to Nextcloud - 3 upvotes, $0
-225. 29-11-2016 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/186307) to U.S. Dept Of Defense - 3 upvotes, $0
-226. 23-11-2016 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/184558) to U.S. Dept Of Defense - 3 upvotes, $0
-227. 20-08-2017 [Information disclosure](https://hackerone.com/reports/261817) to Legal Robot - 3 upvotes, $0
-228. 02-12-2017 [Information Disclosure - Composer.lock](https://hackerone.com/reports/294568) to RBKmoney - 3 upvotes, $0
-229. 04-08-2019 [Information disclosure (system username, server info) in the x-amz-meta-s3cmd-attrs response header on data.gov](https://hackerone.com/reports/667032) to GSA Bounty - 3 upvotes, $0
-230. 08-04-2019 [Information Disclosure (phpinfo())](https://hackerone.com/reports/531146) to VK.com - 3 upvotes, $0
-231. 17-06-2020 [PII Leak (such as CAC User ID) at https://████████/pages/login.aspx](https://hackerone.com/reports/900137) to U.S. Dept Of Defense - 3 upvotes, $0
-232. 06-06-2021 [User information disclosed via API](https://hackerone.com/reports/1218461) to U.S. General Services Administration - 3 upvotes, $0
-233. 07-01-2015 [Web Server information disclosure.](https://hackerone.com/reports/42780) to Nearby Live - 2 upvotes, $0
-234. 07-02-2016 [Information Disclosure in Error Page](https://hackerone.com/reports/115219) to Paragon Initiative Enterprises - 2 upvotes, $0
-235. 07-04-2016 [Information disclosure at lite.uber.com](https://hackerone.com/reports/128853) to Uber - 2 upvotes, $0
-236. 29-11-2016 [Information disclosure on a DoD website](https://hackerone.com/reports/186317) to U.S. Dept Of Defense - 2 upvotes, $0
-237. 11-12-2018 [ information disclosure which leak the apache version ](https://hackerone.com/reports/460530) to RATELIMITED - 2 upvotes, $0
-238. 02-03-2019 [Sensitive information disclosure](https://hackerone.com/reports/504122) to 8x8 - 2 upvotes, $0
-239. 10-09-2021 [Information disclosure at '████████' --- CVE-2020-14179](https://hackerone.com/reports/1336397) to U.S. Dept Of Defense - 2 upvotes, $0
-240. 15-07-2015 [No rate limit which leads to "Users information Disclosure" including verfification documents etc.](https://hackerone.com/reports/75702) to Enter - 1 upvotes, $250
-241. 29-05-2014 [information disclosure](https://hackerone.com/reports/13939) to Automattic - 1 upvotes, $0
-242. 22-08-2015 [daily.owncloud.com: Information disclosure](https://hackerone.com/reports/84085) to ownCloud - 1 upvotes, $0
-243. 25-07-2015 [information disclosure](https://hackerone.com/reports/78765) to Udemy - 1 upvotes, $0
-244. 31-07-2016 [User Enumeration and Information Disclosure](https://hackerone.com/reports/155578) to Uber - 1 upvotes, $0
-245. 14-09-2016 [User Information sent to client through websockets](https://hackerone.com/reports/168223) to Instacart - 1 upvotes, $0
-246. 19-04-2017 [Sensitive information disclosure via response headers on jenkins.brew.sh](https://hackerone.com/reports/222063) to Homebrew - 1 upvotes, $0
-247. 18-12-2016 [ Information disclosure in coinbase android app](https://hackerone.com/reports/192197) to Coinbase - 1 upvotes, $0
-248. 15-01-2020 [Sensitive Information disclosure Through Config File](https://hackerone.com/reports/775123) to Kubernetes - 1 upvotes, $0
-249. 14-01-2020 [Configuartion [Sensitive] Information Disclosure](https://hackerone.com/reports/774872) to Kubernetes - 1 upvotes, $0
-250. 29-12-2020 [HackyHolidays 2020 Full Write-up: Information Disclosure of 12 Flags](https://hackerone.com/reports/1068434) to h1-ctf - 1 upvotes, $0
-251. 08-05-2021 [ Information disclosure on Sifchain](https://hackerone.com/reports/1188998) to Sifchain - 1 upvotes, $0
-252. 21-09-2021 [Information disclosure](https://hackerone.com/reports/1347249) to Brave Software - 1 upvotes, $0
-253. 08-11-2021 [Unintended information disclosure in the Hubot Log files](https://hackerone.com/reports/1394399) to Rocket.Chat - 1 upvotes, $0
-254. 18-08-2014 [openssh-server Forced Command Handling Information Disclosure Vulnerability on blog.greenhouse.io](https://hackerone.com/reports/24984) to Greenhouse.io - 0 upvotes, $0
-255. 25-10-2017 [UnResolved ChangeSet are Visible to Public That also Causes Information Disclosure](https://hackerone.com/reports/282843) to WordPress - 0 upvotes, $0
-256. 15-12-2018 [Information Disclosure PHPpgAdmin](https://hackerone.com/reports/463177) to RATELIMITED - 0 upvotes, $0
-257. 07-06-2021 [information disclosure](https://hackerone.com/reports/1218784) to Sifchain - 0 upvotes, $0
-258. 13-05-2021 [Information Disclosure at one of your subdomain](https://hackerone.com/reports/1195423) to Sifchain - 0 upvotes, $0
+72. 15-02-2024 [Broken Access Control (IDOR) in Booking Detail and Bids Could Leads to Sensitive Information Disclosure](https://hackerone.com/reports/2374730) to Bykea - 27 upvotes, $0
+73. 01-06-2016 [Information Disclosure through .DS_Store in ██████████](https://hackerone.com/reports/142549) to X / xAI - 26 upvotes, $560
+74. 06-11-2015 [login to any user's cashier account and full account information disclosure](https://hackerone.com/reports/98247) to Deriv.com - 26 upvotes, $0
+75. 09-10-2020 [CVE-2020-14179 on https://jira.theendlessweb.com/secure/QueryComponent!Default.jspa leads to information disclosure](https://hackerone.com/reports/1003980) to Endless Group - 25 upvotes, $0
+76. 17-01-2014 [Information disclosure (reset password token) and changing the user's password](https://hackerone.com/reports/738) to HackerOne - 24 upvotes, $100
+77. 16-11-2017 [Information Disclosure when /invitations/\<token\>.json is not yet accepted](https://hackerone.com/reports/290930) to HackerOne - 24 upvotes, $0
+78. 02-01-2021 [information disclosure lead to disclose users private notes](https://hackerone.com/reports/1070081) to Automattic - 24 upvotes, $0
+79. 23-08-2017 [Information disclosure (system username) in the x-amz-meta-s3cmd-attrs response header on federation.data.gov](https://hackerone.com/reports/262649) to GSA Bounty - 22 upvotes, $0
+80. 13-01-2022 [Remove Every User, Admin, And Owner Out Of Their Teams on developers.mtn.com via IDOR + Information Disclosure](https://hackerone.com/reports/1448550) to MTN Group - 22 upvotes, $0
+81. 09-04-2025 [Information disclosure on IBM training service endpoint](https://hackerone.com/reports/3051155) to IBM - 22 upvotes, $0
+82. 25-02-2015 [Information disclosure - emails disclosed in response \> staging.seatme.us](https://hackerone.com/reports/49170) to Yelp - 21 upvotes, $0
+83. 02-03-2020 [Information Disclosure in https://www.rockstargames.com/search](https://hackerone.com/reports/808832) to Rockstar Games - 21 upvotes, $0
+84. 14-04-2022 [Information Disclosure Leads To User Data Leak](https://hackerone.com/reports/1541660) to MTN Group - 21 upvotes, $0
+85. 25-09-2023 [Information Disclosure FrontPage Configuration Information](https://hackerone.com/reports/2180018) to U.S. Dept Of Defense - 21 upvotes, $0
+86. 24-08-2022 [Unauthorized Canceling/Unsubscribe TaxJar account & Payment information DIsclosure](https://hackerone.com/reports/1679124) to Stripe - 20 upvotes, $500
+87. 03-07-2019 [HTML injection and information disclosure in support panel](https://hackerone.com/reports/634312) to Weblate - 20 upvotes, $0
+88. 17-02-2021 [critical information disclosure](https://hackerone.com/reports/1106009) to U.S. Dept Of Defense - 20 upvotes, $0
+89. 11-01-2022 [Verification process done using different documents without corresponding to user information / User information can be changed after verification](https://hackerone.com/reports/1446107) to EXNESS - 20 upvotes, $0
+90. 09-07-2022 [Sensitive information disclosure [HtUS]](https://hackerone.com/reports/1632104) to U.S. Dept Of Defense - 20 upvotes, $0
+91. 16-09-2017 [Sensitive Information Disclosure https://cards-dev.twitter.com](https://hackerone.com/reports/268888) to X / xAI - 19 upvotes, $280
+92. 27-07-2016 [Read access to hidden orders,products,customers etc. by limited access Staff member through reference page in Comments (Information disclosure )](https://hackerone.com/reports/154405) to Shopify - 19 upvotes, $0
+93. 29-05-2022 [Information disclosure ( Google Sales Channel )](https://hackerone.com/reports/1584718) to Shopify - 18 upvotes, $500
+94. 26-10-2020 [Information Disclosure of Advertiser Account on TikTok Ads Portal](https://hackerone.com/reports/1018608) to TikTok - 18 upvotes, $0
+95. 29-10-2021 [Information disclosure on error message](https://hackerone.com/reports/1385844) to PortSwigger Web Security - 18 upvotes, $0
+96. 22-01-2021 [[h1-2102] Information disclosure - ShopifyPlus add user displays existing Shopify ID fullname](https://hackerone.com/reports/1083922) to Shopify - 18 upvotes, $0
+97. 03-11-2016 [WordPress DB Class, bad implementation of prepare method guides to sqli and information disclosure](https://hackerone.com/reports/179920) to WordPress - 17 upvotes, $0
+98. 19-12-2017 [Information disclosure when trying to delete an expense's attachment on m.mavenlink.com  ](https://hackerone.com/reports/299334) to Mavenlink - 17 upvotes, $0
+99. 20-11-2017 [Arbitrary file deletion in wp-core - guides towards RCE and information disclosure](https://hackerone.com/reports/291878) to WordPress - 17 upvotes, $0
+100. 12-09-2019 [PII leakage due to scrceenshot of health records](https://hackerone.com/reports/693933) to U.S. Dept Of Defense - 17 upvotes, $0
+101. 15-12-2019 [CORS Misconfiguration on nordvpn.com leading to Private Information Disclosure,Account takeover](https://hackerone.com/reports/758785) to Nord Security - 17 upvotes, $0
+102. 28-09-2018 [PII disclosure -- Past team members & their email ID(personal email) can be viewed by Staff member with no permissions on Partner Dashboard](https://hackerone.com/reports/415622) to Shopify - 16 upvotes, $500
+103. 06-03-2020 [Username Information Disclosure via Json response - Using parameter number Intruder](https://hackerone.com/reports/812351) to Brave Software - 16 upvotes, $0
+104. 19-05-2020 [Blind stored XSS due to insecure contact form at https://www.topcoder.com leads to leakage of session token and other PII](https://hackerone.com/reports/878145) to Lab45 - 16 upvotes, $0
+105. 26-07-2022 [Golang expvar Information Disclosure](https://hackerone.com/reports/1650035) to Uber - 16 upvotes, $0
+106. 22-04-2021 [PII of users can be downloaded from export pages](https://hackerone.com/reports/1172852) to WordPress - 16 upvotes, $0
+107. 02-11-2016 [Information disclosure at https://blockchain.atlassian.net](https://hackerone.com/reports/179599) to Blockchain - 15 upvotes, $100
+108. 08-11-2017 [User Profiles Leak PII in HTML Document for Mobile Browser User Agents](https://hackerone.com/reports/288596) to Zomato - 15 upvotes, $0
+109. 26-02-2020 [Minimal information disclosure of internal asset names and links which were not publicly accessible.](https://hackerone.com/reports/805699) to Starbucks - 15 upvotes, $0
+110. 09-07-2021 [PII data Leakage through hackerone reports ](https://hackerone.com/reports/1256371) to HackerOne - 15 upvotes, $0
+111. 11-10-2016 [Information Disclosure on stun.screenhero.com](https://hackerone.com/reports/175061) to Slack - 14 upvotes, $700
+112. 29-06-2018 [PII leakage due to caching of Order/Contract ID's on █████████](https://hackerone.com/reports/374007) to U.S. Dept Of Defense - 14 upvotes, $0
+113. 20-02-2020 [Sensitive Information Disclosure on https://nordvpn.com/](https://hackerone.com/reports/801197) to Nord Security - 14 upvotes, $0
+114. 02-09-2022 [IDOR leaking PII data via VendorId parameter](https://hackerone.com/reports/1690044) to U.S. Dept Of Defense - 14 upvotes, $0
+115. 16-07-2019 [PII leakage-Full SSN on ███](https://hackerone.com/reports/644358) to U.S. Dept Of Defense - 13 upvotes, $0
+116. 19-12-2019 [Information Disclosure FrontPage Configuration Information /_vti_inf.html in https://www.mtn.co.za/](https://hackerone.com/reports/761617) to MTN Group - 13 upvotes, $0
+117. 10-06-2019 [[information disclosure] Validate existence of a private project.](https://hackerone.com/reports/605608) to GitLab - 13 upvotes, $0
+118. 17-10-2020 [Request Access for Uber Device Returns Management Platform (https://www.eats-devicereturns.com/request-access/) Bypass Allows Access to PII](https://hackerone.com/reports/1010787) to Uber - 13 upvotes, $0
+119. 25-06-2022 [Non-revoked API Key Information disclosure via Stripo_report()](https://hackerone.com/reports/1613714) to Stripo Inc - 13 upvotes, $0
+120. 04-01-2023 [[U.S. Air Force] Information disclosure due unauthenticated access to APIs and system browser functions](https://hackerone.com/reports/1822160) to U.S. Dept Of Defense - 13 upvotes, $0
+121. 27-09-2016 [Information Disclosure on rate limit defense mechanism](https://hackerone.com/reports/172296) to Legal Robot - 12 upvotes, $0
+122. 13-10-2020 [PII Leak of USCG Designated Examiner List at https://www.███](https://hackerone.com/reports/1007702) to U.S. Dept Of Defense - 12 upvotes, $0
+123. 07-01-2021 [IDOR at https://fast.trychameleon.com/observe/v2/profiles/ via uid parameter discloses users' PII data](https://hackerone.com/reports/1073420) to Lab45 - 12 upvotes, $0
+124. 18-09-2020 [GraphQL Query leads to sensitive information disclosure](https://hackerone.com/reports/985124) to GitLab - 12 upvotes, $0
+125. 04-05-2021 [Cross-origin resource sharing misconfig | steal user information ](https://hackerone.com/reports/1183601) to UPchieve - 12 upvotes, $0
+126. 17-02-2022 [Account takeover leading to PII chained with stored XSS](https://hackerone.com/reports/1483201) to U.S. General Services Administration - 12 upvotes, $0
+127. 10-11-2021 [Sensitive Information Disclosure Through Config File](https://hackerone.com/reports/1397788) to MTN Group - 12 upvotes, $0
+128. 21-05-2022 [Sensitive Information Disclosure](https://hackerone.com/reports/1577793) to Trellix - 12 upvotes, $0
+129. 13-10-2017 [Information Disclosure and Privilege Escalation in app.goodhire.com/member/developers/api-settings](https://hackerone.com/reports/276976) to Inflection - 11 upvotes, $0
+130. 01-07-2021 [Information Disclosure on TikTok Unplugged Site](https://hackerone.com/reports/1249050) to TikTok - 11 upvotes, $0
+131. 08-04-2023 [AEM misconfiguration leads to Information disclosure](https://hackerone.com/reports/1939272) to U.S. Dept Of Defense - 11 upvotes, $0
+132. 26-08-2016 [Information Disclosure in AWS S3 Bucket](https://hackerone.com/reports/163476) to Legal Robot - 10 upvotes, $0
+133. 10-10-2020 [View another user information with IDOR vulnerability ](https://hackerone.com/reports/1004745) to U.S. Dept Of Defense - 10 upvotes, $0
+134. 18-02-2021 [critical information disclosure](https://hackerone.com/reports/1106505) to U.S. Dept Of Defense - 10 upvotes, $0
+135. 14-05-2021 [Information Disclosure on https://rpc.sifchain.finance/](https://hackerone.com/reports/1197035) to Sifchain - 10 upvotes, $0
+136. 04-06-2016 [Information Disclosure](https://hackerone.com/reports/143064) to drchrono - 9 upvotes, $0
+137. 26-08-2016 [User Information leak allows user to bypass email verification.](https://hackerone.com/reports/163467) to Legal Robot - 9 upvotes, $0
+138. 22-10-2016 [Information disclosure via policy update notifications after removal from program](https://hackerone.com/reports/177484) to HackerOne - 9 upvotes, $0
+139. 04-12-2016 [Personal information disclosure on a DoD website](https://hackerone.com/reports/188149) to U.S. Dept Of Defense - 9 upvotes, $0
+140. 12-01-2017 [User Information Disclosure via REST API](https://hackerone.com/reports/197786) to ownCloud - 9 upvotes, $0
+141. 02-03-2020 [PII Leak via https://████████](https://hackerone.com/reports/808338) to U.S. Dept Of Defense - 9 upvotes, $0
+142. 08-12-2024 [massive PII  leakage for ███████](https://hackerone.com/reports/2887506) to Mars - 9 upvotes, $0
+143. 21-05-2015 [Flash Player information disclosure (etc.) CVE-2015-3044, PSIRT-3298](https://hackerone.com/reports/63324) to Internet Bug Bounty - 8 upvotes, $2000
+144. 12-02-2016 [Private program activity timeline information disclosure](https://hackerone.com/reports/116029) to HackerOne - 8 upvotes, $0
+145. 26-08-2016 [User Information sent to client through websockets](https://hackerone.com/reports/163464) to Legal Robot - 8 upvotes, $0
+146. 12-01-2017 [User Information Disclosure via REST API](https://hackerone.com/reports/197877) to Nextcloud - 8 upvotes, $0
+147. 11-05-2018 [Information disclosure](https://hackerone.com/reports/350432) to HackerOne - 8 upvotes, $0
+148. 12-12-2020 [PII Information Leak at https://████████.mil/](https://hackerone.com/reports/1057269) to U.S. Dept Of Defense - 8 upvotes, $0
+149. 22-06-2020 [PII Leak via /████████](https://hackerone.com/reports/905679) to U.S. Dept Of Defense - 8 upvotes, $0
+150. 22-12-2021 [Information disclosure through django debug mode](https://hackerone.com/reports/1434276) to MTN Group - 8 upvotes, $0
+151. 03-09-2022 [Authentication bypass leads to Information Disclosure at  U.S Air Force "https://███"](https://hackerone.com/reports/1690548) to U.S. Dept Of Defense - 8 upvotes, $0
+152. 06-04-2023 [LDAP Server NULL Bind Connection Information Disclosure](https://hackerone.com/reports/1937235) to U.S. Dept Of Defense - 8 upvotes, $0
+153. 12-07-2017 [Information disclosure same issue #176002](https://hackerone.com/reports/248599) to Coinbase - 7 upvotes, $100
+154. 08-12-2016 [Information disclosure on a DoD website](https://hackerone.com/reports/189414) to U.S. Dept Of Defense - 7 upvotes, $0
+155. 08-12-2016 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/189458) to U.S. Dept Of Defense - 7 upvotes, $0
+156. 21-01-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/200125) to U.S. Dept Of Defense - 7 upvotes, $0
+157. 22-11-2016 [Information disclosure on a DoD website](https://hackerone.com/reports/184076) to U.S. Dept Of Defense - 7 upvotes, $0
+158. 13-12-2018 [Information Disclosure on https://theendlessweb.com/](https://hackerone.com/reports/461598) to RATELIMITED - 7 upvotes, $0
+159. 23-01-2019 [Information Disclosure (can access all ███s) within ███████ view █████████ Portal](https://hackerone.com/reports/484377) to U.S. Dept Of Defense - 7 upvotes, $0
+160. 21-01-2017 [Critical information disclosure at https://█████████](https://hackerone.com/reports/200079) to U.S. Dept Of Defense - 7 upvotes, $0
+161. 25-01-2020 [Information disclosure through Server side resource forgery](https://hackerone.com/reports/782979) to Stripo Inc - 7 upvotes, $0
+162. 21-08-2020 [Information Disclosure through DEBUG at Subscription [https://app.dropcontact.io/app/subscription?connector=salesforce](CRITICAL)](https://hackerone.com/reports/963921) to Dropcontact - 7 upvotes, $0
+163. 08-01-2021 [Bypassed a fix to gain access to PII of more than 100 Officers](https://hackerone.com/reports/1074136) to U.S. Dept Of Defense - 7 upvotes, $0
+164. 05-04-2021 [████████ portal is open to enumeration once authenticated.  Session ID's appear static.  All PII available once a valid session ID is found.](https://hackerone.com/reports/1150573) to U.S. Dept Of Defense - 7 upvotes, $0
+165. 23-02-2022 [Authorization bypass -\> IDOR -\> PII Leakage](https://hackerone.com/reports/1489470) to U.S. Dept Of Defense - 7 upvotes, $0
+166. 02-03-2015 [Twitter Ads Campaign information disclosure through admin without any authentication.](https://hackerone.com/reports/49806) to X / xAI - 6 upvotes, $560
+167. 25-06-2014 [Information Disclosure (phpinfo())](https://hackerone.com/reports/17514) to Uzbey - 6 upvotes, $0
+168. 15-10-2016 [Information disclosure of user by email using buy widget](https://hackerone.com/reports/176002) to Coinbase - 6 upvotes, $0
+169. 18-05-2017 [Information Disclosure on demo.weblate.org](https://hackerone.com/reports/229620) to Weblate - 6 upvotes, $0
+170. 05-05-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/226427) to U.S. Dept Of Defense - 6 upvotes, $0
+171. 06-03-2018 [Information disclosure through search engines (password reset token)](https://hackerone.com/reports/322988) to Upserve  - 6 upvotes, $0
+172. 01-07-2018 [Partial PII leakage due to public set gitlab](https://hackerone.com/reports/375091) to U.S. Dept Of Defense - 6 upvotes, $0
+173. 02-04-2019 [Email PII disclosure due to Insecure Password Reset field](https://hackerone.com/reports/520842) to U.S. Dept Of Defense - 6 upvotes, $0
+174. 02-01-2020 [Information Disclosure Microsoft IIS Server service.cnf in a mtn website](https://hackerone.com/reports/767066) to MTN Group - 6 upvotes, $0
+175. 09-05-2020 [Support incident can be opened for any user via /███████ and PII leak via █████████ field](https://hackerone.com/reports/869450) to U.S. Dept Of Defense - 6 upvotes, $0
+176. 27-05-2020 [Information Disclosure(PHPINFO/Credentials) on DoD Asset](https://hackerone.com/reports/883693) to U.S. Dept Of Defense - 6 upvotes, $0
+177. 04-02-2021 [CRXDE Lite/CRX is on ██████ exposed that leads to PII disclosure](https://hackerone.com/reports/1095830) to U.S. Dept Of Defense - 6 upvotes, $0
+178. 13-02-2021 [bypassing dashboard without account + Information disclosure trough websockets ](https://hackerone.com/reports/1102780) to Nextcloud - 6 upvotes, $0
+179. 06-07-2022 [Unauthenticated PII leak on verified/requested to be verified profiles on ███████/app/org/{id}/profile/{id}/version/{id} [HtUS]](https://hackerone.com/reports/1627962) to U.S. Dept Of Defense - 6 upvotes, $0
+180. 10-04-2016 [reopen #128853 (Information disclosure at lite.uber.com)](https://hackerone.com/reports/129712) to Uber - 5 upvotes, $0
+181. 24-08-2016 [Information Disclosure of .htaccess file in Private Server/Subdomain](https://hackerone.com/reports/163106) to Nextcloud - 5 upvotes, $0
+182. 03-02-2015 [Directory index and information disclosure](https://hackerone.com/reports/46345) to Whisper - 5 upvotes, $0
+183. 18-04-2017 [The special code in editor has no Authority control and can lead to Information Disclosure](https://hackerone.com/reports/221950) to Phabricator - 5 upvotes, $0
+184. 07-01-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/196482) to U.S. Dept Of Defense - 5 upvotes, $0
+185. 04-01-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/195638) to U.S. Dept Of Defense - 5 upvotes, $0
+186. 04-01-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/195636) to U.S. Dept Of Defense - 5 upvotes, $0
+187. 29-11-2016 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/186530) to U.S. Dept Of Defense - 5 upvotes, $0
+188. 05-09-2017 [Possible to join any class without coache's knowledge & Little Information Disclosure](https://hackerone.com/reports/266090) to Khan Academy - 5 upvotes, $0
+189. 07-02-2018 [Information Disclosure which violate program privacy](https://hackerone.com/reports/313075) to HackerOne - 5 upvotes, $0
+190. 07-02-2017 [[informatica.com]- Information Disclosure ](https://hackerone.com/reports/204239) to Informatica - 5 upvotes, $0
+191. 03-12-2020 [PII Leak of ████████ Personal at  https://www.█████████](https://hackerone.com/reports/1050196) to U.S. Dept Of Defense - 5 upvotes, $0
+192. 15-03-2020 [Improper Access Controls Allow PII Leak via ████](https://hackerone.com/reports/819591) to U.S. Dept Of Defense - 5 upvotes, $0
+193. 09-03-2021 [Information Disclosure via ZIP file on AWS Bucket [http://acronis.1.s3.amazonaws.com]](https://hackerone.com/reports/1121771) to Acronis - 5 upvotes, $0
+194. 18-12-2020 [Unauthorized access to PII leads to MASS account Takeover](https://hackerone.com/reports/1061736) to U.S. Dept Of Defense - 5 upvotes, $0
+195. 07-01-2022 [Registered users contact  information disclosure on salesforce lightning endpoint https://disposal.gsa.gov](https://hackerone.com/reports/1443654) to U.S. General Services Administration - 5 upvotes, $0
+196. 04-07-2022 [Broken access discloses users and PII at https://███████ [HtUS]](https://hackerone.com/reports/1624374) to U.S. Dept Of Defense - 5 upvotes, $0
+197. 17-04-2014 [Information Disclosure (Directory Structure)](https://hackerone.com/reports/7930) to Localize - 4 upvotes, $0
+198. 21-04-2014 [Information Disclosure (FPD) - stopthehacker.com](https://hackerone.com/reports/8780) to StopTheHacker - 4 upvotes, $0
+199. 18-03-2016 [Authentication Bypassing and Sensitive Information Disclosure on Verify Email Address in Registration Flow](https://hackerone.com/reports/124151) to Zomato - 4 upvotes, $0
+200. 18-04-2017 [Administrator(s) Information disclosure via JSON on wordpress.org](https://hackerone.com/reports/221734) to WordPress - 4 upvotes, $0
+201. 17-12-2016 [Server side information disclosure on a DoD website](https://hackerone.com/reports/191830) to U.S. Dept Of Defense - 4 upvotes, $0
+202. 04-01-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/195836) to U.S. Dept Of Defense - 4 upvotes, $0
+203. 10-01-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/197055) to U.S. Dept Of Defense - 4 upvotes, $0
+204. 29-11-2016 [Information disclosure vulnerability in a DoD website](https://hackerone.com/reports/186308) to U.S. Dept Of Defense - 4 upvotes, $0
+205. 02-04-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/217747) to U.S. Dept Of Defense - 4 upvotes, $0
+206. 04-03-2017 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/210525) to U.S. Dept Of Defense - 4 upvotes, $0
+207. 24-04-2017 [Open port leads to information disclosure](https://hackerone.com/reports/223421) to Weblate - 4 upvotes, $0
+208. 12-12-2018 [Line feed injection in get request leads AWS S3 Bucket information disclosure ](https://hackerone.com/reports/460928) to RATELIMITED - 4 upvotes, $0
+209. 15-01-2020 [Exposed debug.log file leads to information disclosure](https://hackerone.com/reports/775504) to MariaDB - 4 upvotes, $0
+210. 22-06-2020 [PII Leak via /███████](https://hackerone.com/reports/904659) to U.S. Dept Of Defense - 4 upvotes, $0
+211. 22-06-2020 [PII Leak via /██████](https://hackerone.com/reports/905688) to U.S. Dept Of Defense - 4 upvotes, $0
+212. 10-12-2021 [Wrong settings in ADF Faces leads to information disclosure](https://hackerone.com/reports/1422641) to U.S. Dept Of Defense - 4 upvotes, $0
+213. 08-04-2014 [Security bypass could lead to information disclosure](https://hackerone.com/reports/7803) to Internet Bug Bounty - 3 upvotes, $2000
+214. 30-03-2014 [User Enumeration, Information Disclosure and Lack of Rate Limitation on API](https://hackerone.com/reports/5200) to Coinbase - 3 upvotes, $0
+215. 29-03-2014 [Information Disclosure That shows the webroot of CoinBase Server](https://hackerone.com/reports/5073) to Coinbase - 3 upvotes, $0
+216. 17-04-2014 [Server header - information disclosure ](https://hackerone.com/reports/7914) to Localize - 3 upvotes, $0
+217. 23-06-2014 [CMS Information Disclosure](https://hackerone.com/reports/17297) to Uzbey - 3 upvotes, $0
+218. 18-04-2015 [comment out causes information disclosure](https://hackerone.com/reports/57125) to Shopify - 3 upvotes, $0
+219. 26-05-2016 [node.drchrono.com - Information Disclosure and Windows Host Exposed](https://hackerone.com/reports/141174) to drchrono - 3 upvotes, $0
+220. 18-06-2016 [https://newsletter.nextcloud.com Directory listening and Information Disclosure](https://hackerone.com/reports/145603) to Nextcloud - 3 upvotes, $0
+221. 21-04-2016 [Information Disclosure on lite.uber.com](https://hackerone.com/reports/133375) to Uber - 3 upvotes, $0
+222. 31-10-2016 [Information disclosure of website](https://hackerone.com/reports/179121) to Brave Software - 3 upvotes, $0
+223. 20-12-2016 [Server side information disclosure](https://hackerone.com/reports/192577) to U.S. Dept Of Defense - 3 upvotes, $0
+224. 17-02-2017 [Potentially sensitive information disclosure on a DoD website](https://hackerone.com/reports/207236) to U.S. Dept Of Defense - 3 upvotes, $0
+225. 20-07-2016 [Information disclosure](https://hackerone.com/reports/152499) to Nextcloud - 3 upvotes, $0
+226. 29-11-2016 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/186307) to U.S. Dept Of Defense - 3 upvotes, $0
+227. 23-11-2016 [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/184558) to U.S. Dept Of Defense - 3 upvotes, $0
+228. 20-08-2017 [Information disclosure](https://hackerone.com/reports/261817) to Legal Robot - 3 upvotes, $0
+229. 02-12-2017 [Information Disclosure - Composer.lock](https://hackerone.com/reports/294568) to RBKmoney - 3 upvotes, $0
+230. 04-08-2019 [Information disclosure (system username, server info) in the x-amz-meta-s3cmd-attrs response header on data.gov](https://hackerone.com/reports/667032) to GSA Bounty - 3 upvotes, $0
+231. 08-04-2019 [Information Disclosure (phpinfo())](https://hackerone.com/reports/531146) to VK.com - 3 upvotes, $0
+232. 17-06-2020 [PII Leak (such as CAC User ID) at https://████████/pages/login.aspx](https://hackerone.com/reports/900137) to U.S. Dept Of Defense - 3 upvotes, $0
+233. 06-06-2021 [User information disclosed via API](https://hackerone.com/reports/1218461) to U.S. General Services Administration - 3 upvotes, $0
+234. 07-01-2015 [Web Server information disclosure.](https://hackerone.com/reports/42780) to Nearby Live - 2 upvotes, $0
+235. 07-02-2016 [Information Disclosure in Error Page](https://hackerone.com/reports/115219) to Paragon Initiative Enterprises - 2 upvotes, $0
+236. 07-04-2016 [Information disclosure at lite.uber.com](https://hackerone.com/reports/128853) to Uber - 2 upvotes, $0
+237. 29-11-2016 [Information disclosure on a DoD website](https://hackerone.com/reports/186317) to U.S. Dept Of Defense - 2 upvotes, $0
+238. 11-12-2018 [ information disclosure which leak the apache version ](https://hackerone.com/reports/460530) to RATELIMITED - 2 upvotes, $0
+239. 02-03-2019 [Sensitive information disclosure](https://hackerone.com/reports/504122) to 8x8 - 2 upvotes, $0
+240. 10-09-2021 [Information disclosure at '████████' --- CVE-2020-14179](https://hackerone.com/reports/1336397) to U.S. Dept Of Defense - 2 upvotes, $0
+241. 15-07-2015 [No rate limit which leads to "Users information Disclosure" including verfification documents etc.](https://hackerone.com/reports/75702) to Enter - 1 upvotes, $250
+242. 29-05-2014 [information disclosure](https://hackerone.com/reports/13939) to Automattic - 1 upvotes, $0
+243. 22-08-2015 [daily.owncloud.com: Information disclosure](https://hackerone.com/reports/84085) to ownCloud - 1 upvotes, $0
+244. 25-07-2015 [information disclosure](https://hackerone.com/reports/78765) to Udemy - 1 upvotes, $0
+245. 31-07-2016 [User Enumeration and Information Disclosure](https://hackerone.com/reports/155578) to Uber - 1 upvotes, $0
+246. 14-09-2016 [User Information sent to client through websockets](https://hackerone.com/reports/168223) to Instacart - 1 upvotes, $0
+247. 19-04-2017 [Sensitive information disclosure via response headers on jenkins.brew.sh](https://hackerone.com/reports/222063) to Homebrew - 1 upvotes, $0
+248. 18-12-2016 [ Information disclosure in coinbase android app](https://hackerone.com/reports/192197) to Coinbase - 1 upvotes, $0
+249. 15-01-2020 [Sensitive Information disclosure Through Config File](https://hackerone.com/reports/775123) to Kubernetes - 1 upvotes, $0
+250. 14-01-2020 [Configuartion [Sensitive] Information Disclosure](https://hackerone.com/reports/774872) to Kubernetes - 1 upvotes, $0
+251. 29-12-2020 [HackyHolidays 2020 Full Write-up: Information Disclosure of 12 Flags](https://hackerone.com/reports/1068434) to h1-ctf - 1 upvotes, $0
+252. 08-05-2021 [ Information disclosure on Sifchain](https://hackerone.com/reports/1188998) to Sifchain - 1 upvotes, $0
+253. 21-09-2021 [Information disclosure](https://hackerone.com/reports/1347249) to Brave Software - 1 upvotes, $0
+254. 08-11-2021 [Unintended information disclosure in the Hubot Log files](https://hackerone.com/reports/1394399) to Rocket.Chat - 1 upvotes, $0
+255. 18-08-2014 [openssh-server Forced Command Handling Information Disclosure Vulnerability on blog.greenhouse.io](https://hackerone.com/reports/24984) to Greenhouse.io - 0 upvotes, $0
+256. 25-10-2017 [UnResolved ChangeSet are Visible to Public That also Causes Information Disclosure](https://hackerone.com/reports/282843) to WordPress - 0 upvotes, $0
+257. 15-12-2018 [Information Disclosure PHPpgAdmin](https://hackerone.com/reports/463177) to RATELIMITED - 0 upvotes, $0
+258. 07-06-2021 [information disclosure](https://hackerone.com/reports/1218784) to Sifchain - 0 upvotes, $0
+259. 13-05-2021 [Information Disclosure at one of your subdomain](https://hackerone.com/reports/1195423) to Sifchain - 0 upvotes, $0
